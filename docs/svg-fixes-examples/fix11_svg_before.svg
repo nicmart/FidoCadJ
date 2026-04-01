@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="188.0" height="224.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<g transform="translate(148.0,52.0) scale(-1.2954545454545454,1) "><text x="0.0" y="16.0" font-family="Courier New" font-size="16.0" font-style="" font-weigth="" fill="#000000">Mirrored</text>
+</g>
+<g transform="translate(148.0,132.0) rotate(-90.0)  scale(1.2954545454545454,1) "><text x="0.0" y="16.0" font-family="Courier New" font-size="16.0" font-style="" font-weigth="" fill="#000000">Rotated90</text>
+</g>
+<g transform="translate(148.0,212.0) rotate(-180.0)  scale(1.2954545454545454,1) "><text x="0.0" y="16.0" font-family="Courier New" font-size="16.0" font-style="" font-weigth="" fill="#000000">Rotated180</text>
+</g>
+</svg>
