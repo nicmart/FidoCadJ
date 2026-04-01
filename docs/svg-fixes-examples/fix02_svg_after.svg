@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
 <!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
-<svg width="344.0" height="104.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="688.0" height="208.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
-<line x1="12.0" y1="12.0" x2="92.0" y2="92.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:2.0;stroke-linejoin:round;stroke-linecap:round;fill-rule: nonzero;" fill="none"/>
-<line x1="92.0" y1="92.0" x2="172.0" y2="12.0" style="stroke:#000000;stroke-width:2.0;stroke-linejoin:round;stroke-linecap:round;fill-rule: nonzero;" fill="none"/>
-<line x1="172.0" y1="12.0" x2="252.0" y2="92.0" style="stroke:#000000;stroke-width:2.0;stroke-linejoin:round;stroke-linecap:round;fill-rule: nonzero;" fill="none"/>
-<line x1="252.0" y1="92.0" x2="332.0" y2="12.0" style="stroke:#000000;stroke-width:2.0;stroke-linejoin:round;stroke-linecap:round;fill-rule: nonzero;" fill="none"/>
+<line x1="24.0" y1="184.0" x2="184.0" y2="24.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:4.0;stroke-linejoin:round;stroke-linecap:round;fill-rule: nonzero;" fill="none"/>
+<line x1="184.0" y1="24.0" x2="344.0" y2="184.0" style="stroke:#000000;stroke-width:4.0;stroke-linejoin:round;stroke-linecap:round;fill-rule: nonzero;" fill="none"/>
+<line x1="344.0" y1="184.0" x2="504.0" y2="24.0" style="stroke:#000000;stroke-width:4.0;stroke-linejoin:round;stroke-linecap:round;fill-rule: nonzero;" fill="none"/>
+<line x1="504.0" y1="24.0" x2="664.0" y2="184.0" style="stroke:#000000;stroke-width:4.0;stroke-linejoin:round;stroke-linecap:round;fill-rule: nonzero;" fill="none"/>
 </svg>
