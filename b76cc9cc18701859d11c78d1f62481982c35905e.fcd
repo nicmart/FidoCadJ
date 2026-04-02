@@ -1,0 +1,122 @@
+[FIDOCAD]
+FJC B 0.5
+MC 70 80 1 0 ey_libraries.didled0
+MC 90 80 1 1 ey_libraries.didled0
+LI 70 75 90 75 0
+MC 55 80 3 0 ey_libraries.diddid0
+FCJ
+TY 65 90 2 2 0 0 0 Verdana 
+TY 35 70 2 2 0 0 0 Verdana 1N4148
+MC 105 80 3 0 ey_libraries.diddid0
+FCJ
+TY 115 90 2 2 0 0 0 Verdana 
+TY 110 70 2 2 0 0 0 Verdana 1N4148
+LI 80 75 80 65 0
+LI 70 90 50 90 0
+LI 55 90 55 85 0
+LI 55 70 55 65 0
+LI 55 65 105 65 0
+LI 105 65 105 70 0
+LI 105 85 105 90 0
+LI 115 90 90 90 0
+SA 80 75 0
+SA 80 65 0
+MC 115 90 0 0 ey_libraries.refpnt0
+MC 45 90 2 0 ey_libraries.pasres0
+FCJ
+TY 40 100 2 2 0 0 0 Verdana 
+TY 40 95 2 2 0 0 0 Verdana 680 Ω
+SA 55 90 0
+SA 105 90 0
+MC 20 90 0 0 ey_libraries.refpnt3
+FCJ
+TY 40 95 2 2 0 0 0 Verdana 
+TY 20 80 2 2 0 0 0 Verdana ± 12 V
+LI 25 90 35 90 0
+LI 105 120 105 125 0
+MC 90 140 3 0 ey_libraries.didled0
+MC 70 140 3 1 ey_libraries.didled0
+LI 70 130 90 130 0
+MC 55 130 1 0 ey_libraries.diddid0
+FCJ
+TY 45 120 2 2 0 0 0 Verdana 
+TY 35 125 2 2 0 0 0 Verdana 1N4148
+MC 105 130 1 0 ey_libraries.diddid0
+FCJ
+TY 95 125 2 2 0 0 0 Verdana 
+TY 110 125 2 2 0 0 0 Verdana 1N4148
+LI 80 130 80 120 0
+LI 70 145 50 145 0
+LI 55 145 55 140 0
+LI 55 125 55 120 0
+LI 55 120 105 120 0
+MC 115 145 0 0 ey_libraries.refpnt0
+LI 105 140 105 145 0
+LI 115 145 90 145 0
+SA 80 130 0
+SA 80 120 0
+LI 25 145 35 145 0
+MC 45 145 2 0 ey_libraries.pasres0
+FCJ
+TY 40 155 2 2 0 0 0 Verdana 
+TY 40 150 2 2 0 0 0 Verdana 680 Ω
+SA 55 145 0
+SA 105 145 0
+MC 20 145 0 0 ey_libraries.refpnt3
+FCJ
+TY 40 150 2 2 0 0 0 Verdana 
+TY 20 135 2 2 0 0 0 Verdana ± 12 V
+LI 60 25 50 25 0
+MC 115 25 0 0 ey_libraries.refpnt0
+LI 115 25 100 25 0
+LI 25 25 35 25 0
+MC 45 25 2 0 ey_libraries.pasres0
+FCJ
+TY 40 35 2 2 0 0 0 Verdana 
+TY 40 30 2 2 0 0 0 Verdana 680 Ω
+MC 20 25 0 0 ey_libraries.refpnt3
+FCJ
+TY 40 30 2 2 0 0 0 Verdana 
+TY 20 15 2 2 0 0 0 Verdana ± 12 V
+MC 70 35 2 0 ey_libraries.didid1
+FCJ
+TY 60 30 2 2 0 0 0 Verdana 
+TY 55 40 2 2 0 0 0 Verdana 1N4148
+MC 90 15 2 0 ey_libraries.didid1
+FCJ
+TY 80 10 2 2 0 0 0 Verdana 
+TY 95 5 2 2 0 0 0 Verdana 1N4148
+MC 90 35 3 0 ey_libraries.didid1
+FCJ
+TY 100 40 2 2 0 0 0 Verdana 
+TY 95 40 2 2 0 0 0 Verdana 1N4148
+MC 70 15 3 0 ey_libraries.didid1
+FCJ
+TY 80 20 2 2 0 0 0 Verdana 
+TY 55 5 2 2 0 0 0 Verdana 1N4148
+MC 80 20 1 0 ey_libraries.didled0
+FCJ
+TY 90 25 2 2 0 0 0 Verdana 
+TY 70 25 2 2 0 0 0 Verdana LED
+LI 75 10 80 5 0
+LI 80 5 85 10 0
+LI 95 20 100 25 0
+LI 100 25 95 30 0
+LI 85 40 80 45 0
+LI 80 45 75 40 0
+LI 65 30 60 25 0
+LI 60 25 65 20 0
+LI 80 15 80 5 0
+LI 80 30 80 45 0
+SA 80 5 0
+SA 80 45 0
+SA 100 25 0
+SA 60 25 0
+RV 65 125 95 150 3
+FCJ 3 1
+TY 65 151 2 2 0 0 3 Verdana led bicolore
+TY 65 155 2 2 0 0 3 Verdana a catodo comune
+RV 65 70 95 95 3
+FCJ 3 1
+TY 65 96 2 2 0 0 3 Verdana led bicolore
+TY 65 100 2 2 0 0 3 Verdana ad anodo comune

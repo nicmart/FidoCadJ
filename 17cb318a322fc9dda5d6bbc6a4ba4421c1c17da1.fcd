@@ -1,0 +1,137 @@
+[FIDOCAD]
+FJC B 0.5
+MC 40 75 0 0 ey_libraries.trnbjt0
+MC 60 75 0 1 ey_libraries.trnbjt0
+MC 50 50 1 0 ey_libraries.pasres0
+LI 45 70 55 70 0
+LI 50 60 50 70 0
+TY 45 40 4 3 0 0 0 * 110 V
+MC 50 80 0 0 ey_libraries.refpnt4
+TY 15 70 4 3 0 0 0 * Input
+TY 55 50 4 3 0 0 0 * R410
+MC 45 165 1 0 ey_libraries.diddid0
+MC 45 180 1 0 ey_libraries.pasres0
+LI 45 80 45 95 0
+MC 75 160 0 0 ey_libraries.trnbjt1
+LI 45 160 70 160 0
+SA 45 160 0
+MC 80 170 1 0 ey_libraries.pasres0
+LI 45 190 80 190 0
+LI 80 190 80 180 0
+MC 80 50 1 0 ey_libraries.pasres0
+MC 80 65 1 0 ey_libraries.diddid0
+MC 80 145 1 0 ey_libraries.diddid0
+LI 50 45 80 45 0
+TY 85 50 4 3 0 0 0 * R402
+MC 100 155 0 0 ey_libraries.trnbjt0
+MC 100 60 0 0 ey_libraries.trnbjt1
+MC 85 190 0 0 ey_libraries.pasres0
+SA 80 190 0
+TY 80 195 4 3 0 0 0 * R420
+LI 95 60 80 60 0
+LI 95 155 80 155 0
+SA 80 60 0
+SA 80 155 0
+SA 50 70 0
+MC 105 170 1 0 ey_libraries.pasres0
+LI 105 45 105 55 0
+TY 210 40 4 3 0 0 0 * 42 V
+LI 105 180 105 190 0
+LI 105 190 95 190 0
+MC 105 140 1 0 ey_libraries.diddid0
+MC 105 70 1 0 ey_libraries.pasres0
+LI 105 65 120 65 0
+TY 205 190 4 3 0 0 0 * - 42 V
+LI 105 160 105 165 0
+LI 105 165 145 165 0
+LI 120 65 145 65 0
+SA 105 165 0
+TY 65 70 4 3 0 0 0 * Feedback
+TY 110 70 4 3 0 0 0 * R430
+TY 85 65 4 3 0 0 0 * D404
+TY 85 145 4 3 0 0 0 * D414
+TY 25 165 4 3 0 0 0 * D402
+TY 25 180 4 3 0 0 0 * R414
+TY 85 170 4 3 0 0 0 * R416
+TY 110 175 4 3 0 0 0 * R448
+TY 55 65 4 3 0 0 0 * Q404
+TY 30 65 4 3 0 0 0 * Q402
+TY 80 160 4 3 0 0 0 * Q406
+TY 110 55 4 3 0 0 0 * Q412
+TY 105 155 4 3 0 0 0 * Q414
+TY 110 140 4 3 0 0 0 * D416
+MC 210 65 0 0 ey_libraries.trnbjt1
+MC 210 165 0 0 ey_libraries.trnbjt1
+MC 170 45 0 0 ey_libraries.pasres0
+LI 105 45 165 45 0
+LI 180 45 215 45 0
+LI 215 45 215 60 0
+TY 170 35 4 3 0 0 0 * R438
+MC 215 95 1 0 ey_libraries.pasres0
+MC 215 120 1 0 ey_libraries.pasres0
+LI 215 155 215 160 0
+LI 215 70 215 90 0
+LI 215 110 90 110 0
+LI 105 135 105 110 0
+SA 105 110 0
+SA 215 110 0
+LI 105 80 105 110 0
+SA 105 65 0
+LI 145 65 205 65 0
+LI 145 165 205 165 0
+LI 105 190 215 190 0
+LI 215 190 215 170 0
+SA 105 190 0
+MC 140 85 0 1 ey_libraries.trnbjt1
+MC 140 130 0 1 ey_libraries.trnbjt0
+MC 165 85 2 0 ey_libraries.diddid0
+MC 160 130 0 0 ey_libraries.diddid0
+LI 215 105 215 115 0
+LI 215 130 215 155 0
+LI 170 85 215 85 0
+LI 170 130 215 130 0
+MC 155 90 1 0 ey_libraries.pasres0
+MC 155 120 1 0 ey_libraries.pasres0
+LI 145 85 155 85 0
+LI 155 100 155 115 0
+LI 135 90 135 125 0
+SA 155 85 0
+SA 155 110 0
+SA 155 130 0
+SA 135 110 0
+LI 160 130 145 130 0
+SA 215 85 0
+SA 215 130 0
+MC 125 80 0 0 ey_libraries.diddid0
+MC 130 135 2 0 ey_libraries.diddid0
+LI 80 75 80 140 0
+MC 100 80 0 0 030
+MC 100 135 0 0 030
+LI 110 80 125 80 0
+LI 100 80 95 80 0
+LI 95 80 95 60 0
+LI 120 135 110 135 0
+LI 100 135 95 135 0
+LI 95 135 95 155 0
+SA 95 60 0
+SA 95 155 0
+TY 160 90 4 3 0 0 0 * R422
+TY 140 75 4 3 0 0 0 * Q408
+LI 45 95 45 160 0
+TY 140 120 4 3 0 0 0 * Q410
+TY 225 95 4 3 0 0 0 * R434
+TY 225 125 4 3 0 0 0 * R436
+LI 210 90 220 105 2
+TY 160 120 4 3 0 0 2 * 12 ohm
+TY 225 90 4 3 0 0 2 * 0,33 ohm
+TY 225 130 4 3 0 0 2 * I=??
+LI 220 115 220 145 2
+FCJ 2 0 3 2 0 0
+LI 205 90 190 90 2
+FCJ 2 0 3 2 0 0
+TY 195 95 4 3 0 0 2 * I=??
+LI 145 80 150 90 2
+LI 150 80 145 90 2
+TY 225 120 4 3 0 0 2 * 0,33 ohm
+TY 160 95 4 3 0 0 2 * 12 ohm
+LI 225 90 205 105 2

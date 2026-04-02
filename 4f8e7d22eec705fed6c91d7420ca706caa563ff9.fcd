@@ -1,0 +1,94 @@
+[FIDOCAD]
+MC 170 75 0 0 580
+MC 120 65 1 0 ey_libraries.pasres0
+MC 120 80 1 0 ey_libraries.pasres0
+MC 145 90 1 0 ey_libraries.pasres0
+MC 195 100 1 0 ey_libraries.pasres0
+MC 195 85 1 0 ey_libraries.pasres0
+LI 170 75 120 75 0
+LI 170 85 145 85 0
+LI 145 100 105 100 0
+LI 105 100 105 60 0
+LI 105 60 120 60 0
+MC 195 110 0 0 ey_libraries.refpnt0
+MC 120 90 0 0 ey_libraries.refpnt0
+LI 170 85 170 95 0
+LI 170 95 195 95 0
+TY 200 85 4 3 0 0 0 * 120k
+TY 125 65 4 3 0 0 0 * 33k
+TY 125 80 4 3 0 0 0 * 33k
+TY 200 100 4 3 0 0 0 * 5k6
+TY 150 90 4 3 0 0 0 * 5k6
+TY 75 105 4 3 0 0 0 * 12V
+MC 170 145 0 0 580
+MC 120 135 1 0 ey_libraries.pasres0
+MC 120 150 1 0 ey_libraries.pasres0
+MC 145 160 1 0 ey_libraries.pasres0
+MC 195 170 1 0 ey_libraries.pasres0
+MC 195 155 1 0 ey_libraries.pasres0
+LI 170 145 120 145 0
+LI 170 155 145 155 0
+LI 145 170 105 170 0
+LI 105 170 105 130 0
+LI 105 130 120 130 0
+MC 195 180 0 0 ey_libraries.refpnt0
+MC 120 160 0 0 ey_libraries.refpnt0
+LI 170 155 170 165 0
+LI 170 165 195 165 0
+TY 200 150 4 3 0 0 0 * 120k
+TY 125 135 4 3 0 0 0 * 33k
+TY 125 150 4 3 0 0 0 * 33k
+TY 200 170 4 3 0 0 0 * 5k6
+TY 150 160 4 3 0 0 0 * 5k6
+LI 105 100 105 130 0
+LI 105 115 85 115 0
+SA 85 115 0
+SA 165 60 0
+SA 165 130 0
+MC 250 115 0 0 580
+MC 235 80 1 0 ey_libraries.pascap0
+MC 195 135 2 0 ey_libraries.pascap0
+MC 165 65 0 0 ey_libraries.pascap0
+MC 165 135 0 0 ey_libraries.pascap0
+LI 195 150 195 140 0
+LI 240 125 240 140 0
+LI 195 80 225 80 0
+LI 240 80 240 115 0
+LI 250 115 240 115 0
+LI 170 125 170 120 0
+LI 275 120 275 125 0
+LI 275 140 240 140 0
+MC 275 145 1 0 ey_libraries.pasres0
+MC 170 110 1 0 ey_libraries.pasres0
+MC 250 65 1 0 ey_libraries.pasres0
+MC 220 105 1 0 ey_libraries.pasres0
+MC 275 155 0 0 ey_libraries.refpnt0
+MC 220 115 0 0 ey_libraries.refpnt0
+LI 220 100 240 100 0
+LI 105 60 105 45 0
+LI 105 45 250 45 0
+LI 250 45 250 60 0
+LI 250 75 250 80 0
+LI 250 80 240 80 0
+TY 155 110 4 3 0 0 0 * 33k
+TY 255 145 4 3 0 0 0 * 33k
+TY 255 65 4 3 0 0 0 * 33k
+TY 225 105 4 3 0 0 0 * 33k
+TY 205 130 4 3 0 0 0 * 68nF
+TY 215 70 4 3 0 0 0 * 68nF
+TY 145 60 4 3 0 0 0 * 68nF
+TY 145 130 4 3 0 0 0 * 68nF
+MC 275 130 1 0 ey_libraries.pasres0
+TY 280 135 4 3 0 0 0 * 120k
+LI 145 100 170 100 0
+LI 170 100 170 105 0
+LI 170 125 250 125 0
+LI 275 120 275 105 0
+LI 275 105 285 105 0
+SA 315 95 0
+MC 285 115 3 0 ey_libraries.pasres5
+MC 285 125 0 0 ey_libraries.refpnt0
+LI 315 115 290 115 0
+TY 290 105 4 3 0 0 0 * 47k
+LI 315 95 315 115 0
+TY 310 85 4 3 0 0 0 * Buffer opamp

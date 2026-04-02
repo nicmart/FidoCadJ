@@ -1,0 +1,95 @@
+[FIDOCAD]
+FJC B 0.5
+MC 91 46 1 0 115
+FCJ
+TY 82 49 2 2 0 0 0 Liberation++Sans++Narrow R2
+TY 82 52 2 2 0 0 0 Liberation++Sans++Narrow 470
+MC 51 46 2 0 000
+MC 51 91 2 0 000
+MC 61 46 0 0 170
+FCJ
+TY 61 41 2 2 0 0 0 Liberation++Sans++Narrow C1
+TY 61 49 2 2 0 0 0 Liberation++Sans++Narrow 820n/400V
+MC 71 56 1 0 115
+FCJ
+TY 61 59 2 2 0 0 0 Liberation++Sans++Narrow R1
+TY 61 62 2 2 0 0 0 Liberation++Sans++Narrow 470k
+MC 96 86 3 0 230
+FCJ
+TY 101 74 2 2 0 0 0 Liberation++Sans++Narrow D1
+TY 101 77 2 2 0 0 0 Liberation++Sans++Narrow 12 V/1W
+MC 101 66 0 0 200
+MC 121 76 0 0 180
+FCJ
+TY 125 80 2 2 0 0 0 Liberation++Sans++Narrow C2
+TY 125 84 2 2 0 0 0 Liberation++Sans++Narrow 100uF
+MC 156 51 0 0 ihram.ma09
+LI 51 46 61 46 0
+LI 56 46 56 56 0
+LI 61 56 56 56 0
+LI 71 46 81 46 0
+LI 71 56 76 56 0
+LI 76 56 76 46 0
+LI 91 46 96 46 0
+LI 96 46 96 71 0
+LI 96 86 96 91 0
+LI 96 91 51 91 0
+LI 96 91 121 91 0
+LI 121 91 121 86 0
+LI 101 66 96 66 0
+LI 116 66 121 66 0
+LI 121 66 121 76 0
+LI 181 46 181 41 0
+LI 181 41 166 41 0
+LI 166 41 166 46 0
+LI 166 41 121 41 0
+LI 121 41 121 66 0
+MC 186 41 0 0 170
+FCJ
+TY 195 44 2 2 0 0 0 Liberation++Sans++Narrow C4
+TY 195 47 2 2 0 0 0 Liberation++Sans++Narrow 100nF
+LI 181 41 186 41 0
+MC 56 91 0 0 elettrotecnica.ms05
+MC 196 41 3 0 elettrotecnica.ms05
+MC 166 116 0 0 elettrotecnica.ms05
+MC 181 106 1 0 170
+FCJ
+TY 185 108 2 2 0 0 0 Liberation++Sans++Narrow C5
+TY 185 111 2 2 0 0 0 Liberation++Sans++Narrow 100nF
+MC 181 116 0 0 elettrotecnica.ms05
+LI 166 106 166 116 0
+MC 141 56 2 0 115
+FCJ
+TY 144 47 2 2 0 0 0 Liberation++Sans++Narrow R3
+TY 144 50 2 2 0 0 0 Liberation++Sans++Narrow 68k
+LI 141 41 141 46 0
+LI 141 56 141 106 0
+MC 141 106 0 0 180
+FCJ
+TY 145 113 2 2 0 0 0 Liberation++Sans++Narrow C3
+TY 145 110 2 2 0 0 0 Liberation++Sans++Narrow 10uF
+MC 141 116 0 0 elettrotecnica.ms05
+LI 141 96 151 96 0
+LI 141 76 151 76 0
+MC 211 91 0 0 elettrotecnica.bc
+FCJ
+TY 221 96 2 2 0 0 0 Liberation++Sans++Narrow K1
+TY 221 101 2 2 0 0 0 Liberation++Sans++Narrow 12 V/1000ohm
+LI 196 66 211 66 0
+LI 211 66 211 91 0
+MC 211 116 0 0 elettrotecnica.ms05
+TY 42 73 4 3 0 0 0 Liberation++Sans++Narrow 230V c.a.
+PL 86 109 89 109 1 0
+PL 89 112 86 112 1 0
+RV 37 31 242 130 0
+PL 89 109 89 115 1 0
+PL 89 115 86 115 1 0
+PL 93 112 93 115 1 4
+PL 93 112 95 109 1 4
+PL 91 109 93 112 1 4
+PL 84 112 84 112 1 4
+PL 84 109 84 109 1 4
+PL 84 112 84 112 1 4
+PL 84 115 84 115 1 4
+PL 84 109 84 109 1 4
+PL 84 115 84 115 1 4

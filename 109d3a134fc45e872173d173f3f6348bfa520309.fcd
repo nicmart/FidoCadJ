@@ -1,0 +1,91 @@
+[FIDOCAD]
+FJC B 0.5
+MC 20 40 1 0 elettrotecnica.ms05
+MC 45 35 1 0 ey_libraries.pascap2
+MC 40 45 0 0 ey_libraries.pasres7
+MC 155 55 1 0 ey_libraries.pasres7
+MC 170 60 2 0 ey_libraries.pascap0
+LI 135 20 135 80 0
+FCJ 0 0 3 2 1 0
+LI 140 60 140 50 0
+LI 155 50 155 40 0
+LI 170 50 170 40 0
+LI 185 40 50 40 0
+LI 50 35 50 45 0
+LI 20 40 35 40 0
+LI 35 35 35 45 0
+LI 155 65 155 75 0
+LI 170 65 170 75 0
+LI 140 60 140 70 0
+EV 65 35 75 45 0
+EV 105 35 115 45 0
+LI 70 35 110 35 0
+LI 70 45 110 45 0
+TY 140 55 4 3 0 0 0 * 1 M
+TY 135 70 4 3 0 0 0 * GND
+TY 150 75 4 3 0 0 0 * GND
+TY 165 75 4 3 0 0 0 * GND
+LI 135 70 145 70 0
+LI 150 75 160 75 0
+LI 165 75 175 75 0
+TY 40 50 4 3 0 0 0 * 9 M
+TY 75 20 4 3 0 0 0 * cavo sonda lungo circa 1m con capacità circa 85  pF
+RV 20 25 80 65 0
+FCJ 1 0
+MC 25 105 1 0 elettrotecnica.ms05
+MC 50 100 1 0 ey_libraries.pascap0
+MC 125 110 0 0 ey_libraries.pascap2
+MC 45 110 0 0 ey_libraries.pasres7
+MC 160 120 1 0 ey_libraries.pasres7
+MC 175 125 2 0 ey_libraries.pascap0
+LI 140 85 140 145 0
+FCJ 0 0 3 2 1 0
+LI 115 120 115 110 0
+LI 160 115 160 105 0
+LI 175 115 175 105 0
+LI 185 105 55 105 0
+LI 55 100 55 110 0
+LI 25 105 40 105 0
+LI 40 100 40 110 0
+LI 160 130 160 140 0
+LI 175 130 175 140 0
+EV 70 100 80 110 0
+EV 110 100 120 110 0
+LI 75 100 115 100 0
+LI 75 110 115 110 0
+TY 150 110 4 3 0 0 0 * 1 M
+TY 110 135 4 3 0 0 0 * GND
+TY 155 140 4 3 0 0 0 * GND
+TY 170 140 4 3 0 0 0 * GND
+LI 125 120 160 140 0
+LI 155 140 165 140 0
+LI 170 140 180 140 0
+TY 45 115 4 3 0 0 0 * 9 M
+LI 115 120 125 120 0
+RV 25 90 80 120 0
+FCJ 1 0
+SA 110 45 0
+SA 115 110 0
+SA 115 120 0
+SA 125 105 0
+SA 160 105 0
+SA 55 105 0
+SA 40 105 0
+TY 25 140 4 3 0 0 0 * variante, ora mi pare meno adoperata
+LI 110 45 140 45 0
+LI 140 45 140 50 0
+TY 115 45 4 3 0 0 0 * connett. BNC
+SA 135 40 0
+SA 135 45 0
+SA 125 120 0
+RV 110 90 135 130 0
+FCJ 1 0
+SA 50 40 0
+TY 30 15 4 3 0 0 0 * partitore compensato per sonda oscilloscopio
+MC 185 40 0 0 580
+TY 165 60 4 3 0 0 0 * capacità parassita, circa 10 pF
+SA 170 40 0
+SA 155 40 0
+TY 15 25 4 3 0 0 0 * compensatore 2-10 pF per regolazione
+SA 140 105 0
+SA 140 130 0

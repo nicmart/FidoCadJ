@@ -1,0 +1,88 @@
+MC 45 25 0 0 ey_libraries.pasind0
+MC 45 50 0 0 ey_libraries.pasind0
+MC 45 75 0 0 ey_libraries.pasind0
+MC 130 25 0 0 ey_libraries.pasres0
+MC 130 50 0 0 ey_libraries.pasres0
+MC 130 75 0 0 ey_libraries.pasres0
+MC 200 25 1 0 ey_libraries.pasres0
+MC 200 45 1 0 ey_libraries.pasres0
+MC 100 25 0 0 ey_libraries.pasres0
+MC 100 50 0 0 ey_libraries.pasres0
+MC 100 75 0 0 ey_libraries.pasres0
+MC 160 85 1 0 ey_libraries.pasres0
+LI 55 25 95 25 0
+LI 55 50 95 50 0
+LI 55 75 95 75 0
+LI 110 25 110 30 0
+LI 110 30 40 30 0
+LI 110 50 110 55 0
+LI 110 55 40 55 0
+LI 110 75 110 80 0
+LI 110 80 40 80 0
+LI 140 25 160 25 0
+LI 160 25 160 80 0
+LI 140 50 160 50 0
+LI 140 75 160 75 0
+LI 115 75 125 75 0
+LI 115 50 125 50 0
+LI 115 25 125 25 0
+LI 200 35 200 40 0
+MC 160 95 0 0 elettrotecnica.ms01
+MC 200 55 0 0 elettrotecnica.ms01
+MC 40 95 0 0 elettrotecnica.ms01
+TY 55 15 4 3 0 0 0 * L3
+TY 55 40 4 3 0 0 0 * L2
+TY 55 65 4 3 0 0 0 * L1
+MC 40 85 1 0 ey_libraries.pasres0
+TY 114 120 3 2 0 0 0 * 3 dispersioni uguali sulle 3 fasi
+TY 187 105 3 2 0 0 0 * 2 dispersioni uguali su 2 fasi
+RV 90 65 115 85 1
+RV 90 40 115 60 1
+LI 40 25 40 80 1
+RV 90 15 115 35 1
+LI 110 45 100 45 2
+LI 100 75 110 70 2
+LI 110 70 100 70 2
+LI 100 45 110 40 2
+LI 100 50 110 45 2
+LI 100 20 110 15 2
+LI 100 70 110 65 2
+LI 110 20 100 20 2
+LI 100 25 110 20 2
+LI 190 88 190 95 3
+FCJ 1 0 2 1 0 0
+LI 130 98 130 105 3
+FCJ 1 0 2 1 0 0
+TY 185 85 3 2 0 0 3 * 20mA
+TY 125 95 3 2 0 0 3 * 20mA
+LI 145 15 145 20 3
+FCJ 1 0 2 1 0 0
+LI 150 45 145 40 4
+FCJ 1 0 2 1 0 0
+LI 195 100 190 95 4
+FCJ 1 0 2 1 0 0
+TY 135 110 3 2 0 0 4 * 20mA
+TY 195 100 3 2 0 0 4 * 20mA
+LI 135 110 130 105 4
+FCJ 1 0 2 1 0 0
+TY 205 45 4 3 0 0 5 * Rtc
+TY 45 85 4 3 0 0 5 * Rn
+TY 125 40 4 3 0 0 5 * Rpe2
+TY 125 65 4 3 0 0 5 * Rpe1
+TY 125 15 4 3 0 0 5 * Rpe3
+TY 205 25 4 3 0 0 5 * Rc
+TY 165 85 4 3 0 0 5 * Rt
+TY 195 90 3 2 0 0 6 * 20mA
+SA 130 105 6
+LI 195 90 190 95 6
+FCJ 1 0 2 1 0 0
+TY 133 102 3 2 0 0 6 * 0mA
+TY 120 110 3 2 0 0 7 * 20mA
+LI 140 70 145 65 7
+FCJ 1 0 2 1 0 0
+LI 125 110 130 105 7
+FCJ 1 0 2 1 0 0
+TY 130 5 4 3 0 0 11 * Contatto indiretto
+LI 200 5 200 20 11
+LI 200 5 120 5 11
+LI 120 5 115 15 11

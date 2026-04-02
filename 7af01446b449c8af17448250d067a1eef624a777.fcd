@@ -1,0 +1,144 @@
+[FIDOCAD]
+MC 70 110 0 0 560
+MC 30 110 0 0 560
+LI 20 15 75 15 0
+LI 20 20 75 20 0
+LI 25 15 25 35 0
+LI 55 15 55 35 0
+LI 60 20 60 35 0
+LI 65 25 65 35 0
+LI 20 25 75 25 0
+LI 30 20 30 35 0
+LI 35 25 35 35 0
+MC 275 95 0 0 elettrotecnica.app14
+MC 250 95 0 0 elettrotecnica.app14
+MC 25 35 0 0 elettrotecnica.cna
+MC 30 35 0 0 elettrotecnica.cna
+MC 35 35 0 0 elettrotecnica.cna
+MC 55 35 0 0 elettrotecnica.cna
+MC 60 35 0 0 elettrotecnica.cna
+MC 65 35 0 0 elettrotecnica.cna
+MC 25 60 0 0 elettrotecnica.fus01
+MC 30 60 0 0 elettrotecnica.fus01
+MC 35 60 0 0 elettrotecnica.fus01
+MC 55 60 0 0 elettrotecnica.fus01
+MC 60 60 0 0 elettrotecnica.fus01
+MC 65 60 0 0 elettrotecnica.fus01
+MC 25 75 0 0 elettrotecnica.dcrt
+MC 30 75 0 0 elettrotecnica.dcrt
+MC 35 75 0 0 elettrotecnica.dcrt
+MC 55 75 0 0 elettrotecnica.dcrt
+MC 60 75 0 0 elettrotecnica.dcrt
+MC 65 75 0 0 elettrotecnica.dcrt
+FCJ
+TY 75 80 4 3 0 0 0 * fr2
+TY 75 85 4 3 0 0 0 * 
+MC 60 45 0 0 elettrotecnica.com19
+MC 30 45 0 0 elettrotecnica.com19
+MC 55 75 0 0 elettrotecnica.com19
+MC 60 75 0 0 elettrotecnica.com19
+MC 30 75 0 0 elettrotecnica.com19
+MC 25 75 0 0 elettrotecnica.com19
+RV 20 70 10 75 0
+TY 10 65 4 3 0 0 0 * Km1
+RV 50 75 40 70 0
+TY 40 65 4 3 0 0 0 * km2
+LI 25 90 15 110 0
+LI 30 90 30 110 0
+LI 35 90 45 110 0
+LI 55 90 55 110 0
+LI 60 90 70 110 0
+LI 65 90 85 110 0
+MC 105 15 0 0 elettrotecnica.cnc
+FCJ
+TY 115 20 4 3 0 0 0 * fr1
+TY 115 25 4 3 0 0 0 * 
+MC 105 30 0 0 elettrotecnica.cnc
+FCJ
+TY 115 35 4 3 0 0 0 * fr2
+TY 115 40 4 3 0 0 0 * 
+TY 40 80 4 3 0 0 0 * fr1
+MC 65 65 0 0 elettrotecnica.cpona
+MC 55 65 0 0 elettrotecnica.cpona
+MC 60 65 0 0 elettrotecnica.cpona
+MC 35 65 0 0 elettrotecnica.cpona
+MC 25 65 0 0 elettrotecnica.cpona
+MC 30 65 0 0 elettrotecnica.cpona
+MC 105 45 0 0 elettrotecnica.cnc
+FCJ
+TY 115 50 4 3 0 0 0 * p Arresto
+TY 115 55 4 3 0 0 0 * 
+MC 105 60 0 0 elettrotecnica.cna
+MC 120 60 0 0 elettrotecnica.cna
+FCJ
+TY 130 65 4 3 0 0 0 * km1
+TY 130 70 4 3 0 0 0 * 
+TY 80 60 4 3 0 0 0 * p marcia
+LI 120 60 105 60 0
+LI 120 75 105 75 0
+MC 105 80 0 0 elettrotecnica.cnc
+TY 115 85 4 3 0 0 0 * T1
+MC 130 100 0 0 elettrotecnica.bcrra
+MC 195 100 0 0 elettrotecnica.bcrra
+MC 215 100 0 0 elettrotecnica.bcrra
+MC 105 95 0 0 elettrotecnica.bc
+MC 160 95 0 0 elettrotecnica.bc
+LI 120 75 135 75 0
+LI 135 75 135 95 0
+LI 105 120 160 120 0
+LI 105 75 105 80 0
+TY 100 105 4 3 0 0 0 * km1
+TY 125 95 4 3 0 0 0 * T1 90s
+TY 155 105 4 3 0 0 0 * km2
+MC 160 80 0 0 elettrotecnica.cna
+MC 180 80 0 0 elettrotecnica.cna
+TY 150 85 4 3 0 0 0 * t1
+LI 180 80 160 80 0
+LI 180 95 180 120 0
+LI 180 120 160 120 0
+LI 160 75 135 75 0
+LI 105 120 105 125 0
+LI 220 120 180 120 0
+LI 200 95 220 95 0
+MC 200 80 0 0 elettrotecnica.cnc
+LI 180 80 200 80 0
+TY 205 85 4 3 0 0 0 * t1
+TY 185 95 4 3 0 0 0 * t2 50s
+TY 210 95 4 3 0 0 0 * t3 20s
+LI 220 120 275 120 0
+LI 275 120 275 105 0
+LI 250 105 250 120 0
+MC 250 70 0 0 elettrotecnica.cna
+MC 275 70 0 0 elettrotecnica.cna
+TY 240 70 4 3 0 0 0 * t2
+TY 265 75 4 3 0 0 0 * t3
+LI 200 80 200 70 0
+LI 200 70 275 70 0
+TY 245 90 4 3 0 0 0 * elv1
+TY 270 90 4 3 0 0 0 * elv2
+MC 105 125 0 0 040
+MC 105 15 0 0 010
+TY 105 5 4 3 0 0 0 * 24 V
+LI 160 75 160 80 0
+SA 105 60 0
+SA 105 75 0
+SA 135 75 0
+SA 160 80 0
+SA 180 80 0
+SA 200 80 0
+SA 250 70 0
+SA 250 120 0
+SA 220 120 0
+SA 200 120 0
+SA 200 95 0
+SA 180 120 0
+SA 160 120 0
+SA 135 120 0
+SA 105 120 0
+SA 65 25 0
+SA 60 20 0
+SA 55 15 0
+SA 35 25 0
+SA 30 20 0
+SA 25 15 0
+TY 180 85 4 3 0 0 0 * km2

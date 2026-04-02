@@ -1,0 +1,186 @@
+[FIDOCAD]
+FJC B 0.5
+MC 18 68 2 0 010
+MC 18 98 2 0 020
+MC 43 83 1 0 220
+MC 113 83 1 0 220
+MC 43 78 3 0 ey_libraries.pasres0
+MC 113 78 3 0 ey_libraries.pasres0
+MC 73 58 0 0 ey_libraries.pasres0
+MC 23 98 0 0 ey_libraries.pasres0
+MC 73 108 0 0 ey_libraries.pasres0
+MC 58 83 1 0 220
+MC 58 78 3 0 ey_libraries.pasres0
+MC 98 83 1 0 220
+MC 98 78 3 0 ey_libraries.pasres0
+MC 48 68 0 0 ey_libraries.pasres0
+MC 63 68 0 0 ey_libraries.pasres0
+MC 103 68 0 0 ey_libraries.pasres0
+MC 88 68 0 0 ey_libraries.pasres0
+MC 48 98 0 0 ey_libraries.pasres0
+MC 63 98 0 0 ey_libraries.pasres0
+MC 103 98 0 0 ey_libraries.pasres0
+MC 88 98 0 0 ey_libraries.pasres0
+SA 58 68 0
+SA 98 68 0
+SA 98 98 0
+SA 58 98 0
+MC 23 68 0 0 ey_libraries.pasres0
+LI 38 58 68 58 0
+LI 38 108 68 108 0
+LI 83 58 103 58 0
+LI 83 108 98 108 0
+LI 103 58 113 68 0
+LI 113 98 98 108 0
+SA 43 98 0
+SA 43 68 0
+SA 113 68 0
+SA 113 98 0
+LI 73 63 73 103 0
+FCJ 0 0 3 2 1 0
+LI 83 63 83 103 0
+FCJ 0 0 3 2 1 0
+TY 8 88 2 2 0 0 0 * Led inizio
+TY 123 88 2 2 0 0 0 * Led Fine
+TY 18 63 2 2 0 0 0 * R linea
+TY 18 103 2 2 0 0 0 * R linea
+TY 65 53 2 2 0 0 0 * R Linea+5m
+TY 63 113 2 2 0 0 0 * R Linea+5m
+TY 63 78 2 2 0 0 0 * LED Strip  5m
+TY 23 73 2 2 0 0 0 * R LED
+TY 118 73 2 2 0 0 0 * R LED
+TY 43 61 2 2 0 0 0 * R strip
+TY 44 100 2 2 0 0 0 * R strip
+TY 8 78 2 2 0 0 0 * V inizio
+TY 133 83 2 2 0 0 0 * V fine
+TY 68 83 2 2 0 0 0 * V mezzo
+TY 113 63 4 3 0 0 0 * C
+TY 113 98 4 3 0 0 0 * D
+MC 18 153 2 0 010
+MC 55 143 0 0 ey_libraries.pasres0
+MC 23 153 0 0 ey_libraries.pasres0
+LI 22 143 52 143 0
+MC 53 183 0 0 ey_libraries.pasres0
+LI 18 183 48 183 0
+MC 17 172 2 0 020
+MC 22 172 0 0 ey_libraries.pasres0
+RV 48 148 68 177 0
+LI 33 68 43 68 0
+LI 33 98 43 98 0
+LI 38 58 23 58 0
+LI 23 58 18 68 0
+LI 38 108 23 108 0
+LI 23 108 18 98 0
+SA 18 68 0
+SA 18 98 0
+LI 33 153 48 153 0
+LI 33 172 48 172 0
+LI 63 143 78 143 0
+LI 78 143 78 153 0
+LI 78 153 68 153 0
+LI 63 183 78 183 0
+LI 78 183 78 173 0
+LI 78 173 68 173 0
+LI 22 143 18 154 0
+LI 17 172 18 183 0
+SA 18 153 0
+SA 17 172 0
+TY 24 145 4 3 0 0 0 * R linea
+TY 21 177 4 3 0 0 0 * R linea
+TY 46 134 4 3 0 0 0 * R Linea+5m
+TY 44 187 4 3 0 0 0 * R Linea+5m
+MC 57 155 1 0 220
+LI 141 153 131 153 0
+LI 141 173 131 173 0
+MC 120 155 1 0 220
+RV 111 148 131 177 0
+LI 200 173 190 173 0
+MC 179 155 1 0 220
+RV 170 148 190 177 0
+LI 200 153 190 153 0
+LI 125 143 140 143 0
+MC 117 143 0 0 ey_libraries.pasres0
+TY 108 134 4 3 0 0 0 * R Linea+5m
+LI 140 143 140 153 0
+LI 185 142 200 142 0
+MC 177 142 0 0 ey_libraries.pasres0
+TY 168 133 4 3 0 0 0 * R Linea+5m
+LI 200 142 200 152 0
+LI 126 183 141 183 0
+MC 116 183 0 0 ey_libraries.pasres0
+LI 141 183 141 173 0
+TY 106 188 4 3 0 0 0 * R Linea+5m
+LI 200 184 200 174 0
+LI 185 184 200 184 0
+MC 175 184 0 0 ey_libraries.pasres0
+TY 165 189 4 3 0 0 0 * R Linea+5m
+LI 96 143 113 143 0
+LI 111 183 96 183 0
+LI 171 142 155 142 0
+LI 171 184 156 184 0
+TY 68 122 4 3 0 0 0 * Fig 1
+TY 84 198 4 3 0 0 0 * Fig 2
+MC 101 152 0 0 ey_libraries.pasres0
+MC 100 172 0 0 ey_libraries.pasres0
+MC 160 153 0 0 ey_libraries.pasres0
+MC 159 173 0 0 ey_libraries.pasres0
+TY 89 144 4 3 0 0 0 * R linea
+TY 88 174 4 3 0 0 0 * R linea
+TY 147 145 4 3 0 0 0 * R linea
+TY 146 175 4 3 0 0 0 * R linea
+TY 76 155 4 3 0 0 0 * Z
+TY 76 167 4 3 0 0 0 * Y
+TY 137 154 4 3 0 0 0 * Z1
+TY 137 166 4 3 0 0 0 * Y1
+TY 198 155 4 3 0 0 0 * Z2
+TY 198 167 4 3 0 0 0 * Y2
+TY 47 149 2 2 0 0 0 * LED Strip #1
+TY 111 149 2 2 0 0 0 * LED Strip #2
+TY 171 149 2 2 0 0 0 * LED Strip #3
+TY 16 154 4 3 0 0 0 * A
+TY 16 165 4 3 0 0 0 * B
+TY 77 28 4 3 0 0 0 * 3 V
+TY 61 28 4 3 0 0 0 * 3 V
+TY 45 28 4 3 0 0 0 * 3 V
+LI 48 10 29 10 0
+FCJ 1 0 3 2 0 0
+TY 15 18 4 3 0 0 0 * 12 V
+MC 88 22 3 0 040
+MC 58 22 0 0 220
+MC 33 22 0 0 ey_libraries.pasres0
+TY 31 15 2 2 0 0 0 * R LED
+TY 31 28 4 3 0 0 0 * 3 V
+MC 43 22 0 0 220
+MC 73 22 0 0 220
+TY 36 4 4 3 0 0 0 * I
+TY 49 35 4 3 0 0 0 * Fig 0
+TY 7 18 4 3 0 0 0 * V+
+TY 18 70 4 3 0 0 0 * A
+TY 17 92 4 3 0 0 0 * B
+LI 118 98 138 88 2
+FCJ 1 0 3 2 0 0
+TY 114 116 4 3 0 0 2 * Dove li collego?
+LI 38 68 18 78 2
+FCJ 1 0 3 2 0 0
+RV 93 137 101 188 2
+FCJ 4 0
+LI 118 68 138 83 2
+FCJ 1 0 3 2 0 0
+LI 38 98 18 83 2
+FCJ 1 0 3 2 0 0
+LI 156 136 137 124 2
+FCJ 1 0 3 2 0 0
+LI 78 88 78 98 2
+FCJ 2 0 3 2 0 0
+LI 103 135 132 124 2
+FCJ 1 0 3 2 0 0
+LI 78 83 78 68 2
+FCJ 2 0 3 2 0 0
+RV 152 138 160 189 2
+FCJ 4 0
+RV 37 64 119 103 5
+FCJ 4 0
+RV 57 105 98 118 6
+FCJ 4 0
+RV 56 48 97 61 6
+FCJ 4 0

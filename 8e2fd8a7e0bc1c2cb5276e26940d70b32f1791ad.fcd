@@ -1,0 +1,179 @@
+[FIDOCAD]
+FJC B 0.5
+MC 105 70 0 0 ey_libraries.opaopa0
+MC 85 75 0 0 ey_libraries.pasres0
+MC 80 80 1 0 ey_libraries.pasres0
+MC 125 70 0 0 ey_libraries.pasres0
+MC 50 45 1 0 ey_libraries.pasres0
+MC 50 80 1 0 ey_libraries.pasres0
+MC 140 70 0 0 ey_libraries.trnmos0
+MC 145 50 1 0 220
+MC 110 85 1 0 ey_libraries.pascap0
+LI 120 85 115 85 0
+LI 100 85 95 85 0
+LI 95 85 95 75 0
+MC 50 65 3 0 ey_libraries.pasres14
+LI 55 65 75 65 0
+MC 75 90 0 0 ey_libraries.refpnt4
+MC 45 90 0 0 ey_libraries.refpnt4
+MC 140 75 0 0 ey_libraries.refpnt4
+SA 95 75 0
+SA 120 70 0
+SA 80 75 0
+MC 80 55 3 0 ey_libraries.phodid0
+LI 80 60 80 75 0
+MC 50 40 3 0 010
+TY 85 85 4 3 0 0 0 * RX
+TY 85 65 4 3 0 0 0 * R1
+TY 105 90 4 3 0 0 0 * C1
+TY 130 50 4 3 0 0 0 * Led
+TY 85 50 4 3 0 0 0 * Photodiode
+MC 135 75 1 0 ey_libraries.pasres0
+MC 130 85 0 0 ey_libraries.refpnt4
+SA 135 70 0
+LI 75 65 100 65 0
+TY 50 25 4 3 0 0 0 * 9 V stabilizzati
+LI 145 40 145 50 0
+LI 50 40 80 40 0
+LI 80 40 80 45 0
+LI 80 40 105 40 0
+LI 105 40 105 60 0
+LI 105 60 105 65 0
+LI 105 75 105 80 0
+LI 105 80 105 95 0
+MC 100 95 0 0 ey_libraries.refpnt4
+SA 50 40 0
+SA 80 40 0
+MC 145 40 3 0 010
+TY 145 25 4 3 0 0 0 * 12 V 6 A
+MC 120 45 0 0 ey_libraries.pascap0
+LI 105 40 120 40 0
+SA 105 40 0
+MC 115 55 0 0 ey_libraries.refpnt4
+TY 20 40 4 3 0 0 0 * 5k6 ohm
+TY 20 60 4 3 0 0 0 * 10 kohm
+TY 25 80 4 3 0 0 0 * 1k8 ohm
+TY 60 65 4 3 0 0 0 * 100 kohm
+TY 115 90 4 3 0 0 0 * 1 uF plastico
+MC 120 75 1 0 ey_libraries.pasres0
+TY 110 80 4 3 0 0 0 * 1 kohm
+TY 120 60 4 3 0 0 0 * 1 kohm
+TY 140 80 4 3 0 0 0 * 5K6 ohm
+MC 55 80 0 0 ey_libraries.refpnt4
+MC 60 70 0 0 ey_libraries.pascap0
+TY 125 45 4 3 0 0 0 * 100 nF
+TY 60 75 4 3 0 0 0 * 100 nF
+TY 150 70 4 3 0 0 0 * Power Mosfet
+TY 150 75 4 3 0 0 0 * > 20 V > 10 A
+TY 100 55 4 3 0 0 0 * LM358
+TY 103 68 4 3 0 0 0 * 1/2
+SA 60 65 0
+TY 71 108 4 3 0 0 0 * Schema a blocchi
+RV 65 140 40 110 0
+RV 185 150 160 120 0
+RV 155 150 130 120 0
+RV 125 150 100 120 0
+RV 65 175 40 145 0
+LI 125 135 130 135 0
+LI 155 135 160 135 0
+TY 43 117 4 3 0 0 0 * Impost
+TY 42 122 4 3 0 0 0 * livello
+TY 52 113 4 3 0 0 0 * 1
+TY 51 148 4 3 0 0 0 * 2
+TY 111 123 4 3 0 0 0 * 3
+TY 141 123 4 3 0 0 0 * 4
+TY 170 123 4 3 0 0 0 * 5
+TY 46 152 4 3 0 0 0 * Rivel
+TY 42 156 4 3 0 0 0 * livello
+TY 45 162 4 3 0 0 0 * illum
+TY 45 128 4 3 0 0 0 * illum
+TY 105 128 4 3 0 0 0 * Regol
+TY 108 136 4 3 0 0 0 * PI
+LI 65 125 80 125 0
+LI 80 125 80 130 0
+LI 80 130 100 130 0
+LI 65 160 80 160 0
+LI 80 160 80 140 0
+LI 80 140 100 140 0
+TY 139 135 4 3 0 0 0 * Pot
+TY 139 129 4 3 0 0 0 * Amp
+TY 164 127 4 3 0 0 0 * Carico
+TY 166 135 4 3 0 0 0 * (LED)
+RV 40 190 95 240 0
+TY 130 170 4 3 0 0 0 * fig. 1
+TY 119 251 4 3 0 0 0 * fig. 2
+RV 185 195 225 225 0
+TY 190 210 4 3 0 0 0 * Alimentatore
+MC 140 205 1 0 ey_libraries.didled0
+MC 135 220 0 0 ey_libraries.trnmos11
+MC 80 200 0 0 ey_libraries.vic3ic0
+MC 165 200 0 0 ey_libraries.pasres0
+MC 135 190 0 0 ey_libraries.pasres0
+MC 150 225 0 0 ey_libraries.pasres0
+MC 150 240 0 0 ey_libraries.pasres0
+MC 110 230 0 0 ey_libraries.pasres0
+TY 166 192 2 2 0 0 0 * R1
+TY 135 182 2 2 0 0 0 * R2
+TY 151 217 2 2 0 0 0 * R3
+TY 151 232 2 2 0 0 0 * R4
+TY 110 223 2 2 0 0 0 * R5
+LI 175 200 185 200 0
+MC 185 225 3 0 ey_libraries.refpnt4
+LI 160 200 140 200 0
+LI 145 225 140 225 0
+LI 160 225 185 220 0
+LI 160 240 185 220 0
+TY 179 202 4 3 0 0 0 * A
+TY 178 214 4 3 0 0 0 * B
+TY 190 198 4 3 0 0 0 * +12 V
+TY 55 194 4 3 0 0 0 * +9 V
+TY 76 196 4 3 0 0 0 * Reg
+LI 145 240 105 240 0
+LI 105 240 95 230 0
+LI 95 230 105 230 0
+LI 140 225 140 230 0
+LI 140 230 120 230 0
+LI 80 210 96 231 0
+LI 95 200 115 200 0
+LI 115 200 115 190 0
+LI 115 190 130 190 0
+LI 145 190 175 190 0
+LI 175 190 185 200 0
+LI 95 220 130 220 0
+TY 90 230 4 3 0 0 0 * C
+TY 90 214 4 3 0 0 0 * D
+LI 137 232 106 233 1
+LI 106 238 147 238 1
+LI 106 233 106 238 1
+LI 173 226 171 230 1
+LI 171 230 173 226 1
+LI 173 226 170 225 1
+LI 147 238 173 226 1
+TY 143 219 4 3 0 0 1 * E
+TY 129 213 4 3 0 0 1 * F
+SA 140 225 1
+SA 186 200 1
+SA 185 220 1
+SA 95 230 1
+TY 77 33 4 3 0 0 2 * 2
+TY 43 34 4 3 0 0 2 * 1
+TY 103 33 4 3 0 0 2 * 3
+TY 129 75 4 3 0 0 2 * 4
+BE 170 205 140 210 140 215 170 220 2
+LI 170 220 165 215 2
+TY 137 39 4 3 0 0 2 * 5
+LI 170 220 165 225 2
+LI 165 215 170 220 2
+LI 102 222 129 222 5
+LI 129 222 129 227 5
+LI 129 227 102 227 5
+LI 102 227 104 226 5
+LI 102 227 104 230 5
+LI 102 227 106 225 5
+RV 125 62 148 100 6
+RV 73 30 82 101 6
+RV 84 30 123 101 6
+RV 40 30 55 100 6
+RV 75 30 75 30 6
+RV 132 31 155 61 6
+RV 126 62 124 62 6

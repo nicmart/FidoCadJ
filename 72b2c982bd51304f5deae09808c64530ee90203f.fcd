@@ -1,0 +1,119 @@
+[FIDOCAD]
+FJC C 1.7
+FJC A 0.6
+FJC B 0.6
+TY 193 103 3 3 0 2 0 Carlito βI_B
+LI 75 90 65 90 0
+LI 50 90 65 90 0
+FCJ 2 0 3 1 0 0
+TY 55 82 3 3 0 2 0 Carlito I_1
+LI 185 100 185 95 0
+FCJ 2 0 3 1 0 0
+LI 155 90 160 90 0
+LI 50 90 50 95 0
+LI 70 90 70 110 0
+FCJ 2 0 3 1 0 0
+TY 75 105 3 3 0 2 0 Carlito I_B
+LI 210 90 210 100 0
+LI 190 90 210 90 0
+FCJ 2 0 3 1 0 0
+LI 110 90 75 90 0
+FCJ 2 0 3 1 0 0
+SA 70 90 0
+MC 185 110 2 0 ey_libraries.gendcs0
+MC 50 105 3 0 ey_libraries.pasres7
+TY 40 100 3 3 0 2 0 Carlito R_B
+MC 70 120 3 0 ey_libraries.pasres7
+TY 75 115 3 3 0 2 0 Carlito r_π ^+ (1 + β)R_E
+TY 130 60 3 3 0 2 0 Carlito Z_X
+MC 210 115 0 0 elettrotecnica.ms05
+LI 190 90 160 90 0
+FCJ 2 0 3 1 0 0
+TY 215 105 3 3 0 2 0 Carlito sL
+MC 70 125 0 0 elettrotecnica.ms05
+MC 185 115 0 0 elettrotecnica.ms05
+TY 78 82 3 3 0 2 0 Carlito I_F
+SA 185 90 0
+LI 185 95 185 90 0
+MC 210 105 1 0 ey_libraries.pasind0
+MC 50 115 0 0 ey_libraries.genivs0
+MC 50 125 0 0 elettrotecnica.ms05
+TY 35 115 3 3 0 2 0 Carlito V_CC
+MC 130 90 0 0 ey_libraries.pasind0
+MC 150 90 1 0 ey_libraries.pascap0
+MC 115 90 0 0 ey_libraries.pasres0
+MC 135 80 1 0 ey_libraries.pascap0
+LI 125 80 110 80 0
+LI 110 80 110 90 0
+LI 140 80 155 80 0
+LI 155 80 155 90 0
+MC 170 100 2 0 ey_libraries.pascap0
+MC 95 100 2 0 ey_libraries.pascap0
+MC 95 105 0 0 elettrotecnica.ms05
+MC 170 105 0 0 elettrotecnica.ms05
+SA 170 90 0
+SA 95 90 0
+TY 90 80 4 3 0 2 0 Carlito C_2
+TY 175 95 4 3 0 2 0 Carlito C_1
+TY 130 95 4 3 0 2 0 Carlito L_s
+TY 145 95 4 3 0 2 0 Carlito C_s
+TY 115 95 4 3 0 2 0 Carlito R_s
+TY 140 73 4 3 0 2 0 Carlito C_o
+LI 130 115 130 165 0
+FCJ 2 0 3 1 0 0
+TY 140 115 3 3 270 2 0 Carlito series resonance
+LI 185 195 185 190 0
+TY 193 203 3 3 0 2 0 Carlito βI_B
+LI 75 190 65 190 0
+LI 50 190 65 190 0
+FCJ 2 0 3 1 0 0
+TY 55 182 3 3 0 2 0 Carlito I_1
+LI 185 200 185 195 0
+FCJ 2 0 3 1 0 0
+LI 155 190 160 190 0
+LI 50 190 50 195 0
+LI 70 190 70 210 0
+FCJ 2 0 3 1 0 0
+TY 75 205 3 3 0 2 0 Carlito I_B
+LI 210 190 210 200 0
+LI 190 190 210 190 0
+FCJ 2 0 3 1 0 0
+LI 110 190 75 190 0
+FCJ 2 0 3 1 0 0
+SA 70 190 0
+MC 185 210 2 0 ey_libraries.gendcs0
+MC 50 205 3 0 ey_libraries.pasres7
+TY 40 200 3 3 0 2 0 Carlito R_B
+MC 70 220 3 0 ey_libraries.pasres7
+TY 75 215 3 3 0 2 0 Carlito r_π ^+ (1 + β)R_E
+TY 130 170 3 3 0 2 0 Carlito Z_X
+MC 210 215 0 0 elettrotecnica.ms05
+LI 190 190 160 190 0
+FCJ 2 0 3 1 0 0
+TY 215 205 3 3 0 2 0 Carlito sL
+MC 70 225 0 0 elettrotecnica.ms05
+MC 185 215 0 0 elettrotecnica.ms05
+TY 78 182 3 3 0 2 0 Carlito I_F
+SA 185 190 0
+MC 170 200 2 1 ey_libraries.pascap0
+MC 210 205 1 0 ey_libraries.pasind0
+MC 50 215 0 0 ey_libraries.genivs0
+MC 50 225 0 0 elettrotecnica.ms05
+TY 35 215 3 3 0 2 0 Carlito V_CC
+MC 130 190 0 0 ey_libraries.pasind0
+MC 115 190 0 0 ey_libraries.pasres0
+LI 140 190 155 190 0
+MC 95 195 0 0 ey_libraries.pascap0
+MC 95 205 0 0 elettrotecnica.ms05
+MC 170 205 0 1 elettrotecnica.ms05
+SA 170 190 0
+SA 95 190 0
+TY 90 180 4 3 0 2 0 Carlito C_2
+TY 175 195 4 3 0 2 0 Carlito C_1
+TY 130 195 4 3 0 2 0 Carlito L_s
+TY 145 195 4 3 0 2 0 Carlito C_s
+TY 115 195 4 3 0 2 0 Carlito R_s
+RV 105 70 160 105 2
+FCJ 1 0
+RV 105 180 160 205 2
+FCJ 1 0

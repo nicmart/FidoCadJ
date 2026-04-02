@@ -1,0 +1,194 @@
+[FIDOCAD]
+MC 155 195 3 0 ey_libraries.pasres6
+FCJ
+TY 150 165 4 3 0 0 0 * Trimmer
+TY 160 185 4 3 0 0 0 * 
+MC 190 70 0 0 ey_libraries.didled0
+MC 205 70 0 0 ey_libraries.didled0
+MC 175 70 0 0 ey_libraries.pasres0
+MC 190 80 0 0 ey_libraries.didled0
+MC 205 80 0 0 ey_libraries.didled0
+MC 175 80 0 0 ey_libraries.pasres0
+MC 190 90 0 0 ey_libraries.didled0
+MC 205 90 0 0 ey_libraries.didled0
+MC 175 90 0 0 ey_libraries.pasres0
+MC 190 100 0 0 ey_libraries.didled0
+MC 205 100 0 0 ey_libraries.didled0
+MC 175 100 0 0 ey_libraries.pasres0
+MC 190 110 0 0 ey_libraries.didled0
+MC 205 110 0 0 ey_libraries.didled0
+MC 175 110 0 0 ey_libraries.pasres0
+MC 190 120 0 0 ey_libraries.didled0
+MC 205 120 0 0 ey_libraries.didled0
+MC 175 120 0 0 ey_libraries.pasres0
+MC 190 130 0 0 ey_libraries.didled0
+MC 205 130 0 0 ey_libraries.didled0
+MC 175 130 0 0 ey_libraries.pasres0
+MC 190 140 0 0 ey_libraries.didled0
+MC 205 140 0 0 ey_libraries.didled0
+MC 175 140 0 0 ey_libraries.pasres0
+MC 190 150 0 0 ey_libraries.didled0
+MC 205 150 0 0 ey_libraries.didled0
+MC 175 150 0 0 ey_libraries.pasres0
+MC 190 160 0 0 ey_libraries.didled0
+MC 205 160 0 0 ey_libraries.didled0
+MC 175 160 0 0 ey_libraries.pasres0
+MC 190 170 0 0 ey_libraries.didled0
+MC 205 170 0 0 ey_libraries.didled0
+MC 175 170 0 0 ey_libraries.pasres0
+MC 190 180 0 0 ey_libraries.didled0
+MC 205 180 0 0 ey_libraries.didled0
+MC 175 180 0 0 ey_libraries.pasres0
+FCJ
+TY 175 60 4 3 0 0 0 * Rled
+TY 185 185 4 3 0 0 0 * 
+LI 170 70 170 180 0
+LI 215 180 215 70 0
+MC 165 185 0 0 ey_libraries.trnbjt1
+FCJ
+TY 150 190 4 3 0 0 0 * BD233
+TY 175 195 4 3 0 0 0 * 
+MC 170 190 0 0 elettrotecnica.ms01
+MC 155 195 0 0 elettrotecnica.ms01
+MC 145 185 1 0 ey_libraries.pasres0
+FCJ
+TY 135 180 4 3 0 0 0 * R2
+TY 125 235 4 3 0 0 0 * 
+LI 145 195 155 195 0
+LI 155 175 145 175 0
+LI 145 175 145 180 0
+MC 145 160 0 0 071
+MC 190 130 0 0 071
+MC 145 165 1 0 ey_libraries.pasres0
+FCJ
+TY 135 160 4 3 0 0 0 * R1
+TY 125 215 4 3 0 0 0 * 
+MC 155 195 3 0 ey_libraries.pasres6
+FCJ
+TY 150 165 4 3 0 0 0 * Trimmer
+TY 160 185 4 3 0 0 0 * 
+MC 190 70 0 0 ey_libraries.didled0
+MC 205 70 0 0 ey_libraries.didled0
+MC 175 70 0 0 ey_libraries.pasres0
+MC 190 80 0 0 ey_libraries.didled0
+MC 205 80 0 0 ey_libraries.didled0
+MC 175 80 0 0 ey_libraries.pasres0
+MC 190 90 0 0 ey_libraries.didled0
+MC 205 90 0 0 ey_libraries.didled0
+MC 175 90 0 0 ey_libraries.pasres0
+MC 190 100 0 0 ey_libraries.didled0
+MC 205 100 0 0 ey_libraries.didled0
+MC 175 100 0 0 ey_libraries.pasres0
+MC 190 110 0 0 ey_libraries.didled0
+MC 205 110 0 0 ey_libraries.didled0
+MC 175 110 0 0 ey_libraries.pasres0
+MC 190 120 0 0 ey_libraries.didled0
+MC 205 120 0 0 ey_libraries.didled0
+MC 175 120 0 0 ey_libraries.pasres0
+MC 190 130 0 0 ey_libraries.didled0
+MC 205 130 0 0 ey_libraries.didled0
+MC 175 130 0 0 ey_libraries.pasres0
+MC 190 140 0 0 ey_libraries.didled0
+MC 205 140 0 0 ey_libraries.didled0
+MC 175 140 0 0 ey_libraries.pasres0
+MC 190 150 0 0 ey_libraries.didled0
+MC 205 150 0 0 ey_libraries.didled0
+MC 175 150 0 0 ey_libraries.pasres0
+MC 190 160 0 0 ey_libraries.didled0
+MC 205 160 0 0 ey_libraries.didled0
+MC 175 160 0 0 ey_libraries.pasres0
+MC 190 170 0 0 ey_libraries.didled0
+MC 205 170 0 0 ey_libraries.didled0
+MC 175 170 0 0 ey_libraries.pasres0
+MC 190 180 0 0 ey_libraries.didled0
+MC 205 180 0 0 ey_libraries.didled0
+MC 175 180 0 0 ey_libraries.pasres0
+FCJ
+TY 175 60 4 3 0 0 0 * Rled
+TY 185 185 4 3 0 0 0 * 
+LI 170 70 170 180 0
+LI 215 180 215 70 0
+MC 165 185 0 0 ey_libraries.trnbjt1
+FCJ
+TY 150 190 4 3 0 0 0 * BD233
+TY 175 195 4 3 0 0 0 * 
+MC 170 190 0 0 elettrotecnica.ms01
+MC 155 195 0 0 elettrotecnica.ms01
+MC 145 185 1 0 ey_libraries.pasres0
+FCJ
+TY 135 180 4 3 0 0 0 * R2
+TY 125 235 4 3 0 0 0 * 
+LI 145 195 155 195 0
+LI 155 175 145 175 0
+LI 145 175 145 180 0
+MC 145 160 0 0 071
+MC 190 130 0 0 071
+MC 145 165 1 0 ey_libraries.pasres0
+FCJ
+TY 135 160 4 3 0 0 0 * R1
+TY 125 215 4 3 0 0 0 * 
+MC 155 195 3 0 ey_libraries.pasres6
+FCJ
+TY 150 165 4 3 0 0 0 * Trimmer
+TY 160 185 4 3 0 0 0 * 
+MC 190 70 0 0 ey_libraries.didled0
+MC 205 70 0 0 ey_libraries.didled0
+MC 175 70 0 0 ey_libraries.pasres0
+MC 190 80 0 0 ey_libraries.didled0
+MC 205 80 0 0 ey_libraries.didled0
+MC 175 80 0 0 ey_libraries.pasres0
+MC 190 90 0 0 ey_libraries.didled0
+MC 205 90 0 0 ey_libraries.didled0
+MC 175 90 0 0 ey_libraries.pasres0
+MC 190 100 0 0 ey_libraries.didled0
+MC 205 100 0 0 ey_libraries.didled0
+MC 175 100 0 0 ey_libraries.pasres0
+MC 190 110 0 0 ey_libraries.didled0
+MC 205 110 0 0 ey_libraries.didled0
+MC 175 110 0 0 ey_libraries.pasres0
+MC 190 120 0 0 ey_libraries.didled0
+MC 205 120 0 0 ey_libraries.didled0
+MC 175 120 0 0 ey_libraries.pasres0
+MC 190 130 0 0 ey_libraries.didled0
+MC 205 130 0 0 ey_libraries.didled0
+MC 175 130 0 0 ey_libraries.pasres0
+MC 190 140 0 0 ey_libraries.didled0
+MC 205 140 0 0 ey_libraries.didled0
+MC 175 140 0 0 ey_libraries.pasres0
+MC 190 150 0 0 ey_libraries.didled0
+MC 205 150 0 0 ey_libraries.didled0
+MC 175 150 0 0 ey_libraries.pasres0
+MC 190 160 0 0 ey_libraries.didled0
+MC 205 160 0 0 ey_libraries.didled0
+MC 175 160 0 0 ey_libraries.pasres0
+MC 190 170 0 0 ey_libraries.didled0
+MC 205 170 0 0 ey_libraries.didled0
+MC 175 170 0 0 ey_libraries.pasres0
+MC 190 180 0 0 ey_libraries.didled0
+MC 205 180 0 0 ey_libraries.didled0
+MC 175 180 0 0 ey_libraries.pasres0
+FCJ
+TY 175 60 4 3 0 0 0 * Rled
+TY 185 185 4 3 0 0 0 * 
+LI 170 70 170 180 0
+LI 215 180 215 70 0
+MC 165 185 0 0 ey_libraries.trnbjt1
+FCJ
+TY 150 190 4 3 0 0 0 * BD233
+TY 175 195 4 3 0 0 0 * 
+MC 170 190 0 0 elettrotecnica.ms01
+MC 155 195 0 0 elettrotecnica.ms01
+MC 145 185 1 0 ey_libraries.pasres0
+FCJ
+TY 135 180 4 3 0 0 0 * R2
+TY 125 235 4 3 0 0 0 * 
+LI 145 195 155 195 0
+LI 155 175 145 175 0
+LI 145 175 145 180 0
+MC 145 160 0 0 071
+MC 190 130 0 0 071
+MC 145 165 1 0 ey_libraries.pasres0
+FCJ
+TY 135 160 4 3 0 0 0 * R1
+TY 125 215 4 3 0 0 0 * 
+MC 215 70 0 0 010

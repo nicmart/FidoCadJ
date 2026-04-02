@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="1473.0" height="1059.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<line x1="129.0" y1="327.0" x2="129.0" y2="324.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="126.0" y1="348.0" x2="132.0" y2="342.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="342.0" x2="126.0" y2="336.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="126.0" y1="336.0" x2="132.0" y2="330.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="330.0" x2="129.0" y2="327.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="126.0" y1="360.0" x2="132.0" y2="354.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="354.0" x2="126.0" y2="348.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="363.0" x2="126.0" y2="360.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="369.0" x2="129.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="384.0" x2="159.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="414.0" x2="159.0" y2="414.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="204.0" y1="399.0" x2="219.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="414.0" x2="168.0" y2="414.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="384.0" x2="168.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="165.0" y1="381.0" x2="165.0" y2="387.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="159.0,369.0 159.0,429.0 204.0,399.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="114.0" y1="384.0" x2="123.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="384.0" x2="135.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 123.0,384.0 C 126.0,378.0 132.0,378.0 135.0,384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="114.0" y1="384.0" x2="99.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="369.0" x2="129.0" y2="459.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="384.0" x2="99.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="519.0" x2="129.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="120.0" y1="534.0" x2="138.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="123.0" y1="537.0" x2="135.0" y2="537.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="126.0" y1="540.0" x2="132.0" y2="540.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="414.0" x2="129.0" y2="414.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="129.0" cy="414.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="219.0" y1="399.0" x2="279.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="489.0" y1="432.0" x2="489.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="486.0" y1="453.0" x2="492.0" y2="447.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="447.0" x2="486.0" y2="441.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="486.0" y1="441.0" x2="492.0" y2="435.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="435.0" x2="489.0" y2="432.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="486.0" y1="465.0" x2="492.0" y2="459.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="459.0" x2="486.0" y2="453.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="489.0" y1="468.0" x2="486.0" y2="465.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="489.0" y1="474.0" x2="489.0" y2="468.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="495.0,489.0 483.0,489.0 489.0,501.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="489.0" y1="519.0" x2="489.0" y2="474.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="489.0" cy="495.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="495.0" y1="501.0" x2="483.0" y2="501.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="504.0" y1="498.0" x2="519.0" y2="513.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="519.0,513.0 513.0,510.0 516.0,507.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="501.0" y1="504.0" x2="516.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="516.0,519.0 510.0,516.0 513.0,513.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="489.0" y1="519.0" x2="489.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="480.0" y1="534.0" x2="498.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="483.0" y1="537.0" x2="495.0" y2="537.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="486.0" y1="540.0" x2="492.0" y2="540.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="324.0" x2="129.0" y2="294.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="399.0" x2="279.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="303.0" y1="402.0" x2="297.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="297.0" y1="396.0" x2="291.0" y2="402.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="291.0" y1="402.0" x2="285.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="285.0" y1="396.0" x2="282.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="315.0" y1="402.0" x2="309.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="309.0" y1="396.0" x2="303.0" y2="402.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="318.0" y1="399.0" x2="315.0" y2="402.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="399.0" x2="318.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="399.0" x2="354.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="339.0" y1="399.0" x2="339.0" y2="489.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="339.0" y1="519.0" x2="339.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="534.0" x2="348.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="333.0" y1="537.0" x2="345.0" y2="537.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="336.0" y1="540.0" x2="342.0" y2="540.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="339.0" cy="399.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="339.0" y1="489.0" x2="339.0" y2="501.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="333.0" y1="507.0" x2="345.0" y2="507.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="339.0" y1="507.0" x2="339.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="345.0" y1="492.0" x2="345.0" y2="498.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="495.0" x2="348.0" y2="495.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<rect x="333.0" y="501.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="714.0" y1="384.0" x2="714.0" y2="549.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="414.0" y1="399.0" x2="429.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="414.0" y1="429.0" x2="429.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="474.0" y1="414.0" x2="489.0" y2="414.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="432.0" y1="429.0" x2="438.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="432.0" y1="399.0" x2="438.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="435.0" y1="396.0" x2="435.0" y2="402.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="429.0,384.0 429.0,444.0 474.0,414.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="249.0" cy="399.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="354.0" y1="399.0" x2="414.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="294.0" y1="339.0" x2="339.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="309.0" y1="345.0" x2="309.0" y2="333.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="321.0,345.0 321.0,333.0 309.0,339.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="339.0" y1="339.0" x2="339.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="291.0" y1="339.0" x2="294.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="270.0" y1="336.0" x2="276.0" y2="342.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="276.0" y1="342.0" x2="282.0" y2="336.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="336.0" x2="288.0" y2="342.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="288.0" y1="342.0" x2="291.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="258.0" y1="336.0" x2="264.0" y2="342.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="264.0" y1="342.0" x2="270.0" y2="336.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="255.0" y1="339.0" x2="258.0" y2="336.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="249.0" y1="339.0" x2="255.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="249.0" y1="339.0" x2="249.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="420.0" x2="609.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="564.0" y1="414.0" x2="594.0" y2="414.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="399.0" x2="594.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="399.0" x2="609.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="408.0" x2="609.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="429.0" x2="609.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="600.0" cy="414.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="603.0,429.0 606.0,423.0 609.0,429.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="609.0" y1="519.0" x2="609.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="600.0" y1="534.0" x2="618.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="603.0" y1="537.0" x2="615.0" y2="537.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="606.0" y1="540.0" x2="612.0" y2="540.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="324.0" x2="609.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="522.0" y1="414.0" x2="519.0" y2="414.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="543.0" y1="417.0" x2="537.0" y2="411.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="537.0" y1="411.0" x2="531.0" y2="417.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="531.0" y1="417.0" x2="525.0" y2="411.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="525.0" y1="411.0" x2="522.0" y2="414.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="555.0" y1="417.0" x2="549.0" y2="411.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="549.0" y1="411.0" x2="543.0" y2="417.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="558.0" y1="414.0" x2="555.0" y2="417.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="564.0" y1="414.0" x2="558.0" y2="414.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="519.0" y1="414.0" x2="489.0" y2="414.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="714.0" y1="354.0" x2="714.0" y2="279.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="444.0" x2="414.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="324.0" x2="609.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="609.0" cy="312.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="315.0" x2="609.0" y2="309.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="606.0" y1="312.0" x2="612.0" y2="312.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="489.0" cy="414.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="654.0" y1="372.0" x2="654.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="654.0" y1="339.0" x2="654.0" y2="351.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<rect x="633.0" y="351.0" rx="0" ry="0" width="42.0" height="21.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="339.0" x2="609.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="615.0" y1="354.0" x2="603.0" y2="354.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="615.0,366.0 603.0,366.0 609.0,354.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="609.0" y1="384.0" x2="654.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="339.0" x2="654.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="714.0" cy="354.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="744.0" cy="354.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="714.0" cy="384.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(759.0,354.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">NO</text>
+</g>
+<line x1="129.0" y1="462.0" x2="129.0" y2="459.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="126.0" y1="483.0" x2="132.0" y2="477.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="477.0" x2="126.0" y2="471.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="126.0" y1="471.0" x2="132.0" y2="465.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="465.0" x2="129.0" y2="462.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="126.0" y1="495.0" x2="132.0" y2="489.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="489.0" x2="126.0" y2="483.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="498.0" x2="126.0" y2="495.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="504.0" x2="129.0" y2="498.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(144.0,339.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R5 10K</text>
+</g>
+<g transform="translate(144.0,489.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R6 150</text>
+</g>
+<g transform="translate(204.0,414.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">LM358</text>
+</g>
+<g transform="translate(24.0,384.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">VRef Motor</text>
+</g>
+<g transform="translate(249.0,309.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R7 1K</text>
+</g>
+<g transform="translate(309.0,309.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D4</text>
+</g>
+<g transform="translate(279.0,369.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R8 2M7</text>
+</g>
+<g transform="translate(294.0,489.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">C6 1u</text>
+</g>
+<line x1="414.0" y1="444.0" x2="414.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(429.0,369.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">LM358</text>
+</g>
+<g transform="translate(504.0,444.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R9 1K2</text>
+</g>
+<g transform="translate(519.0,384.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R10 10K</text>
+</g>
+<g transform="translate(624.0,429.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Q2</text>
+</g>
+<g transform="translate(624.0,309.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">V in c.c. 12 V</text>
+</g>
+<line x1="129.0" y1="504.0" x2="129.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="489.0" y1="429.0" x2="489.0" y2="414.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="444.0" x2="609.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="609.0" cy="339.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="609.0" cy="384.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(579.0,354.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D5</text>
+</g>
+<g transform="translate(534.0,489.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D6</text>
+</g>
+<line x1="219.0" y1="759.0" x2="234.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="789.0" x2="234.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="279.0" y1="774.0" x2="294.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="789.0" x2="243.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="759.0" x2="243.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="756.0" x2="240.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="234.0,744.0 234.0,804.0 279.0,774.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="849.0" x2="234.0" y2="849.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="879.0" x2="234.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="279.0" y1="864.0" x2="294.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="879.0" x2="243.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="849.0" x2="243.0" y2="849.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="846.0" x2="240.0" y2="852.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="234.0,834.0 234.0,894.0 279.0,864.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="924.0" x2="234.0" y2="924.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="954.0" x2="234.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="279.0" y1="939.0" x2="294.0" y2="939.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="954.0" x2="243.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="924.0" x2="243.0" y2="924.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="921.0" x2="240.0" y2="927.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="234.0,909.0 234.0,969.0 279.0,939.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="642.0" x2="144.0" y2="639.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="663.0" x2="147.0" y2="657.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="657.0" x2="141.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="651.0" x2="147.0" y2="645.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="645.0" x2="144.0" y2="642.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="675.0" x2="147.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="669.0" x2="141.0" y2="663.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="678.0" x2="141.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="684.0" x2="144.0" y2="678.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="609.0" x2="144.0" y2="624.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="669.0" x2="234.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="699.0" x2="234.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="279.0" y1="684.0" x2="294.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="699.0" x2="243.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="669.0" x2="243.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="666.0" x2="240.0" y2="672.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="234.0,654.0 234.0,714.0 279.0,684.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="717.0" x2="144.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="738.0" x2="147.0" y2="732.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="732.0" x2="141.0" y2="726.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="726.0" x2="147.0" y2="720.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="720.0" x2="144.0" y2="717.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="750.0" x2="147.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="744.0" x2="141.0" y2="738.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="753.0" x2="141.0" y2="750.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="759.0" x2="144.0" y2="753.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="807.0" x2="144.0" y2="804.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="828.0" x2="147.0" y2="822.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="822.0" x2="141.0" y2="816.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="816.0" x2="147.0" y2="810.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="810.0" x2="144.0" y2="807.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="840.0" x2="147.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="834.0" x2="141.0" y2="828.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="843.0" x2="141.0" y2="840.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="849.0" x2="144.0" y2="843.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="957.0" x2="144.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="978.0" x2="147.0" y2="972.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="972.0" x2="141.0" y2="966.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="966.0" x2="147.0" y2="960.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="960.0" x2="144.0" y2="957.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="990.0" x2="147.0" y2="984.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="984.0" x2="141.0" y2="978.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="993.0" x2="141.0" y2="990.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="999.0" x2="144.0" y2="993.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="864.0" x2="69.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="864.0" x2="60.0" y2="867.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="864.0" x2="60.0" y2="861.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="837.0" x2="54.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="51.0" y1="858.0" x2="57.0" y2="852.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="852.0" x2="51.0" y2="846.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="51.0" y1="846.0" x2="57.0" y2="840.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="840.0" x2="54.0" y2="837.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="51.0" y1="870.0" x2="57.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="864.0" x2="51.0" y2="858.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="873.0" x2="51.0" y2="870.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="879.0" x2="54.0" y2="873.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="624.0" x2="144.0" y2="639.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="684.0" x2="144.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="759.0" x2="144.0" y2="804.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="849.0" x2="144.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(84.0,654.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R11 6K8</text>
+</g>
+<g transform="translate(84.0,729.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R12 27K</text>
+</g>
+<g transform="translate(84.0,819.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R15 75K</text>
+</g>
+<g transform="translate(84.0,969.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R16 27K</text>
+</g>
+<g transform="translate(249.0,639.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">&amp;gt;95%</text>
+</g>
+<g transform="translate(249.0,729.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">&amp;gt; 75%</text>
+</g>
+<g transform="translate(249.0,819.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">&amp;gt;20%</text>
+</g>
+<g transform="translate(249.0,969.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">&amp;lt; 20%</text>
+</g>
+<g transform="translate(234.0,609.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">LM324</text>
+</g>
+<g transform="translate(9.0,849.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">PT1K</text>
+</g>
+<line x1="144.0" y1="999.0" x2="144.0" y2="1014.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="1014.0" x2="153.0" y2="1014.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="138.0" y1="1017.0" x2="150.0" y2="1017.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="1020.0" x2="147.0" y2="1020.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="99.0" cy="984.0" rx="0.0" ry="15.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="594.0" x2="54.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="699.0" x2="144.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="789.0" x2="144.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="144.0" cy="699.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="144.0" cy="789.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="189.0" y1="684.0" x2="189.0" y2="693.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="714.0" x2="189.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 189.0,693.0 C 195.0,696.0 195.0,702.0 189.0,705.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="879.0" x2="219.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="774.0" x2="189.0" y2="783.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="804.0" x2="189.0" y2="795.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 189.0,783.0 C 195.0,786.0 195.0,792.0 189.0,795.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="684.0" x2="189.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="669.0" x2="219.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="714.0" x2="189.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="804.0" x2="189.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="954.0" x2="189.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="759.0" x2="189.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="189.0" cy="759.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="189.0" cy="849.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="219.0" y1="849.0" x2="189.0" y2="849.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="684.0" x2="339.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="687.0" x2="357.0" y2="681.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="357.0" y1="681.0" x2="351.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="687.0" x2="345.0" y2="681.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="345.0" y1="681.0" x2="342.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="687.0" x2="369.0" y2="681.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="369.0" y1="681.0" x2="363.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="378.0" y1="684.0" x2="375.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="684.0" x2="378.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="774.0" x2="339.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="777.0" x2="357.0" y2="771.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="357.0" y1="771.0" x2="351.0" y2="777.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="777.0" x2="345.0" y2="771.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="345.0" y1="771.0" x2="342.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="777.0" x2="369.0" y2="771.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="369.0" y1="771.0" x2="363.0" y2="777.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="378.0" y1="774.0" x2="375.0" y2="777.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="774.0" x2="378.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="864.0" x2="339.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="867.0" x2="357.0" y2="861.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="357.0" y1="861.0" x2="351.0" y2="867.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="867.0" x2="345.0" y2="861.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="345.0" y1="861.0" x2="342.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="867.0" x2="369.0" y2="861.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="369.0" y1="861.0" x2="363.0" y2="867.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="378.0" y1="864.0" x2="375.0" y2="867.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="864.0" x2="378.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="939.0" x2="339.0" y2="939.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="942.0" x2="357.0" y2="936.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="357.0" y1="936.0" x2="351.0" y2="942.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="942.0" x2="345.0" y2="936.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="345.0" y1="936.0" x2="342.0" y2="939.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="942.0" x2="369.0" y2="936.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="369.0" y1="936.0" x2="363.0" y2="942.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="378.0" y1="939.0" x2="375.0" y2="942.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="939.0" x2="378.0" y2="939.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="294.0" y1="684.0" x2="339.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="339.0" y1="774.0" x2="294.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="294.0" y1="864.0" x2="339.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="339.0" y1="939.0" x2="294.0" y2="939.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="399.0,678.0 399.0,690.0 411.0,684.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="429.0" y1="684.0" x2="384.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="405.0" cy="684.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="411.0" y1="678.0" x2="411.0" y2="690.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="669.0" x2="423.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="423.0,654.0 420.0,660.0 417.0,657.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="414.0" y1="672.0" x2="429.0" y2="657.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="429.0,657.0 426.0,663.0 423.0,660.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<polygon points="399.0,768.0 399.0,780.0 411.0,774.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="429.0" y1="774.0" x2="384.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="405.0" cy="774.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="411.0" y1="768.0" x2="411.0" y2="780.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="759.0" x2="423.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="423.0,744.0 420.0,750.0 417.0,747.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="414.0" y1="762.0" x2="429.0" y2="747.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="429.0,747.0 426.0,753.0 423.0,750.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<polygon points="399.0,858.0 399.0,870.0 411.0,864.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="429.0" y1="864.0" x2="384.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="405.0" cy="864.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="411.0" y1="858.0" x2="411.0" y2="870.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="849.0" x2="423.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="423.0,834.0 420.0,840.0 417.0,837.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="414.0" y1="852.0" x2="429.0" y2="837.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="429.0,837.0 426.0,843.0 423.0,840.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<polygon points="399.0,933.0 399.0,945.0 411.0,939.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="429.0" y1="939.0" x2="384.0" y2="939.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="405.0" cy="939.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="411.0" y1="933.0" x2="411.0" y2="945.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="924.0" x2="423.0" y2="909.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="423.0,909.0 420.0,915.0 417.0,912.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="414.0" y1="927.0" x2="429.0" y2="912.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="429.0,912.0 426.0,918.0 423.0,915.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="429.0" y1="684.0" x2="444.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="444.0" y1="693.0" x2="444.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="447.0" y1="690.0" x2="447.0" y2="678.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="450.0" y1="687.0" x2="450.0" y2="681.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="429.0" y1="774.0" x2="444.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="444.0" y1="783.0" x2="444.0" y2="765.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="447.0" y1="780.0" x2="447.0" y2="768.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="450.0" y1="777.0" x2="450.0" y2="771.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="429.0" y1="864.0" x2="444.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="444.0" y1="873.0" x2="444.0" y2="855.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="447.0" y1="870.0" x2="447.0" y2="858.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="450.0" y1="867.0" x2="450.0" y2="861.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="429.0" y1="939.0" x2="444.0" y2="939.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="444.0" y1="948.0" x2="444.0" y2="930.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="447.0" y1="945.0" x2="447.0" y2="933.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="450.0" y1="942.0" x2="450.0" y2="936.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(444.0,654.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D10</text>
+</g>
+<g transform="translate(339.0,654.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R17 1K2</text>
+</g>
+<g transform="translate(339.0,744.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R18 1K2</text>
+</g>
+<g transform="translate(444.0,744.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D9</text>
+</g>
+<g transform="translate(339.0,834.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R19 1K2</text>
+</g>
+<g transform="translate(339.0,909.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R20 1K2</text>
+</g>
+<g transform="translate(444.0,834.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D8</text>
+</g>
+<circle cx="324.0" cy="774.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="54.0" y1="879.0" x2="54.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="894.0" x2="63.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="48.0" y1="897.0" x2="60.0" y2="897.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="51.0" y1="900.0" x2="57.0" y2="900.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="894.0" y1="639.0" x2="309.0" y2="639.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="309.0" y1="639.0" x2="309.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="309.0" cy="684.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="144.0" cy="879.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="219.0" y1="924.0" x2="144.0" y2="924.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="144.0" cy="924.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="819.0" y1="885.0" x2="834.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="789.0" y1="879.0" x2="819.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="819.0" y1="864.0" x2="819.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="834.0" y1="864.0" x2="834.0" y2="849.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="819.0" y1="873.0" x2="834.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="834.0" y1="894.0" x2="834.0" y2="909.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="825.0" cy="879.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="828.0,894.0 831.0,888.0 834.0,894.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="609.0" y1="885.0" x2="594.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="639.0" y1="879.0" x2="609.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="864.0" x2="609.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="864.0" x2="594.0" y2="849.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="873.0" x2="594.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="894.0" x2="594.0" y2="909.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="603.0" cy="879.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="600.0,894.0 597.0,888.0 594.0,894.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="594.0" y1="777.0" x2="594.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="591.0" y1="798.0" x2="597.0" y2="792.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="597.0" y1="792.0" x2="591.0" y2="786.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="591.0" y1="786.0" x2="597.0" y2="780.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="597.0" y1="780.0" x2="594.0" y2="777.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="591.0" y1="810.0" x2="597.0" y2="804.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="597.0" y1="804.0" x2="591.0" y2="798.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="813.0" x2="591.0" y2="810.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="819.0" x2="594.0" y2="813.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="834.0" y1="777.0" x2="834.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="831.0" y1="798.0" x2="837.0" y2="792.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="837.0" y1="792.0" x2="831.0" y2="786.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="831.0" y1="786.0" x2="837.0" y2="780.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="837.0" y1="780.0" x2="834.0" y2="777.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="831.0" y1="810.0" x2="837.0" y2="804.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="837.0" y1="804.0" x2="831.0" y2="798.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="834.0" y1="813.0" x2="831.0" y2="810.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="834.0" y1="819.0" x2="834.0" y2="813.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="651.0" y1="834.0" x2="654.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="630.0" y1="831.0" x2="636.0" y2="837.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="636.0" y1="837.0" x2="642.0" y2="831.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="642.0" y1="831.0" x2="648.0" y2="837.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="648.0" y1="837.0" x2="651.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="618.0" y1="831.0" x2="624.0" y2="837.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="624.0" y1="837.0" x2="630.0" y2="831.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="615.0" y1="834.0" x2="618.0" y2="831.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="834.0" x2="615.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="777.0" y1="834.0" x2="774.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="798.0" y1="837.0" x2="792.0" y2="831.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="792.0" y1="831.0" x2="786.0" y2="837.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="786.0" y1="837.0" x2="780.0" y2="831.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="780.0" y1="831.0" x2="777.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="810.0" y1="837.0" x2="804.0" y2="831.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="804.0" y1="831.0" x2="798.0" y2="837.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="813.0" y1="834.0" x2="810.0" y2="837.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="819.0" y1="834.0" x2="813.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="819.0" x2="594.0" y2="849.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="834.0" x2="594.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="654.0" y1="834.0" x2="669.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="759.0" y1="879.0" x2="789.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="819.0" y1="834.0" x2="894.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="834.0" y1="819.0" x2="834.0" y2="849.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="774.0" x2="594.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="759.0" x2="834.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="834.0" y1="759.0" x2="834.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="774.0" y1="834.0" x2="759.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="639.0" y1="879.0" x2="669.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="651.0" y1="969.0" x2="654.0" y2="969.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="630.0" y1="966.0" x2="636.0" y2="972.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="636.0" y1="972.0" x2="642.0" y2="966.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="642.0" y1="966.0" x2="648.0" y2="972.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="648.0" y1="972.0" x2="651.0" y2="969.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="618.0" y1="966.0" x2="624.0" y2="972.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="624.0" y1="972.0" x2="630.0" y2="966.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="615.0" y1="969.0" x2="618.0" y2="966.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="969.0" x2="615.0" y2="969.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="759.0" y1="897.0" x2="759.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="756.0" y1="918.0" x2="762.0" y2="912.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="762.0" y1="912.0" x2="756.0" y2="906.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="756.0" y1="906.0" x2="762.0" y2="900.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="762.0" y1="900.0" x2="759.0" y2="897.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="756.0" y1="930.0" x2="762.0" y2="924.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="762.0" y1="924.0" x2="756.0" y2="918.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="759.0" y1="933.0" x2="756.0" y2="930.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="759.0" y1="939.0" x2="759.0" y2="933.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="669.0" y1="969.0" x2="669.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="759.0" y1="879.0" x2="759.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="759.0" y1="879.0" x2="759.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="759.0" cy="879.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="669.0" cy="879.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="834.0" cy="834.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="714.0" cy="759.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="714.0" y1="729.0" x2="714.0" y2="723.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="714.0" cy="717.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="714.0" y1="720.0" x2="714.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="711.0" y1="717.0" x2="717.0" y2="717.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="714.0" y1="729.0" x2="714.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="909.0" x2="594.0" y2="924.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="585.0" y1="924.0" x2="603.0" y2="924.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="588.0" y1="927.0" x2="600.0" y2="927.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="591.0" y1="930.0" x2="597.0" y2="930.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="834.0" y1="909.0" x2="834.0" y2="924.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="825.0" y1="924.0" x2="843.0" y2="924.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="828.0" y1="927.0" x2="840.0" y2="927.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="831.0" y1="930.0" x2="837.0" y2="930.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="594.0" cy="834.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(684.0,684.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">V in c.c. 12 V</text>
+</g>
+<g transform="translate(609.0,789.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R23 1K</text>
+</g>
+<g transform="translate(774.0,789.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R25 1K</text>
+</g>
+<line x1="669.0" y1="834.0" x2="759.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="759.0" y1="834.0" x2="669.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(609.0,804.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R22 4K7</text>
+</g>
+<g transform="translate(774.0,804.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R24 4K7</text>
+</g>
+<g transform="translate(714.0,909.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R26 4K7</text>
+</g>
+<g transform="translate(609.0,939.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R21 4K7</text>
+</g>
+<g transform="translate(564.0,879.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Q3</text>
+</g>
+<g transform="translate(849.0,864.0) scale(1.0,1.0)"><text x="0.0" y="9.0" font-family="Courier New, monospace" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Q4</text>
+</g>
+<line x1="654.0" y1="969.0" x2="669.0" y2="969.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="969.0" x2="309.0" y2="969.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="309.0" y1="969.0" x2="309.0" y2="939.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="519.0" y1="804.0" x2="519.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="759.0" y1="984.0" x2="759.0" y2="939.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="669.0" y1="999.0" x2="669.0" y2="1011.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="669.0" y1="1017.0" x2="669.0" y2="1029.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="675.0" y1="1011.0" x2="663.0" y2="1011.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="675.0" y1="1017.0" x2="663.0" y2="1017.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="669.0" y1="1029.0" x2="669.0" y2="1044.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="660.0" y1="1044.0" x2="678.0" y2="1044.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="663.0" y1="1047.0" x2="675.0" y2="1047.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="666.0" y1="1050.0" x2="672.0" y2="1050.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(684.0,1014.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">C7 100n</text>
+</g>
+<circle cx="669.0" cy="969.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="129.0" y1="864.0" x2="138.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="159.0" y1="864.0" x2="150.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 138.0,864.0 C 141.0,858.0 147.0,858.0 150.0,864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="69.0" y1="864.0" x2="129.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="159.0" y1="864.0" x2="189.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="189.0" cy="864.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="519.0" y1="984.0" x2="759.0" y2="984.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="309.0" cy="939.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="519.0" y1="954.0" x2="519.0" y2="963.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="519.0" y1="984.0" x2="519.0" y2="975.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 519.0,963.0 C 525.0,966.0 525.0,972.0 519.0,975.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="774.0" x2="324.0" y2="804.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="804.0" x2="519.0" y2="804.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="669.0" y1="969.0" x2="669.0" y2="978.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="669.0" y1="999.0" x2="669.0" y2="990.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 669.0,978.0 C 675.0,981.0 675.0,987.0 669.0,990.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(444.0,909.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D7</text>
+</g>
+<line x1="144.0" y1="609.0" x2="54.0" y2="609.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1104.0" y1="612.0" x2="1104.0" y2="609.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="633.0" x2="1107.0" y2="627.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="627.0" x2="1101.0" y2="621.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="621.0" x2="1107.0" y2="615.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="615.0" x2="1104.0" y2="612.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="645.0" x2="1107.0" y2="639.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="639.0" x2="1101.0" y2="633.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1104.0" y1="648.0" x2="1101.0" y2="645.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1104.0" y1="654.0" x2="1104.0" y2="648.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1104.0" y1="747.0" x2="1104.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="768.0" x2="1107.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="762.0" x2="1101.0" y2="756.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="756.0" x2="1107.0" y2="750.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="750.0" x2="1104.0" y2="747.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="780.0" x2="1107.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="774.0" x2="1101.0" y2="768.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1104.0" y1="783.0" x2="1101.0" y2="780.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1104.0" y1="789.0" x2="1104.0" y2="783.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1314.0" y1="612.0" x2="1314.0" y2="609.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1311.0" y1="633.0" x2="1317.0" y2="627.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1317.0" y1="627.0" x2="1311.0" y2="621.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1311.0" y1="621.0" x2="1317.0" y2="615.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1317.0" y1="615.0" x2="1314.0" y2="612.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1311.0" y1="645.0" x2="1317.0" y2="639.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1317.0" y1="639.0" x2="1311.0" y2="633.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1314.0" y1="648.0" x2="1311.0" y2="645.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1314.0" y1="654.0" x2="1314.0" y2="648.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1314.0" y1="747.0" x2="1314.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1311.0" y1="768.0" x2="1317.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1317.0" y1="762.0" x2="1311.0" y2="756.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1311.0" y1="756.0" x2="1317.0" y2="750.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1317.0" y1="750.0" x2="1314.0" y2="747.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1311.0" y1="780.0" x2="1317.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1317.0" y1="774.0" x2="1311.0" y2="768.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1314.0" y1="783.0" x2="1311.0" y2="780.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1314.0" y1="789.0" x2="1314.0" y2="783.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1149.0" y1="774.0" x2="1149.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1104.0" y1="789.0" x2="1314.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1269.0" y1="789.0" x2="1269.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1149.0" y1="624.0" x2="1149.0" y2="609.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1104.0" y1="609.0" x2="1314.0" y2="609.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1269.0" y1="609.0" x2="1269.0" y2="624.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1149.0" y1="684.0" x2="1149.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1269.0" y1="684.0" x2="1269.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1179.0" y1="609.0" x2="1179.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1173.0" y1="624.0" x2="1185.0" y2="624.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1173.0,636.0 1185.0,636.0 1179.0,624.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="1179.0" y1="744.0" x2="1179.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1173.0" y1="759.0" x2="1185.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1173.0,771.0 1185.0,771.0 1179.0,759.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="1239.0" y1="744.0" x2="1239.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1233.0" y1="759.0" x2="1245.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1233.0,771.0 1245.0,771.0 1239.0,759.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="1239.0" y1="609.0" x2="1239.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1233.0" y1="624.0" x2="1245.0" y2="624.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1233.0,636.0 1245.0,636.0 1239.0,624.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<circle cx="1179.0" cy="609.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1239.0" cy="609.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1179.0" cy="789.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1239.0" cy="789.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1179.0" cy="699.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1239.0" cy="699.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1269.0" cy="699.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1149.0" cy="699.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="1179.0" y1="654.0" x2="1179.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1149.0" y1="699.0" x2="1194.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1224.0" y1="699.0" x2="1269.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1239.0" y1="654.0" x2="1239.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="789.0" x2="1209.0" y2="804.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="1209.0" cy="789.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1209.0" cy="609.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1104.0" cy="744.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="1140.0" y1="744.0" x2="1140.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1149.0" y1="738.0" x2="1140.0" y2="747.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1140.0" y1="753.0" x2="1149.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1149.0,762.0 1146.0,756.0 1143.0,759.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="1149.0" y1="762.0" x2="1149.0" y2="777.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1137.0,750.0 1134.0,753.0 1140.0,756.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="1131.0" y1="747.0" x2="1140.0" y2="756.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1131.0" y1="738.0" x2="1131.0" y2="750.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1140.0" y1="732.0" x2="1131.0" y2="741.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1140.0" y1="732.0" x2="1149.0" y2="732.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1149.0" y1="738.0" x2="1149.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1104.0" y1="744.0" x2="1131.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1140.0" cy="747.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1278.0" y1="744.0" x2="1278.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1269.0" y1="738.0" x2="1278.0" y2="747.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1278.0" y1="753.0" x2="1269.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1269.0,762.0 1272.0,756.0 1275.0,759.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="1269.0" y1="762.0" x2="1269.0" y2="777.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1281.0,750.0 1284.0,753.0 1278.0,756.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="1287.0" y1="747.0" x2="1278.0" y2="756.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1287.0" y1="738.0" x2="1287.0" y2="750.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1278.0" y1="732.0" x2="1287.0" y2="741.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1278.0" y1="732.0" x2="1269.0" y2="732.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1269.0" y1="738.0" x2="1269.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1314.0" y1="744.0" x2="1287.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1278.0" cy="747.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1071.0" y1="654.0" x2="1074.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1050.0" y1="651.0" x2="1056.0" y2="657.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1056.0" y1="657.0" x2="1062.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1062.0" y1="651.0" x2="1068.0" y2="657.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1068.0" y1="657.0" x2="1071.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1038.0" y1="651.0" x2="1044.0" y2="657.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1044.0" y1="657.0" x2="1050.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1035.0" y1="654.0" x2="1038.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1029.0" y1="654.0" x2="1035.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="1104.0" cy="654.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1269.0" cy="609.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1314.0" cy="789.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1314.0" cy="744.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="1347.0" y1="654.0" x2="1344.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1368.0" y1="657.0" x2="1362.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1362.0" y1="651.0" x2="1356.0" y2="657.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1356.0" y1="657.0" x2="1350.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1350.0" y1="651.0" x2="1347.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1380.0" y1="657.0" x2="1374.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1374.0" y1="651.0" x2="1368.0" y2="657.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1383.0" y1="654.0" x2="1380.0" y2="657.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1389.0" y1="654.0" x2="1383.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="1314.0" cy="654.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="1104.0" y1="744.0" x2="1059.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1269.0" y1="660.0" x2="1278.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1278.0" y1="645.0" x2="1269.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1269.0" y1="636.0" x2="1269.0" y2="621.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1287.0" y1="651.0" x2="1278.0" y2="642.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1287.0" y1="660.0" x2="1287.0" y2="648.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1278.0" y1="666.0" x2="1287.0" y2="657.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1278.0" y1="666.0" x2="1269.0" y2="666.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1269.0" y1="660.0" x2="1269.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1314.0" y1="654.0" x2="1287.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1278.0" y1="654.0" x2="1278.0" y2="639.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1281.0,648.0 1284.0,645.0 1287.0,651.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<polygon points="1278.0,645.0 1272.0,642.0 1275.0,639.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<ellipse cx="1278.0" cy="651.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1149.0" y1="660.0" x2="1140.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1140.0" y1="645.0" x2="1149.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1149.0" y1="636.0" x2="1149.0" y2="621.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1131.0" y1="651.0" x2="1140.0" y2="642.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1131.0" y1="660.0" x2="1131.0" y2="648.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1140.0" y1="666.0" x2="1131.0" y2="657.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1140.0" y1="666.0" x2="1149.0" y2="666.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1149.0" y1="660.0" x2="1149.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1104.0" y1="654.0" x2="1131.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1140.0" y1="654.0" x2="1140.0" y2="639.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1137.0,648.0 1134.0,645.0 1131.0,651.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<polygon points="1140.0,645.0 1146.0,642.0 1143.0,639.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<ellipse cx="1140.0" cy="651.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1404.0" y1="654.0" x2="1404.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="999.0" y1="690.0" x2="1014.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="969.0" y1="684.0" x2="999.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="999.0" y1="669.0" x2="999.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1014.0" y1="669.0" x2="1014.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="999.0" y1="678.0" x2="1014.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1014.0" y1="699.0" x2="1014.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1005.0" cy="684.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1008.0,699.0 1011.0,693.0 1014.0,699.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="1074.0" y1="729.0" x2="1074.0" y2="738.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1074.0" y1="759.0" x2="1074.0" y2="750.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 1074.0,738.0 C 1080.0,741.0 1080.0,747.0 1074.0,750.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1014.0" y1="714.0" x2="1074.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1074.0" y1="714.0" x2="1074.0" y2="729.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1314.0" y1="744.0" x2="1329.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1329.0" y1="744.0" x2="1329.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1329.0" y1="834.0" x2="1074.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1074.0" y1="834.0" x2="1074.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="927.0" y1="684.0" x2="924.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="948.0" y1="687.0" x2="942.0" y2="681.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="942.0" y1="681.0" x2="936.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="936.0" y1="687.0" x2="930.0" y2="681.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="930.0" y1="681.0" x2="927.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="960.0" y1="687.0" x2="954.0" y2="681.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="954.0" y1="681.0" x2="948.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="963.0" y1="684.0" x2="960.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="969.0" y1="684.0" x2="963.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(924.0,654.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R27 10K</text>
+</g>
+<line x1="924.0" y1="684.0" x2="894.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="819.0" x2="1209.0" y2="828.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="849.0" x2="1209.0" y2="840.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 1209.0,828.0 C 1215.0,831.0 1215.0,837.0 1209.0,840.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="849.0" x2="1209.0" y2="858.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="879.0" x2="1209.0" y2="870.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 1209.0,858.0 C 1215.0,861.0 1215.0,867.0 1209.0,870.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="804.0" x2="1209.0" y2="819.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(1119.0,684.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">O1</text>
+</g>
+<g transform="translate(1284.0,684.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">O2</text>
+</g>
+<g transform="translate(1044.0,609.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R30 10K</text>
+</g>
+<g transform="translate(1044.0,669.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R29 1K</text>
+</g>
+<g transform="translate(1029.0,759.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R34 10K</text>
+</g>
+<g transform="translate(1344.0,759.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R33 10K</text>
+</g>
+<g transform="translate(1359.0,669.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R32 1K</text>
+</g>
+<g transform="translate(1329.0,609.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R31 10K</text>
+</g>
+<line x1="1404.0" y1="654.0" x2="1389.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="999.0" y1="783.0" x2="1014.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="969.0" y1="789.0" x2="999.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="999.0" y1="804.0" x2="999.0" y2="774.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1014.0" y1="804.0" x2="1014.0" y2="819.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="999.0" y1="795.0" x2="1014.0" y2="804.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1014.0" y1="774.0" x2="1014.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1005.0" cy="789.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="1008.0,774.0 1011.0,780.0 1014.0,774.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="1404.0" y1="864.0" x2="1014.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1014.0" y1="819.0" x2="1014.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1014.0" y1="759.0" x2="1014.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1014.0" y1="744.0" x2="1059.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1074.0" y1="654.0" x2="1104.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1014.0" y1="654.0" x2="1029.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1314.0" y1="654.0" x2="1344.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="897.0" x2="1209.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1206.0" y1="918.0" x2="1212.0" y2="912.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1212.0" y1="912.0" x2="1206.0" y2="906.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1206.0" y1="906.0" x2="1212.0" y2="900.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1212.0" y1="900.0" x2="1209.0" y2="897.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1206.0" y1="930.0" x2="1212.0" y2="924.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1212.0" y1="924.0" x2="1206.0" y2="918.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="933.0" x2="1206.0" y2="930.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="939.0" x2="1209.0" y2="933.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="939.0" x2="1209.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1200.0" y1="954.0" x2="1218.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1203.0" y1="957.0" x2="1215.0" y2="957.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1206.0" y1="960.0" x2="1212.0" y2="960.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="927.0" y1="789.0" x2="924.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="948.0" y1="792.0" x2="942.0" y2="786.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="942.0" y1="786.0" x2="936.0" y2="792.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="936.0" y1="792.0" x2="930.0" y2="786.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="930.0" y1="786.0" x2="927.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="960.0" y1="792.0" x2="954.0" y2="786.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="954.0" y1="786.0" x2="948.0" y2="792.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="963.0" y1="789.0" x2="960.0" y2="792.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="969.0" y1="789.0" x2="963.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="924.0" y1="789.0" x2="894.0" y2="789.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="879.0" x2="1209.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1209.0" y1="879.0" x2="1314.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="1209.0" cy="879.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="1209.0" y1="609.0" x2="1209.0" y2="549.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(924.0,759.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R28 4K7</text>
+</g>
+<g transform="translate(1224.0,909.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R35 1 Ohm 5W</text>
+</g>
+<circle cx="1224.0" cy="699.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1194.0" cy="699.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(984.0,639.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Q5</text>
+</g>
+<g transform="translate(1029.0,804.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Q6</text>
+</g>
+<g transform="translate(1134.0,594.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Q7</text>
+</g>
+<g transform="translate(1134.0,804.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Q8</text>
+</g>
+<g transform="translate(1269.0,804.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Q9</text>
+</g>
+<g transform="translate(1284.0,594.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Q10</text>
+</g>
+<g transform="translate(1194.0,624.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D11</text>
+</g>
+<g transform="translate(1209.0,654.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D12</text>
+</g>
+<g transform="translate(1194.0,744.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D13</text>
+</g>
+<g transform="translate(1209.0,759.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D14</text>
+</g>
+<line x1="894.0" y1="639.0" x2="894.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="894.0" y1="789.0" x2="894.0" y2="834.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="714.0" y1="549.0" x2="1209.0" y2="549.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="54.0" cy="609.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="54.0" y1="594.0" x2="54.0" y2="588.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="582.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="585.0" x2="54.0" y2="579.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="51.0" y1="582.0" x2="57.0" y2="582.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="294.0" x2="129.0" y2="288.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="129.0" cy="282.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="285.0" x2="129.0" y2="279.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="126.0" y1="282.0" x2="132.0" y2="282.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(129.0,249.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">V in c.c. 12 V</text>
+</g>
+<g transform="translate(84.0,579.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">V in c.c. 12 V</text>
+</g>
+<g transform="translate(699.0,249.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">V in c.c. Motor</text>
+</g>
+<line x1="1419.0" y1="879.0" x2="1419.0" y2="174.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="462.0" x2="99.0" y2="459.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="96.0" y1="483.0" x2="102.0" y2="477.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="102.0" y1="477.0" x2="96.0" y2="471.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="96.0" y1="471.0" x2="102.0" y2="465.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="102.0" y1="465.0" x2="99.0" y2="462.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="96.0" y1="495.0" x2="102.0" y2="489.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="102.0" y1="489.0" x2="96.0" y2="483.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="498.0" x2="96.0" y2="495.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="504.0" x2="99.0" y2="498.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="519.0" x2="99.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="90.0" y1="534.0" x2="108.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="93.0" y1="537.0" x2="105.0" y2="537.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="96.0" y1="540.0" x2="102.0" y2="540.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(54.0,504.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">RZ 10K</text>
+</g>
+<line x1="303.0" y1="96.0" x2="303.0" y2="117.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="303.0" y1="117.0" x2="297.0" y2="117.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="129.0" x2="324.0" y2="114.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="84.0" x2="324.0" y2="99.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="114.0" x2="315.0" y2="99.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="69.0" x2="324.0" y2="84.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="129.0" x2="324.0" y2="174.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="318.0" y1="105.0" x2="303.0" y2="105.0" style="stroke:#000000;stroke-dasharray: 7.5,7.5;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="303.0" y1="96.0" x2="309.0" y2="96.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="174.0" x2="1419.0" y2="174.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="384.0" x2="99.0" y2="69.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="69.0" x2="324.0" y2="69.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="504.0" x2="99.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="384.0" x2="99.0" y2="459.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1317.0" y1="879.0" x2="1314.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1338.0" y1="882.0" x2="1332.0" y2="876.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1332.0" y1="876.0" x2="1326.0" y2="882.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1326.0" y1="882.0" x2="1320.0" y2="876.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1320.0" y1="876.0" x2="1317.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1350.0" y1="882.0" x2="1344.0" y2="876.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1344.0" y1="876.0" x2="1338.0" y2="882.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1353.0" y1="879.0" x2="1350.0" y2="882.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1359.0" y1="879.0" x2="1353.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(1314.0,894.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">4k7</text>
+</g>
+<line x1="1389.0" y1="894.0" x2="1389.0" y2="906.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1389.0" y1="912.0" x2="1389.0" y2="924.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1395.0" y1="906.0" x2="1383.0" y2="906.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1395.0" y1="912.0" x2="1383.0" y2="912.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(1404.0,924.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">100 nF</text>
+</g>
+<line x1="1389.0" y1="939.0" x2="1389.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1380.0" y1="954.0" x2="1398.0" y2="954.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1383.0" y1="957.0" x2="1395.0" y2="957.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1386.0" y1="960.0" x2="1392.0" y2="960.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1359.0" y1="879.0" x2="1419.0" y2="879.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1389.0" y1="879.0" x2="1389.0" y2="894.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="1389.0" y1="924.0" x2="1389.0" y2="939.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="339.0" x2="384.0" y2="309.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="477.0" x2="384.0" y2="474.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="381.0" y1="498.0" x2="387.0" y2="492.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="492.0" x2="381.0" y2="486.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="381.0" y1="486.0" x2="387.0" y2="480.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="480.0" x2="384.0" y2="477.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="381.0" y1="510.0" x2="387.0" y2="504.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="504.0" x2="381.0" y2="498.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="513.0" x2="381.0" y2="510.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="519.0" x2="384.0" y2="513.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(414.0,489.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">10k</text>
+</g>
+<line x1="384.0" y1="342.0" x2="384.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="381.0" y1="363.0" x2="387.0" y2="357.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="357.0" x2="381.0" y2="351.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="381.0" y1="351.0" x2="387.0" y2="345.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="345.0" x2="384.0" y2="342.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="381.0" y1="375.0" x2="387.0" y2="369.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="369.0" x2="381.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="378.0" x2="381.0" y2="375.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="384.0" x2="384.0" y2="378.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(399.0,339.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">10k</text>
+</g>
+<line x1="384.0" y1="384.0" x2="384.0" y2="474.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="519.0" x2="384.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="534.0" x2="393.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="378.0" y1="537.0" x2="390.0" y2="537.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="381.0" y1="540.0" x2="387.0" y2="540.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="519.0" x2="384.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="309.0" x2="384.0" y2="303.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="384.0" cy="297.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="300.0" x2="384.0" y2="294.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="381.0" y1="297.0" x2="387.0" y2="297.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(384.0,264.0) scale(1.0,1.0)"><text x="0.0" y="11.0" font-family="Dialog, sans-serif" font-size="10.79" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">V in c.c. 12 V</text>
+</g>
+<rect x="1029.0" y="534.0" rx="0" ry="0" width="435.0" height="465.0" style="stroke:#000080;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<rect x="9.0" y="9.0" rx="0" ry="0" width="780.0" height="555.0" style="stroke:#ff0000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+</svg>

@@ -1,0 +1,136 @@
+[FIDOCAD]
+FJC C 1.5
+FJC L 11 -16678657 0.2
+FJC B 0.5
+LI 795 416 639 416 0
+LI 709 391 709 363 0
+FCJ 1 0 3 1 0 1
+TY 716 387 4 3 0 0 0 Times++New++Roman I7
+TY 699 396 4 3 0 0 0 Times++New++Roman 
+MC 709 396 1 0 ey_libraries.pasres0
+FCJ
+TY 717 395 4 3 0 0 0 Times++New++Roman R7
+TY 699 406 4 3 0 0 0 Times++New++Roman 
+MC 669 408 2 0 ey_libraries.genvis1
+FCJ
+TY 655 403 4 3 0 0 0 Times++New++Roman E3
+TY 663 413 4 3 0 0 0 Times++New++Roman 
+MC 669 388 1 0 ey_libraries.pasres0
+FCJ
+TY 660 389 4 3 0 0 0 Times++New++Roman R4
+TY 679 400 4 3 0 0 0 Times++New++Roman 
+LI 669 411 669 416 0
+LI 669 363 669 385 0
+FCJ 2 0 3 1 0 1
+TY 672 383 4 3 0 0 0 Times++New++Roman I4
+TY 674 379 4 3 0 0 0 Times++New++Roman 
+LI 639 379 639 385 0
+FCJ 2 0 3 1 0 1
+TY 632 381 4 3 0 0 0 Times++New++Roman I2
+TY 644 384 4 3 0 0 0 Times++New++Roman 
+LI 639 351 684 351 0
+MC 639 375 2 0 ey_libraries.genvis1
+FCJ
+TY 627 368 4 3 0 0 0 Times++New++Roman E0
+TY 649 365 4 3 0 0 0 Times++New++Roman 
+MC 639 389 1 0 ey_libraries.pasres0
+FCJ
+TY 629 389 4 3 0 0 0 Times++New++Roman R2
+TY 649 399 4 3 0 0 0 Times++New++Roman 
+MC 639 409 2 0 ey_libraries.genvis1
+FCJ
+TY 641 396 4 3 0 0 0 Times++New++Roman E3
+TY 629 419 4 3 0 0 0 Times++New++Roman 
+LI 639 414 639 416 0
+LI 639 363 639 366 0
+LI 704 351 699 351 0
+MC 714 351 2 0 ey_libraries.pasres0
+FCJ
+TY 714 341 4 3 0 0 0 Times++New++Roman R1
+TY 704 361 4 3 0 0 0 Times++New++Roman 
+MC 694 351 1 0 ey_libraries.genvis1
+FCJ
+TY 694 339 4 3 0 0 0 Times++New++Roman E0
+TY 684 341 4 3 0 0 0 Times++New++Roman 
+LI 738 351 719 351 0
+FCJ 2 0 3 1 0 1
+TY 724 344 4 3 0 0 0 Times++New++Roman I1
+TY 709 391 4 3 0 0 0 Times++New++Roman 
+LI 639 329 639 363 0
+LI 768 351 795 351 0
+LI 768 356 768 351 0
+FCJ 2 0 3 1 0 1
+TY 770 353 4 3 0 0 0 Times++New++Roman I6
+TY 773 366 4 3 0 0 0 Times++New++Roman 
+MC 685 329 1 0 ey_libraries.genidc0
+FCJ
+TY 683 336 4 3 0 0 0 Times++New++Roman ig
+TY 675 339 4 3 0 0 0 Times++New++Roman 
+MC 748 351 0 0 ey_libraries.pasres0
+FCJ
+TY 748 341 4 3 0 0 0 Times++New++Roman R5
+TY 758 361 4 3 0 0 0 Times++New++Roman 
+MC 768 361 0 0 ey_libraries.genvis1
+FCJ
+TY 776 362 4 3 0 0 0 Times++New++Roman E2
+TY 778 371 4 3 0 0 0 Times++New++Roman 
+MC 768 376 1 0 ey_libraries.pasres0
+FCJ
+TY 773 376 4 3 0 0 0 Times++New++Roman R6
+TY 778 386 4 3 0 0 0 Times++New++Roman 
+MC 795 371 1 0 ey_libraries.pasres0
+FCJ
+TY 800 376 4 3 0 0 0 Times++New++Roman R8
+TY 805 386 4 3 0 0 0 Times++New++Roman 
+LI 795 416 795 381 0
+LI 795 366 795 351 0
+FCJ 2 0 3 1 0 1
+TY 798 355 4 3 0 0 0 Times++New++Roman I8
+TY 800 376 4 3 0 0 0 Times++New++Roman 
+RV 677 366 703 412 2
+FCJ 3 1
+TY 683 375 4 3 0 0 2 Times++New++Roman c
+TY 673 371 4 3 0 0 2 Times++New++Roman 
+RV 772 370 791 411 2
+FCJ 3 1
+TY 784 399 4 3 0 0 2 Times++New++Roman b
+TY 779 380 4 3 0 0 2 Times++New++Roman 
+SA 705 351 2
+FCJ
+TY 703 342 4 3 0 0 2 Times++New++Roman G
+TY 695 356 4 3 0 0 2 Times++New++Roman 
+RV 647 367 662 412 2
+FCJ 3 1
+TY 652 372 4 3 0 0 2 Times++New++Roman d
+TY 647 372 4 3 0 0 2 Times++New++Roman 
+RV 713 356 763 410 2
+FCJ 3 1
+TY 723 368 4 3 0 0 2 Times++New++Roman a
+TY 724 392 4 3 0 0 2 Times++New++Roman 
+SA 639 399 2
+FCJ
+TY 632 395 4 3 0 0 2 Times++New++Roman B
+TY 644 409 4 3 0 0 2 Times++New++Roman 
+SA 639 385 2
+FCJ
+TY 642 384 4 3 0 0 2 Times++New++Roman G
+TY 643 396 4 3 0 0 2 Times++New++Roman 
+SA 669 397 2
+FCJ
+TY 672 395 4 3 0 0 2 Times++New++Roman B
+TY 674 407 4 3 0 0 2 Times++New++Roman 
+RP 743 341 805 426 11
+RP 628 318 741 356 11
+RP 626 360 730 426 11
+LI 675 329 639 329 15
+TY 729 345 4 3 0 0 15 Times++New++Roman A
+LI 757 351 768 351 15
+TY 722 419 4 3 0 0 15 Times++New++Roman C
+LI 744 351 739 351 15
+LI 709 406 709 416 15
+LI 709 363 639 363 15
+LI 739 329 739 351 15
+LI 768 416 768 386 15
+TY 668 357 4 3 0 0 15 Times++New++Roman D
+TY 766 343 4 3 0 0 15 Times++New++Roman F
+LI 739 329 690 329 15

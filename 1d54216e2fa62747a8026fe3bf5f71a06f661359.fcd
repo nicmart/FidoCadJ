@@ -1,0 +1,512 @@
+[FIDOCAD]
+FJC A 0.8
+FJC B 0.8
+MC 62 52 1 0 ey_libraries.pasres0
+MC 115 69 2 0 ey_libraries.pasres0
+MC 359 63 1 0 ey_libraries.pascap0
+MC 359 229 1 0 ey_libraries.pascap0
+MC 62 39 0 0 ey_libraries.pascap1
+MC 60 232 0 0 ey_libraries.pascap1
+MC 120 99 1 0 030
+MC 205 181 0 0 010
+MC 205 151 0 0 020
+MC 40 227 0 1 000
+MC 334 86 0 0 300
+MC 334 251 0 0 300
+MC 41 34 0 1 000
+MC 62 99 0 0 elettrotecnica.ms05
+MC 337 192 0 0 elettrotecnica.ms05
+MC 262 39 0 0 elettrotecnica.ms05
+MC 364 69 0 0 elettrotecnica.ms05
+MC 364 236 0 0 elettrotecnica.ms05
+MC 371 118 0 0 elettrotecnica.ms05
+MC 364 290 0 0 elettrotecnica.ms05
+MC 235 90 0 0 elettrotecnica.ms05
+MC 59 293 0 0 elettrotecnica.ms05
+MC 69 177 0 0 elettrotecnica.ms05
+MC 197 194 0 0 elettrotecnica.ms05
+MC 283 38 0 0 ey_libraries.pascap1
+MC 196 63 1 1 ey_libraries.pascap1
+MC 129 194 1 0 ey_libraries.pasres0
+MC 85 187 1 0 ey_libraries.pasres0
+MC 85 140 1 0 ey_libraries.pasres0
+MC 130 134 1 0 ey_libraries.pasres0
+MC 130 69 2 0 ey_libraries.pasres0
+MC 85 85 1 0 ey_libraries.pasres0
+MC 85 40 1 0 ey_libraries.pasres0
+MC 60 243 1 0 ey_libraries.pasres0
+MC 62 62 1 1 000
+MC 364 287 3 1 000
+MC 364 267 1 1 000
+MC 371 118 3 1 000
+MC 371 99 1 1 000
+MC 59 277 3 1 000
+MC 60 253 1 1 000
+MC 62 82 3 1 000
+MC 197 176 1 0 030
+MC 337 178 1 0 030
+MC 166 223 1 0 030
+MC 116 222 1 0 030
+MC 304 194 0 0 ey_libraries.pascap0
+MC 349 172 0 0 ey_libraries.pascap0
+MC 349 156 0 0 ey_libraries.pascap0
+MC 306 134 0 0 ey_libraries.pascap0
+MC 141 277 0 0 ey_libraries.pascap0
+MC 141 242 0 0 ey_libraries.pascap0
+MC 186 171 0 0 ey_libraries.pascap0
+MC 186 156 0 0 ey_libraries.pascap0
+MC 140 84 0 0 ey_libraries.pascap0
+MC 140 49 0 0 ey_libraries.pascap0
+MC 281 292 2 0 ey_libraries.pascap1
+MC 359 261 1 0 ey_libraries.pascap1
+MC 94 251 1 0 ey_libraries.pascap0
+MC 150 204 1 0 ey_libraries.pascap0
+MC 139 204 1 0 ey_libraries.pascap0
+MC 151 129 1 0 ey_libraries.pascap0
+MC 140 129 1 0 ey_libraries.pascap0
+MC 96 80 1 0 ey_libraries.pascap0
+MC 96 57 1 0 ey_libraries.pascap0
+MC 85 69 1 1 ey_libraries.pasres14
+MC 234 265 1 1 ey_libraries.pasres14
+MC 235 73 1 1 ey_libraries.pasres14
+MC 140 69 1 0 ey_libraries.pasres14
+MC 84 262 1 1 ey_libraries.pasres14
+MC 141 262 1 0 ey_libraries.pasres14
+MC 291 256 2 0 ey_libraries.pasres0
+MC 291 241 2 0 ey_libraries.pasres0
+MC 294 91 2 0 ey_libraries.pasres0
+MC 293 76 2 0 ey_libraries.pasres0
+MC 259 275 3 0 ey_libraries.pasres0
+MC 109 262 2 0 ey_libraries.pasres0
+MC 131 262 2 0 ey_libraries.pasres0
+MC 212 63 2 0 ey_libraries.pasres0
+MC 359 95 1 0 ey_libraries.pascap1
+MC 199 255 1 1 ey_libraries.pascap1
+MC 363 151 0 0 020
+MC 363 183 0 0 010
+MC 349 41 3 0 010
+MC 349 276 1 0 ey_libraries.pasres0
+MC 281 276 1 0 ey_libraries.pasres0
+MC 349 206 1 0 ey_libraries.pasres0
+MC 293 194 1 0 ey_libraries.pasres0
+MC 349 121 1 0 ey_libraries.pasres0
+MC 349 46 1 0 ey_libraries.pasres0
+MC 295 134 1 0 ey_libraries.pasres0
+MC 283 53 1 0 ey_libraries.pasres0
+MC 84 279 1 0 ey_libraries.pasres0
+MC 84 233 1 0 ey_libraries.pasres0
+MC 344 63 1 0 ey_libraries.pascap0
+MC 291 271 1 0 ey_libraries.pascap0
+MC 291 229 1 0 ey_libraries.pascap0
+MC 344 229 1 0 ey_libraries.pascap0
+MC 294 106 1 0 ey_libraries.pascap0
+MC 294 63 1 0 ey_libraries.pascap0
+MC 94 273 1 0 ey_libraries.pascap0
+MC 281 293 0 0 elettrotecnica.ms05
+MC 259 276 0 0 elettrotecnica.ms05
+MC 234 170 3 0 ey_libraries.swcno0
+TY 165 145 4 2 0 1 0 Arial 1
+TY 259 145 4 2 0 1 0 Arial 5
+TY 282 145 4 2 0 1 0 Arial 6
+TY 294 145 4 2 0 1 0 Arial 4
+TY 305 145 4 2 0 1 0 Arial 3
+TY 318 145 4 2 0 1 0 Arial 1
+TY 107 184 4 2 0 1 0 Arial 9
+TY 116 184 4 2 0 1 0 Arial 8
+TY 127 184 4 2 0 1 0 Arial 10
+TY 140 184 4 2 0 1 0 Arial 11
+TY 153 184 4 2 0 1 0 Arial 12
+TY 164 184 4 2 0 1 0 Arial 13
+TY 168 177 4 2 0 1 0 Arial 14
+TY 170 149 4 2 0 1 0 Arial 7
+TY 107 145 4 2 0 1 0 Arial 5
+TY 119 145 4 2 0 1 0 Arial 6
+TY 129 145 4 2 0 1 0 Arial 4
+TY 142 145 4 2 0 1 0 Arial 3
+TY 155 145 4 2 0 1 0 Arial 2
+TY 280 184 4 2 0 1 0 Arial 8
+TY 258 184 4 2 0 1 0 Arial 9
+TY 319 181 4 2 0 1 0 Arial 14
+TY 314 184 4 2 0 1 0 Arial 13
+TY 302 184 4 2 0 1 0 Arial 11
+TY 291 184 4 2 0 1 0 Arial 10
+TY 374 102 4 3 0 1 0 Arial USCITA
+TY 0 224 4 3 0 1 0 Arial ENTRATA  S
+TY 0 31 4 3 0 1 0 Arial ENTRATA  D
+TY 367 278 4 3 0 1 0 Arial CANALE  S
+TY 367 271 4 3 0 1 0 Arial USCITA
+TY 374 109 4 3 0 1 0 Arial CANALE  D
+TY 27 260 4 3 0 1 0 Arial USCITA
+TY 14 267 4 3 0 1 0 Arial REGISTRATORE
+TY 210 166 4 3 0 1 0 Arial STEREO
+TY 235 159 4 3 0 1 0 Arial MONO
+TY 29 65 4 3 0 1 0 Arial USCITA
+TY 16 71 4 3 0 1 0 Arial REGISTRATORE
+LI 235 63 218 63 0
+MC 171 63 1 1 elettrotecnica.cudvsi
+MC 304 86 1 1 elettrotecnica.cudvsi
+MC 175 255 1 1 elettrotecnica.cudvsi
+LI 90 69 105 69 0
+MC 301 251 1 1 elettrotecnica.cudvsi
+TY 321 149 4 2 0 1 0 Arial 7
+TY 278 162 4 3 0 1 0 Arial SN76131
+TY 124 163 4 3 0 1 0 Arial SN76131
+MC 250 73 1 0 ey_libraries.pascap0
+MC 267 78 1 0 ey_libraries.pasres0
+MC 267 89 0 0 elettrotecnica.ms05
+MC 216 255 2 0 ey_libraries.pasres0
+MC 249 265 1 0 ey_libraries.pascap0
+MC 234 275 0 0 elettrotecnica.ms05
+SA 336 86 0
+LI 349 244 349 214 0
+LI 316 229 316 251 0
+LI 326 251 338 251 0
+LI 255 73 267 73 0
+LI 293 204 304 204 0
+TY 66 52 4 3 0 1 0 Arial R1
+TY 104 356 4 3 0 0 0 Arial R25 100.000 Ohm pot. lin.
+LI 170 260 170 297 0
+LI 120 69 120 100 0
+LI 259 265 259 189 0
+LI 166 104 166 144 0
+LI 85 104 166 104 0
+LI 120 144 120 109 0
+LI 85 165 85 147 0
+LI 281 189 281 271 0
+SA 156 129 0
+SA 143 129 0
+TY 187 346 4 3 0 0 0 Arial C11 10 pF a disco
+LI 156 129 156 143 0
+SA 85 80 0
+LI 142 204 142 189 0
+LI 40 227 170 228 0
+LI 337 167 337 180 0
+SA 129 204 0
+SA 142 204 0
+SA 155 204 0
+LI 283 33 262 33 0
+LI 155 204 155 189 0
+SA 140 104 0
+SA 166 104 0
+SA 84 251 0
+SA 84 273 0
+SA 141 297 0
+SA 166 297 0
+SA 141 228 0
+SA 235 63 0
+LI 197 166 197 176 0
+LI 325 151 363 151 0
+SA 283 76 0
+SA 283 91 0
+SA 283 106 0
+SA 299 76 0
+SA 299 63 0
+SA 319 63 0
+SA 334 63 0
+SA 319 86 0
+SA 349 151 0
+SA 349 167 0
+SA 349 183 0
+SA 296 229 0
+SA 296 241 0
+SA 296 256 0
+SA 281 271 0
+SA 281 256 0
+SA 281 241 0
+SA 281 229 0
+LI 260 73 260 144 0
+LI 143 129 143 144 0
+LI 166 103 166 68 0
+LI 62 82 62 100 0
+TY 277 385 4 3 0 0 0 Arial MPS6566 o BC382
+LI 349 286 349 299 0
+LI 101 57 101 80 0
+LI 107 212 107 189 0
+LI 283 64 283 144 0
+SA 101 69 0
+LI 108 122 108 144 0
+SA 85 34 0
+SA 140 35 0
+LI 325 183 364 183 0
+LI 85 197 85 212 0
+LI 59 293 59 277 0
+LI 69 166 69 181 0
+LI 173 151 205 151 0
+LI 170 228 170 250 0
+LI 166 231 166 297 0
+LI 85 212 107 212 0
+SA 130 129 0
+LI 349 167 337 167 0
+LI 299 91 299 106 0
+LI 299 75 299 63 0
+SA 186 151 0
+LI 249 265 259 265 0
+LI 85 122 85 137 0
+LI 349 56 349 76 0
+LI 262 33 262 40 0
+LI 349 96 349 117 0
+LI 349 131 349 151 0
+LI 349 183 349 201 0
+SA 85 166 0
+LI 319 87 319 144 0
+LI 166 225 166 189 0
+SA 99 262 0
+TY 336 121 4 3 0 1 0 Arial R16
+TY 353 45 4 3 0 1 0 Arial R15
+TY 284 128 4 3 0 1 0 Arial R14
+TY 287 83 4 3 0 1 0 Arial R13
+TY 287 68 4 3 0 1 0 Arial R12
+TY 270 52 4 3 0 1 0 Arial R11
+TY 222 70 4 3 0 1 0 Arial R10
+TY 122 129 4 3 0 1 0 Arial R9
+TY 144 67 4 3 0 1 0 Arial R8
+TY 125 60 4 3 0 1 0 Arial R7
+TY 109 60 4 3 0 1 0 Arial R6
+TY 75 140 4 3 0 1 0 Arial R5
+TY 75 85 4 3 0 1 0 Arial R4
+TY 75 66 4 3 0 1 0 Arial R3
+TY 50 38 4 3 0 1 0 Arial C1
+SA 293 204 0
+SA 234 255 0
+TY 336 275 4 3 0 1 0 Arial R32
+TY 353 206 4 3 0 1 0 Arial R31
+TY 284 277 4 3 0 1 0 Arial R30
+TY 283 248 4 3 0 1 0 Arial R29
+TY 283 233 4 3 0 1 0 Arial R28
+TY 282 200 4 3 0 1 0 Arial R27
+TY 221 262 4 3 0 1 0 Arial R26
+TY 144 259 4 3 0 1 0 Arial R25
+TY 124 253 4 3 0 1 0 Arial R24
+TY 102 253 4 3 0 1 0 Arial R23
+TY 71 278 4 3 0 1 0 Arial R22
+TY 72 259 4 3 0 1 0 Arial R21
+TY 71 233 4 3 0 1 0 Arial R20
+TY 63 243 4 3 0 1 0 Arial R19
+TY 117 199 4 3 0 1 0 Arial R18
+TY 198 245 4 3 0 1 0 Arial C25
+TY 175 175 4 3 0 1 0 Arial C24
+TY 146 242 4 3 0 1 0 Arial C22
+TY 146 277 4 3 0 1 0 Arial C23
+TY 142 209 4 3 0 1 0 Arial C21
+TY 130 209 4 3 0 1 0 Arial C20
+TY 87 277 4 3 0 1 0 Arial C19
+TY 87 240 4 3 0 1 0 Arial C18
+TY 45 231 4 3 0 1 0 Arial C17
+TY 355 156 4 3 0 1 0 Arial C16
+TY 359 88 4 3 0 1 0 Arial C15
+TY 336 52 4 3 0 1 0 Arial C14
+TY 307 128 4 3 0 1 0 Arial C13
+TY 286 96 4 3 0 1 0 Arial C12
+TY 287 52 4 3 0 1 0 Arial C11
+TY 288 38 4 3 0 1 0 Arial C10
+TY 195 53 4 3 0 1 0 Arial C9
+TY 192 155 4 3 0 1 0 Arial C8
+TY 146 118 4 3 0 1 0 Arial C7
+TY 133 118 4 3 0 1 0 Arial C6
+TY 145 84 4 3 0 1 0 Arial C5
+TY 145 49 4 3 0 1 0 Arial C4
+TY 90 85 4 3 0 1 0 Arial C3
+TY 90 46 4 3 0 1 0 Arial C2
+TY 179 54 4 3 0 1 0 Arial S1A
+TY 104 421 4 3 0 0 0 Arial C6 10.000 pF a disco
+TY 104 416 4 3 0 0 0 Arial C5 3.300 pF poliestere
+TY 104 411 4 3 0 0 0 Arial C4 3.300 pF poliestere
+TY 355 172 4 3 0 1 0 Arial C32
+TY 353 251 4 3 0 1 0 Arial C31
+TY 336 219 4 3 0 1 0 Arial C30
+TY 286 287 4 3 0 1 0 Arial C29
+TY 283 261 4 3 0 1 0 Arial C28
+TY 284 219 4 3 0 1 0 Arial C27
+TY 305 200 4 3 0 1 0 Arial C26
+TY 266 361 4 3 0 0 0 Arial S2A-S2B doppio deviatore
+LI 364 261 364 267 0
+LI 364 287 364 291 0
+LI 140 35 140 44 0
+LI 140 94 140 104 0
+LI 364 95 371 95 0
+LI 371 95 371 100 0
+LI 337 188 337 197 0
+LI 349 261 349 272 0
+LI 85 122 108 122 0
+LI 166 35 166 58 0
+LI 41 34 166 35 0
+LI 99 251 99 273 0
+LI 116 262 116 231 0
+RV 101 144 173 189 0
+LI 116 225 116 189 0
+SA 62 34 0
+TY 187 371 4 3 0 0 0 Arial C16 47.000 pF a disco
+RV 253 144 324 189 0
+LI 186 166 197 166 0
+LI 197 199 197 184 0
+LI 85 166 69 166 0
+LI 170 297 84 297 0
+LI 234 255 218 255 0
+LI 85 95 85 104 0
+LI 85 49 85 59 0
+SA 120 69 0
+SA 299 91 0
+TY 184 246 4 3 0 1 0 Arial S1B
+TY 302 239 4 3 0 1 0 Arial S2B
+TY 305 74 4 3 0 1 0 Arial S2A
+LI 141 228 141 237 0
+LI 84 289 84 297 0
+LI 141 287 141 296 0
+SA 99 251 0
+SA 99 273 0
+LI 121 262 114 262 0
+LI 84 251 84 243 0
+LI 99 262 89 262 0
+SA 101 57 0
+SA 101 80 0
+TY 236 166 4 3 0 1 0 Arial S3
+SA 186 166 0
+LI 296 229 296 240 0
+LI 296 256 296 271 0
+TY 329 252 4 3 0 1 0 Arial TR2
+TY 330 87 4 3 0 1 0 Arial TR1
+LI 364 229 364 237 0
+SA 349 229 0
+SA 349 261 0
+SA 364 261 0
+LI 364 63 364 69 0
+TY 104 426 4 3 0 0 0 Arial C7 4.700 pF a disco
+SA 60 227 0
+LI 329 86 338 86 0
+SA 316 229 0
+SA 349 63 0
+SA 334 229 0
+TY 370 148 4 3 0 1 0 Arial 15V
+TY 345 29 4 3 0 1 0 Arial 15V
+TY 212 148 4 3 0 1 0 Arial 15V
+TY 212 178 4 3 0 1 0 Arial 15V
+TY 345 305 4 3 0 1 0 Arial 15V
+TY 370 180 4 3 0 1 0 Arial 15V
+SA 316 251 0
+SA 295 129 0
+SA 306 129 0
+SA 364 229 0
+SA 219 63 0
+SA 283 33 0
+SA 364 63 0
+SA 371 95 0
+SA 349 95 0
+SA 304 204 0
+TY 187 401 4 3 0 0 0 Arial C22 3.300 pF poliestere
+SA 335 251 0
+TY 187 396 4 3 0 0 0 Arial C21 4.700 pF a disco
+SA 283 63 0
+TY 25 327 4 3 0 1 0 Arial Componenti Stadio Pilota -Volume - Tono NE (MODIFICATO)
+TY 25 336 4 3 0 0 0 Arial R1 10.000 Ohm
+TY 25 341 4 3 0 0 0 Arial R2 10.000 Ohm
+TY 25 416 4 3 0 0 0 Arial R17 68.000 Ohm
+TY 25 411 4 3 0 0 0 Arial R16 1.200 Ohm
+TY 25 406 4 3 0 0 0 Arial R15 390 Ohm
+TY 25 401 4 3 0 0 0 Arial R14 10 Ohm
+TY 25 396 4 3 0 0 0 Arial R13 1.800 Ohm
+TY 25 391 4 3 0 0 0 Arial R12 33.000 Ohm
+TY 25 386 4 3 0 0 0 Arial R11 1.800 Ohm
+TY 25 381 4 3 0 0 0 Arial R10 100.000 Ohm pot. log.
+TY 25 376 4 3 0 0 0 Arial R9 100 ohm
+TY 25 371 4 3 0 0 0 Arial R8 100.000 Ohm pot. lin.
+TY 25 366 4 3 0 0 0 Arial R7 2.200 Ohm
+TY 25 361 4 3 0 0 0 Arial R6 10.000 Ohm
+TY 25 356 4 3 0 0 0 Arial R5 68.000 Ohm
+TY 25 351 4 3 0 0 0 Arial R4 10.000 Ohm
+TY 25 346 4 3 0 0 0 Arial R3 100.000 Ohm pot. lin.
+TY 104 371 4 3 0 0 0 Arial R28 33.000 Ohm
+TY 104 366 4 3 0 0 0 Arial R27 10 Ohm
+TY 104 361 4 3 0 0 0 Arial R26 100.000 Ohm pot. log.
+SA 260 73 0
+TY 104 351 4 3 0 0 0 Arial R24 2.200 Ohm
+TY 104 346 4 3 0 0 0 Arial R23 10.000 Ohm
+TY 104 341 4 3 0 0 0 Arial R22 10.000 Ohm
+TY 104 336 4 3 0 0 0 Arial R21 100.000 Ohm pot. lin.
+TY 25 431 4 3 0 0 0 Arial R20 10.000 Ohm
+TY 25 426 4 3 0 0 0 Arial R19 10.000 Ohm
+TY 25 421 4 3 0 0 0 Arial R18 100 ohm
+TY 104 376 4 3 0 0 0 Arial R29 1.800 Ohm
+TY 187 361 4 3 0 0 0 Arial C14 220 pF a disco
+TY 187 356 4 3 0 0 0 Arial C13 2.700 pF poliestere
+TY 187 351 4 3 0 0 0 Arial C12 56 pF a disco
+TY 187 381 4 3 0 0 0 Arial C18 33.000 pF poliestere
+TY 187 341 4 3 0 0 0 Arial C10 47 uF elettrol. 16 V.
+TY 187 336 4 3 0 0 0 Arial C9 22 uF elettrol. 35 V.
+TY 104 431 4 3 0 0 0 Arial C8 47.000 pF a disco
+TY 266 371 4 3 0 0 0 Arial TR1 transistor NPN tipo BCY59 o BC414 o
+TY 72 186 4 3 0 1 0 Arial R17
+SA 234 173 0
+TY 104 406 4 3 0 0 0 Arial C3 33.000 pF poliestere
+TY 104 401 4 3 0 0 0 Arial C2 33.000 pF poliestere
+TY 104 396 4 3 0 0 0 Arial C1 22 uF elettrol. 16 V.
+TY 104 391 4 3 0 0 0 Arial R32 1.200 Ohm
+TY 104 386 4 3 0 0 0 Arial R31 390 Ohm
+TY 104 381 4 3 0 0 0 Arial R30 1.800 Ohm
+TY 266 366 4 3 0 0 0 Arial S3 deviatore
+LI 295 129 306 129 0
+TY 266 356 4 3 0 0 0 Arial S1A-S1B doppio deviatore
+TY 266 351 4 3 0 0 0 Arial C32 47.000 pF a disco
+TY 266 346 4 3 0 0 0 Arial C31 47 uF elettrol. 25 V.
+TY 266 341 4 3 0 0 0 Arial C30 220 pF a disco
+TY 266 336 4 3 0 0 0 Arial C29 47 uF elettrol. 16 V.
+TY 187 431 4 3 0 0 0 Arial C28 56 pF a disco
+TY 187 426 4 3 0 0 0 Arial C27 10 pF a disco
+TY 187 421 4 3 0 0 0 Arial C26 2.700 pF poliestere
+TY 187 416 4 3 0 0 0 Arial C25 22 uF elettrol. 35 V.
+TY 187 411 4 3 0 0 0 Arial C24 47.000 pF a disco
+TY 187 406 4 3 0 0 0 Arial C23 3.300 pF poliestere
+TY 266 380 4 3 0 0 0 Arial TR2 transistor NPN tipo BCY59 o BC414 o
+SA 259 265 0
+TY 187 391 4 3 0 0 0 Arial C20 10.000 pF a disco
+TY 187 386 4 3 0 0 0 Arial C19 33.000 pF poliestere
+LI 316 189 316 229 0
+TY 187 376 4 3 0 0 0 Arial C17 22 uF elettrol. 16 V.
+LI 235 83 235 90 0
+TY 187 366 4 3 0 0 0 Arial C15 47 uF elettrol. 25 V.
+TY 75 40 4 3 0 1 0 Arial R2
+LI 85 166 85 183 0
+SA 116 262 0
+SA 234 160 0
+LI 319 63 319 86 0
+TY 266 390 4 3 0 0 0 Arial N. 2 Integrati tipo SN76131
+TY 277 376 4 3 0 0 0 Arial MPS6566 o BC382
+LI 333 63 319 63 0
+SA 186 181 0
+SA 85 57 0
+LI 173 181 205 181 0
+SA 84 227 0
+LI 334 229 316 229 0
+LI 349 299 349 301 0
+EV 351 301 347 305 0
+LI 350 303 348 303 0
+TY 205 55 4 3 0 1 2 Arial R33
+LI 234 122 234 160 2
+LI 234 122 219 122 2
+LI 219 63 219 122 2
+LI 234 255 234 172 2
+LI 316 229 296 229 2
+TY 263 265 4 3 0 1 2 Arial R36
+TY 239 255 4 3 0 1 2 Arial 470nF
+TY 243 250 4 3 0 1 2 Arial C34
+TY 268 72 4 3 0 1 2 Arial 680K
+TY 268 67 4 3 0 1 2 Arial R35
+LI 319 63 300 63 2
+TY 263 270 4 3 0 1 2 Arial 680K
+TY 352 67 4 3 0 1 2 Arial 1nF
+TY 352 53 4 3 0 1 2 Arial C35
+TY 352 233 4 3 0 1 2 Arial 1nF
+TY 351 219 4 3 0 1 2 Arial C36
+TY 266 400 4 3 0 0 2 Arial MODIFICHE
+TY 266 405 4 3 0 0 2 Arial R33 10.000 Ohm
+TY 266 430 4 3 0 0 2 Arial C34 470nF
+TY 266 415 4 3 0 0 2 Arial R35 680K
+TY 266 410 4 3 0 0 2 Arial R34 10.000 Ohm
+TY 266 435 4 3 0 0 2 Arial C35 1nF
+TY 266 420 4 3 0 0 2 Arial R36 680K
+TY 266 440 4 3 0 0 2 Arial C36 1nF
+TY 266 425 4 3 0 0 2 Arial C33 470nF
+TY 241 63 4 3 0 1 2 Arial 470nF
+TY 243 58 4 3 0 1 2 Arial C33
+TY 209 258 4 3 0 1 2 Arial 10k
+TY 209 246 4 3 0 1 2 Arial R34
+TY 205 65 4 3 0 1 2 Arial 10k

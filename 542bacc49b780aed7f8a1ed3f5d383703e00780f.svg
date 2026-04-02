@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="513.0" height="879.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<g transform="translate(117.0,750.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="DejaVu Sans, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">EEPROM</text>
+</g>
+<rect x="105.0" y="729.0" rx="0" ry="0" width="90.0" height="60.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(129.0,630.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="DejaVu Sans, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">Prog</text>
+</g>
+<rect x="90.0" y="609.0" rx="0" ry="0" width="120.0" height="60.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="120.0,729.0 114.0,720.0 126.0,720.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="120.0" y1="720.0" x2="120.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="669.0" x2="135.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="669.0" x2="135.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="180.0,729.0 174.0,720.0 186.0,720.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="180.0" y1="720.0" x2="180.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="105.0,609.0 99.0,600.0 111.0,600.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="105.0" y1="600.0" x2="105.0" y2="549.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="135.0,609.0 129.0,600.0 141.0,600.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="135.0" y1="600.0" x2="135.0" y2="549.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="195.0,609.0 189.0,600.0 201.0,600.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="195.0" y1="600.0" x2="195.0" y2="549.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="165.0,549.0 171.0,558.0 159.0,558.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="165.0" y1="609.0" x2="165.0" y2="558.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(117.0,507.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="DejaVu Sans, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">Porta 232</text>
+</g>
+<rect x="90.0" y="489.0" rx="0" ry="0" width="120.0" height="60.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(147.0,600.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">SDAi</text>
+</g>
+<g transform="translate(102.0,711.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">SCL</text>
+</g>
+<polygon points="150.0,729.0 144.0,720.0 156.0,720.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<polygon points="150.0,669.0 156.0,678.0 144.0,678.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="150.0" y1="720.0" x2="150.0" y2="678.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(132.0,711.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">SDA</text>
+</g>
+<g transform="translate(162.0,711.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">Vcc</text>
+</g>
+<g transform="translate(87.0,591.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">SCL</text>
+</g>
+<g transform="translate(117.0,594.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">SDAo</text>
+</g>
+<g transform="translate(177.0,591.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">Vcc</text>
+</g>
+<g transform="translate(27.0,645.0) scale(1.0,1.0)"><text x="0.0" y="18.0" font-family="Courier New, monospace" font-size="21.07" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">1</text>
+</g>
+<g transform="translate(9.0,387.0) scale(1.0,1.0)"><text x="0.0" y="18.0" font-family="Courier New, monospace" font-size="21.07" font-style="" font-weight="bold" xml:space="preserve" fill="#000080">2</text>
+</g>
+<line x1="150.0" y1="429.0" x2="135.0" y2="444.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="150.0" y1="369.0" x2="135.0" y2="354.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<g transform="translate(177.0,318.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000080">readCTS(), etc. etc...</text>
+</g>
+<line x1="150.0" y1="489.0" x2="135.0" y2="474.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<g transform="translate(141.0,390.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="DejaVu Sans, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000080">API</text>
+</g>
+<rect x="90.0" y="369.0" rx="0" ry="0" width="120.0" height="60.0" style="stroke:#000080;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="165.0" y1="444.0" x2="150.0" y2="429.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="150.0" y1="309.0" x2="135.0" y2="324.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="165.0" y1="324.0" x2="150.0" y2="309.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="165.0" y1="474.0" x2="150.0" y2="489.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="150.0" y1="369.0" x2="150.0" y2="309.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="165.0" y1="354.0" x2="150.0" y2="369.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="150.0" y1="249.0" x2="150.0" y2="189.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="165.0" y1="234.0" x2="150.0" y2="249.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="150.0" y1="189.0" x2="135.0" y2="204.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="165.0" y1="204.0" x2="150.0" y2="189.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="150.0" y1="489.0" x2="150.0" y2="429.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<g transform="translate(126.0,270.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="DejaVu Sans, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000080">I2C i/o</text>
+</g>
+<rect x="90.0" y="249.0" rx="0" ry="0" width="120.0" height="60.0" style="stroke:#000080;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(180.0,201.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000080">I2Cstart(), I2Csend(), I2Crec(),</text>
+</g>
+<g transform="translate(180.0,216.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000080">I2Cack(), etc. etc...</text>
+</g>
+<line x1="150.0" y1="129.0" x2="135.0" y2="114.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="150.0" y1="129.0" x2="150.0" y2="69.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="165.0" y1="114.0" x2="150.0" y2="129.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="150.0" y1="69.0" x2="135.0" y2="84.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="165.0" y1="84.0" x2="150.0" y2="69.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<g transform="translate(117.0,147.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="DejaVu Sans, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000080">E2PROM</text>
+</g>
+<rect x="90.0" y="129.0" rx="0" ry="0" width="120.0" height="60.0" style="stroke:#000080;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(171.0,87.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000080">E2read(adr), E2write(adr), etc..</text>
+</g>
+<g transform="translate(87.0,45.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000080">tuo programma</text>
+</g>
+<g transform="translate(177.0,336.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000080">writeDTR(1), etc. etc...</text>
+</g>
+<line x1="150.0" y1="249.0" x2="135.0" y2="234.0" style="stroke:#000080;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<g transform="translate(9.0,267.0) scale(1.0,1.0)"><text x="0.0" y="18.0" font-family="Courier New, monospace" font-size="21.07" font-style="" font-weight="bold" xml:space="preserve" fill="#000080">3</text>
+</g>
+<g transform="translate(9.0,147.0) scale(1.0,1.0)"><text x="0.0" y="18.0" font-family="Courier New, monospace" font-size="21.07" font-style="" font-weight="bold" xml:space="preserve" fill="#000080">4</text>
+</g>
+<line x1="240.0" y1="819.0" x2="240.0" y2="534.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="519.0" x2="240.0" y2="354.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="534.0" x2="225.0" y2="534.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="534.0" x2="60.0" y2="534.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(66.0,798.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#ffc800">programmatore</text>
+</g>
+<line x1="60.0" y1="819.0" x2="240.0" y2="819.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(213.0,15.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#ffc800">PC</text>
+</g>
+<line x1="240.0" y1="9.0" x2="60.0" y2="9.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="9.0" x2="60.0" y2="519.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="519.0" x2="75.0" y2="519.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="225.0" y1="519.0" x2="240.0" y2="519.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="309.0" x2="240.0" y2="234.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="189.0" x2="240.0" y2="114.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="534.0" x2="60.0" y2="819.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="84.0" x2="240.0" y2="9.0" style="stroke:#ffc800;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+</svg>

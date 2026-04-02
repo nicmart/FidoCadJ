@@ -1,0 +1,104 @@
+[FIDOCAD]
+FJC C 1.5
+FJC B 0.5
+LI 60 120 140 70 0
+FCJ 2 0 3 2 0 1
+TY 126 82 4 3 0 0 0 Times++New++Roman Ua
+TY 65 130 4 3 0 0 0 Times++New++Roman 
+LI 60 120 170 25 0
+FCJ 2 0 3 2 0 1
+TY 91 77 4 3 0 0 0 Times++New++Roman Up
+TY 65 130 4 3 0 0 0 Times++New++Roman 
+LI 110 36 154 87 0
+FCJ 0 0 3 2 3 0
+LI 132 27 175 77 0
+FCJ 0 0 3 2 3 0
+LI 152 5 195 59 0
+FCJ 0 0 3 2 3 0
+LI 61 240 171 145 0
+FCJ 2 0 3 2 0 1
+TY 92 197 4 3 0 0 0 Times++New++Roman Up
+TY 66 250 4 3 0 0 0 Times++New++Roman 
+LI 61 240 141 190 0
+FCJ 2 0 3 2 0 1
+TY 127 202 4 3 0 0 0 Times++New++Roman Ua
+TY 66 250 4 3 0 0 0 Times++New++Roman 
+LI 139 191 205 151 0
+FCJ 0 0 3 2 2 0
+LI 169 143 206 204 0
+FCJ 0 0 3 2 2 0
+LI 159 170 180 206 0
+FCJ 0 0 3 2 2 0
+LI 136 182 164 226 0
+FCJ 0 0 3 2 2 0
+LI 61 240 131 240 2
+FCJ 2 0 3 2 0 1
+TY 110 243 4 3 0 0 2 Times++New++Roman I
+TY 66 250 4 3 0 0 2 Times++New++Roman 
+LI 60 120 130 120 2
+FCJ 2 0 3 2 0 1
+TY 109 123 4 3 0 0 2 Times++New++Roman I
+TY 65 130 4 3 0 0 2 Times++New++Roman 
+LI 140 70 170 70 2
+FCJ 2 0 3 2 0 1
+TY 155 75 4 3 0 0 2 Times++New++Roman RI
+TY 145 80 4 3 0 0 2 Times++New++Roman 
+BE 128 61 130 63 130 67 130 70 2
+FCJ 0 0 3 2 3 1
+TY 123 64 4 3 0 0 2 Times++New++Roman φi
+TY 123 57 4 3 0 0 2 Times++New++Roman 
+LI 141 190 171 190 2
+FCJ 2 0 3 2 0 1
+TY 153 193 4 3 0 0 2 Times++New++Roman RI
+TY 146 200 4 3 0 0 2 Times++New++Roman 
+LI 170 70 170 25 2
+FCJ 2 0 3 2 0 1
+TY 173 50 4 3 0 0 2 Times++New++Roman XI
+TY 180 65 4 3 0 0 2 Times++New++Roman 
+BE 154 182 156 184 156 188 156 191 2
+FCJ 0 0 3 2 3 1
+TY 149 183 4 3 0 0 2 Times++New++Roman φa
+TY 149 178 4 3 0 0 2 Times++New++Roman 
+BE 180 161 177 163 175 165 171 164 2
+FCJ 0 0 3 2 3 1
+TY 173 155 4 3 0 0 2 Times++New++Roman φa
+TY 166 152 4 3 0 0 2 Times++New++Roman 
+LI 171 190 171 145 2
+FCJ 2 0 3 2 0 1
+TY 173 179 4 3 0 0 2 Times++New++Roman XI
+TY 181 185 4 3 0 0 2 Times++New++Roman 
+LI 109 70 139 70 2
+FCJ 0 0 3 2 3 0
+BE 169 53 162 54 161 57 160 60 2
+FCJ 0 0 3 2 3 1
+TY 165 58 4 3 0 0 2 Times++New++Roman φi
+TY 155 48 4 3 0 0 2 Times++New++Roman 
+BE 87 97 95 105 98 111 99 120 2
+FCJ 0 0 3 2 3 1
+TY 83 109 4 3 0 0 2 Times++New++Roman φi
+TY 92 107 4 3 0 0 2 Times++New++Roman 
+BE 92 221 96 225 99 231 100 240 2
+FCJ 0 0 3 2 3 1
+TY 84 229 4 3 0 0 2 Times++New++Roman φa
+TY 93 227 4 3 0 0 2 Times++New++Roman 
+TY 153 206 4 3 30 0 11 Times++New++Roman RIcosΦa
+LI 155 213 176 200 11
+FCJ 3 0 3 2 0 0
+LI 162 222 202 197 11
+FCJ 3 0 3 2 0 1
+TY 172 206 4 3 0 0 11 Times++New++Roman Δu
+TY 167 232 4 3 0 0 11 Times++New++Roman 
+TY 95 151 4 3 40 0 11 Times++New++Roman 
+TY 118 41 4 3 40 0 11 Times++New++Roman RIcosΦi
+LI 138 33 160 15 11
+FCJ 3 0 3 2 0 0
+TY 137 25 4 3 40 0 11 Times++New++Roman XIsinΦi
+LI 120 48 138 33 11
+FCJ 3 0 3 2 0 0
+LI 176 200 197 187 11
+FCJ 3 0 3 2 0 0
+TY 175 192 4 3 30 0 11 Times++New++Roman XIsinΦa
+LI 112 39 152 7 11
+FCJ 3 0 3 2 0 1
+TY 120 18 4 3 0 0 11 Times++New++Roman Δu
+TY 117 49 4 3 0 0 11 Times++New++Roman

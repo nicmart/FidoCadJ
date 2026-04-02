@@ -1,0 +1,100 @@
+[FIDOCAD]
+FJC B 0.5
+MC 25 45 0 0 ey_libraries.trnbjt1
+MC 15 45 0 0 ey_libraries.pasres0
+MC 30 25 1 0 ey_libraries.pasres0
+MC 40 45 1 0 ey_libraries.pasres0
+LI 30 40 30 35 0
+LI 30 35 40 35 0
+LI 40 35 40 40 0
+LI 30 50 30 67 0
+LI 30 60 40 60 0
+MC 30 20 2 0 ey_libraries.refpnt0
+MC 30 75 0 0 ey_libraries.genvis1
+MC 30 85 0 0 ey_libraries.refpnt0
+MC 30 60 3 0 074
+MC 30 72 3 0 074
+MC 10 45 1 0 ey_libraries.refpnt0
+LI 40 60 40 55 0
+MC 40 60 3 0 074
+TY 35 80 4 3 0 0 0 Arial VP
+TY 20 65 4 3 0 0 0 Arial Ip
+TY 21 54 4 3 0 0 0 Arial Ip1
+TY 44 54 4 3 0 0 0 Arial Ip2
+MC 70 45 0 0 ey_libraries.trnbjt1
+MC 60 45 0 0 ey_libraries.pasres0
+MC 75 25 1 0 ey_libraries.pasres0
+MC 85 45 1 0 ey_libraries.pasres0
+LI 75 40 75 35 0
+LI 75 35 85 35 0
+LI 85 35 85 40 0
+LI 75 50 75 65 0
+MC 75 20 2 0 ey_libraries.refpnt0
+MC 75 70 0 0 ey_libraries.genvis1
+MC 75 80 0 0 ey_libraries.refpnt0
+MC 75 64 3 0 074
+MC 55 45 1 0 ey_libraries.refpnt0
+LI 85 65 85 55 0
+MC 85 60 3 0 074
+TY 60 75 4 3 0 0 0 Arial Vp1
+TY 66 59 4 3 0 0 0 Arial Ip1
+TY 89 54 4 3 0 0 0 Arial Ip2
+MC 85 70 0 0 ey_libraries.genvis1
+MC 85 80 0 0 ey_libraries.refpnt0
+TY 90 75 4 3 0 0 0 Arial Vp2
+MC 115 45 0 0 ey_libraries.trnbjt1
+MC 105 45 0 0 ey_libraries.pasres0
+MC 120 25 1 0 ey_libraries.pasres0
+MC 130 45 1 0 ey_libraries.pasres0
+LI 120 40 120 35 0
+LI 120 35 130 35 0
+LI 130 35 130 40 0
+LI 120 50 120 65 0
+MC 120 20 2 0 ey_libraries.refpnt0
+MC 120 70 0 0 ey_libraries.genvis1
+MC 120 80 0 0 ey_libraries.refpnt0
+MC 120 60 3 0 074
+MC 100 45 1 0 ey_libraries.refpnt0
+LI 130 80 130 55 0
+MC 130 60 3 0 074
+TY 105 75 4 3 0 0 0 Arial Vp1
+TY 111 54 4 3 0 0 0 Arial Ip1
+TY 134 54 4 3 0 0 0 Arial Ip2
+MC 130 80 0 0 ey_libraries.refpnt0
+MC 160 45 0 0 ey_libraries.trnbjt1
+MC 150 45 0 0 ey_libraries.pasres0
+MC 165 25 1 0 ey_libraries.pasres0
+MC 175 45 1 0 ey_libraries.pasres0
+LI 165 40 165 35 0
+LI 165 35 175 35 0
+LI 175 35 175 40 0
+LI 165 50 165 80 0
+MC 165 20 2 0 ey_libraries.refpnt0
+MC 165 80 0 0 ey_libraries.refpnt0
+MC 165 60 3 0 074
+MC 145 45 1 0 ey_libraries.refpnt0
+LI 175 65 175 55 0
+MC 175 60 3 0 074
+TY 156 54 4 3 0 0 0 Arial Ip1
+TY 179 54 4 3 0 0 0 Arial Ip2
+MC 175 70 0 0 ey_libraries.genvis1
+MC 175 80 0 0 ey_libraries.refpnt0
+TY 180 75 4 3 0 0 0 Arial Vp2
+LI 66 57 73 57 0
+MC 73 57 3 0 074
+TY 58 54 4 3 0 0 0 Arial ZE
+TY 15 35 4 3 0 0 0 Arial RB
+TY 60 35 4 3 0 0 0 Arial RB
+TY 105 35 4 3 0 0 0 Arial RB
+TY 150 35 4 3 0 0 0 Arial RB
+TY 170 25 4 3 0 0 0 Arial RC
+TY 125 25 4 3 0 0 0 Arial RC
+TY 80 25 4 3 0 0 0 Arial RC
+TY 35 25 4 3 0 0 0 Arial RC
+TY 45 45 4 3 0 0 0 Arial r0
+TY 90 45 4 3 0 0 0 Arial r0
+TY 135 45 4 3 0 0 0 Arial r0
+TY 180 45 4 3 0 0 0 Arial r0
+MC 33 67 3 0 074
+LI 40 67 33 67 0
+TY 41 67 4 3 0 0 0 Arial REr0

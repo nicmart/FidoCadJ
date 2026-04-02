@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="738.0" height="1956.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<g transform="translate(204.0,60.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore manuale generico</text>
+</g>
+<g transform="translate(204.0,150.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore a pulsante</text>
+</g>
+<g transform="translate(204.0,195.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore a tirante</text>
+</g>
+<g transform="translate(204.0,240.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore rotativo (posizione mantenuta)</text>
+</g>
+<ellipse cx="51.0" cy="609.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="609.0" x2="69.0" y2="609.0" style="stroke:#000000;stroke-dasharray: 3.0,3.0;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(204.0,375.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore a leva</text>
+</g>
+<g transform="translate(204.0,420.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore a manovella</text>
+</g>
+<g transform="translate(204.0,465.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore di emergenza a pulsante (fungo)</text>
+</g>
+<g transform="translate(204.0,510.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore a sfioramento</text>
+</g>
+<g transform="translate(204.0,555.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore a camma</text>
+</g>
+<g transform="translate(204.0,600.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore meccanico leva/rotella</text>
+</g>
+<g transform="translate(204.0,645.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore azionato da motore elettrico</text>
+</g>
+<g transform="translate(204.0,690.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore azionato da orologio elettrico</text>
+</g>
+<g transform="translate(204.0,735.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore azionato da dispositivo termico</text>
+</g>
+<g transform="translate(204.0,780.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore azionato da dispositivo elettromagnetico</text>
+</g>
+<g transform="translate(204.0,825.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore ad azione centrifuga</text>
+</g>
+<g transform="translate(204.0,870.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore per effetto di prossimità</text>
+</g>
+<g transform="translate(204.0,915.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore per effetto di prossimità di tipo capacitivo</text>
+</g>
+<g transform="translate(204.0,960.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore per effetto di prossimità di tipo induttivo</text>
+</g>
+<g transform="translate(204.0,1005.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore per effetto di prossimità di un magnete</text>
+</g>
+<g transform="translate(204.0,1050.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore sensibile al livello di un fluido</text>
+</g>
+<g transform="translate(204.0,1095.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore sensibile alla portata di un fluido</text>
+</g>
+<g transform="translate(204.0,1140.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore sensibile alla portata di un gas</text>
+</g>
+<g transform="translate(204.0,1185.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore sensibile alla pressione</text>
+</g>
+<g transform="translate(204.0,1230.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore sensibile alla temperatura</text>
+</g>
+<g transform="translate(204.0,1275.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore sensibile alla luce</text>
+</g>
+<g transform="translate(204.0,1320.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore sensibile al movimento</text>
+</g>
+<g transform="translate(204.0,1365.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Attuatore sensibile all&apos;umidità</text>
+</g>
+<g transform="translate(204.0,1455.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Dispositivo di aggancio innestato</text>
+</g>
+<g transform="translate(204.0,1410.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Dispositivo di aggancio disinnestato</text>
+</g>
+<g transform="translate(204.0,1500.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Interblocco meccanico</text>
+</g>
+<g transform="translate(204.0,1545.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Nottolino, dispositivo di mantenimento posizione</text>
+</g>
+<g transform="translate(204.0,1590.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Nottolino in posizione di presa</text>
+</g>
+<g transform="translate(204.0,1635.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Nottolino in posizione libera</text>
+</g>
+<g transform="translate(204.0,1680.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Meccanismo di apertura positiva</text>
+</g>
+<g transform="translate(204.0,1725.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Posizioni selettore 0/1 (riposo su 0)</text>
+</g>
+<g transform="translate(204.0,1770.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Posizioni selettore 0/1/2 (riposo su 0)</text>
+</g>
+<g transform="translate(204.0,1815.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Posizioni selettore 1/2/3/4 (riposo su 1)</text>
+</g>
+<line x1="9.0" y1="1884.0" x2="729.0" y2="1884.0" style="stroke:#e1e1e1;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="9.0" y1="9.0" x2="729.0" y2="9.0" style="stroke:#e1e1e1;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(243.0,1929.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#a2a2a2">Figura 3 - Sezione &quot;attuatori&quot;</text>
+</g>
+</svg>

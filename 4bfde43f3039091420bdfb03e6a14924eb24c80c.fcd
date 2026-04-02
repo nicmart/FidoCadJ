@@ -1,0 +1,87 @@
+[FIDOCAD]
+FJC C 1.5
+FJC B 0.5
+LI 125 328 125 343 0
+LI 125 343 75 343 0
+LI 75 298 75 322 0
+FCJ 2 0 3 2 0 1
+TY 65 317 4 3 0 0 0 Times++New++Roman I1
+TY 80 308 4 3 0 0 0 Times++New++Roman 
+LI 125 298 125 313 0
+MC 125 318 0 0 ey_libraries.genidc0
+FCJ
+TY 135 323 4 3 0 0 0 Times++New++Roman J
+TY 135 328 4 3 0 0 0 Times++New++Roman 
+LI 98 298 125 298 0
+LI 98 298 98 322 0
+FCJ 2 0 3 2 0 0
+LI 75 320 75 343 0
+LI 98 321 98 343 0
+FCJ 0 0 3 1 0 1
+TY 89 316 4 3 0 0 0 Times++New++Roman I2
+TY 103 331 4 3 0 0 0 Times++New++Roman 
+LI 90 298 98 298 0
+LI 83 298 75 298 0
+LI 90 294 83 298 0
+FCJ 0 0 3 1 0 1
+TY 84 288 4 3 0 0 0 Times++New++Roman T
+TY 96 308 4 3 0 0 0 Times++New++Roman 
+LI 98 421 98 445 0
+FCJ 2 0 3 2 0 0
+LI 75 443 75 466 0
+LI 98 444 98 466 0
+FCJ 0 0 3 1 0 1
+TY 89 439 4 3 0 0 0 Times++New++Roman I2
+TY 103 454 4 3 0 0 0 Times++New++Roman 
+LI 90 421 98 421 0
+LI 91 421 75 421 0
+LI 98 359 98 365 0
+LI 125 466 75 466 0
+LI 75 421 75 445 0
+FCJ 2 0 3 2 0 1
+TY 65 440 4 3 0 0 0 Times++New++Roman I1
+TY 80 431 4 3 0 0 0 Times++New++Roman 
+LI 125 421 125 436 0
+MC 125 441 0 0 ey_libraries.genidc0
+FCJ
+TY 135 446 4 3 0 0 0 Times++New++Roman J
+TY 135 451 4 3 0 0 0 Times++New++Roman 
+LI 98 421 125 421 0
+LI 125 451 125 466 0
+LI 98 370 98 383 0
+FCJ 2 0 3 2 0 0
+LI 75 381 75 404 0
+LI 98 382 98 404 0
+FCJ 0 0 3 1 0 1
+TY 89 377 4 3 0 0 0 Times++New++Roman I2
+TY 103 392 4 3 0 0 0 Times++New++Roman 
+LI 90 359 98 359 0
+LI 90 359 75 359 0
+LI 98 370 95 364 0
+FCJ 0 0 3 1 0 1
+TY 91 366 4 3 0 0 0 Times++New++Roman T
+TY 104 384 4 3 0 0 0 Times++New++Roman 
+LI 98 359 125 359 0
+LI 125 389 125 404 0
+LI 125 404 75 404 0
+LI 75 359 75 383 0
+FCJ 2 0 3 2 0 1
+TY 65 378 4 3 0 0 0 Times++New++Roman I1
+TY 80 369 4 3 0 0 0 Times++New++Roman 
+LI 125 359 125 374 0
+MC 125 379 0 0 ey_libraries.genidc0
+FCJ
+TY 135 384 4 3 0 0 0 Times++New++Roman J
+TY 135 389 4 3 0 0 0 Times++New++Roman 
+RV 46 283 173 480 2
+LI 46 350 173 350 2
+LI 46 413 173 413 2
+TY 52 333 4 3 0 0 2 Times++New++Roman 1
+TY 53 401 4 3 0 0 2 Times++New++Roman 2
+TY 55 471 4 3 0 0 2 Times++New++Roman 3
+TY 147 308 4 3 0 0 15 Times++New++Roman I2=?
+TY 147 378 4 3 0 0 15 Times++New++Roman I1=?
+TY 146 448 4 3 0 0 15 Times++New++Roman I1=?
+TY 147 369 4 3 0 0 15 Times++New++Roman I2=?
+TY 147 317 4 3 0 0 15 Times++New++Roman I1=?
+TY 146 439 4 3 0 0 15 Times++New++Roman I2=?

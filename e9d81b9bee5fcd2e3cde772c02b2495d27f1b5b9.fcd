@@ -1,0 +1,125 @@
+[FIDOCAD]
+FJC C 1.5
+FJC A 0.35
+LI 55 60 69 27 2
+FCJ 2 0 3 2 0 1
+TY 70 19 4 3 0 0 2 Times++New++Roman Ed1
+TY 46 105 4 3 0 0 2 Times++New++Roman 
+LI 56 61 79 87 2
+FCJ 2 0 3 2 0 1
+TY 79 91 4 3 0 0 2 Times++New++Roman Ed2
+TY 61 71 4 3 0 0 2 Times++New++Roman 
+LI 55 60 22 64 2
+FCJ 2 0 3 2 0 1
+TY 12 66 4 3 0 0 2 Times++New++Roman Ed3
+TY 60 70 4 3 0 0 2 Times++New++Roman 
+TY 63 53 4 3 0 0 2 Times++New++Roman β
+BE 60 48 66 51 68 49 71 61 2
+FCJ 0 0 3 2 3 0
+TY 44 107 4 3 0 0 2 Times++New++Roman terna diretta
+LI 107 205 121 172 2
+FCJ 2 0 3 2 0 1
+TY 125 173 4 3 0 0 2 Times++New++Roman Ed1
+TY 98 250 4 3 0 0 2 Times++New++Roman 
+LI 107 205 130 231 2
+FCJ 2 0 3 2 0 1
+TY 130 220 4 3 0 0 2 Times++New++Roman Ed2
+TY 112 215 4 3 0 0 2 Times++New++Roman 
+LI 107 205 74 209 2
+FCJ 2 0 3 2 0 1
+TY 60 209 4 3 0 0 2 Times++New++Roman Ed3
+TY 112 215 4 3 0 0 2 Times++New++Roman 
+LI 109 251 140 244 4
+FCJ 2 0 3 2 0 1
+TY 139 249 4 3 0 0 4 Times++New++Roman Eo3
+TY 118 295 4 3 0 0 4 Times++New++Roman 
+TY 250 54 4 3 0 0 4 Times++New++Roman δ
+LI 225 60 256 53 4
+FCJ 2 0 3 2 0 1
+TY 232 45 4 3 0 0 4 Times++New++Roman Eo1=Eo2=Eo3
+TY 234 104 4 3 0 0 4 Times++New++Roman 
+LI 110 145 141 138 4
+FCJ 2 0 3 2 0 1
+TY 125 132 4 3 0 0 4 Times++New++Roman Eo1
+TY 119 189 4 3 0 0 4 Times++New++Roman 
+LI 104 213 135 206 4
+FCJ 2 0 3 2 0 1
+TY 128 210 4 3 0 0 4 Times++New++Roman Eo3
+TY 113 257 4 3 0 0 4 Times++New++Roman 
+BE 245 55 246 57 245 57 246 60 4
+FCJ 0 0 3 2 3 0
+TY 210 105 4 3 0 0 4 Times++New++Roman terna omopolare
+LI 154 61 133 83 7
+FCJ 2 0 3 2 0 1
+TY 131 91 4 3 0 0 7 Times++New++Roman Ei2
+TY 149 71 4 3 0 0 7 Times++New++Roman 
+LI 155 60 183 64 7
+FCJ 2 0 3 2 0 1
+TY 186 67 4 3 0 0 7 Times++New++Roman Ei3
+TY 150 70 4 3 0 0 7 Times++New++Roman 
+LI 120 172 109 144 7
+FCJ 2 0 3 2 0 1
+TY 97 141 4 3 0 0 7 Times++New++Roman Ei1
+TY 129 216 4 3 0 0 7 Times++New++Roman 
+LI 76 209 104 213 7
+FCJ 2 0 3 2 0 1
+TY 107 216 4 3 0 0 7 Times++New++Roman Ei3
+TY 71 219 4 3 0 0 7 Times++New++Roman 
+TY 159 52 4 3 0 0 7 Times++New++Roman γ
+TY 139 106 4 3 0 0 7 Times++New++Roman terna inversa
+BE 150 48 160 44 170 53 168 61 7
+FCJ 0 0 3 2 3 0
+LI 129 230 108 252 7
+FCJ 2 0 3 2 0 1
+TY 102 241 4 3 0 0 7 Times++New++Roman Ei2
+TY 124 240 4 3 0 0 7 Times++New++Roman 
+LI 155 61 144 33 7
+FCJ 2 0 3 2 0 1
+TY 138 23 4 3 0 0 7 Times++New++Roman Ei1
+TY 164 105 4 3 0 0 7 Times++New++Roman 
+TY 181 225 4 3 0 0 11 Times++New++Roman terna non simmetrica
+LI 107 205 139 245 11
+FCJ 2 0 3 2 0 1
+TY 138 234 4 3 0 0 11 Times++New++Roman E2
+TY 117 220 4 3 0 0 11 Times++New++Roman 
+LI 107 205 140 139 11
+FCJ 2 0 3 2 0 1
+TY 142 146 4 3 0 0 11 Times++New++Roman E1
+TY 112 215 4 3 0 0 11 Times++New++Roman 
+LI 147 138 147 138 11
+TY 184 161 4 3 0 0 11 Times++New++Roman E1=Ed1+Ei1+E01
+TY 184 170 4 3 0 0 11 Times++New++Roman E2=Ed2+Ei2+E02
+TY 184 179 4 3 0 0 11 Times++New++Roman E3=Ed3+Ei3+E03
+LI 107 205 134 206 11
+FCJ 2 0 3 2 0 1
+TY 124 198 4 3 0 0 11 Times++New++Roman E3
+TY 112 215 4 3 0 0 11 Times++New++Roman 
+LI 193 61 113 60 13
+FCJ 1 0 3 1 3 0
+LI 225 98 226 17 13
+FCJ 2 0 3 1 3 0
+LI 154 99 155 18 13
+FCJ 2 0 3 1 3 0
+BE 63 40 71 42 86 57 73 79 13
+FCJ 0 0 3 2 3 1
+TY 65 65 4 3 0 0 13 Times++New++Roman 2π/3
+TY 68 50 4 3 0 0 13 Times++New++Roman 
+BE 147 40 139 42 124 57 137 79 13
+FCJ 0 0 3 2 3 1
+TY 139 51 4 3 0 0 13 Times++New++Roman 2π/3
+TY 142 50 4 3 0 0 13 Times++New++Roman 
+LI 56 99 55 18 13
+FCJ 2 0 3 1 3 0
+LI 108 228 107 147 13
+FCJ 2 0 3 1 3 0
+LI 19 61 99 60 13
+FCJ 2 0 3 1 3 0
+LI 87 205 167 204 13
+FCJ 2 0 3 1 3 0
+LI 267 60 208 60 13
+FCJ 1 0 3 1 3 0
+RV 6 5 275 264 14
+LI 6 125 275 124 14
+LI 203 5 202 124 14
+LI 202 124 202 124 14
+LI 107 5 107 125 14

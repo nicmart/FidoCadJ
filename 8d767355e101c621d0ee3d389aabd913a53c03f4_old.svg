@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="576.0" height="390.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<line x1="93.0" y1="66.0" x2="60.0" y2="66.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="60.0" cy="96.0" rx="15.0" ry="15.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(45.0,66.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<line x1="60.0" y1="66.0" x2="60.0" y2="126.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="126.0" x2="93.0" y2="126.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(24.0,87.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vi</text>
+</g>
+<rect x="93.0" y="51.0" rx="0" ry="0" width="87.0" height="93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="204.0" y1="66.0" x2="180.0" y2="66.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,87.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vo</text>
+</g>
+<g transform="translate(198.0,66.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<line x1="180.0" y1="126.0" x2="204.0" y2="126.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(198.0,111.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">-</text>
+</g>
+<line x1="108.0" y1="144.0" x2="108.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="165.0" y1="144.0" x2="165.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="153.0" y1="165.0" x2="165.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="108.0" y1="165.0" x2="120.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(96.0,57.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Linear circuit</text>
+</g>
+<g transform="translate(99.0,87.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Input</text>
+</g>
+<g transform="translate(138.0,87.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Output</text>
+</g>
+<g transform="translate(126.0,129.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Port</text>
+</g>
+<line x1="96.0" y1="216.0" x2="63.0" y2="216.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="141.0" cy="339.0" rx="15.0" ry="15.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(48.0,216.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<line x1="63.0" y1="216.0" x2="63.0" y2="276.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="63.0" y1="276.0" x2="96.0" y2="276.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(21.0,237.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vi=0</text>
+</g>
+<rect x="96.0" y="201.0" rx="0" ry="0" width="87.0" height="93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="207.0" y1="216.0" x2="183.0" y2="216.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(192.0,237.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vo</text>
+</g>
+<g transform="translate(201.0,216.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<line x1="183.0" y1="276.0" x2="207.0" y2="276.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(201.0,261.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">-</text>
+</g>
+<line x1="111.0" y1="294.0" x2="111.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="168.0" y1="294.0" x2="168.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="156.0" y1="339.0" x2="168.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="111.0" y1="339.0" x2="126.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(99.0,207.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Linear circuit</text>
+</g>
+<g transform="translate(102.0,237.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Input</text>
+</g>
+<g transform="translate(141.0,237.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Output</text>
+</g>
+<g transform="translate(129.0,279.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Port</text>
+</g>
+<line x1="141.0" y1="324.0" x2="141.0" y2="354.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="132.0,360.0 138.0,357.0 138.0,363.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="132.0" y1="360.0" x2="147.0" y2="360.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(117.0,309.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<g transform="translate(132.0,309.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vs</text>
+</g>
+<g transform="translate(156.0,309.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">-</text>
+</g>
+<g transform="translate(132.0,366.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Js</text>
+</g>
+<line x1="138.0" y1="306.0" x2="195.0" y2="306.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="138.0,294.0 141.0,303.0 135.0,303.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="138.0" y1="306.0" x2="138.0" y2="303.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(198.0,297.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">ZD=</text>
+</g>
+<g transform="translate(234.0,288.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vs</text>
+</g>
+<g transform="translate(234.0,309.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Js</text>
+</g>
+<line x1="234.0" y1="306.0" x2="255.0" y2="306.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="216.0" x2="309.0" y2="216.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="387.0" cy="339.0" rx="15.0" ry="15.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(294.0,216.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<line x1="309.0" y1="216.0" x2="309.0" y2="276.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="309.0" y1="276.0" x2="342.0" y2="276.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(273.0,237.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vi</text>
+</g>
+<rect x="342.0" y="201.0" rx="0" ry="0" width="87.0" height="93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="453.0" y1="216.0" x2="429.0" y2="216.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(438.0,237.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vo</text>
+</g>
+<g transform="translate(447.0,216.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<line x1="429.0" y1="276.0" x2="453.0" y2="276.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(447.0,261.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">-</text>
+</g>
+<line x1="357.0" y1="294.0" x2="357.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="414.0" y1="294.0" x2="414.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="402.0" y1="339.0" x2="414.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="357.0" y1="339.0" x2="372.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(345.0,207.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Linear circuit</text>
+</g>
+<g transform="translate(348.0,237.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Input</text>
+</g>
+<g transform="translate(387.0,237.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Output</text>
+</g>
+<g transform="translate(375.0,279.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Port</text>
+</g>
+<line x1="387.0" y1="324.0" x2="387.0" y2="354.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="378.0,360.0 384.0,357.0 384.0,363.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="378.0" y1="360.0" x2="393.0" y2="360.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(363.0,309.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<g transform="translate(378.0,309.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vs</text>
+</g>
+<g transform="translate(402.0,309.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">-</text>
+</g>
+<g transform="translate(378.0,366.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Js</text>
+</g>
+<line x1="384.0" y1="306.0" x2="441.0" y2="306.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="384.0,294.0 387.0,303.0 381.0,303.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="384.0" y1="306.0" x2="384.0" y2="303.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(444.0,297.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">ZN=</text>
+</g>
+<g transform="translate(480.0,288.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vs</text>
+</g>
+<g transform="translate(480.0,309.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Js</text>
+</g>
+<line x1="480.0" y1="306.0" x2="501.0" y2="306.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="309.0" cy="246.0" rx="15.0" ry="15.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="480.0,246.0 474.0,249.0 474.0,243.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="480.0" y1="246.0" x2="465.0" y2="246.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(486.0,237.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">0</text>
+</g>
+<line x1="258.0" y1="288.0" x2="258.0" y2="330.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(261.0,324.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Vi=0</text>
+</g>
+<line x1="504.0" y1="288.0" x2="504.0" y2="330.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(510.0,318.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Vo-&amp;gt;0</text>
+</g>
+<line x1="420.0" y1="144.0" x2="420.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="348.0" y1="66.0" x2="315.0" y2="66.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="315.0" cy="96.0" rx="15.0" ry="15.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(300.0,66.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<line x1="315.0" y1="66.0" x2="315.0" y2="126.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="315.0" y1="126.0" x2="348.0" y2="126.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(279.0,87.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vi</text>
+</g>
+<rect x="348.0" y="51.0" rx="0" ry="0" width="87.0" height="93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="459.0" y1="66.0" x2="435.0" y2="66.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(444.0,87.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">Vo</text>
+</g>
+<g transform="translate(453.0,66.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<line x1="435.0" y1="126.0" x2="459.0" y2="126.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(453.0,111.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">-</text>
+</g>
+<line x1="363.0" y1="144.0" x2="363.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(381.0,129.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Port</text>
+</g>
+<rect x="375.0" y="159.0" rx="0" ry="0" width="33.0" height="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="165.0" x2="420.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="165.0" x2="375.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(351.0,57.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Linear circuit</text>
+</g>
+<g transform="translate(354.0,87.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Input</text>
+</g>
+<g transform="translate(393.0,87.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Output</text>
+</g>
+<g transform="translate(387.0,159.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">Z</text>
+</g>
+<g transform="translate(216.0,9.0) scale(1.4393939393939392,1) "><text x="0.0" y="18.0" font-family="Courier New" font-size="18.0" font-style="" font-weigth="bold" fill="#ff0000">EET</text>
+</g>
+<g transform="translate(9.0,48.0) scale(1.4393939393939392,1) "><text x="0.0" y="18.0" font-family="Courier New" font-size="18.0" font-style="" font-weigth="bold" fill="#ff0000">1&amp;#41;</text>
+</g>
+<g transform="translate(267.0,42.0) scale(1.4393939393939392,1) "><text x="0.0" y="18.0" font-family="Courier New" font-size="18.0" font-style="" font-weigth="bold" fill="#ff0000">2&amp;#41;</text>
+</g>
+<g transform="translate(15.0,180.0) scale(1.4393939393939392,1) "><text x="0.0" y="18.0" font-family="Courier New" font-size="18.0" font-style="" font-weigth="bold" fill="#ff0000">3&amp;#41;</text>
+</g>
+<g transform="translate(273.0,183.0) scale(1.4393939393939392,1) "><text x="0.0" y="18.0" font-family="Courier New" font-size="18.0" font-style="" font-weigth="bold" fill="#ff0000">4&amp;#41;</text>
+</g>
+</svg>

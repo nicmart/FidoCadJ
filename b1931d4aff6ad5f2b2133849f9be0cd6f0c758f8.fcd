@@ -1,0 +1,88 @@
+[FIDOCAD]
+FJC C 2.5
+FJC B 0.5
+MC 40 29 0 0 ey_libraries.trnbjt1
+MC 50 34 0 0 ey_libraries.trnbjt1
+LI 45 24 55 24 0
+TY 40 45 4 3 0 0 0 * Fig. 1a
+LI 55 30 55 25 0
+MC 83 31 0 0 ey_libraries.trnbjt1
+TY 85 45 4 3 0 0 0 * Fig. 1b
+MC 93 26 0 0 ey_libraries.trnbjt0
+LI 98 35 98 31 0
+LI 88 35 98 35 0
+LI 93 23 93 19 0
+TY 35 40 4 3 0 0 0 * Darlington
+TY 85 40 4 3 0 0 0 * Sziklai
+TY 125 45 4 3 0 0 0 * Fig. 1c
+MC 136 26 0 0 ey_libraries.trnbjt1
+MC 126 31 0 0 ey_libraries.trnbjt0
+LI 141 35 141 31 0
+MC 90 71 0 0 ey_libraries.trnbjt0
+LI 105 75 105 71 0
+MC 100 66 0 0 ey_libraries.trnbjt1
+MC 90 89 0 0 ey_libraries.trnbjt1
+MC 100 94 0 0 ey_libraries.trnbjt0
+LI 105 75 105 89 0
+TY 102 54 4 3 0 0 0 * +V
+TY 103 100 4 3 0 0 0 * -V
+TY 96 72 4 3 0 0 0 * -V
+TY 96 80 4 3 0 0 0 * +V
+TY 92 111 4 3 0 0 0 * Fig. 2
+TY 85 105 4 3 0 0 0 * Diamond Buffer
+LI 85 71 85 89 0
+LI 85 81 78 81 0
+SA 85 81 0
+LI 112 81 105 81 0
+SA 105 81 0
+TY 71 77 4 3 0 0 0 * In
+TY 114 78 4 3 0 0 0 * Out
+LI 66 120 122 120 0
+TY 111 160 4 3 0 0 0 * Led_2
+TY 77 221 4 3 0 0 0 * Fig. 3
+MC 101 204 1 0 ey_libraries.pasres0
+MC 101 130 1 0 ey_libraries.didled0
+LI 101 140 101 155 0
+FCJ 0 0 3 2 1 0
+TY 111 175 4 3 0 0 0 * Led_1
+LI 101 120 101 126 0
+MC 78 214 0 0 ey_libraries.refpnt0
+MC 73 195 0 0 ey_libraries.trnbjt0
+TY 109 143 4 3 0 0 0 * ILed
+LI 101 199 101 195 0
+SA 101 120 0
+MC 96 190 0 0 ey_libraries.trnbjt1
+TY 111 130 4 3 0 0 0 * Led_n
+TY 106 205 4 3 0 0 0 * R
+LI 106 143 106 158 0
+FCJ 2 0 3 2 0 0
+MC 101 214 0 0 ey_libraries.refpnt0
+MC 101 175 1 0 ey_libraries.didled0
+MC 101 160 1 0 ey_libraries.didled0
+MC 78 160 1 0 ey_libraries.pasres0
+LI 78 155 78 120 0
+LI 78 170 78 190 0
+SA 78 120 0
+TY 68 160 4 3 0 0 0 * R1
+LI 75 143 75 158 0
+FCJ 2 0 3 2 0 0
+TY 59 153 4 3 0 0 0 * IR1
+SA 78 190 0
+LI 78 199 78 214 0
+LI 92 190 78 190 0
+TY 29 159 4 3 0 0 2 * Ie1= Ic1+Ib1
+TY 110 150 4 3 0 0 2 * Ic2
+TY 111 188 4 3 0 0 2 * Vce2
+TY 103 195 4 3 0 0 2 * Vbe2
+TY 84 200 4 3 0 0 2 * Vce1
+TY 64 199 4 3 0 0 2 * Vbe1
+BE 78 190 68 182 65 192 73 196 2
+FCJ 3 0 3 2 0 0
+BE 101 194 115 190 108 180 101 186 2
+FCJ 3 0 3 2 0 0
+BE 78 199 92 200 86 184 79 190 2
+FCJ 3 0 3 2 0 0
+BE 95 189 87 199 97 202 101 194 2
+FCJ 3 0 3 2 0 0
+RV 81 53 113 79 5
+FCJ 1 0

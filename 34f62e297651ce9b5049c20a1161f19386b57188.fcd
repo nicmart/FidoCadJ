@@ -1,0 +1,105 @@
+[FIDOCAD]
+FJC B 0.5
+MC 125 70 0 0 ey_libraries.trnbjt1
+FCJ
+TY 135 65 2 2 0 0 0 Verdana T2
+TY 135 70 2 2 0 0 0 Verdana BC337
+MC 60 70 0 1 ey_libraries.trnbjt1
+FCJ
+TY 40 65 2 2 0 0 0 Verdana T1
+TY 40 70 2 2 0 0 0 Verdana BC337
+MC 65 55 3 0 ey_libraries.pascap0
+FCJ
+TY 60 55 2 2 0 0 0 Verdana C1
+TY 60 60 2 2 0 0 0 Verdana 10 μF
+MC 55 35 1 0 ey_libraries.pasres0
+FCJ
+TY 40 35 2 2 0 0 0 Verdana R1
+TY 40 40 2 2 0 0 0 Verdana 4,7 kΩ
+MC 130 45 1 0 ey_libraries.pasres0
+FCJ
+TY 135 45 2 2 0 0 0 Verdana R5
+TY 135 50 2 2 0 0 0 Verdana 180 Ω
+MC 80 35 1 0 ey_libraries.pasres0
+FCJ
+TY 70 35 2 2 0 0 0 Verdana R2
+TY 65 40 2 2 0 0 0 Verdana 22 kΩ
+MC 105 35 1 0 ey_libraries.pasres0
+FCJ
+TY 110 35 2 2 0 0 0 Verdana R3
+TY 110 40 2 2 0 0 0 Verdana 47 kΩ
+MC 115 55 3 0 ey_libraries.pascap0
+FCJ
+TY 120 55 2 2 0 0 0 Verdana C2
+TY 115 60 2 2 0 0 0 Verdana 10 μF
+MC 20 20 2 0 010
+FCJ
+TY 20 15 2 2 0 0 0 Verdana Vcc
+TY 20 20 2 2 0 0 0 Verdana 2,4 V
+MC 20 85 2 0 020
+FCJ
+TY 20 80 2 2 0 0 0 Verdana Vss
+TY 20 85 2 2 0 0 0 Verdana 0 V
+LI 40 20 155 20 0
+LI 105 20 105 30 0
+LI 80 20 80 30 0
+LI 55 20 55 30 0
+LI 55 45 55 65 0
+LI 55 55 60 55 0
+LI 130 55 130 65 0
+LI 80 45 80 55 0
+LI 85 55 75 55 0
+LI 105 45 105 55 0
+LI 100 55 110 55 0
+LI 85 55 100 70 0
+LI 100 55 85 70 0
+LI 65 70 85 70 0
+LI 100 70 120 70 0
+LI 55 75 55 85 0
+LI 130 75 130 85 0
+SA 55 20 0
+SA 80 20 0
+SA 105 20 0
+SA 130 55 0
+SA 105 55 0
+SA 80 55 0
+SA 55 55 0
+SA 55 85 0
+LI 125 55 130 55 0
+LI 130 85 20 85 0
+MC 165 30 0 0 ey_libraries.phonpn1
+FCJ
+TY 160 10 2 2 0 0 0 Verdana OC1
+TY 160 15 2 2 0 0 0 Verdana 4N37
+MC 130 25 1 0 ey_libraries.pasres0
+FCJ
+TY 135 25 2 2 0 0 0 Verdana R4
+TY 135 30 2 2 0 0 0 Verdana 4,7 kΩ
+LI 155 40 130 40 0
+LI 130 40 130 35 0
+SA 130 20 0
+SA 130 40 0
+LI 195 20 175 20 0
+FCJ 1 0 3 2 0 0
+LI 195 40 175 40 0
+FCJ 1 0 3 2 0 0
+MC 195 30 1 0 ey_libraries.swcno0
+LI 195 40 195 45 0
+LI 195 25 195 15 0
+SA 195 20 0
+SA 195 40 0
+BE 38 18 41 18 41 22 38 22 0
+BE 33 18 31 18 31 19 31 19 0
+BE 33 22 31 22 31 21 31 21 0
+EV 35 19 38 22 0
+LI 33 18 38 18 0
+FCJ 0 0 3 1 0 1
+TY 33 12 2 2 0 0 0 Verdana S1
+TY 39 12 2 2 0 0 0 Verdana Ball switch
+LI 33 22 38 22 0
+LI 20 20 32 20 0
+TY 60 90 4 3 0 0 0 Verdana 155 ms ON, 330 ms OFF
+LI 195 15 210 15 0
+FCJ 0 0 3 2 3 0
+LI 195 45 210 45 0
+FCJ 0 0 3 2 3 0

@@ -1,0 +1,99 @@
+[FIDOCAD]
+FJC B 0.5
+MC 55 55 0 0 580
+MC 125 55 0 0 580
+MC 70 80 0 0 170
+MC 130 40 0 0 080
+MC 110 55 0 0 080
+MC 65 135 0 0 080
+MC 135 90 0 0 080
+LI 75 135 90 135 0
+LI 55 65 60 80 0
+LI 60 80 70 80 0
+LI 80 80 80 60 0
+LI 80 60 100 60 0
+LI 100 60 100 55 0
+LI 100 55 110 55 0
+LI 125 55 120 55 0
+LI 130 40 125 40 0
+LI 125 40 125 55 0
+LI 140 40 150 40 0
+LI 150 40 150 90 0
+LI 150 90 145 90 0
+LI 55 90 55 65 0
+LI 135 90 55 90 0
+LI 50 25 165 25 0
+LI 50 105 170 105 0
+LI 70 25 70 55 0
+LI 70 65 70 105 0
+MC 165 105 0 0 elettrotecnica.ms01
+LI 150 60 165 60 0
+SA 150 130 0
+SA 165 105 0
+SA 150 60 0
+SA 125 55 0
+SA 80 60 0
+SA 55 65 0
+SA 70 25 0
+SA 70 105 0
+MC 65 155 0 0 elettrotecnica.ms01
+SA 65 135 0
+SA 65 155 0
+TY 130 30 4 3 0 0 0 Abyssinica++SIL R3 10k
+TY 100 45 4 3 0 0 0 Abyssinica++SIL R2 4,7k
+TY 60 125 4 3 0 0 0 Abyssinica++SIL R1 10k
+TY 130 80 4 3 0 0 0 Abyssinica++SIL R4 10k
+LI 60 155 60 135 0
+FCJ 2 0 3 2 1 0
+LI 100 80 100 65 0
+FCJ 2 0 3 2 1 0
+LI 170 95 170 65 0
+FCJ 2 0 3 2 1 0
+TY 55 145 4 3 0 0 0 Abyssinica++SIL Vi
+TY 105 75 4 3 0 0 0 Abyssinica++SIL V1
+TY 160 70 4 3 0 0 0 Abyssinica++SIL V3
+TY 135 20 4 3 0 0 0 Abyssinica++SIL +12 V
+TY 75 85 4 3 0 0 0 Abyssinica++SIL C1
+TY 25 5 4 3 0 0 0 Abyssinica++SIL convertitore da tensione continua a impulsi PWM 
+LI 115 75 125 55 0
+FCJ 2 0 3 2 1 0
+TY 25 15 4 3 0 0 0 Abyssinica++SIL IC1a, IC1b LM358 o quello che volete
+TY 75 50 4 3 0 0 0 Abyssinica++SIL IC1a
+TY 135 45 4 3 0 0 0 Abyssinica++SIL IC1b
+TY 110 65 4 3 0 0 0 Abyssinica++SIL V2
+TY 25 10 4 3 0 0 0 Abyssinica++SIL La tensione Vi varia fra 0 e +5 V
+TY 15 165 4 3 0 0 0 Abyssinica++SIL dimensionare C1 in modo che la frequenza di V3 sia circa 1kHz
+MC 90 125 0 0 580
+LI 90 125 90 60 0
+MC 90 135 0 0 180
+SA 150 155 0
+LI 115 130 150 130 0
+LI 65 155 150 155 0
+LI 90 145 90 155 0
+SA 90 155 0
+SA 90 135 0
+TY 125 120 4 3 0 0 0 Abyssinica++SIL uscita PWM a 1kHz
+SA 90 60 0
+TY 105 115 4 3 0 0 0 Abyssinica++SIL IC2a
+LI 155 155 155 135 0
+FCJ 2 0 3 2 1 0
+TY 145 140 4 3 0 0 0 Abyssinica++SIL Vu
+TY 100 95 4 3 0 0 0 Abyssinica++SIL genera onda triangolare
+TY 115 135 4 3 0 0 0 Abyssinica++SIL comparatore
+TY 20 140 4 3 0 0 0 Abyssinica++SIL da uscita ANA arduino
+TY 45 170 4 3 0 0 0 Abyssinica++SIL provate  con 10 nF
+MC 120 30 1 0 080
+MC 120 70 1 0 080
+LI 120 25 120 30 0
+LI 120 40 120 70 0
+LI 120 80 120 105 0
+LI 125 65 120 65 0
+SA 120 25 0
+SA 120 65 0
+SA 120 105 0
+TY 100 35 4 3 0 0 0 Abyssinica++SIL R5 10k
+TY 125 75 4 3 0 0 0 Abyssinica++SIL R6 10k
+TY 95 145 4 3 0 0 0 Abyssinica++SIL C2 10 uF
+LI 120 65 85 40 0
+LI 85 40 55 40 0
+LI 55 40 55 55 0

@@ -1,0 +1,158 @@
+[FIDOCAD]
+FJC B 0.5
+MC 180 50 0 0 ey_libraries.trnbjt0
+MC 195 50 0 0 ey_libraries.trnbjt0
+MC 180 110 0 0 ey_libraries.trnbjt1
+MC 195 110 0 0 ey_libraries.trnbjt1
+MC 185 35 1 0 ey_libraries.pasres0
+MC 200 35 1 0 ey_libraries.pasres0
+MC 185 120 1 0 ey_libraries.pasres0
+MC 200 120 1 0 ey_libraries.pasres0
+MC 75 40 3 0 ey_libraries.didznr0
+MC 75 125 3 0 ey_libraries.didznr0
+MC 80 30 0 0 ey_libraries.pasres0
+MC 80 130 0 0 ey_libraries.pasres0
+LI 90 30 200 30 0
+LI 90 130 200 130 0
+MC 65 80 0 0 ey_libraries.opaopa1
+MC 70 45 0 0 ey_libraries.refpnt4
+MC 80 115 2 0 ey_libraries.refpnt4
+LI 75 30 65 30 0
+LI 65 30 65 70 0
+LI 75 130 65 130 0
+LI 65 130 65 90 0
+SA 75 30 0
+SA 185 30 0
+SA 185 130 0
+SA 75 130 0
+MC 155 55 0 0 ey_libraries.trnbjt1
+MC 155 105 0 0 ey_libraries.trnbjt0
+MC 160 65 1 0 ey_libraries.pasres0
+MC 160 90 1 0 ey_libraries.pasres0
+MC 140 95 1 0 ey_libraries.diddid0
+MC 140 80 1 0 ey_libraries.diddid0
+MC 140 65 1 0 ey_libraries.pasres5
+LI 140 55 150 55 0
+LI 140 105 150 105 0
+LI 140 55 135 55 0
+LI 135 55 135 65 0
+SA 140 55 0
+LI 80 80 110 80 0
+LI 110 80 110 90 0
+SA 140 90 0
+LI 160 50 175 50 0
+LI 160 110 175 110 0
+LI 160 75 160 85 0
+MC 160 85 3 0 ey_libraries.refpnt4
+SA 160 80 0
+LI 185 55 185 105 0
+LI 200 55 200 60 0
+LI 200 60 185 60 0
+LI 200 105 200 100 0
+LI 200 100 185 100 0
+SA 185 60 0
+SA 185 100 0
+MC 175 60 0 0 ey_libraries.pasres0
+MC 175 100 0 0 ey_libraries.pasres0
+MC 160 40 1 0 ey_libraries.pasres0
+MC 160 115 1 0 ey_libraries.pasres0
+LI 170 60 160 60 0
+LI 170 100 160 100 0
+LI 160 125 160 130 0
+LI 160 35 160 30 0
+SA 160 30 0
+SA 160 130 0
+SA 160 100 0
+SA 160 110 0
+SA 160 60 0
+LI 190 50 180 50 0
+LI 190 110 180 110 0
+MC 35 75 1 0 ey_libraries.pascap0
+MC 40 80 1 0 ey_libraries.pasres0
+MC 40 95 1 0 ey_libraries.pasres0
+MC 50 90 1 0 ey_libraries.pascap0
+LI 45 75 55 75 0
+SA 40 75 0
+MC 35 105 0 0 ey_libraries.refpnt4
+LI 55 85 55 105 0
+LI 45 75 40 75 0
+SA 40 90 0
+MC 130 140 0 0 ey_libraries.pasres0
+LI 55 105 55 140 0
+LI 55 140 125 140 0
+LI 145 140 215 140 0
+LI 215 140 215 80 0
+LI 215 80 185 80 0
+SA 185 80 0
+SA 55 90 0
+LI 145 140 140 140 0
+TY 165 65 4 3 0 0 0 * R1
+TY 165 90 4 3 0 0 0 * 1 k
+TY 205 45 4 3 0 0 0 * A1941
+TY 205 105 4 3 0 0 0 * C5198
+TY 140 55 4 3 0 0 0 * C5117
+TY 140 105 4 3 0 0 0 * A1930
+MC 130 90 0 0 ey_libraries.pasres0
+LI 125 90 110 90 0
+TY 125 80 4 3 0 0 0 * 10
+TY 125 60 4 3 0 0 0 * 1 k
+TY 205 35 4 3 0 0 0 * 0.33
+TY 205 120 4 3 0 0 0 * 0.33
+TY 25 80 4 3 0 0 0 * 22 k
+TY 25 95 4 3 0 0 0 * 560
+TY 80 20 4 3 0 0 0 * 5k6
+TY 80 120 4 3 0 0 0 * 5k6
+SA 160 50 0
+LI 140 35 140 30 0
+MC 140 40 1 0 ey_libraries.pasres0
+LI 140 115 140 110 0
+MC 140 120 1 0 ey_libraries.pasres0
+SA 140 30 0
+SA 140 130 0
+LI 140 50 140 55 0
+LI 140 105 140 110 0
+SA 140 105 0
+TY 125 120 4 3 0 0 0 * 15 k
+TY 125 35 4 3 0 0 0 * Ra2
+TY 125 115 4 3 0 0 0 * Ra1
+TY 125 40 4 3 0 0 0 * 15 k
+TY 165 70 4 3 0 0 0 * 1 k
+TY 165 115 4 3 0 0 0 * Rb1
+TY 165 40 4 3 0 0 0 * Rb2
+TY 165 100 4 3 0 0 0 * Rc1
+TY 165 55 4 3 0 0 0 * Rc2
+MC 230 30 0 0 ey_libraries.pasres0
+MC 230 20 0 0 ey_libraries.pasres0
+MC 230 10 0 0 ey_libraries.pasres0
+MC 230 130 0 0 ey_libraries.pasres0
+MC 230 140 0 0 ey_libraries.pasres0
+MC 230 150 0 0 ey_libraries.pasres0
+LI 225 10 225 30 0
+FCJ 0 0 3 2 1 0
+LI 240 10 240 30 0
+FCJ 0 0 3 2 1 0
+LI 225 130 225 150 0
+FCJ 0 0 3 2 1 0
+LI 240 130 240 150 0
+FCJ 0 0 3 2 1 0
+TY 220 35 4 3 0 0 0 * 1 k 10 W
+TY 220 120 4 3 0 0 0 * 1 k 10 W
+MC 115 60 0 0 ey_libraries.refpnt4
+TY 245 30 4 3 0 0 0 * +80 V
+TY 245 125 4 3 0 0 0 * -80 V
+SA 200 30 0
+SA 225 30 0
+SA 225 130 0
+SA 200 130 0
+EV 165 50 155 35 2
+EV 145 50 135 35 2
+EV 125 135 140 145 2
+EV 155 110 165 125 2
+EV 170 95 185 105 2
+EV 170 55 185 65 2
+LI 125 80 135 95 6
+LI 135 80 125 95 6
+BE 140 55 160 80 140 105 140 105 6
+LI 200 30 225 30 6
+LI 200 130 225 130 6
+LI 140 55 120 60 6

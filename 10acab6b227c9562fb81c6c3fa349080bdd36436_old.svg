@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="537.0" height="2313.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<ellipse cx="54.0" cy="51.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="39.0" x2="75.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="126.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="114.0" x2="75.0" y2="84.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="117.0" x2="63.0" y2="135.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="135.0" x2="63.0" y2="117.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="201.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="189.0" x2="75.0" y2="159.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="159.0" x2="87.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="276.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="264.0" x2="75.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="234.0" x2="87.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="267.0" x2="63.0" y2="285.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="285.0" x2="63.0" y2="267.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="342.0" x2="54.0" y2="360.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="351.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="339.0" x2="75.0" y2="309.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="309.0" x2="87.0" y2="315.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="72.0,393.0 78.0,393.0 75.0,402.0 75.0,402.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="75.0" y1="384.0" x2="75.0" y2="393.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="426.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="414.0" x2="75.0" y2="384.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="384.0" x2="87.0" y2="390.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,36.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Interruttore generico</text>
+</g>
+<g transform="translate(189.0,111.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Interruttore generico con indicatore luminoso</text>
+</g>
+<g transform="translate(189.0,186.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Interruttore unipolare</text>
+</g>
+<g transform="translate(189.0,261.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Interruttore unipolare con indicatore luminoso</text>
+</g>
+<g transform="translate(189.0,336.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Interruttore unipolare con chiave</text>
+</g>
+<g transform="translate(189.0,411.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Interruttore unipolare a tirante</text>
+</g>
+<ellipse cx="54.0" cy="501.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="489.0" x2="75.0" y2="459.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="459.0" x2="87.0" y2="465.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="72.0" y1="465.0" x2="84.0" y2="471.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,486.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Interruttore bipolare</text>
+</g>
+<ellipse cx="54.0" cy="576.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="564.0" x2="75.0" y2="534.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="534.0" x2="87.0" y2="540.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="567.0" x2="63.0" y2="585.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="585.0" x2="63.0" y2="567.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="72.0" y1="540.0" x2="84.0" y2="546.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,561.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Interruttore bipolare con indicatore luminoso</text>
+</g>
+<ellipse cx="54.0" cy="651.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="639.0" x2="75.0" y2="609.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="609.0" x2="87.0" y2="615.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="72.0" y1="615.0" x2="84.0" y2="621.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="642.0" x2="54.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,636.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Interruttore bipolare con chiave</text>
+</g>
+<ellipse cx="54.0" cy="726.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="714.0" x2="75.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="684.0" x2="87.0" y2="690.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="48.0" y1="714.0" x2="33.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="684.0" x2="21.0" y2="690.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,711.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Commutatore unipolare</text>
+</g>
+<line x1="48.0" y1="813.0" x2="33.0" y2="843.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="843.0" x2="21.0" y2="837.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="801.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="789.0" x2="75.0" y2="759.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="759.0" x2="87.0" y2="765.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,786.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Deviatore unipolare</text>
+</g>
+<line x1="45.0" y1="897.0" x2="63.0" y2="915.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="915.0" x2="63.0" y2="897.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="48.0" y1="918.0" x2="33.0" y2="948.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="948.0" x2="21.0" y2="942.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="906.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="894.0" x2="75.0" y2="864.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="864.0" x2="87.0" y2="870.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,891.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Deviatore unipolare con indicatore luminoso</text>
+</g>
+<line x1="60.0" y1="1128.0" x2="75.0" y2="1158.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="1158.0" x2="87.0" y2="1152.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="48.0" y1="1104.0" x2="33.0" y2="1074.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="1074.0" x2="21.0" y2="1080.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="48.0" y1="1128.0" x2="33.0" y2="1158.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="1158.0" x2="21.0" y2="1152.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1116.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="1104.0" x2="75.0" y2="1074.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="1074.0" x2="87.0" y2="1080.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,1101.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Invertitore</text>
+</g>
+<line x1="60.0" y1="1233.0" x2="75.0" y2="1263.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="1263.0" x2="87.0" y2="1257.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="48.0" y1="1209.0" x2="33.0" y2="1179.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="1179.0" x2="21.0" y2="1185.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="48.0" y1="1233.0" x2="33.0" y2="1263.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="1263.0" x2="21.0" y2="1257.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1221.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="1209.0" x2="75.0" y2="1179.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="1179.0" x2="87.0" y2="1185.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="1212.0" x2="63.0" y2="1230.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="1230.0" x2="63.0" y2="1212.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,1206.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Invertitore con indicatore luminoso</text>
+</g>
+<line x1="48.0" y1="1023.0" x2="33.0" y2="1053.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="1053.0" x2="21.0" y2="1047.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1011.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="999.0" x2="75.0" y2="969.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="969.0" x2="87.0" y2="975.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="1002.0" x2="54.0" y2="1020.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,996.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Deviatore unipolare con chiave</text>
+</g>
+<ellipse cx="54.0" cy="1311.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1311.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,1296.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Pulsante</text>
+</g>
+<ellipse cx="54.0" cy="1371.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1371.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="48.0" y1="1365.0" x2="60.0" y2="1377.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="48.0" y1="1377.0" x2="60.0" y2="1365.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1431.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1431.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="1425.0" x2="54.0" y2="1437.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="51.0,1512.0 57.0,1512.0 54.0,1521.0 54.0,1521.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<ellipse cx="54.0" cy="1491.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1491.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="1503.0" x2="54.0" y2="1512.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1566.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1566.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="39.0" y1="1581.0" x2="69.0" y2="1581.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="36.0" y="1551.0" rx="0" ry="0" width="36.0" height="33.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1656.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1656.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1629.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1629.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1731.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1731.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="1713.0" x2="72.0" y2="1713.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="72.0" y1="1713.0" x2="72.0" y2="1749.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="72.0" y1="1749.0" x2="60.0" y2="1749.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="1749.0" x2="60.0" y2="1755.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="1707.0" x2="60.0" y2="1713.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1836.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1836.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="1818.0" x2="69.0" y2="1818.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="69.0" y1="1818.0" x2="69.0" y2="1854.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="69.0" y1="1854.0" x2="54.0" y2="1854.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="1854.0" x2="54.0" y2="1857.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="1803.0" x2="54.0" y2="1818.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="54.0" y1="1791.0" x2="99.0" y2="1860.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="1860.0" x2="9.0" y2="1860.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="9.0" y1="1860.0" x2="54.0" y2="1791.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,1356.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Pulsante con indicatore luminoso</text>
+</g>
+<g transform="translate(189.0,1416.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Pulsante con chiave</text>
+</g>
+<g transform="translate(189.0,1476.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Pulsante a tirante</text>
+</g>
+<g transform="translate(189.0,1551.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Pulsante con targhetta</text>
+</g>
+<g transform="translate(189.0,1626.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Pulsante doppio (tapparella)</text>
+</g>
+<g transform="translate(189.0,1716.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Pulsante ad accesso protetto</text>
+</g>
+<g transform="translate(189.0,1821.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Pulsante di emergenza protetto sottovetro</text>
+</g>
+<line x1="60.0" y1="1914.0" x2="81.0" y2="1914.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="81.0" y1="1914.0" x2="81.0" y2="1905.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="81.0" y1="1905.0" x2="60.0" y2="1914.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="1941.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="1929.0" x2="75.0" y2="1899.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="1989.0" x2="81.0" y2="1989.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="81.0" y1="1989.0" x2="81.0" y2="1980.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="81.0" y1="1980.0" x2="60.0" y2="1989.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="2016.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="2004.0" x2="75.0" y2="1974.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="1974.0" x2="87.0" y2="1980.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="2064.0" x2="81.0" y2="2064.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="81.0" y1="2064.0" x2="81.0" y2="2055.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="81.0" y1="2055.0" x2="60.0" y2="2064.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="48.0" y1="2103.0" x2="33.0" y2="2133.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="2133.0" x2="21.0" y2="2127.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="2091.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="2079.0" x2="75.0" y2="2049.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="2049.0" x2="87.0" y2="2055.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="2169.0" x2="81.0" y2="2169.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="81.0" y1="2169.0" x2="81.0" y2="2160.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="81.0" y1="2160.0" x2="60.0" y2="2169.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="2196.0" rx="12.0" ry="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="2184.0" x2="75.0" y2="2154.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="54.0" cy="2196.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(189.0,2181.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Dimmer a pulsante</text>
+</g>
+<g transform="translate(189.0,2001.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Dimmer a manopola con interruttore</text>
+</g>
+<g transform="translate(189.0,2076.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Dimmer a manopola con deviatore</text>
+</g>
+<g transform="translate(189.0,1926.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#000000">Dimmer</text>
+</g>
+<g transform="translate(63.0,2286.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Arial" font-size="12.0" font-style="" font-weigth="" fill="#a2a2a2">Figura 2 - Sezione &quot;comando&quot;</text>
+</g>
+</svg>

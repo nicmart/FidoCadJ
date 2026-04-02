@@ -1,0 +1,76 @@
+[FIDOCAD]
+FJC C 1.0
+FJC A 0.2
+FJC B 0.2
+MC 74 30 0 0 ey_libraries.vic3ic0
+MC 59 35 0 0 ey_libraries.pascap1
+MC 89 35 0 0 ey_libraries.pascap1
+MC 80 55 0 0 ey_libraries.pasres0
+MC 130 55 0 0 ey_libraries.pasres0
+MC 140 65 1 0 ey_libraries.pasres0
+MC 90 60 1 0 ey_libraries.pasres0
+MC 50 30 0 0 ey_libraries.pasres0
+MC 75 75 0 1 ey_libraries.pascap2
+LI 115 90 75 90 0
+LI 105 30 89 30 0
+LI 89 45 59 45 0
+LI 123 39 123 49 0
+LI 155 55 170 55 0
+LI 140 75 170 75 0
+LI 140 55 140 60 0
+LI 155 60 155 55 0
+LI 105 40 105 30 0
+LI 74 39 74 45 0
+LI 120 55 125 55 0
+LI 115 90 115 85 0
+LI 90 90 90 85 0
+LI 100 90 100 85 0
+LI 75 85 75 90 0
+LI 75 75 75 50 0
+LI 75 50 95 50 0
+LI 95 55 90 55 0
+MC 40 30 0 0 ey_libraries.refpnt3
+PL 95 40 120 40 1 0
+PL 120 40 120 85 1 0
+PL 120 85 95 85 1 0
+PL 95 85 95 40 1 0
+TY 96 48 2 2 0 2 0 GulimChe 11
+TY 110 80 2 2 0 2 0 GulimChe 12
+MC 80 70 0 0 ey_libraries.pasxtal0
+MC 90 75 0 0 ey_libraries.pascap0
+MC 145 55 0 0 ey_libraries.pasind0
+MC 155 65 0 0 ey_libraries.pascap1
+MC 170 65 3 0 ey_libraries.pasres5
+MC 170 75 0 0 ey_libraries.refpnt0
+TY 96 53 2 2 0 2 0 GulimChe 10
+TY 99 80 2 2 0 2 0 GulimChe 8
+TY 104 42 2 2 0 2 0 GulimChe 16
+MC 59 45 0 0 ey_libraries.refpnt0
+TY 116 53 2 2 0 2 0 GulimChe 3
+MC 179 65 2 0 ey_libraries.refpnt1
+TY 29 33 2 2 0 3 0 GulimChe IN 8/12VDC
+TY 49 23 2 2 0 3 0 GulimChe 100
+TY 49 39 2 2 0 3 0 GulimChe 10uF
+TY 79 39 2 2 0 3 0 GulimChe 10uF
+TY 58 82 2 2 0 3 0 GulimChe 22/40pF
+TY 81 82 2 2 0 3 0 GulimChe 10pF
+TY 48 65 2 2 0 3 0 GulimChe Q 14.7456 MHz
+TY 81 61 2 2 0 3 0 GulimChe 22k
+TY 68 53 2 2 0 3 0 GulimChe 1M
+TY 49 48 2 2 0 3 0 GulimChe GND
+MC 123 49 1 0 074
+TY 115 29 2 2 0 3 0 GulimChe Onda quadra
+TY 120 33 2 2 0 3 0 GulimChe 900Hz
+TY 129 58 2 2 0 3 0 GulimChe 330
+TY 132 65 2 2 0 3 0 GulimChe 18
+TY 142 45 2 2 0 3 0 GulimChe 7.7mH
+TY 157 70 2 2 0 3 0 GulimChe 4.7uF
+TY 171 57 2 2 0 3 0 GulimChe 20k
+TY 173 77 2 2 0 3 0 GulimChe GND
+TY 175 67 2 2 0 3 0 GulimChe Vu
+TY 129 81 2 2 0 3 0 GulimChe Filtro passa basso
+TY 100 63 2 2 0 3 0 GulimChe 74HC4060
+TY 70 28 2 2 0 3 0 GulimChe 7805L
+MC 115 90 0 0 ey_libraries.refpnt0
+TY 121 92 2 2 0 3 0 GulimChe GND
+RV 125 50 165 80 4

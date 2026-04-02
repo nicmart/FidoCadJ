@@ -1,0 +1,85 @@
+[FIDOCAD]
+FJC A 0.8
+FJC B 0.5
+MC 125 80 0 0 ey_libraries.opaopa1
+MC 125 60 1 0 ey_libraries.refpnt1
+TY 125 55 4 3 0 0 0 Arial 15V
+MC 125 95 3 0 ey_libraries.refpnt1
+MC 85 80 0 0 ey_libraries.refpnt1
+TY 55 75 4 3 0 0 0 Arial 7V regolati
+MC 95 75 0 0 ey_libraries.pasres0
+MC 95 85 0 0 ey_libraries.pasres0
+LI 90 85 90 75 0
+TY 90 66 4 3 0 0 0 Arial 12k
+MC 110 100 1 0 ey_libraries.pasres0
+LI 105 85 115 85 0
+LI 110 95 110 85 0
+TY 100 110 4 3 0 0 0 Arial VOUT NEGATIVO
+TY 115 100 4 3 0 0 0 Arial 100k
+LI 105 75 115 75 0
+MC 110 45 1 0 ey_libraries.pasres0
+LI 110 75 110 55 0
+MC 110 40 2 0 ey_libraries.refpnt0
+LI 110 55 130 55 0
+MC 140 55 2 0 ey_libraries.pasres0
+LI 150 80 150 55 0
+LI 140 80 150 80 0
+MC 210 80 2 0 ey_libraries.pasres0
+TY 132 46 4 3 0 0 0 Arial 150k
+TY 95 46 4 3 0 0 0 Arial 4.7k
+MC 215 90 3 0 ey_libraries.pasres0
+LI 230 39 230 55 0
+MC 225 80 0 0 ey_libraries.trnbjt1
+LI 215 80 220 80 0
+LI 230 85 230 100 0
+LI 230 100 215 100 0
+LI 215 100 215 95 0
+MC 225 105 3 0 ey_libraries.refpnt1
+TY 218 85 4 3 0 0 0 Arial 1k
+MC 230 55 0 0 830
+LI 230 75 230 70 0
+MC 230 36 1 0 ey_libraries.refpnt1
+TY 125 95 4 3 0 0 0 Arial LM358
+MC 140 70 0 0 ey_libraries.pascap0
+LI 140 65 125 65 0
+LI 140 80 140 90 0
+LI 140 90 125 90 0
+LI 125 70 125 65 0
+MC 245 65 3 0 ey_libraries.diddid0
+LI 245 55 230 55 0
+LI 245 70 230 70 0
+MC 180 80 2 1 ey_libraries.opaopa1
+MC 125 60 1 0 ey_libraries.refpnt1
+TY 125 55 4 3 0 0 0 Arial 15V
+MC 85 80 0 0 ey_libraries.refpnt1
+MC 95 75 0 0 ey_libraries.pasres0
+LI 90 85 90 75 0
+TY 90 90 4 3 0 0 0 Arial 12k
+LI 105 85 115 85 0
+LI 166 75 166 59 0
+TY 115 100 4 3 0 0 0 Arial 100k
+LI 105 75 115 75 0
+LI 150 55 200 55 0
+LI 144 55 150 55 0
+TY 203 71 4 3 0 0 0 Arial 3.3k
+LI 166 75 171 75 0
+LI 166 59 195 59 0
+LI 215 100 215 95 0
+LI 170 90 170 85 0
+TY 225 29 4 3 0 0 0 Arial 15V
+MC 140 70 0 0 ey_libraries.pascap0
+LI 140 65 125 65 0
+LI 125 70 125 65 0
+TY 127 66 4 3 0 0 0 Arial 1µF
+LI 195 80 195 59 0
+TY 163 83 4 3 0 0 0 Arial 0V
+TY 174 62 4 3 0 0 0 Arial +15V
+MC 170 90 0 0 elettrotecnica.ms05
+TY 218 107 4 3 0 0 0 Arial -8.4V
+TY 128 90 4 3 0 0 0 Arial -8.4V
+LI 200 80 200 55 0
+TY 54 83 4 3 0 0 9 Arial Pin 3 LM723
+TY 80 29 4 3 0 0 9 Arial Uscita Positiva dell'alimentatore
+TY 88 116 4 3 0 0 9 Arial Uscita Negativa dell'alimentatore
+TY 220 116 4 3 0 0 9 Arial Negativo C1
+TY 215 23 4 3 0 0 9 Arial Positivo C1

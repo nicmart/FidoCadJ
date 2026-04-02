@@ -1,0 +1,107 @@
+[FIDOCAD]
+FJC B 0.5
+MC 70 50 2 1 ey_libraries.opaopa0
+MC 125 55 2 1 ey_libraries.opaopa0
+MC 165 60 2 1 ey_libraries.opaopa0
+MC 60 60 1 0 ey_libraries.pasres0
+MC 85 55 0 0 ey_libraries.pascap0
+MC 95 50 0 0 ey_libraries.pasres0
+MC 105 85 1 0 ey_libraries.pasres0
+MC 105 100 1 0 ey_libraries.pasres0
+MC 110 75 0 1 ey_libraries.trnbjt0
+MC 110 60 0 0 ey_libraries.refpnt4
+LI 60 45 60 35 0
+LI 60 35 85 35 0
+LI 85 35 85 50 0
+LI 85 50 90 50 0
+LI 105 50 115 50 0
+LI 140 55 140 75 0
+LI 140 75 115 75 0
+LI 105 70 105 50 0
+MC 55 70 0 0 ey_libraries.refpnt4
+LI 155 55 150 55 0
+LI 150 55 150 95 0
+LI 150 95 105 95 0
+SA 105 50 0
+SA 105 95 0
+LI 60 55 50 55 0
+SA 60 55 0
+SA 85 50 0
+MC 80 65 0 0 ey_libraries.refpnt4
+TY 50 65 4 3 0 0 0 * R1
+TY 95 40 4 3 0 0 0 * R2
+TY 95 80 4 3 0 0 0 * R3
+TY 95 105 4 3 0 0 0 * R4
+TY 90 55 4 3 0 0 0 * C1
+TY 85 60 4 3 0 0 0 * 100 nF
+TY 70 35 4 3 0 0 0 * U1
+TY 120 40 4 3 0 0 0 * U2
+TY 170 45 4 3 0 0 0 * U3
+LI 180 60 180 110 0
+LI 180 110 105 110 0
+LI 180 60 190 60 0
+TY 45 50 4 3 0 0 0 * Vin
+TY 180 55 4 3 0 0 0 * Vout
+SA 180 60 0
+TY 85 45 4 3 0 0 0 * Va
+LI 100 90 100 100 0
+FCJ 2 0 3 2 0 0
+TY 90 90 4 3 0 0 0 * Ia
+TY 28 85 4 3 0 0 0 * Va=Vin
+TY 28 90 4 3 0 0 0 * Ia=Va/R2
+TY 29 106 4 3 0 0 0 * Vout=-Ia*R4
+TY 35 55 4 3 0 0 0 * 0 - 4 V
+MC 230 65 2 1 ey_libraries.opaopa0
+MC 250 65 0 0 ey_libraries.trnmos11
+MC 205 60 0 0 ey_libraries.pasres0
+MC 225 80 0 0 ey_libraries.pasres0
+MC 255 85 1 0 ey_libraries.pasres0
+MC 255 50 1 0 ey_libraries.didled0
+LI 190 60 200 60 0
+LI 215 60 220 60 0
+LI 215 60 215 80 0
+LI 235 80 255 80 0
+LI 255 80 255 70 0
+SA 255 80 0
+TY 205 65 4 3 0 0 0 * R5
+TY 225 85 4 3 0 0 0 * R6
+TY 260 85 4 3 0 0 0 * Rs
+LI 215 80 220 80 0
+SA 215 60 0
+TY 250 40 4 3 0 0 0 * + PS
+MC 155 65 0 0 ey_libraries.refpnt5
+MC 255 95 0 0 ey_libraries.refpnt5
+TY 25 114 4 3 0 0 0 * Vout=-Vin/R2*R4
+LI 75 56 75 54 0
+LI 165 50 165 53 0
+LI 232 55 232 59 0
+MC 170 50 2 0 ey_libraries.refpnt4
+MC 237 55 2 0 ey_libraries.refpnt4
+MC 220 70 0 0 ey_libraries.refpnt5
+LI 260 60 260 75 0
+FCJ 2 0 3 2 0 0
+TY 260 65 4 3 0 0 0 * Il
+TY 205 50 4 3 0 0 0 * Vin
+TY 206 106 4 3 0 0 0 * Il= -Vin*(R6/R5)/Rs
+MC 75 41 1 0 ey_libraries.refpnt1
+MC 131 46 1 0 ey_libraries.refpnt1
+MC 166 72 3 0 ey_libraries.refpnt1
+MC 232 76 3 0 ey_libraries.refpnt1
+MC 75 61 3 0 ey_libraries.refpnt1
+MC 131 63 3 0 ey_libraries.refpnt1
+TY 77 39 4 3 0 0 0 * +V
+TY 132 42 4 3 0 0 0 * +V
+TY 72 63 4 3 0 0 0 * -V
+TY 129 64 4 3 0 0 0 * -V
+TY 163 73 4 3 0 0 0 * -V
+TY 234 73 4 3 0 0 0 * -V
+TY 24 80 4 3 0 0 0 * Tensioni riferite a
+TY 24 99 4 3 0 0 0 * Tensioni riferite a
+MC 84 81 0 0 ey_libraries.refpnt4
+MC 88 101 0 0 ey_libraries.refpnt5
+TY 236 57 4 3 0 0 0 * U4
+EV 77 52 104 73 2
+RV 201 30 277 123 5
+FCJ 4 0
+RV 17 30 191 123 6
+FCJ 4 0

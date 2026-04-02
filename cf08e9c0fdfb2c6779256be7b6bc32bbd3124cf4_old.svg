@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="750.0" height="288.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<line x1="30.0" y1="165.0" x2="24.0" y2="165.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="18.0" cy="165.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="21.0" y1="165.0" x2="15.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="18.0" y1="168.0" x2="18.0" y2="162.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="30.0" y1="255.0" x2="24.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="18.0" cy="255.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="21.0" y1="255.0" x2="15.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="51.0" y="159.0" rx="0" ry="0" width="18.0" height="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="165.0" x2="45.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="90.0" y1="195.0" x2="90.0" y2="207.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="90.0" y1="213.0" x2="90.0" y2="225.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="96.0" y1="207.0" x2="84.0" y2="207.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="96.0" y1="213.0" x2="84.0" y2="213.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="195.0" x2="135.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="210.0" x2="141.0" y2="210.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="129.0,222.0 141.0,222.0 135.0,210.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<path d="M 186.0,165.0 C 186.0,174.0 198.0,174.0 198.0,165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 198.0,165.0 C 198.0,174.0 210.0,174.0 210.0,165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 210.0,165.0 C 210.0,174.0 222.0,174.0 222.0,165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 222.0,165.0 C 222.0,174.0 234.0,174.0 234.0,165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="180.0" y1="165.0" x2="186.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="234.0" y1="165.0" x2="240.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="186.0" y1="174.0" x2="234.0" y2="174.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="186.0" y1="177.0" x2="234.0" y2="177.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 234.0,195.0 C 234.0,186.0 222.0,186.0 222.0,195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 222.0,195.0 C 222.0,186.0 210.0,186.0 210.0,195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 210.0,195.0 C 210.0,186.0 198.0,186.0 198.0,195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 198.0,195.0 C 198.0,186.0 186.0,186.0 186.0,195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="195.0" x2="234.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="186.0" y1="195.0" x2="180.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="234.0" y1="186.0" x2="186.0" y2="186.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="234.0" y1="183.0" x2="186.0" y2="183.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="90.0" cy="165.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="135.0" cy="165.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="30.0" y1="165.0" x2="45.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="75.0" y1="165.0" x2="90.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="90.0" y1="165.0" x2="135.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="165.0" x2="180.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="165.0" x2="135.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="90.0" y1="165.0" x2="90.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="30.0" y1="255.0" x2="135.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="90.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="135.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="90.0" y1="255.0" x2="90.0" y2="225.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="255.0" x2="135.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="180.0" y1="255.0" x2="180.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="285.0" y1="195.0" x2="285.0" y2="207.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="285.0" y1="213.0" x2="285.0" y2="225.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="291.0" y1="207.0" x2="279.0" y2="207.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="291.0" y1="213.0" x2="279.0" y2="213.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="285.0" cy="165.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="285.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="240.0" y1="165.0" x2="285.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="285.0" y1="165.0" x2="285.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="195.0" x2="240.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="255.0" x2="285.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="285.0" y1="255.0" x2="285.0" y2="225.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="285.0" y1="165.0" x2="300.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="165.0" x2="315.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="300.0" y1="165.0" x2="315.0" y2="156.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="195.0" x2="330.0" y2="207.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="336.0" y1="213.0" x2="324.0" y2="213.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="213.0" x2="330.0" y2="225.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="198.0" x2="324.0" y2="204.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="327.0" y1="201.0" x2="321.0" y2="201.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="324.0" y="207.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="330.0" cy="165.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="330.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="285.0" y1="255.0" x2="330.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="255.0" x2="330.0" y2="225.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="165.0" x2="330.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(45.0,144.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">TH201</text>
+</g>
+<g transform="translate(42.0,174.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">RUE205</text>
+</g>
+<g transform="translate(57.0,216.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C201</text>
+</g>
+<g transform="translate(96.0,192.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">100n</text>
+</g>
+<g transform="translate(102.0,225.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">D201</text>
+</g>
+<g transform="translate(141.0,195.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">S3V20</text>
+</g>
+<g transform="translate(198.0,198.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">L201</text>
+</g>
+<g transform="translate(183.0,150.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">CM08RB01</text>
+</g>
+<g transform="translate(252.0,216.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C202</text>
+</g>
+<g transform="translate(288.0,192.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">100n</text>
+</g>
+<g transform="translate(297.0,216.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C203</text>
+</g>
+<g transform="translate(336.0,192.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">4700u</text>
+</g>
+<line x1="600.0" y1="195.0" x2="600.0" y2="210.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="285.0" y1="165.0" x2="285.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="435.0" y1="75.0" x2="441.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="489.0" y1="75.0" x2="495.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="441.0" y1="63.0" x2="489.0" y2="63.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="441.0" y1="75.0" x2="441.0" y2="63.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="489.0" y1="84.0" x2="441.0" y2="84.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="489.0" y1="63.0" x2="489.0" y2="84.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="441.0" y1="84.0" x2="441.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="465.0" y1="84.0" x2="465.0" y2="90.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="525.0" y1="195.0" x2="531.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="579.0" y1="195.0" x2="585.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="531.0" y1="183.0" x2="579.0" y2="183.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="531.0" y1="195.0" x2="531.0" y2="183.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="579.0" y1="204.0" x2="531.0" y2="204.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="579.0" y1="183.0" x2="579.0" y2="204.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="531.0" y1="204.0" x2="531.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="555.0" y1="204.0" x2="555.0" y2="210.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="255.0" x2="180.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(450.0,69.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC201</text>
+</g>
+<g transform="translate(540.0,189.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC202</text>
+</g>
+<g transform="translate(429.0,48.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">UPC24M09AHF</text>
+</g>
+<g transform="translate(534.0,168.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">SI-8401L</text>
+</g>
+<line x1="375.0" y1="90.0" x2="375.0" y2="102.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="381.0" y1="108.0" x2="369.0" y2="108.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="108.0" x2="375.0" y2="120.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="369.0" y1="93.0" x2="369.0" y2="99.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="96.0" x2="366.0" y2="96.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="369.0" y="102.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(342.0,111.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C204</text>
+</g>
+<g transform="translate(381.0,90.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">100u</text>
+</g>
+<line x1="420.0" y1="90.0" x2="420.0" y2="102.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="108.0" x2="420.0" y2="120.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="426.0" y1="102.0" x2="414.0" y2="102.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="426.0" y1="108.0" x2="414.0" y2="108.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(387.0,111.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C205</text>
+</g>
+<g transform="translate(426.0,90.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">100n</text>
+</g>
+<circle cx="375.0" cy="75.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="420.0" cy="75.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="330.0" y1="165.0" x2="330.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="75.0" x2="375.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="75.0" x2="420.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="75.0" x2="420.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="90.0" x2="375.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="90.0" x2="420.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="75.0" x2="435.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="120.0" x2="375.0" y2="135.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="135.0" x2="420.0" y2="135.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="135.0" x2="420.0" y2="120.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="210.0" x2="420.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="426.0" y1="228.0" x2="414.0" y2="228.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="228.0" x2="420.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="414.0" y1="213.0" x2="414.0" y2="219.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="417.0" y1="216.0" x2="411.0" y2="216.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="414.0" y="222.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(387.0,231.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C208</text>
+</g>
+<g transform="translate(426.0,210.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">220u</text>
+</g>
+<circle cx="420.0" cy="195.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="465.0" y1="210.0" x2="465.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="465.0" y1="228.0" x2="465.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="471.0" y1="222.0" x2="459.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="471.0" y1="228.0" x2="459.0" y2="228.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(432.0,231.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C209</text>
+</g>
+<g transform="translate(471.0,210.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">100n</text>
+</g>
+<circle cx="465.0" cy="195.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="420.0" y1="210.0" x2="420.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="195.0" x2="465.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="465.0" y1="195.0" x2="510.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="465.0" y1="195.0" x2="465.0" y2="210.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="165.0" x2="420.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="165.0" x2="420.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="135.0" x2="375.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="255.0" x2="330.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="255.0" x2="420.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="255.0" x2="420.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="255.0" x2="465.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="465.0" y1="255.0" x2="465.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="375.0" cy="135.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="375.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="420.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="465.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="510.0" y1="210.0" x2="510.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="228.0" x2="510.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="516.0" y1="222.0" x2="504.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="516.0" y1="228.0" x2="504.0" y2="228.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(477.0,231.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C210</text>
+</g>
+<g transform="translate(516.0,210.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">10n</text>
+</g>
+<line x1="510.0" y1="195.0" x2="510.0" y2="210.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="255.0" x2="510.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="510.0" cy="195.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="510.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="465.0" y1="255.0" x2="510.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="465.0" cy="135.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="420.0" y1="135.0" x2="465.0" y2="135.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="465.0" y1="135.0" x2="465.0" y2="90.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="420.0" cy="135.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="510.0" y1="90.0" x2="510.0" y2="102.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="108.0" x2="510.0" y2="120.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="516.0" y1="102.0" x2="504.0" y2="102.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="516.0" y1="108.0" x2="504.0" y2="108.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(477.0,111.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C206</text>
+</g>
+<g transform="translate(516.0,90.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">100n</text>
+</g>
+<line x1="495.0" y1="75.0" x2="510.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="75.0" x2="510.0" y2="90.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="90.0" x2="510.0" y2="90.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="120.0" x2="510.0" y2="135.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="135.0" x2="465.0" y2="135.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="510.0" cy="135.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="510.0" cy="75.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="555.0" y1="90.0" x2="555.0" y2="102.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="561.0" y1="108.0" x2="549.0" y2="108.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="555.0" y1="108.0" x2="555.0" y2="120.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="549.0" y1="93.0" x2="549.0" y2="99.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="96.0" x2="546.0" y2="96.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="549.0" y="102.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(522.0,111.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C207</text>
+</g>
+<g transform="translate(561.0,90.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">100u</text>
+</g>
+<line x1="510.0" y1="135.0" x2="555.0" y2="135.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="555.0" y1="135.0" x2="555.0" y2="120.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="75.0" x2="555.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="555.0" y1="75.0" x2="555.0" y2="90.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="705.0,69.0 705.0,81.0 726.0,81.0 735.0,75.0 726.0,69.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="600.0" y1="210.0" x2="600.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="600.0" y1="228.0" x2="600.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="606.0" y1="222.0" x2="594.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="606.0" y1="228.0" x2="594.0" y2="228.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(567.0,231.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C211</text>
+</g>
+<g transform="translate(606.0,210.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">10n</text>
+</g>
+<line x1="555.0" y1="210.0" x2="555.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="255.0" x2="555.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="555.0" y1="255.0" x2="600.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="600.0" y1="255.0" x2="600.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="585.0" y1="195.0" x2="600.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="255.0" x2="690.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="195.0" x2="525.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="645.0" y1="210.0" x2="645.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="645.0" y1="228.0" x2="645.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="651.0" y1="222.0" x2="639.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="651.0" y1="228.0" x2="639.0" y2="228.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(612.0,231.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C212</text>
+</g>
+<g transform="translate(651.0,210.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">100n</text>
+</g>
+<line x1="600.0" y1="255.0" x2="645.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="645.0" y1="255.0" x2="645.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="600.0" y1="195.0" x2="645.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="645.0" y1="195.0" x2="645.0" y2="210.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="600.0" cy="195.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="645.0" cy="195.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="555.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="600.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="645.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="690.0" y1="210.0" x2="690.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="696.0" y1="228.0" x2="684.0" y2="228.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="228.0" x2="690.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="684.0" y1="213.0" x2="684.0" y2="219.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="687.0" y1="216.0" x2="681.0" y2="216.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="684.0" y="222.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(657.0,231.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">C213</text>
+</g>
+<g transform="translate(696.0,210.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">470u</text>
+</g>
+<circle cx="690.0" cy="195.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="690.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="645.0" y1="195.0" x2="690.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="195.0" x2="690.0" y2="210.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="645.0" y1="255.0" x2="690.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(708.0,54.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">+9V</text>
+</g>
+<polygon points="705.0,189.0 705.0,201.0 726.0,201.0 735.0,195.0 726.0,189.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="705.0,24.0 705.0,36.0 726.0,36.0 735.0,30.0 726.0,24.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="75.0" x2="375.0" y2="30.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="30.0" x2="705.0" y2="30.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="555.0" y1="75.0" x2="705.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="195.0" x2="705.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="255.0" x2="690.0" y2="270.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="681.0,270.0 699.0,270.0 696.0,273.0 690.0,279.0 684.0,273.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="555.0" y1="135.0" x2="555.0" y2="150.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="546.0,150.0 564.0,150.0 561.0,153.0 555.0,159.0 549.0,153.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="555.0" cy="135.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(705.0,9.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">+12V</text>
+</g>
+<g transform="translate(570.0,144.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">AGND</text>
+</g>
+<g transform="translate(708.0,174.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">+5V</text>
+</g>
+<g transform="translate(9.0,195.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">+12V DC</text>
+</g>
+<g transform="translate(705.0,264.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">DGND</text>
+</g>
+<line x1="375.0" y1="255.0" x2="375.0" y2="270.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="366.0,270.0 384.0,270.0 381.0,273.0 375.0,279.0 369.0,273.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(390.0,267.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">GND</text>
+</g>
+<g transform="translate(15.0,210.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#000000">INPUT</text>
+</g>
+<g transform="translate(291.0,138.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Arial" font-size="9.0" font-style="" font-weigth="" fill="#ff0000">SW201</text>
+</g>
+</svg>

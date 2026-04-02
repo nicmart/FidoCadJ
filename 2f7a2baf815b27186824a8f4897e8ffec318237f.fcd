@@ -1,0 +1,113 @@
+<blockquote><div><cite>obiuan ha scritto:</cite>Se guardi la ben nota caratteristica di un transistor, che ti riporto qui per comodità:
+
+<div class="inline-attachment"><!-- ia0 -->caratteristica_uscita.png<!-- ia0 --></div>
+
+Come vedi, in regione attiva hai una grande distanza fra le curve, e siccome il parametro è Ib e sulle ordinate hai Ic, la distanza distanza fra le curve ti da un'idea di quanto vari Ic al variare di Ib. Quando il transistor passa in saturazione, le curve mano a mano che Vce scende diventano quasi coincidenti, cioè detto in altri termini il beta si abbassa.
+</div></blockquote>
+
+scusa Obi ma questa non mi pare troppo corretto   , al più quello che dici ha a che fare con i parametri differenziali.
+Quello che dici è che abbassando la VCE fino alla zona di saturazione a fronte di variazioni di <img class='latex_formula png' src='/forum/latexrender/pictures/237eb86e13acfde1cf976b28f45e58f8.png' title='i_\text{B}' alt='i_\text{B}' align='absmiddle'> (cioè passando da una curva ad un'altra di parametro IB diverso) le variazioni di <img class='latex_formula png' src='/forum/latexrender/pictures/bda8aad47ec382852cc4a7e6b8add7f9.png' title='i_\text{c}' alt='i_\text{c}' align='absmiddle'> tendono ad annullarsi (le curve tendono a sovrapporsi), cioè
+
+<img class='latex_formula png' src='/forum/latexrender/pictures/a895b64ed3f4c6ad4ae58d0dcc9ebb85.png' title='\frac{\Delta i_\text{C}}{\Delta i_\text{B}}\approx\frac{\partial i_\text{C}}{\partial i_\text{B}}=h_\text{fe}\rightarrow 0' alt='\frac{\Delta i_\text{C}}{\Delta i_\text{B}}\approx\frac{\partial i_\text{C}}{\partial i_\text{B}}=h_\text{fe}\rightarrow 0' align='absmiddle'>
+
+ma questo non annulla il rapporto statico tra IC e IB (altrimenti sembrebbe che in saturazione IC=0 sempre   )
+
+
+<blockquote><div><cite>Obiuan ha scritto:</cite>Inoltre, per la precisione, una cosa è il beta, un'altra è Hfe. Il beta è definito come sopra, l'Hfe è il termine H22 della matrice H rappresentativa del modello Ibrido, e cioè il rapporto fra Ic e Ib quando l'uscita è cortocircuitata a massa nel modello ai piccoli segnali, e pertanto ha significato solo in zona attiva (dove hanno senso i modelli ai piccoli segnali). In zona attiva, quindi, beta e Hfe circa coincidono in valore.
+</div></blockquote>
+anche qui mi pare ci sua un po' di confusione   
+
+Parlando di grandi segnali, di punto di lavoro, di polarizzazione se pensi ad Eber-Molls è chiaro che <img class='latex_formula png' src='/forum/latexrender/pictures/7b7f9dbfea05c83784f8b85149852f08.png' title='\alpha' alt='\alpha' align='absmiddle'> è definito a meno delle correnti inverse delle due giunzioni e quindi hai sì
+
+<img class='latex_formula png' src='/forum/latexrender/pictures/9f1c56d4ba6623675615952de8b65068.png' title='\beta=\frac{\alpha}{1-\alpha}' alt='\beta=\frac{\alpha}{1-\alpha}' align='absmiddle'>
+
+ma anche
+
+<img class='latex_formula png' src='/forum/latexrender/pictures/4fad4ce1abfd83a6edad1cc20814dfab.png' title='I_\text{C}=\beta\, I_\text{B}+(\beta+1)I_\text{CBO}' alt='I_\text{C}=\beta\, I_\text{B}+(\beta+1)I_\text{CBO}' align='absmiddle'>
+
+e quindi <img class='latex_formula png' src='/forum/latexrender/pictures/cb320969ead50bde12fb3f5cda6e36f0.png' title='\beta=\frac{I_\text{C}-I_\text{CBO}}{I_\text{B}+I_\text{CBO}}' alt='\beta=\frac{I_\text{C}-I_\text{CBO}}{I_\text{B}+I_\text{CBO}}' align='absmiddle'> 
+
+cioè <img class='latex_formula png' src='/forum/latexrender/pictures/1b3ddd52ff106c18fca08e178ccfa262.png' title='\beta\approx\frac{I_\text{C}}{I_\text{B}}' alt='\beta\approx\frac{I_\text{C}}{I_\text{B}}' align='absmiddle'> è soltanto approssimativamente vera.
+
+Invece <img class='latex_formula png' src='/forum/latexrender/pictures/f9b1c475186938f7d72753b2d461c523.png' title='h_\text{FE}=\frac{I_\text{C}}{I_\text{B}}' alt='h_\text{FE}=\frac{I_\text{C}}{I_\text{B}}' align='absmiddle'> è brutalmente definito come questo rapporto e quindi è solo
+
+Vero è che date le correnti inverse svariati ordini di grandezza più piccole di quelle di polarizzazione il valore numerico dei due parametri sarà assolutamente identico <span style="font-style: italic">to all practical purpose</span>, ma mi pare corretto sapere che non sono la stessa cosa.
+
+Per i parametri differenziali, come dicevi a parte un pedice errato, abbiamo che
+
+<img class='latex_formula png' src='/forum/latexrender/pictures/61d736dc1087fa758bb2db9b00ec0264.png' title='\h_\text{21}=h_\text{fe}=\left.\frac{\partial i_\text{C}}{\partial i_\text{B}}\right|_{v_\text{ce}=0}' alt='\h_\text{21}=h_\text{fe}=\left.\frac{\partial i_\text{C}}{\partial i_\text{B}}\right|_{v_\text{ce}=0}' align='absmiddle'>
+
+ma questi sono appunto differenziali, hanno praticamente poco a che vedere con quelli statici, il fatto poi che in zad numericamente siano praticamente uguali è solo dovuto a come è fatta la transcaratteristica IC/IB
+[fcd][FIDOCAD]
+FJC C 5.0
+FJC B 0.5
+LI 25 155 25 65 0
+FCJ 2 0 3 2 0 1
+TY 15 60 4 3 0 0 0 * IC
+TY 30 145 4 3 0 0 0 * 
+LI 20 150 190 150 0
+FCJ 2 0 3 2 0 1
+TY 190 150 4 3 0 0 0 * IB
+TY 25 160 4 3 0 0 0 * 
+MC 90 35 0 0 300
+MC 135 15 0 0 450
+FCJ
+TY 145 20 4 3 0 0 0 * Vcc
+TY 145 25 4 3 0 0 0 * 
+MC 105 10 0 0 115
+FCJ
+TY 110 15 4 3 0 0 0 * Rc
+TY 115 20 4 3 0 0 0 * 
+LI 105 10 105 5 0
+LI 105 5 135 5 0
+LI 135 5 135 15 0
+LI 105 20 105 25 0
+LI 90 50 135 50 0
+LI 135 50 135 35 0
+LI 105 50 105 45 0
+LI 75 35 85 35 0
+FCJ 2 0 3 2 0 1
+TY 75 35 4 3 0 0 0 * IB
+TY 80 45 4 3 0 0 0 * 
+LI 90 10 90 20 0
+FCJ 2 0 3 2 0 1
+TY 80 10 4 3 0 0 0 * IC
+TY 95 20 4 3 0 0 0 * 
+LI 20 77 182 77 0
+FCJ 0 0 3 2 1 1
+TY 29 70 4 3 0 0 0 * Vcc/Rc
+TY 25 87 4 3 0 0 0 * 
+LI 130 95 138 95 1
+TY 140 92 4 3 0 0 1 * ≠0
+TY 105 133 4 3 0 0 1 * IB
+BE 70 100 85 80 105 80 163 79 1
+LI 105 133 113 133 1
+TY 130 95 4 3 0 0 1 * IB
+TY 87 130 4 3 0 0 1 * ≈hFE=
+TY 130 89 4 3 0 0 1 * IC
+LI 25 150 70 100 1
+TY 105 127 4 3 0 0 1 * IC
+TY 116 92 4 3 0 0 1 * hFE=
+TY 128 65 4 3 0 0 2 * ∂IC
+LI 29 144 74 94 2
+TY 59 130 4 3 0 0 2 * hfe=
+TY 128 71 4 3 0 0 2 * ∂IB
+TY 75 133 4 3 0 0 2 * ∂IB
+TY 111 68 4 3 0 0 2 * hfe=
+TY 75 127 4 3 0 0 2 * ∂IC
+TY 140 68 4 3 0 0 2 * ≈0
+LI 127 71 139 71 2
+LI 75 81 180 79 2
+LI 74 133 86 133 2
+LI 25 160 75 160 4
+FCJ 3 0 3 2 0 1
+TY 45 155 4 3 0 0 4 * zad
+TY 30 170 4 3 0 0 4 * 
+LI 80 160 140 160 4
+FCJ 3 0 3 2 0 1
+TY 90 155 4 3 0 0 4 * saturazione
+TY 85 170 4 3 0 0 4 * 
+EV 35 110 125 145 8
+EV 100 60 160 105 8
+SA 52 120 15
+SA 129 80 15

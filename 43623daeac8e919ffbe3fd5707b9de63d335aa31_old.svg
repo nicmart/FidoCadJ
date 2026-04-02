@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="1008.0" height="651.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<line x1="162.0" y1="222.0" x2="282.0" y2="222.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="282.0" y1="222.0" x2="282.0" y2="357.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="282.0" y1="357.0" x2="162.0" y2="357.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="162.0" y1="357.0" x2="162.0" y2="222.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<g transform="translate(213.0,318.0) rotate(-90.0)  scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Liberation Mono" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">MAX038</text>
+</g>
+<line x1="297.0" y1="357.0" x2="297.0" y2="372.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="288.0,372.0 306.0,372.0 303.0,375.0 297.0,381.0 291.0,375.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="177.0,192.0 180.0,198.0 174.0,198.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="177.0" y1="222.0" x2="177.0" y2="198.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(258.0,228.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">IIN</text>
+</g>
+<g transform="translate(258.0,303.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">SYN</text>
+</g>
+<g transform="translate(258.0,321.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">OUT</text>
+</g>
+<g transform="translate(252.0,276.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">FADJ</text>
+</g>
+<g transform="translate(171.0,228.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">V+</text>
+</g>
+<g transform="translate(204.0,228.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">V-</text>
+</g>
+<g transform="translate(213.0,342.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">COSC</text>
+</g>
+<line x1="282.0" y1="342.0" x2="297.0" y2="342.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="297.0" y1="342.0" x2="297.0" y2="357.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(174.0,243.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">A0</text>
+</g>
+<line x1="147.0" y1="327.0" x2="147.0" y2="327.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(171.0,309.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">DADJ</text>
+</g>
+<g transform="translate(174.0,288.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">VREF</text>
+</g>
+<g transform="translate(258.0,336.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">GND</text>
+</g>
+<line x1="147.0" y1="312.0" x2="147.0" y2="327.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="138.0,327.0 156.0,327.0 153.0,330.0 147.0,336.0 141.0,330.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="312.0" x2="147.0" y2="312.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="207.0,192.0 210.0,198.0 204.0,198.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="207.0" y1="222.0" x2="207.0" y2="198.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(165.0,171.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">5 V</text>
+</g>
+<g transform="translate(198.0,171.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">-5V</text>
+</g>
+<g transform="translate(174.0,258.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">A1</text>
+</g>
+<line x1="102.0" y1="312.0" x2="102.0" y2="327.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="93.0,327.0 111.0,327.0 108.0,330.0 102.0,336.0 96.0,330.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="102.0" y1="312.0" x2="117.0" y2="312.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="252.0" x2="72.0" y2="252.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="102.0" y1="252.0" x2="102.0" y2="267.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="267.0" x2="72.0" y2="267.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<circle cx="102.0" cy="312.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="102.0" cy="252.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="117.0" cy="267.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="42.0" y1="402.0" x2="312.0" y2="402.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="222.0" y1="357.0" x2="222.0" y2="402.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<circle cx="177.0" cy="402.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="132.0" cy="402.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="87.0" cy="402.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="222.0" cy="402.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="267.0" cy="402.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="312.0" y1="477.0" x2="312.0" y2="492.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="303.0,492.0 321.0,492.0 318.0,495.0 312.0,501.0 306.0,495.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="267.0" y1="477.0" x2="267.0" y2="492.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="258.0,492.0 276.0,492.0 273.0,495.0 267.0,501.0 261.0,495.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="222.0" y1="477.0" x2="222.0" y2="492.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="213.0,492.0 231.0,492.0 228.0,495.0 222.0,501.0 216.0,495.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="177.0" y1="477.0" x2="177.0" y2="492.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="168.0,492.0 186.0,492.0 183.0,495.0 177.0,501.0 171.0,495.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="477.0" x2="132.0" y2="492.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="123.0,492.0 141.0,492.0 138.0,495.0 132.0,501.0 126.0,495.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="87.0" y1="477.0" x2="87.0" y2="492.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="78.0,492.0 96.0,492.0 93.0,495.0 87.0,501.0 81.0,495.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="42.0" y1="477.0" x2="42.0" y2="492.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="33.0,492.0 51.0,492.0 48.0,495.0 42.0,501.0 36.0,495.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="87.0" y1="537.0" x2="222.0" y2="537.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="87.0" y1="537.0" x2="87.0" y2="627.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="87.0" y1="627.0" x2="222.0" y2="627.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="222.0" y1="627.0" x2="222.0" y2="537.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="207.0" y1="507.0" x2="207.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="507.0" x2="192.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="177.0" y1="507.0" x2="177.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="507.0" x2="162.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="507.0" x2="147.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="507.0" x2="132.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="117.0" y1="507.0" x2="117.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="12.0" y1="507.0" x2="282.0" y2="507.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<g transform="translate(120.0,573.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Liberation Mono" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">74HC138</text>
+</g>
+<polygon points="237.0,552.0 240.0,558.0 234.0,558.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="237.0" y1="567.0" x2="237.0" y2="558.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(246.0,549.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">5 V</text>
+</g>
+<line x1="222.0" y1="567.0" x2="237.0" y2="567.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="612.0" x2="237.0" y2="627.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="228.0,627.0 246.0,627.0 243.0,630.0 237.0,636.0 231.0,630.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(201.0,561.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">V+</text>
+</g>
+<g transform="translate(195.0,609.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">GND</text>
+</g>
+<line x1="237.0" y1="612.0" x2="222.0" y2="612.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(99.0,573.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">A0</text>
+</g>
+<g transform="translate(99.0,603.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">A2</text>
+</g>
+<g transform="translate(99.0,588.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">A1</text>
+</g>
+<line x1="87.0" y1="582.0" x2="57.0" y2="582.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="87.0" y1="597.0" x2="57.0" y2="597.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="612.0" x2="87.0" y2="612.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="177.0" x2="357.0" y2="177.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="147.0" x2="357.0" y2="147.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="312.0" y1="162.0" x2="297.0" y2="162.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="354.0" y1="147.0" x2="348.0" y2="147.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="354.0" y1="177.0" x2="348.0" y2="177.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="180.0" x2="351.0" y2="174.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="357.0,192.0 357.0,132.0 312.0,162.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="147.0" x2="372.0" y2="87.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="87.0" x2="267.0" y2="87.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="267.0,27.0 270.0,33.0 264.0,33.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="267.0" y1="42.0" x2="267.0" y2="33.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<circle cx="267.0" cy="87.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="387.0" cy="177.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="522.0" y1="162.0" x2="552.0" y2="162.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="177.0" x2="522.0" y2="177.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="522.0" y1="192.0" x2="552.0" y2="192.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="522.0" y1="147.0" x2="447.0" y2="147.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="522.0" y1="147.0" x2="522.0" y2="207.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="522.0" y1="207.0" x2="447.0" y2="207.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="447.0" y1="207.0" x2="432.0" y2="177.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="432.0" y1="177.0" x2="447.0" y2="147.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<polygon points="507.0,117.0 510.0,123.0 504.0,123.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="507.0" y1="147.0" x2="507.0" y2="123.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="339.0" y1="180.0" x2="339.0" y2="195.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="348.0,195.0 330.0,195.0 333.0,198.0 339.0,204.0 345.0,198.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="177.0" x2="387.0" y2="177.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="267.0" y1="177.0" x2="267.0" y2="222.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="219.0" x2="387.0" y2="234.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="396.0,234.0 378.0,234.0 381.0,237.0 387.0,243.0 393.0,237.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="339.0,120.0 342.0,126.0 336.0,126.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="339.0" y1="144.0" x2="339.0" y2="126.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="267.0" y1="87.0" x2="267.0" y2="147.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(450.0,177.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Liberation Mono" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">MCP4921</text>
+</g>
+<g transform="translate(588.0,168.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Liberation Mono" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">SCK</text>
+</g>
+<g transform="translate(588.0,183.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Liberation Mono" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">MOSI</text>
+</g>
+<g transform="translate(474.0,153.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">VREF</text>
+</g>
+<line x1="492.0" y1="147.0" x2="492.0" y2="132.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="132.0" x2="507.0" y2="132.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(261.0,9.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">5 V</text>
+</g>
+<g transform="translate(495.0,96.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">5 V</text>
+</g>
+<line x1="492.0" y1="207.0" x2="492.0" y2="222.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="483.0,222.0 501.0,222.0 498.0,225.0 492.0,231.0 486.0,225.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="792.0" y1="252.0" x2="822.0" y2="252.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="822.0" y1="267.0" x2="792.0" y2="267.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="792.0" y1="282.0" x2="822.0" y2="282.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="792.0" y1="237.0" x2="717.0" y2="237.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="792.0" y1="237.0" x2="792.0" y2="297.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="792.0" y1="297.0" x2="717.0" y2="297.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="717.0" y1="297.0" x2="702.0" y2="267.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="702.0" y1="267.0" x2="717.0" y2="237.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<polygon points="777.0,207.0 780.0,213.0 774.0,213.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="777.0" y1="237.0" x2="777.0" y2="213.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(720.0,261.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Liberation Mono" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">MCP4921</text>
+</g>
+<g transform="translate(858.0,258.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Liberation Mono" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">SCK</text>
+</g>
+<g transform="translate(858.0,273.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Liberation Mono" font-size="12.0" font-style="" font-weigth="bold" fill="#000000">MOSI</text>
+</g>
+<g transform="translate(729.0,243.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">VREF</text>
+</g>
+<g transform="translate(768.0,186.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">5 V</text>
+</g>
+<line x1="762.0" y1="297.0" x2="762.0" y2="312.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="753.0,312.0 771.0,312.0 768.0,315.0 762.0,321.0 756.0,315.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="747.0,207.0 750.0,213.0 744.0,213.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="747.0" y1="237.0" x2="747.0" y2="213.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(723.0,186.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">2.5 V</text>
+</g>
+<g transform="translate(297.0,210.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">MCP6021</text>
+</g>
+<line x1="627.0" y1="267.0" x2="612.0" y2="267.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="627.0" y1="297.0" x2="612.0" y2="297.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="567.0" y1="282.0" x2="552.0" y2="282.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="297.0" x2="603.0" y2="297.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="267.0" x2="603.0" y2="267.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="606.0" y1="264.0" x2="606.0" y2="270.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="612.0,252.0 612.0,312.0 567.0,282.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="627.0" y1="297.0" x2="627.0" y2="357.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="687.0,357.0 681.0,360.0 681.0,354.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="672.0" y1="357.0" x2="681.0" y2="357.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(696.0,348.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">2.5 V</text>
+</g>
+<g transform="translate(396.0,150.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">2k2</text>
+</g>
+<g transform="translate(405.0,210.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">10n</text>
+</g>
+<line x1="657.0" y1="309.0" x2="657.0" y2="324.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="666.0,324.0 648.0,324.0 651.0,327.0 657.0,333.0 663.0,327.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(672.0,303.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">10n</text>
+</g>
+<line x1="657.0" y1="267.0" x2="627.0" y2="267.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<circle cx="627.0" cy="357.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(330.0,99.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">5 V</text>
+</g>
+<circle cx="507.0" cy="132.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="282.0" y1="282.0" x2="552.0" y2="282.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="282.0" x2="552.0" y2="357.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<circle cx="552.0" cy="282.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="372.0" y1="177.0" x2="387.0" y2="177.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="597.0" y1="357.0" x2="627.0" y2="357.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(552.0,369.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">R3 1k</text>
+</g>
+<g transform="translate(639.0,372.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">R4 1k</text>
+</g>
+<g transform="translate(492.0,255.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">MCP6021</text>
+</g>
+<g transform="translate(201.0,132.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">2N3906</text>
+</g>
+<circle cx="657.0" cy="267.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(396.0,150.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">2k2</text>
+</g>
+<g transform="translate(282.0,54.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">R1 6k5</text>
+</g>
+<g transform="translate(396.0,132.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">R2</text>
+</g>
+<g transform="translate(405.0,192.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">C1</text>
+</g>
+<g transform="translate(666.0,225.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">R5</text>
+</g>
+<g transform="translate(675.0,288.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">C2</text>
+</g>
+<g transform="translate(30.0,282.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">2 x 4k7</text>
+</g>
+<g transform="translate(768.0,243.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">V+</text>
+</g>
+<g transform="translate(753.0,279.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Liberation Mono" font-size="9.0" font-style="" font-weigth="bold" fill="#000000">GND</text>
+</g>
+<g transform="translate(114.0,369.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">C3 ··· C10</text>
+</g>
+<line x1="282.0" y1="327.0" x2="447.0" y2="327.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="447.0" y1="327.0" x2="447.0" y2="462.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="567.0" y1="552.0" x2="582.0" y2="552.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="567.0" y1="522.0" x2="582.0" y2="522.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="627.0" y1="537.0" x2="642.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="585.0" y1="522.0" x2="591.0" y2="522.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="585.0" y1="552.0" x2="591.0" y2="552.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="588.0" y1="555.0" x2="588.0" y2="549.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="582.0,567.0 582.0,507.0 627.0,537.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="567.0" y1="522.0" x2="567.0" y2="462.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="567.0" y1="462.0" x2="552.0" y2="462.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="462.0" x2="567.0" y2="462.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="597.0" y1="462.0" x2="567.0" y2="462.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<circle cx="567.0" cy="462.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="567.0" y1="552.0" x2="528.0" y2="552.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="528.0,603.0 525.0,594.0 531.0,594.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="528.0" y1="552.0" x2="528.0" y2="594.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="447.0,612.0 456.0,609.0 456.0,615.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="462.0" y1="612.0" x2="456.0" y2="612.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(405.0,603.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">2.5 V</text>
+</g>
+<polygon points="612.0,612.0 603.0,615.0 603.0,609.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="597.0" y1="612.0" x2="603.0" y2="612.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(618.0,603.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">-2.5 V</text>
+</g>
+<g transform="translate(474.0,624.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">R8</text>
+</g>
+<g transform="translate(567.0,624.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">R9</text>
+</g>
+<g transform="translate(504.0,432.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">R6 1k</text>
+</g>
+<polygon points="618.0,453.0 615.0,444.0 621.0,444.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="618.0" y1="432.0" x2="618.0" y2="444.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="618.0" y1="432.0" x2="597.0" y2="432.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="597.0" y1="432.0" x2="567.0" y2="432.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="567.0" y1="432.0" x2="567.0" y2="462.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(639.0,432.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">POT1 2k2</text>
+</g>
+<line x1="642.0" y1="462.0" x2="657.0" y2="462.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="657.0" y1="462.0" x2="657.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="672.0" y1="537.0" x2="642.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<circle cx="657.0" cy="537.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="717.0" y1="537.0" x2="732.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="777.0" y1="537.0" x2="807.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="867.0" y1="537.0" x2="852.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<circle cx="792.0" cy="537.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="732.0" cy="537.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="732.0" y1="579.0" x2="732.0" y2="594.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="741.0,594.0 723.0,594.0 726.0,597.0 732.0,603.0 738.0,597.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="792.0" y1="579.0" x2="792.0" y2="594.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="801.0,594.0 783.0,594.0 786.0,597.0 792.0,603.0 798.0,597.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="867.0" y1="579.0" x2="867.0" y2="594.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="876.0,594.0 858.0,594.0 861.0,597.0 867.0,603.0 873.0,597.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="597.0,246.0 600.0,252.0 594.0,252.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="597.0" y1="261.0" x2="597.0" y2="252.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="597.0,318.0 594.0,312.0 600.0,312.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="597.0" y1="303.0" x2="597.0" y2="312.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(585.0,228.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">2.5 V</text>
+</g>
+<g transform="translate(582.0,318.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">-2.5 V</text>
+</g>
+<g transform="translate(678.0,507.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">R7 50</text>
+</g>
+<g transform="translate(747.0,555.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">C11</text>
+</g>
+<g transform="translate(747.0,570.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">56pF</text>
+</g>
+<g transform="translate(813.0,552.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">C12</text>
+</g>
+<g transform="translate(813.0,567.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">110p</text>
+</g>
+<g transform="translate(885.0,549.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">C13</text>
+</g>
+<g transform="translate(882.0,567.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">110p</text>
+</g>
+<g transform="translate(747.0,504.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">L1 = L2 220nH</text>
+</g>
+<circle cx="942.0" cy="537.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<ellipse cx="942.0" cy="537.0" rx="9.0" ry="9.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="927.0" y1="537.0" x2="939.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="942.0" y1="546.0" x2="942.0" y2="552.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<line x1="927.0" y1="537.0" x2="867.0" y2="537.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<circle cx="867.0" cy="537.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="942.0" y1="594.0" x2="942.0" y2="609.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="951.0,609.0 933.0,609.0 936.0,612.0 942.0,618.0 948.0,612.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(963.0,567.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">50</text>
+</g>
+<g transform="translate(963.0,549.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">BNC</text>
+</g>
+<rect x="927.0" y="522.0" rx="0" ry="0" width="30.0" height="75.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="591.0,498.0 594.0,504.0 588.0,504.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="591.0" y1="513.0" x2="591.0" y2="504.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="591.0,576.0 588.0,570.0 594.0,570.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="#000000"/>
+<line x1="591.0" y1="561.0" x2="591.0" y2="570.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(579.0,480.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">5 V</text>
+</g>
+<g transform="translate(576.0,576.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">-5V</text>
+</g>
+<g transform="translate(585.0,276.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">#2</text>
+</g>
+<g transform="translate(327.0,153.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">#1</text>
+</g>
+<g transform="translate(513.0,528.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">LM7171</text>
+</g>
+<line x1="492.0" y1="462.0" x2="507.0" y2="462.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(453.0,420.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">R10</text>
+</g>
+<g transform="translate(453.0,435.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">100</text>
+</g>
+<line x1="492.0" y1="504.0" x2="492.0" y2="519.0" style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<polygon points="501.0,519.0 483.0,519.0 486.0,522.0 492.0,528.0 498.0,522.0 " style="stroke:#000000;stroke-width:0.8999999999999999;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(507.0,480.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">C14</text>
+</g>
+<g transform="translate(507.0,495.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="DejaVu Sans" font-size="12.0" font-style="" font-weigth="" fill="#000000">100pF</text>
+</g>
+<circle cx="492.0" cy="462.0" r="2.1" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+</svg>

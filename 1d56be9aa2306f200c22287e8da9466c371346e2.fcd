@@ -1,0 +1,94 @@
+[FIDOCAD]
+FJC A 0.35
+MC 327 25 2 0 ey_libraries.pasres0
+TY 322 30 4 3 0 1 0 * R6
+LI 312 50 312 70 0
+FCJ 1 0 3 1 0 1
+TY 315 55 4 3 0 0 0 Comic++Sans++MS IR4
+TY 317 90 4 3 0 0 0 Comic++Sans++MS 
+MC 287 45 0 0 ey_libraries.genics0
+LI 287 15 287 40 0
+LI 287 25 292 25 0
+FCJ 2 0 3 1 0 1
+TY 288 17 4 3 0 0 0 Comic++Sans++MS Ic3
+TY 292 35 4 3 0 0 0 Comic++Sans++MS 
+MC 292 25 0 0 170
+LI 332 25 362 25 0
+LI 362 25 363 64 0
+FCJ 2 0 3 1 0 1
+TY 353 50 4 3 0 0 0 Comic++Sans++MS I''
+TY 367 35 4 3 0 0 0 Comic++Sans++MS 
+MC 312 40 1 0 ey_libraries.pasres0
+LI 287 55 287 70 0
+LI 287 70 363 70 0
+LI 302 25 317 25 0
+FCJ 2 0 3 1 0 1
+TY 313 17 4 3 0 0 0 Comic++Sans++MS IR6
+TY 307 35 4 3 0 0 0 Comic++Sans++MS 
+LI 312 25 312 35 0
+LI 363 70 363 64 0
+TY 292 30 4 3 0 1 0 * C3
+TY 317 40 4 3 0 1 0 * R4
+TY 297 5 4 3 0 1 0 * R2
+TY 273 44 4 3 0 1 0 * J1
+MC 302 15 2 0 ey_libraries.pasres0
+LI 287 15 292 15 0
+LI 307 15 337 15 0
+MC 337 15 0 0 120
+LI 347 15 362 15 0
+LI 362 15 362 25 0
+TY 337 5 4 3 0 1 0 * L2
+LI 389 56 389 70 0
+LI 389 70 465 70 0
+LI 404 30 419 30 0
+LI 465 70 464 26 0
+TY 396 34 4 3 0 1 0 * C3
+MC 429 30 2 0 ey_libraries.pasres0
+TY 425 37 4 3 0 1 0 * R6||R4
+MC 389 46 0 0 ey_libraries.genics0
+LI 389 16 389 41 0
+LI 389 30 394 30 0
+FCJ 2 0 3 1 0 1
+TY 391 21 4 3 0 0 0 Comic++Sans++MS Ic3
+TY 394 40 4 3 0 0 0 Comic++Sans++MS 
+MC 394 30 0 0 170
+LI 434 30 464 30 0
+TY 398 49 4 3 0 1 0 * J1
+MC 404 16 2 0 ey_libraries.pasres0
+FCJ
+TY 398 6 4 3 0 0 0 Comic++Sans++MS R2
+TY 414 21 4 3 0 0 0 Comic++Sans++MS 
+LI 389 16 394 16 0
+LI 409 16 439 16 0
+MC 439 16 0 0 120
+FCJ
+TY 440 6 4 3 0 0 0 Comic++Sans++MS L2
+TY 449 21 4 3 0 0 0 Comic++Sans++MS 
+LI 449 16 464 16 0
+LI 464 16 464 26 0
+TY 305 84 4 3 0 0 0 Comic++Sans++MS I''=I   - J1
+TY 318 87 3 2 0 0 0 Comic++Sans++MS R4
+TY 387 94 4 3 0 0 0 Comic++Sans++MS I    =J1
+TY 389 98 3 2 0 0 0 Comic++Sans++MS C3
+TY 425 99 3 2 0 0 0 Comic++Sans++MS 2
+TY 409 94 4 3 0 0 0 Comic++Sans++MS Z  /
+TY 412 99 3 2 0 0 0 Comic++Sans++MS 2
+TY 419 94 4 3 0 0 0 Comic++Sans++MS (Z  +
+TY 437 99 3 2 0 0 0 Comic++Sans++MS 4
+TY 433 94 4 3 0 0 0 Comic++Sans++MS R  || R  - jX   )
+TY 447 98 3 2 0 0 0 Comic++Sans++MS 6
+TY 462 98 3 2 0 0 0 Comic++Sans++MS C3
+TY 323 101 3 2 0 0 0 Comic++Sans++MS 6
+TY 330 96 4 3 0 0 0 Comic++Sans++MS (R  +
+TY 309 96 4 3 0 0 0 Comic++Sans++MS -I   
+TY 314 100 3 2 0 0 0 Comic++Sans++MS C3
+TY 319 96 4 3 0 0 0 Comic++Sans++MS R  /
+TY 336 101 3 2 0 0 0 Comic++Sans++MS 6
+TY 342 96 4 3 0 0 0 Comic++Sans++MS R  )
+TY 346 100 3 2 0 0 0 Comic++Sans++MS 4
+TY 297 96 4 3 0 0 0 Comic++Sans++MS I   =
+TY 300 100 3 2 0 0 0 Comic++Sans++MS R4
+TY 367 30 4 3 0 1 2 * A
+TY 312 74 4 3 0 1 2 * B
+TY 469 31 4 3 0 1 2 * A
+TY 412 73 4 3 0 1 2 * B

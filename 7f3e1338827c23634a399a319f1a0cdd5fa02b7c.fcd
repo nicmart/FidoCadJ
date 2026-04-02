@@ -1,0 +1,86 @@
+[FIDOCAD]
+FJC A 0.6
+FJC B 0.6
+MC 80 35 0 0 ey_libraries.pasres0
+MC 95 70 0 0 ey_libraries.pasres0
+MC 110 35 0 0 ey_libraries.pasres0
+MC 105 50 1 0 ey_libraries.pasres0
+MC 90 50 1 0 ey_libraries.pasres0
+LI 90 35 105 35 0
+LI 90 70 70 70 0
+LI 105 70 125 70 0
+LI 120 35 125 35 0
+LI 75 35 70 35 0
+SA 70 35 0
+SA 70 70 0
+SA 125 35 0
+SA 125 70 0
+TY 79 27 4 3 0 0 0 * 10Ω
+TY 80 50 4 3 0 0 0 * 5Ω
+TY 93 72 4 3 0 0 0 * 15Ω
+TY 110 50 4 3 0 0 0 * 5Ω
+TY 105 27 4 3 0 0 0 * 10Ω
+MC 70 50 0 0 ey_libraries.genvis1
+MC 125 50 0 0 ey_libraries.genvis1
+TY 55 50 4 3 0 0 0 * V_1
+TY 131 51 4 3 0 0 0 * V_2
+LI 70 35 70 70 0
+LI 125 35 125 70 0
+LI 90 35 90 45 0
+LI 105 35 105 45 0
+LI 90 60 90 70 0
+LI 105 60 105 70 0
+LI 199 35 194 35 0
+SA 194 35 0
+SA 194 70 0
+SA 249 35 0
+SA 249 70 0
+TY 203 27 4 3 0 0 0 * 10Ω
+TY 204 50 4 3 0 0 0 * 5Ω
+TY 217 72 4 3 0 0 0 * 15Ω
+TY 234 50 4 3 0 0 0 * 5Ω
+TY 229 27 4 3 0 0 0 * 10Ω
+MC 204 35 0 0 ey_libraries.pasres0
+MC 219 70 0 0 ey_libraries.pasres0
+MC 234 35 0 0 ey_libraries.pasres0
+MC 229 50 1 0 ey_libraries.pasres0
+MC 214 50 1 0 ey_libraries.pasres0
+LI 214 35 229 35 0
+LI 214 70 194 70 0
+LI 229 70 249 70 0
+LI 244 35 249 35 0
+LI 229 60 229 70 0
+MC 194 50 0 0 ey_libraries.genvis1
+MC 249 50 0 0 ey_libraries.genvis1
+TY 179 50 4 3 0 0 0 * V_1
+TY 255 51 4 3 0 0 0 * V_2
+LI 194 35 194 70 0
+LI 249 35 249 70 0
+LI 214 35 214 45 0
+LI 229 35 229 45 0
+LI 214 60 214 70 0
+LI 90 45 90 40 2
+TY 117 26 4 3 0 0 2 * I_2
+TY 72 26 4 3 0 0 2 * I_1
+PP 117 35 119 34 119 36 2
+LI 77 35 72 35 2
+PP 77 35 75 36 75 34 2
+LI 117 35 122 35 2
+TY 82 40 4 3 0 0 2 * 3A
+TY 61 81 4 3 0 0 2 * Scelgo qui una corrente
+PP 90 45 89 43 91 43 2
+PP 214 45 213 43 215 43 2
+LI 214 45 214 40 2
+TY 241 26 4 3 0 0 2 * I_2
+TY 196 26 4 3 0 0 2 * I_1
+PP 241 35 243 34 243 36 2
+LI 201 35 196 35 2
+PP 201 35 199 36 199 34 2
+LI 241 35 246 35 2
+TY 206 40 4 3 0 0 2 * 3A
+TY 182 81 4 3 0 0 2 * ottengo a destra una corrente
+TY 80 86 4 3 0 0 2 * pari a 3A
+TY 175 86 4 3 0 0 2 * uguale e opposta di 3A (simmetria)
+LI 229 45 229 40 2
+TY 221 40 4 3 0 0 2 * 3A
+PP 229 40 230 42 228 42 2

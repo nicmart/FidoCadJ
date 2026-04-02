@@ -1,0 +1,109 @@
+[FIDOCAD]
+FJC B 0.5
+MC 240 25 0 0 elettrotecnica.meas00
+TY 318 130 2 2 0 1 0 * 25 A
+TY 70 185 2 2 0 1 0 * Prese
+MC 335 125 0 0 elettrotecnica.intpr01
+LI 240 35 240 55 0
+MC 240 70 0 0 elettrotecnica.intpr02
+TY 40 185 2 2 0 1 0 * Luci
+MC 295 170 0 0 elettrotecnica.intpr02
+TY 254 17 4 4 0 1 0 * 3 kW
+TY 225 70 2 2 0 1 0 * 25 A
+TY 225 76 2 2 0 1 0 * 6 kA
+TY 247 70 2 2 0 1 0 * Interruttore
+TY 247 75 2 2 0 1 0 * generale
+MC 250 50 3 0 elettrotecnica.sca01
+LI 280 50 260 50 0
+MC 280 50 3 0 elettrotecnica.ms01
+TY 257 45 2 2 0 1 0 * scaricatore
+MC 45 165 0 0 elettrotecnica.intpr03
+TY 29 165 2 2 0 1 0 * 10 A
+TY 28 170 2 2 0 1 0 * 30 mA
+MC 75 165 0 0 elettrotecnica.intpr03
+TY 59 165 2 2 0 1 0 * 16 A
+TY 58 170 2 2 0 1 0 * 30 mA
+TY 342 130 2 2 0 1 0 * Tipo &quot;F&quot;
+TY 290 225 2 2 0 1 0 * Prese
+LI 295 150 295 155 0
+LI 140 110 335 110 0
+TY 285 235 2 2 0 1 0 * inverter
+TY 279 170 2 2 0 1 0 * 16 A
+MC 110 165 0 0 elettrotecnica.intpr03
+TY 94 165 2 2 0 1 0 * 16 A
+TY 93 170 2 2 0 1 0 * 30 mA
+TY 70 190 2 2 0 1 0 * ufficio
+TY 280 230 2 2 0 1 0 * elettrodomestici
+TY 95 190 2 2 0 1 0 * elettrodomestici
+TY 105 185 2 2 0 1 0 * Prese
+TY 100 195 2 2 0 1 0 * non inverter
+LI 295 145 295 150 0
+TY 123 170 2 2 0 1 0 * 30 mA
+TY 135 190 2 2 0 1 0 * cucina
+TY 135 185 2 2 0 1 0 * Prese
+MC 140 165 0 0 elettrotecnica.intpr03
+TY 124 165 2 2 0 1 0 * 16 A
+MC 170 165 0 0 elettrotecnica.intpr03
+TY 154 165 2 2 0 1 0 * 16 A
+TY 153 170 2 2 0 1 0 * 30 mA
+TY 165 190 2 2 0 1 0 * bagno
+TY 165 185 2 2 0 1 0 * Prese
+TY 330 195 2 2 0 1 0 * inverter
+TY 319 170 2 2 0 1 0 * 16 A
+TY 325 190 2 2 0 1 0 * quadrisplit
+MC 335 170 0 0 elettrotecnica.intpr02
+TY 320 185 2 2 0 1 0 * Condizionatore
+TY 370 190 2 2 0 1 0 * trisplit
+MC 380 170 0 0 elettrotecnica.intpr02
+TY 365 185 2 2 0 1 0 * Condizionatore
+TY 364 170 2 2 0 1 0 * 16 A
+TY 370 195 2 2 0 1 0 * inverter
+TY 215 185 2 2 0 1 0 * Riscaldamento
+TY 208 170 2 2 0 1 0 * 30 mA
+TY 220 190 2 2 0 1 0 * radiante
+TY 209 165 2 2 0 1 0 * 10 A
+MC 225 165 0 0 elettrotecnica.intpr03
+MC 255 165 0 0 elettrotecnica.intpr03
+TY 250 185 2 2 0 1 0 * Antenna
+TY 238 170 2 2 0 1 0 * 30 mA
+TY 255 190 2 2 0 1 0 * TV
+TY 239 165 2 2 0 1 0 * 10 A
+LI 45 145 255 145 0
+LI 45 145 45 150 0
+LI 75 150 75 145 0
+LI 110 150 110 145 0
+LI 140 150 140 145 0
+LI 170 150 170 145 0
+LI 225 150 225 145 0
+LI 255 150 255 145 0
+LI 380 145 380 155 0
+LI 335 155 335 145 0
+SA 110 145 0
+SA 75 145 0
+SA 140 145 0
+SA 170 145 0
+SA 195 145 0
+SA 240 110 0
+MC 195 165 0 0 elettrotecnica.intpr03
+TY 179 165 2 2 0 1 0 * 16 A
+TY 178 170 2 2 0 1 0 * 30 mA
+TY 190 190 2 2 0 1 0 * altro
+TY 190 185 2 2 0 1 0 * Prese
+SA 335 145 0
+LI 195 150 195 145 0
+SA 225 145 0
+MC 240 95 0 0 elettrotecnica.meas08
+MC 295 210 0 0 elettrotecnica.meas08
+LI 295 220 295 225 0
+TY 310 205 2 2 0 1 0 * Misuratore
+LI 295 185 295 200 0
+LI 240 105 240 110 0
+LI 140 110 140 145 0
+TY 310 210 2 2 0 1 0 * connesso
+LI 335 115 335 110 0
+LI 295 145 380 145 0
+LI 335 145 335 140 0
+TY 255 90 2 2 0 1 0 * Misuratore
+TY 255 95 2 2 0 1 0 * connesso
+TY 318 135 2 2 0 1 0 * 30 mA
+SA 240 50 0

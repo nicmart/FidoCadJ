@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="336.0" height="273.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<line x1="45.0" y1="78.0" x2="33.0" y2="81.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="81.0" x2="45.0" y2="84.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="84.0" x2="33.0" y2="87.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="87.0" x2="45.0" y2="90.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="90.0" x2="33.0" y2="93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="39.0" y1="63.0" x2="39.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="78.0" x2="39.0" y2="75.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="39.0" y1="108.0" x2="39.0" y2="96.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="93.0" x2="39.0" y2="96.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(9.0,78.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">R1</text>
+</g>
+<line x1="45.0" y1="168.0" x2="33.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="171.0" x2="45.0" y2="174.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="174.0" x2="33.0" y2="177.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="177.0" x2="45.0" y2="180.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="180.0" x2="33.0" y2="183.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="39.0" y1="153.0" x2="39.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="45.0" y1="168.0" x2="39.0" y2="165.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="39.0" y1="198.0" x2="39.0" y2="186.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="33.0" y1="183.0" x2="39.0" y2="186.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(9.0,168.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">R2</text>
+</g>
+<line x1="135.0" y1="183.0" x2="123.0" y2="186.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="123.0" y1="186.0" x2="135.0" y2="189.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="189.0" x2="123.0" y2="192.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="123.0" y1="192.0" x2="135.0" y2="195.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="195.0" x2="123.0" y2="198.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="168.0" x2="129.0" y2="180.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="183.0" x2="129.0" y2="180.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="213.0" x2="129.0" y2="201.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="123.0" y1="198.0" x2="129.0" y2="201.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(99.0,183.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">R4</text>
+</g>
+<line x1="225.0" y1="108.0" x2="213.0" y2="111.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="213.0" y1="111.0" x2="225.0" y2="114.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="225.0" y1="114.0" x2="213.0" y2="117.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="213.0" y1="117.0" x2="225.0" y2="120.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="225.0" y1="120.0" x2="213.0" y2="123.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="93.0" x2="219.0" y2="105.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="225.0" y1="108.0" x2="219.0" y2="105.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="138.0" x2="219.0" y2="126.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="213.0" y1="123.0" x2="219.0" y2="126.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(234.0,108.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">R6</text>
+</g>
+<line x1="174.0" y1="132.0" x2="177.0" y2="144.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="177.0" y1="144.0" x2="180.0" y2="132.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="180.0" y1="132.0" x2="183.0" y2="144.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="183.0" y1="144.0" x2="186.0" y2="132.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="186.0" y1="132.0" x2="189.0" y2="144.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="159.0" y1="138.0" x2="171.0" y2="138.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="174.0" y1="132.0" x2="171.0" y2="138.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="204.0" y1="138.0" x2="192.0" y2="138.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="144.0" x2="192.0" y2="138.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(180.0,114.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">R7</text>
+</g>
+<ellipse cx="93.0" cy="138.0" rx="15.0" ry="15.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="114.0" y1="138.0" x2="69.0" y2="138.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="69.0" y1="144.0" x2="75.0" y2="144.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="72.0" y1="147.0" x2="72.0" y2="141.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(75.0,102.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">E0</text>
+</g>
+<ellipse cx="219.0" cy="72.0" rx="15.0" ry="15.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="219.0" y1="93.0" x2="219.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="213.0" y1="48.0" x2="213.0" y2="54.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="210.0" y1="51.0" x2="216.0" y2="51.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(180.0,63.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">E6</text>
+</g>
+<ellipse cx="210.0" cy="213.0" rx="15.0" ry="15.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="213.0" x2="234.0" y2="213.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="234.0" y1="207.0" x2="228.0" y2="207.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="231.0" y1="204.0" x2="231.0" y2="210.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(201.0,177.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">E3</text>
+</g>
+<line x1="114.0" y1="87.0" x2="144.0" y2="87.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="129.0" cy="87.0" rx="15.0" ry="15.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="102.0" x2="129.0" y2="108.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="129.0,63.0 132.0,69.0 126.0,69.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="129.0" y1="66.0" x2="129.0" y2="72.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(99.0,78.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">ig</text>
+</g>
+<line x1="39.0" y1="108.0" x2="39.0" y2="153.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(54.0,213.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">I2</text>
+</g>
+<polygon points="39.0,213.0 33.0,204.0 45.0,204.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="39.0" y1="198.0" x2="39.0" y2="204.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="39.0" y1="213.0" x2="189.0" y2="213.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="294.0" y1="213.0" x2="294.0" y2="123.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="294.0" y1="138.0" x2="204.0" y2="138.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(144.0,117.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">I7</text>
+</g>
+<polygon points="159.0,138.0 150.0,141.0 150.0,135.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="150.0" y1="138.0" x2="114.0" y2="138.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(51.0,147.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">I0</text>
+</g>
+<polygon points="39.0,138.0 48.0,135.0 48.0,141.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="69.0" y1="138.0" x2="48.0" y2="138.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="108.0" x2="129.0" y2="138.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(144.0,153.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">I4</text>
+</g>
+<polygon points="129.0,168.0 126.0,159.0 132.0,159.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="129.0" y1="138.0" x2="129.0" y2="159.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="63.0" x2="129.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="33.0" x2="129.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(186.0,12.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">I5</text>
+</g>
+<polygon points="189.0,33.0 198.0,30.0 198.0,36.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="198.0" y1="33.0" x2="294.0" y2="33.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="33.0" x2="39.0" y2="33.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(54.0,48.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">I1</text>
+</g>
+<polygon points="39.0,63.0 33.0,54.0 45.0,54.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="39.0" y1="54.0" x2="39.0" y2="33.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(114.0,117.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">D</text>
+</g>
+<circle cx="129.0" cy="138.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(261.0,192.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">I3</text>
+</g>
+<polygon points="294.0,213.0 285.0,216.0 285.0,210.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="234.0" y1="213.0" x2="285.0" y2="213.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(231.0,42.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">I6</text>
+</g>
+<polygon points="219.0,33.0 222.0,42.0 216.0,42.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="219.0" y1="48.0" x2="219.0" y2="42.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(114.0,9.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Times New Roman" font-size="12.0" font-style="" font-weigth="" fill="#000000">A</text>
+</g>
+<line x1="159.0" y1="27.0" x2="162.0" y2="39.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="39.0" x2="165.0" y2="27.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="165.0" y1="27.0" x2="168.0" y2="39.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="168.0" y1="39.0" x2="171.0" y2="27.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="171.0" y1="27.0" x2="174.0" y2="39.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="144.0" y1="33.0" x2="156.0" y2="33.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="159.0" y1="27.0" x2="156.0" y2="33.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="33.0" x2="177.0" y2="33.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="174.0" y1="39.0" x2="177.0" y2="33.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(144.0,9.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">R5</text>
+</g>
+<line x1="300.0" y1="93.0" x2="288.0" y2="96.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="288.0" y1="96.0" x2="300.0" y2="99.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="300.0" y1="99.0" x2="288.0" y2="102.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="288.0" y1="102.0" x2="300.0" y2="105.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="300.0" y1="105.0" x2="288.0" y2="108.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="294.0" y1="78.0" x2="294.0" y2="90.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="300.0" y1="93.0" x2="294.0" y2="90.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="294.0" y1="123.0" x2="294.0" y2="111.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="288.0" y1="108.0" x2="294.0" y2="111.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(309.0,108.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">R8</text>
+</g>
+<g transform="translate(303.0,45.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Times New Roman" font-size="15.0" font-style="" font-weigth="" fill="#000000">I8</text>
+</g>
+<polygon points="294.0,33.0 297.0,42.0 291.0,42.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="294.0" y1="78.0" x2="294.0" y2="42.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(273.0,147.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Times New Roman" font-size="12.0" font-style="" font-weigth="" fill="#000000">C</text>
+</g>
+<g transform="translate(219.0,12.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Times New Roman" font-size="12.0" font-style="" font-weigth="" fill="#000000">F</text>
+</g>
+<g transform="translate(21.0,129.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Times New Roman" font-size="12.0" font-style="" font-weigth="bold" fill="#ff0000">G</text>
+</g>
+<g transform="translate(126.0,222.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Times New Roman" font-size="12.0" font-style="" font-weigth="" fill="#ff0000">B</text>
+</g>
+<polygon points="51.0,117.0 50.55,116.8 50.1,116.6 49.66,116.41 49.23,116.23 48.79,116.05 48.35,115.88 47.92,115.71 47.47,115.56 47.03,115.4 46.58,115.26 46.13,115.12 45.66,114.99 45.19,114.87 44.71,114.75 44.21,114.64 43.7,114.54 43.18,114.45 42.64,114.36 42.08,114.28 41.51,114.21 40.91,114.15 40.3,114.09 39.66,114.04 39.0,114.0 38.31,113.97 37.6,113.95 36.88,113.93 36.13,113.94 35.36,113.96 34.59,113.99 33.8,114.05 33.0,114.13 32.2,114.23 31.4,114.36 30.59,114.52 29.78,114.71 28.97,114.92 28.18,115.18 27.38,115.46 26.6,115.79 25.83,116.16 25.08,116.56 24.34,117.02 23.63,117.51 22.93,118.06 22.26,118.65 21.62,119.3 21.0,120.0 20.42,120.76 19.86,121.56 19.34,122.42 18.85,123.31 18.38,124.25 17.95,125.22 17.55,126.23 17.17,127.25 16.83,128.31 16.52,129.38 16.23,130.46 15.97,131.56 15.74,132.66 15.54,133.76 15.36,134.87 15.22,135.96 15.1,137.05 15.01,138.12 14.94,139.17 14.9,140.2 14.89,141.2 14.9,142.17 14.94,143.1 15.0,144.0 15.09,144.85 15.2,145.67 15.34,146.44 15.5,147.17 15.69,147.86 15.91,148.52 16.15,149.15 16.41,149.74 16.7,150.3 17.01,150.83 17.35,151.33 17.71,151.81 18.1,152.26 18.51,152.69 18.95,153.09 19.41,153.48 19.9,153.84 20.41,154.19 20.95,154.52 21.51,154.84 22.1,155.15 22.71,155.44 23.34,155.72 24.0,156.0 24.68,156.27 25.39,156.53 26.11,156.78 26.86,157.03 27.62,157.26 28.39,157.49 29.17,157.7 29.97,157.9 30.76,158.09 31.57,158.27 32.37,158.43 33.18,158.58 33.98,158.71 34.78,158.83 35.57,158.93 36.35,159.02 37.12,159.09 37.88,159.14 38.62,159.16 39.34,159.17 40.04,159.16 40.72,159.13 41.37,159.08 42.0,159.0 42.6,158.9 43.17,158.78 43.71,158.64 44.23,158.47 44.72,158.29 45.19,158.1 45.64,157.88 46.06,157.65 46.47,157.41 46.86,157.16 47.23,156.89 47.58,156.62 47.92,156.33 48.24,156.04 48.56,155.75 48.86,155.44 49.15,155.14 49.43,154.83 49.71,154.52 49.97,154.21 50.23,153.9 50.49,153.6 50.75,153.3 51.0,153.0 51.25,152.71 51.5,152.42 51.75,152.14 52.01,151.86 52.26,151.57 52.51,151.29 52.76,151.0 53.0,150.71 53.25,150.41 53.5,150.1 53.75,149.78 54.0,149.45 54.25,149.11 54.5,148.75 54.75,148.37 55.0,147.98 55.24,147.57 55.49,147.14 55.74,146.68 55.99,146.2 56.25,145.69 56.5,145.16 56.75,144.59 57.0,144.0 57.25,143.37 57.5,142.72 57.75,142.03 58.0,141.33 58.24,140.6 58.48,139.85 58.7,139.08 58.92,138.3 59.13,137.51 59.32,136.71 59.5,135.9 59.67,135.09 59.82,134.28 59.95,133.46 60.07,132.66 60.16,131.86 60.23,131.06 60.28,130.28 60.3,129.52 60.3,128.77 60.27,128.04 60.21,127.34 60.12,126.65 60.0,126.0 59.85,125.38 59.66,124.78 59.45,124.21 59.2,123.67 58.93,123.16 58.64,122.67 58.32,122.2 57.98,121.76 57.63,121.34 57.25,120.94 56.86,120.56 56.45,120.2 56.03,119.86 55.59,119.53 55.15,119.22 54.7,118.93 54.24,118.65 53.78,118.38 53.32,118.13 52.85,117.88 52.38,117.65 51.92,117.43 51.46,117.21 51.0,117.0 " style="stroke:#ff0000;stroke-dasharray: 3.0,3.0;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="144.0,207.0 143.55,206.8 143.1,206.6 142.66,206.41 142.23,206.23 141.79,206.05 141.35,205.88 140.92,205.71 140.47,205.56 140.03,205.4 139.58,205.26 139.13,205.12 138.66,204.99 138.19,204.87 137.71,204.75 137.21,204.64 136.7,204.54 136.18,204.45 135.64,204.36 135.08,204.28 134.51,204.21 133.91,204.15 133.3,204.09 132.66,204.04 132.0,204.0 131.31,203.97 130.6,203.95 129.88,203.93 129.13,203.94 128.36,203.96 127.59,203.99 126.8,204.05 126.0,204.13 125.2,204.23 124.4,204.36 123.59,204.52 122.78,204.71 121.97,204.92 121.18,205.18 120.38,205.46 119.6,205.79 118.83,206.16 118.08,206.56 117.34,207.02 116.63,207.51 115.93,208.06 115.26,208.65 114.62,209.3 114.0,210.0 113.42,210.76 112.86,211.56 112.34,212.42 111.85,213.31 111.38,214.25 110.95,215.22 110.55,216.23 110.17,217.25 109.83,218.31 109.52,219.38 109.23,220.46 108.97,221.56 108.74,222.66 108.54,223.76 108.36,224.87 108.22,225.96 108.1,227.05 108.01,228.12 107.94,229.17 107.9,230.2 107.89,231.2 107.9,232.17 107.94,233.1 108.0,234.0 108.09,234.85 108.2,235.67 108.34,236.44 108.5,237.17 108.69,237.86 108.91,238.52 109.15,239.15 109.41,239.74 109.7,240.3 110.01,240.83 110.35,241.33 110.71,241.81 111.1,242.26 111.51,242.69 111.95,243.09 112.41,243.48 112.9,243.84 113.41,244.19 113.95,244.52 114.51,244.84 115.1,245.15 115.71,245.44 116.34,245.72 117.0,246.0 117.68,246.27 118.39,246.53 119.11,246.78 119.86,247.03 120.62,247.26 121.39,247.49 122.17,247.7 122.97,247.9 123.76,248.09 124.57,248.27 125.37,248.43 126.18,248.58 126.98,248.71 127.78,248.83 128.57,248.93 129.35,249.02 130.12,249.09 130.88,249.14 131.62,249.16 132.34,249.17 133.04,249.16 133.72,249.13 134.37,249.08 135.0,249.0 135.6,248.9 136.17,248.78 136.71,248.64 137.23,248.47 137.72,248.29 138.19,248.1 138.64,247.88 139.06,247.65 139.47,247.41 139.86,247.16 140.23,246.89 140.58,246.62 140.92,246.33 141.24,246.04 141.56,245.75 141.86,245.44 142.15,245.14 142.43,244.83 142.71,244.52 142.97,244.21 143.23,243.9 143.49,243.6 143.75,243.3 144.0,243.0 144.25,242.71 144.5,242.42 144.75,242.14 145.01,241.86 145.26,241.57 145.51,241.29 145.76,241.0 146.0,240.71 146.25,240.41 146.5,240.1 146.75,239.78 147.0,239.45 147.25,239.11 147.5,238.75 147.75,238.37 148.0,237.98 148.24,237.57 148.49,237.14 148.74,236.68 148.99,236.2 149.25,235.69 149.5,235.16 149.75,234.59 150.0,234.0 150.25,233.37 150.5,232.72 150.75,232.03 151.0,231.33 151.24,230.6 151.48,229.85 151.7,229.08 151.92,228.3 152.13,227.51 152.32,226.71 152.5,225.9 152.67,225.09 152.82,224.28 152.95,223.46 153.07,222.66 153.16,221.86 153.23,221.06 153.28,220.28 153.3,219.52 153.3,218.77 153.27,218.04 153.21,217.34 153.12,216.65 153.0,216.0 152.85,215.38 152.66,214.78 152.45,214.21 152.2,213.67 151.93,213.16 151.64,212.67 151.32,212.2 150.98,211.76 150.63,211.34 150.25,210.94 149.86,210.56 149.45,210.2 149.03,209.86 148.59,209.53 148.15,209.22 147.7,208.93 147.24,208.65 146.78,208.38 146.32,208.13 145.85,207.88 145.38,207.65 144.92,207.43 144.46,207.21 144.0,207.0 " style="stroke:#ff0000;stroke-dasharray: 3.0,3.0;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+</svg>

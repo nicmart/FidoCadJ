@@ -1,0 +1,180 @@
+[FIDOCAD]
+RV 339 101 370 150 0
+RV 377 114 390 135 0
+TY 360 114 4 3 0 0 0 * VCC
+TY 360 119 4 3 0 0 0 * SDA
+TY 360 124 4 3 0 0 0 * SCL
+TY 360 129 4 3 0 0 0 * GND
+TY 379 121 4 3 0 0 0 * LCD
+LI 370 117 377 117 0
+LI 370 122 377 122 0
+LI 370 127 377 127 0
+LI 370 132 377 132 0
+TY 340 107 4 3 0 0 0 * ANA
+MC 81 85 1 0 ey_libraries.pasres0
+FCJ
+TY 84 83 4 3 0 0 0 * R3
+TY 84 88 4 3 0 0 0 * 1M
+MC 81 70 1 0 ey_libraries.pasres0
+FCJ
+TY 84 67 4 3 0 0 0 * R2
+TY 84 72 4 3 0 0 0 * 1M
+MC 41 65 0 0 ey_libraries.refpnt1
+MC 61 60 0 0 ey_libraries.swcno0
+MC 66 65 2 0 ey_libraries.pasres0
+FCJ
+TY 61 68 4 3 0 0 0 * R1
+TY 60 73 4 3 0 0 0 * 20M
+LI 46 65 56 65 0
+LI 56 65 56 60 0
+LI 71 60 71 65 0
+LI 71 65 81 65 0
+MC 81 115 1 0 ey_libraries.pasres0
+FCJ
+TY 84 113 4 3 0 0 0 * R5
+TY 84 118 4 3 0 0 0 * 100K
+MC 81 100 1 0 ey_libraries.pasres0
+FCJ
+TY 84 98 4 3 0 0 0 * R4
+TY 84 103 4 3 0 0 0 * 60K
+LI 132 95 81 95 0
+LI 81 80 120 80 0
+LI 120 80 120 90 0
+LI 120 90 132 90 0
+LI 81 110 120 110 0
+LI 120 110 120 105 0
+LI 120 105 132 105 0
+MC 81 125 0 0 ey_libraries.refpnt0
+MC 334 150 0 0 ey_libraries.refpnt0
+LI 334 150 334 145 0
+LI 334 145 339 145 0
+TY 340 142 4 3 0 0 0 * GND
+TY 98 74 4 3 0 0 0 * SCALA1
+TY 98 90 4 3 0 0 0 * SCALA2
+TY 98 104 4 3 0 0 0 * SCALA3
+TY 56 50 4 3 0 0 0 * X1/X10
+TY 347 95 4 3 0 0 0 * ESP32
+MC 322 120 3 0 ey_libraries.diddid0
+MC 322 105 3 0 ey_libraries.diddid0
+SA 322 110 0
+MC 322 125 0 0 ey_libraries.refpnt0
+MC 322 90 1 0 ey_libraries.refpnt1
+FCJ
+TY 317 85 4 3 0 0 0 * 3.3V
+TY 332 90 4 3 0 0 0 * 
+TY 300 99 4 3 0 0 0 * 1n4148
+TY 300 115 4 3 0 0 0 * 1n4148
+SA 81 80 0
+SA 81 95 0
+SA 81 110 0
+SA 56 65 0
+SA 71 65 0
+MC 147 100 0 0 ihram.ma12
+MC 132 116 0 0 ey_libraries.refpnt0
+LI 132 110 132 116 0
+MC 216 105 2 1 ey_libraries.opaopa1
+MC 216 90 1 0 ey_libraries.refpnt1
+FCJ
+TY 213 84 4 3 0 0 0 * 5V
+TY 226 89 4 3 0 0 0 * 
+MC 190 100 2 0 ey_libraries.pasres0
+FCJ
+TY 185 88 4 3 0 0 0 * R6
+TY 182 92 4 3 0 0 0 * 100K
+MC 219 74 2 0 ey_libraries.pasres0
+FCJ
+TY 214 61 4 3 0 0 0 * R7
+TY 211 66 4 3 0 0 0 * 100K
+MC 216 120 3 0 ey_libraries.refpnt1
+FCJ
+TY 212 120 4 3 0 0 0 * -5V
+TY 206 121 4 3 0 0 0 * 
+LI 147 100 180 100 0
+LI 195 100 206 100 0
+LI 209 74 201 74 0
+LI 201 74 201 100 0
+SA 201 100 0
+SA 234 105 0
+LI 234 105 234 74 0
+LI 234 74 224 74 0
+MC 199 124 3 0 ey_libraries.pasres0
+FCJ
+TY 188 114 4 3 0 0 0 * R8
+TY 185 120 4 3 0 0 0 * 50K
+MC 199 135 0 0 ey_libraries.refpnt0
+LI 199 129 199 135 0
+LI 206 110 199 110 0
+LI 199 110 199 114 0
+MC 276 110 2 1 ey_libraries.opaopa1
+MC 276 95 1 0 ey_libraries.refpnt1
+FCJ
+TY 273 89 4 3 0 0 0 * 5V
+TY 286 94 4 3 0 0 0 * 
+MC 250 105 2 0 ey_libraries.pasres0
+FCJ
+TY 245 93 4 3 0 0 0 * R9
+TY 242 97 4 3 0 0 0 * 100K
+MC 279 79 2 0 ey_libraries.pasres0
+FCJ
+TY 274 66 4 3 0 0 0 * R10
+TY 271 71 4 3 0 0 0 * 100K
+LI 291 110 339 110 0
+MC 276 125 3 0 ey_libraries.refpnt1
+FCJ
+TY 272 125 4 3 0 0 0 * -5V
+TY 266 126 4 3 0 0 0 * 
+LI 231 105 240 105 0
+LI 255 105 266 105 0
+LI 269 79 261 79 0
+LI 261 79 261 105 0
+SA 261 105 0
+SA 294 110 0
+LI 294 110 294 79 0
+LI 294 79 284 79 0
+MC 259 129 3 0 ey_libraries.pasres0
+FCJ
+TY 248 119 4 3 0 0 0 * R11
+TY 245 125 4 3 0 0 0 * 50K
+MC 259 140 0 0 ey_libraries.refpnt0
+LI 259 134 259 140 0
+LI 266 115 259 115 0
+LI 259 115 259 119 0
+MC 171 110 3 0 ey_libraries.diddid0
+MC 171 95 3 0 ey_libraries.diddid0
+SA 171 100 0
+MC 171 80 1 0 ey_libraries.refpnt1
+FCJ
+TY 168 75 4 3 0 0 0 * 5V
+TY 181 80 4 3 0 0 0 * 
+TY 149 89 4 3 0 0 0 * 1n4148
+TY 149 105 4 3 0 0 0 * 1n4148
+MC 171 120 3 0 ey_libraries.refpnt1
+FCJ
+TY 166 121 4 3 0 0 0 * -5V
+TY 211 126 4 3 0 0 0 * 
+MC 186 37 2 0 ey_libraries.pasres0
+FCJ
+TY 181 25 4 3 0 0 0 * R6
+TY 178 29 4 3 0 0 0 * 100K
+MC 171 37 0 0 ey_libraries.refpnt1
+FCJ
+TY 164 34 4 3 0 0 0 * 5V
+TY 171 27 4 3 0 0 0 * 
+MC 231 37 2 0 ey_libraries.refpnt1
+FCJ
+TY 233 35 4 3 0 0 0 * -5V
+TY 237 -3 4 3 0 0 0 * 
+MC 221 37 2 0 ey_libraries.pasres0
+FCJ
+TY 216 25 4 3 0 0 0 * R6
+TY 213 29 4 3 0 0 0 * 100K
+MC 201 37 0 0 ey_libraries.pasres5
+MC 201 55 3 0 ey_libraries.swcno0
+FCJ
+TY 203 50 4 3 0 0 0 * AC/DC
+TY 206 45 4 3 0 0 0 * 
+LI 201 42 201 45 0
+LI 201 60 201 74 0
+SA 201 74 0
+MC 41 70 0 0 ey_libraries.refpnt1
+MC 46 70 0 0 ey_libraries.refpnt0

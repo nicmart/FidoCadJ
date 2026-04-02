@@ -1,0 +1,101 @@
+[FIDOCAD]
+FJC B 0.5
+MC 85 35 0 0 ey_libraries.swcno0
+MC 121 60 0 0 ey_libraries.genvis1
+MC 50 55 0 0 ey_libraries.trnmos0
+MC 35 70 0 0 ey_libraries.refpnt0
+MC 121 70 0 0 ey_libraries.refpnt0
+MC 55 70 0 0 ey_libraries.refpnt0
+LI 35 55 45 55 0
+LI 55 60 55 70 0
+LI 55 50 55 35 0
+LI 55 35 65 35 0
+LI 90 35 121 35 0
+LI 121 35 121 55 0
+MC 75 40 1 0 ey_libraries.swcno0
+MC 35 60 0 0 ey_libraries.genvis1
+LI 65 35 75 35 0
+LI 75 35 80 35 0
+TY 87 26 3 2 0 1 0 Arial : openâ†’closed
+TY 79 40 4 3 0 1 0 Arial S2
+LI 50 35 50 25 0
+LI 50 25 70 25 0
+LI 40 35 50 35 0
+TY 58 18 4 3 0 1 0 Arial 4.5 V
+TY 39 28 4 3 0 1 0 Arial 0 V
+TY 80 25 4 3 0 1 0 Arial S1
+MC 73 95 1 0 ey_libraries.swcno0
+MC 83 90 0 0 ey_libraries.swcno0
+MC 119 115 0 0 ey_libraries.genvis1
+MC 48 110 0 0 ey_libraries.trnmos0
+MC 33 125 0 0 ey_libraries.refpnt0
+MC 119 125 0 0 ey_libraries.refpnt0
+MC 53 125 0 0 ey_libraries.refpnt0
+LI 33 110 43 110 0
+LI 53 115 53 125 0
+LI 53 90 63 90 0
+LI 88 90 119 90 0
+LI 119 90 119 110 0
+TY 124 110 4 3 0 1 0 Arial 4.5 V
+MC 33 115 0 0 ey_libraries.genvis1
+LI 63 90 73 90 0
+LI 73 90 78 90 0
+LI 73 105 73 125 0
+MC 73 125 0 0 ey_libraries.refpnt0
+TY 77 95 4 3 0 1 0 Arial S2
+MC 53 95 1 0 ey_libraries.pasind0
+MC 75 180 0 0 ey_libraries.refpnt0
+TY 115 165 4 3 0 1 0 Arial 4.5 V
+MC 60 165 0 0 ey_libraries.pascap0
+MC 85 145 0 0 ey_libraries.swcno0
+MC 110 170 0 0 ey_libraries.genvis1
+MC 40 170 0 0 ey_libraries.trnmos0
+MC 25 185 0 0 ey_libraries.refpnt0
+MC 110 180 0 0 ey_libraries.refpnt0
+MC 45 185 0 0 ey_libraries.refpnt0
+LI 25 170 35 170 0
+LI 45 175 45 185 0
+LI 45 145 55 145 0
+LI 90 145 110 145 0
+LI 110 145 110 165 0
+MC 75 150 1 0 ey_libraries.swcno0
+MC 25 175 0 0 ey_libraries.genvis1
+LI 55 145 75 145 0
+LI 75 145 80 145 0
+LI 75 160 75 180 0
+MC 50 150 0 0 ey_libraries.diddid0
+SA 45 150 0
+SA 60 150 0
+MC 60 180 0 0 ey_libraries.refpnt0
+LI 60 180 60 175 0
+LI 60 165 60 135 0
+LI 60 135 110 135 0
+LI 110 135 110 145 0
+SA 110 145 0
+SA 75 145 0
+LI 75 51 75 71 0
+MC 75 71 0 0 ey_libraries.refpnt0
+MC 45 155 1 0 ey_libraries.pasind0
+LI 45 145 45 150 0
+TY 86 71 4 3 0 0 0 * Fig. 1a
+TY 83 177 4 3 0 0 0 * Fig. 1c
+TY 88 124 4 3 0 0 0 * Fig. 1b
+LI 49 166 45 166 2
+FCJ 0 0 3 2 1 0
+LI 49 150 49 165 2
+FCJ 0 0 3 2 1 0
+EV 66 192 34 175 2
+TY 67 189 4 3 0 0 2 * Induttanza molto &quot;bassissima&quot;
+SA 49 150 2
+SA 46 166 2
+LI 50 105 45 100 2
+FCJ 1 0 3 2 0 0
+CV 0 68 27 50 15 51 30 52 18 53 29 54 22 55 28 56 25 2
+TY 30 95 4 3 0 0 2 * Spike
+EV 57 147 64 162 2
+LI 64 160 71 189 2
+FCJ 1 0 3 2 0 0
+LI 64 187 72 190 2
+FCJ 1 0 3 2 0 0
+LI 72 190 50 161 2
+FCJ 2 0 3 2 0 0

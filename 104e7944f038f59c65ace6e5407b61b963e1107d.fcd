@@ -1,0 +1,199 @@
+[FIDOCAD]
+MC 25 30 0 0 elettrotecnica.meas00
+FCJ
+TY 15 5 4 3 0 0 0 * ENEL
+TY 35 35 4 3 0 0 0 * 
+MC 90 45 0 0 elettrotecnica.sca01
+FCJ
+TY 95 30 4 3 0 0 0 * SPD
+TY 95 35 4 3 0 0 0 * Classe 1/2
+MC 135 40 0 0 elettrotecnica.intpr02
+FCJ
+TY 140 30 4 3 0 0 0 * MT
+TY 140 35 4 3 0 0 0 * 40D ?kA
+MC 135 75 0 0 elettrotecnica.intpr01
+FCJ
+TY 140 65 4 3 0 0 0 * Diff Tipo A
+TY 140 70 4 3 0 0 0 * 30mA 40A
+MC 90 125 0 0 elettrotecnica.intpr02
+FCJ
+TY 95 115 4 3 0 0 0 * MT
+TY 95 120 4 3 0 0 0 * 16C ? kA
+LI 90 25 205 25 0
+LI 90 35 90 25 0
+LI 135 55 135 65 0
+MC 170 40 0 0 elettrotecnica.intpr02
+FCJ
+TY 175 30 4 3 0 0 0 * MT
+TY 175 35 4 3 0 0 0 * 40D ?kA
+MC 205 40 0 0 elettrotecnica.intpr02
+FCJ
+TY 210 30 4 3 0 0 0 * MT
+TY 210 35 4 3 0 0 0 * 40D ?kA
+MC 25 55 0 0 040
+LI 90 55 25 55 0
+FCJ 0 0 3 2 0 1
+TY 40 50 4 3 0 0 0 * ?m 16mm²
+TY 95 65 4 3 0 0 0 * 
+RV 80 80 45 75 0
+FCJ 0 1
+TY 45 70 4 3 0 0 0 * Barra Eq
+TY 50 80 4 3 0 0 0 * Garage
+LI 75 75 90 55 0
+LI 315 95 315 110 0
+RV 55 115 20 110 0
+FCJ 0 1
+TY 20 105 4 3 0 0 0 * Barra Eq
+TY 20 115 4 3 0 0 0 * Primo piano
+MC 130 125 0 0 elettrotecnica.intpr02
+FCJ
+TY 135 115 4 3 0 0 0 * MT
+TY 135 120 4 3 0 0 0 * 10C ? kA
+MC 170 125 0 0 elettrotecnica.intpr02
+FCJ
+TY 175 115 4 3 0 0 0 * ???
+TY 175 120 4 3 0 0 0 * 
+MC 210 125 0 0 elettrotecnica.intpr02
+FCJ
+TY 215 115 4 3 0 0 0 * ???
+TY 215 120 4 3 0 0 0 * 
+MC 250 125 0 0 elettrotecnica.intpr02
+FCJ
+TY 255 115 4 3 0 0 0 * ???
+TY 255 120 4 3 0 0 0 * 
+LI 90 110 250 110 0
+LI 135 90 135 110 0
+MC 290 125 0 0 elettrotecnica.intpr02
+FCJ
+TY 295 115 4 3 0 0 0 * MT
+TY 295 120 4 3 0 0 0 * 16C ? kA
+MC 330 125 0 0 elettrotecnica.intpr02
+FCJ
+TY 335 115 4 3 0 0 0 * ???
+TY 335 120 4 3 0 0 0 * 
+MC 370 125 0 0 elettrotecnica.intpr02
+FCJ
+TY 375 115 4 3 0 0 0 * ???
+TY 375 120 4 3 0 0 0 * 
+LI 170 60 315 60 0
+LI 315 65 315 70 0
+LI 170 55 170 60 0
+LI 315 60 315 65 0
+MC 315 80 0 0 elettrotecnica.intpr01
+FCJ
+TY 320 70 4 3 0 0 0 * Diff Tipo A
+TY 320 75 4 3 0 0 0 * 30mA 40A
+LI 290 110 370 110 0
+LI 80 15 80 60 0
+FCJ 0 0 3 2 1 0
+LI 80 60 35 60 0
+FCJ 0 0 3 2 1 0
+LI 35 60 35 90 0
+FCJ 0 0 3 2 1 0
+LI 35 90 75 90 0
+LI 75 90 75 170 0
+FCJ 0 0 3 2 1 0
+LI 75 170 410 170 0
+FCJ 0 0 3 2 1 0
+LI 80 15 410 15 0
+FCJ 0 0 3 2 1 0
+LI 410 15 410 170 0
+FCJ 0 0 3 2 1 0
+MC 370 205 0 0 elettrotecnica.intpr02
+FCJ
+TY 375 195 4 3 0 0 0 * Salvamotore
+TY 380 215 4 3 0 0 0 * 
+LI 370 220 370 240 0
+FCJ 0 0 3 2 0 1
+TY 370 225 4 3 0 0 0 * 20m 2.5mm²
+TY 375 230 4 3 0 0 0 * 
+LI 170 140 170 190 0
+FCJ 0 0 3 2 0 1
+TY 175 145 4 3 0 0 0 * 
+TY 160 175 4 3 0 0 0 * 5m 2.5mm²
+MC 170 200 0 0 elettrotecnica.intpr02
+FCJ
+TY 175 190 4 3 0 0 0 * MT
+TY 175 195 4 3 0 0 0 * 6C 4.5kA
+LI 170 215 170 230 0
+FCJ 0 0 3 2 0 1
+TY 125 230 4 3 0 0 0 * Centralina solare termico
+TY 175 220 4 3 0 0 0 * 1m
+LI 210 140 210 185 0
+FCJ 0 0 3 2 0 1
+TY 215 155 4 3 0 0 0 * 
+TY 200 175 4 3 0 0 0 * 15m 2.5mm²
+MC 210 200 0 0 elettrotecnica.intpr02
+FCJ
+TY 215 190 4 3 0 0 0 * MT
+TY 215 195 4 3 0 0 0 * 6C 4.5kA
+LI 210 215 210 240 0
+FCJ 0 0 3 2 0 1
+TY 200 240 4 3 0 0 0 * Autoclave
+TY 215 225 4 3 0 0 0 * 1m
+MC 250 140 0 0 520
+FCJ
+TY 260 150 4 3 0 0 0 * 12ac
+TY 260 150 4 3 0 0 0 * 
+MC 250 195 0 0 elettrotecnica.app04
+FCJ
+TY 240 200 4 3 0 0 0 * Citofono
+TY 260 220 4 3 0 0 0 * 
+MC 370 240 0 0 elettrotecnica.cpona
+FCJ
+TY 375 245 4 3 0 0 0 * Contattore
+TY 380 250 4 3 0 0 0 * 
+LI 290 140 290 185 0
+FCJ 0 0 3 2 0 1
+TY 275 185 4 3 0 0 0 * Capanno esterno
+TY 290 175 4 3 0 0 0 * 20m ??? mm²
+LI 330 140 330 185 0
+FCJ 0 0 3 2 0 1
+TY 335 145 4 3 0 0 0 * 
+TY 330 175 4 3 0 0 0 * 20m ??? mm²
+MC 330 200 0 0 elettrotecnica.intpr02
+FCJ
+TY 335 190 4 3 0 0 0 * MT
+TY 335 195 4 3 0 0 0 * 6C 4.5kA
+LI 330 215 330 240 0
+FCJ 0 0 3 2 0 1
+TY 300 240 4 3 0 0 0 * Cancello elettrico
+TY 335 225 4 3 0 0 0 * 1m
+LI 370 140 370 190 0
+FCJ 0 0 3 2 0 1
+TY 370 175 4 3 0 0 0 * 15m 2.5mm²
+TY 375 150 4 3 0 0 0 * 
+MC 370 275 0 0 560
+FCJ
+TY 390 285 4 3 0 0 0 * Pompa pozzo
+TY 380 285 4 3 0 0 0 * 
+LI 370 255 370 275 0
+LI 370 255 385 275 0
+LI 370 255 355 275 0
+FCJ 0 0 3 2 0 1
+TY 375 260 4 3 0 0 0 * 
+TY 380 260 4 3 0 0 0 * 100m ? mm²
+LI 35 25 90 25 2
+FCJ 2 0 3 2 0 1
+TY 70 30 4 3 0 0 2 * 
+TY 55 20 4 3 0 0 2 * 1m 6mm²
+LI 50 80 50 110 4
+FCJ 2 0 3 1 0 1
+TY 5 95 4 3 0 0 4 * Montante 6mm² al primo piano
+TY 55 90 4 3 0 0 4 * 
+LI 205 55 420 55 4
+FCJ 2 0 3 2 0 1
+TY 255 50 4 3 0 0 4 * Montante 6mm² al centralino del primo piano
+TY 210 65 4 3 0 0 4 * 
+LI 90 140 90 190 11
+FCJ 0 0 3 2 0 1
+TY 70 190 4 3 0 0 11 * Prese Garage
+TY 90 175 4 3 0 0 11 * 2.5 mm²
+LI 130 140 130 200 11
+FCJ 0 0 3 2 0 1
+TY 115 200 4 3 0 0 11 * Luci Garage
+TY 130 175 4 3 0 0 11 * 1.5mm²
+LI 250 165 250 190 11
+FCJ 0 0 3 2 0 1
+TY 255 170 4 3 0 0 11 * 
+TY 250 175 4 3 0 0 11 * 20m

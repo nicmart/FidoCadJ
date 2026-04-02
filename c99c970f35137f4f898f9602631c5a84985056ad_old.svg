@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="1203.0" height="795.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<line x1="288.0" y1="630.0" x2="222.0" y2="630.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="288.0" y1="705.0" x2="222.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="249.0" y1="630.0" x2="249.0" y2="642.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="249.0" y1="648.0" x2="249.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="255.0" y1="642.0" x2="243.0" y2="642.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="255.0" y1="648.0" x2="243.0" y2="648.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="249.0" y1="675.0" x2="249.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="249.0" y1="693.0" x2="249.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="255.0" y1="687.0" x2="243.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="255.0" y1="693.0" x2="243.0" y2="693.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="168.0" y1="630.0" x2="168.0" y2="642.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="168.0" y1="648.0" x2="168.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="174.0" y1="642.0" x2="162.0" y2="642.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="174.0" y1="648.0" x2="162.0" y2="648.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="168.0" y1="675.0" x2="168.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="168.0" y1="693.0" x2="168.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="174.0" y1="687.0" x2="162.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="174.0" y1="693.0" x2="162.0" y2="693.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="630.0" x2="108.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="705.0" x2="111.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="249.0" y1="660.0" x2="249.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="168.0" y1="660.0" x2="168.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="249.0" y1="669.0" x2="108.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 198.0,630.0 C 198.0,624.0 204.0,624.0 204.0,630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 204.0,630.0 C 204.0,624.0 210.0,624.0 210.0,630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="630.0" x2="192.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="216.0" y1="630.0" x2="222.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 210.0,630.0 C 210.0,624.0 216.0,624.0 216.0,630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="624.0" x2="216.0" y2="624.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 216.0,705.0 C 216.0,711.0 210.0,711.0 210.0,705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 210.0,705.0 C 210.0,711.0 204.0,711.0 204.0,705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="216.0" y1="705.0" x2="222.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="705.0" x2="192.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 204.0,705.0 C 204.0,711.0 198.0,711.0 198.0,705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="216.0" y1="711.0" x2="198.0" y2="711.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="123.0" y="624.0" rx="0" ry="0" width="18.0" height="12.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="630.0" x2="117.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="210.0" y1="669.0" x2="210.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="204.0" y1="684.0" x2="201.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="210.0" y1="684.0" x2="207.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="216.0" y1="684.0" x2="213.0" y2="687.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="204.0" y1="684.0" x2="216.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="168.0" cy="630.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="168.0" cy="705.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="168.0" cy="669.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="210.0" cy="669.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="249.0" cy="669.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="249.0" cy="630.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="249.0" cy="705.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="366.0" y1="630.0" x2="321.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="624.0" x2="351.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="339.0,624.0 339.0,636.0 351.0,630.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="321.0" y1="660.0" x2="366.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="366.0" y1="630.0" x2="366.0" y2="642.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="360.0" y1="648.0" x2="372.0" y2="648.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="366.0" y1="648.0" x2="366.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="633.0" x2="372.0" y2="639.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="369.0" y1="636.0" x2="375.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="360.0" y="642.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(357.0,702.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Courier New" font-size="15.0" font-style="" font-weigth="bold" fill="#000000">-</text>
+</g>
+<path d="M 390.0,690.0 C 390.0,696.0 384.0,696.0 384.0,690.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 378.0,690.0 C 378.0,684.0 384.0,684.0 384.0,690.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="390.0" y1="702.0" x2="390.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="390.0" y1="708.0" x2="393.0" y2="708.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="378.0" y1="708.0" x2="381.0" y2="708.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 378.0,726.0 C 378.0,720.0 384.0,720.0 384.0,726.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 390.0,726.0 C 390.0,732.0 384.0,732.0 384.0,726.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="738.0" x2="354.0" y2="708.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="414.0" y1="708.0" x2="384.0" y2="738.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="678.0" x2="414.0" y2="708.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(402.0,702.0) scale(1.0363636363636364,1) "><text x="0.0" y="15.0" font-family="Courier New" font-size="15.0" font-style="" font-weigth="bold" fill="#000000">+</text>
+</g>
+<line x1="354.0" y1="708.0" x2="384.0" y2="678.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="381.0,702.0 381.0,714.0 390.0,708.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="321.0" y1="675.0" x2="384.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="675.0" x2="384.0" y2="678.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="738.0" x2="384.0" y2="741.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="741.0" x2="324.0" y2="741.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="741.0" x2="321.0" y2="741.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="321.0" y1="741.0" x2="321.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 315.0,687.0 C 306.0,687.0 306.0,699.0 315.0,699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 315.0,675.0 C 306.0,675.0 306.0,687.0 315.0,687.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="315.0" y1="699.0" x2="321.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="315.0" y1="675.0" x2="321.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 315.0,648.0 C 306.0,648.0 306.0,660.0 315.0,660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 315.0,636.0 C 306.0,636.0 306.0,648.0 315.0,648.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="315.0" y1="660.0" x2="321.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 291.0,648.0 C 300.0,648.0 300.0,636.0 291.0,636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 291.0,660.0 C 300.0,660.0 300.0,648.0 291.0,648.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 291.0,672.0 C 300.0,672.0 300.0,660.0 291.0,660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 291.0,684.0 C 300.0,684.0 300.0,672.0 291.0,672.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 291.0,696.0 C 300.0,696.0 300.0,684.0 291.0,684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="300.0" y1="636.0" x2="300.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="303.0" y1="636.0" x2="303.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="291.0" y1="636.0" x2="291.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="291.0" y1="630.0" x2="288.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="291.0" y1="696.0" x2="291.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="291.0" y1="705.0" x2="288.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="321.0" y1="636.0" x2="321.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="321.0" y1="699.0" x2="321.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="315.0" y1="636.0" x2="321.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="306.0" y1="636.0" x2="306.0" y2="699.0" style="stroke:#000000;stroke-dasharray: 3.0,7.5;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="306.0" y1="768.0" x2="306.0" y2="783.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="300.0" y1="783.0" x2="297.0" y2="786.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="306.0" y1="783.0" x2="303.0" y2="786.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="312.0" y1="783.0" x2="309.0" y2="786.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="300.0" y1="783.0" x2="312.0" y2="783.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="306.0" y1="768.0" x2="306.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="306.0" y1="759.0" x2="492.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="429.0" y1="723.0" x2="429.0" y2="735.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="423.0" y1="741.0" x2="435.0" y2="741.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="429.0" y1="741.0" x2="429.0" y2="753.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="435.0" y1="726.0" x2="435.0" y2="732.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="432.0" y1="729.0" x2="438.0" y2="729.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="423.0" y="735.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="429.0" y1="732.0" x2="429.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="414.0" y1="708.0" x2="429.0" y2="708.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="429.0" y1="753.0" x2="429.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="759.0" x2="330.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="354.0" y1="708.0" x2="330.0" y2="708.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="366.0" cy="630.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="330.0" cy="630.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="330.0" cy="660.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="330.0" cy="708.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="354.0" cy="708.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="414.0" cy="708.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="429.0" cy="708.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="384.0" cy="678.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="384.0" cy="738.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="330.0" cy="759.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="306.0" cy="759.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="429.0" cy="762.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<rect x="447.0" y="654.0" rx="0" ry="0" width="30.0" height="30.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="429.0" y1="675.0" x2="429.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="429.0" y1="669.0" x2="447.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="462.0" y1="684.0" x2="462.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="477.0" y1="669.0" x2="519.0" y2="669.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="519.0" y1="669.0" x2="519.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="762.0" x2="486.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="669.0" x2="492.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="462.0" cy="762.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="492.0" cy="762.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="519.0" cy="762.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="492.0" cy="669.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="492.0" y1="714.0" x2="492.0" y2="726.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="486.0" y1="732.0" x2="498.0" y2="732.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="732.0" x2="492.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="498.0" y1="717.0" x2="498.0" y2="723.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="495.0" y1="720.0" x2="501.0" y2="720.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="486.0" y="726.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="744.0" x2="492.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="519.0" y1="714.0" x2="519.0" y2="726.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="519.0" y1="732.0" x2="519.0" y2="744.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="525.0" y1="726.0" x2="513.0" y2="726.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="525.0" y1="732.0" x2="513.0" y2="732.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="519.0" y1="744.0" x2="519.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="630.0" x2="330.0" y2="615.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="330.0" y1="615.0" x2="552.0" y2="615.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="669.0" x2="492.0" y2="603.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="699.0" x2="552.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="624.0" x2="552.0" y2="615.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="624.0" x2="552.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="549.0" y="630.0" rx="0" ry="0" width="6.0" height="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="648.0" x2="552.0" y2="654.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="699.0" x2="552.0" y2="711.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="717.0" x2="552.0" y2="729.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="558.0" y1="711.0" x2="546.0" y2="711.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="558.0" y1="717.0" x2="546.0" y2="717.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="729.0" x2="552.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="582.0" y1="762.0" x2="582.0" y2="738.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="582.0" y1="693.0" x2="582.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="582.0" y1="693.0" x2="582.0" y2="738.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="576.0" y1="708.0" x2="588.0" y2="708.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="576.0,720.0 588.0,720.0 582.0,708.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="552.0" y1="675.0" x2="594.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="624.0" y1="681.0" x2="639.0" y2="690.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="594.0" y1="675.0" x2="624.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="624.0" y1="660.0" x2="624.0" y2="690.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="639.0" y1="660.0" x2="639.0" y2="645.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="624.0" y1="669.0" x2="639.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="639.0" y1="690.0" x2="639.0" y2="705.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="630.0" cy="675.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="633.0,690.0 636.0,684.0 639.0,690.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="639.0" y1="705.0" x2="639.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="639.0" y1="762.0" x2="594.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="603.0" x2="1041.0" y2="603.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="639.0" y1="606.0" x2="639.0" y2="612.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="636.0" y="612.0" rx="0" ry="0" width="6.0" height="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="639.0" y1="630.0" x2="639.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="639.0" y1="609.0" x2="639.0" y2="603.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="582.0" y1="636.0" x2="660.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="639.0" y1="660.0" x2="660.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="636.0" x2="684.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="666.0" y="633.0" rx="0" ry="0" width="18.0" height="6.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="666.0" y1="636.0" x2="660.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="660.0" x2="684.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="666.0" y="657.0" rx="0" ry="0" width="18.0" height="6.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="666.0" y1="660.0" x2="660.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="636.0" x2="750.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="660.0" x2="705.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="735.0" y1="666.0" x2="750.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="705.0" y1="660.0" x2="735.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="735.0" y1="645.0" x2="735.0" y2="675.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="750.0" y1="645.0" x2="750.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="735.0" y1="654.0" x2="750.0" y2="645.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="750.0" y1="675.0" x2="750.0" y2="690.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="741.0" cy="660.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="744.0,675.0 747.0,669.0 750.0,675.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="639.0" y1="645.0" x2="639.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="639.0" y1="762.0" x2="750.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="750.0" y1="690.0" x2="750.0" y2="762.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="750.0" y1="603.0" x2="750.0" y2="609.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="747.0" y="609.0" rx="0" ry="0" width="6.0" height="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="750.0" y1="627.0" x2="750.0" y2="633.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="552.0" cy="675.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="582.0" cy="675.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="639.0" cy="603.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="552.0" cy="762.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="582.0" cy="762.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="639.0" cy="762.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="750.0" cy="636.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="750.0" cy="603.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="819.0" y1="603.0" x2="819.0" y2="615.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="813.0" y1="621.0" x2="825.0" y2="621.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="819.0" y1="621.0" x2="819.0" y2="633.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="825.0" y1="606.0" x2="825.0" y2="612.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="822.0" y1="609.0" x2="828.0" y2="609.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="813.0" y="615.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="819.0" y1="633.0" x2="819.0" y2="648.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="813.0" y1="648.0" x2="810.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="819.0" y1="648.0" x2="816.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="825.0" y1="648.0" x2="822.0" y2="651.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="813.0" y1="648.0" x2="825.0" y2="648.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="852.0" y="639.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="750.0" y1="636.0" x2="783.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="783.0" y1="636.0" x2="783.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="783.0" y1="699.0" x2="867.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="867.0" y1="699.0" x2="867.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="897.0" y1="684.0" x2="897.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="897.0" y1="699.0" x2="957.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="957.0" y1="699.0" x2="957.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="912.0" y1="699.0" x2="912.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="927.0" y1="699.0" x2="927.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="942.0" y1="699.0" x2="942.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="927.0" y1="699.0" x2="927.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="921.0" y1="714.0" x2="918.0" y2="717.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="927.0" y1="714.0" x2="924.0" y2="717.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="933.0" y1="714.0" x2="930.0" y2="717.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="921.0" y1="714.0" x2="933.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="927.0" y1="639.0" x2="927.0" y2="603.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="1032.0" y="639.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1077.0" y1="684.0" x2="1077.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1077.0" y1="699.0" x2="1137.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1137.0" y1="699.0" x2="1137.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1092.0" y1="699.0" x2="1092.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="699.0" x2="1107.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1122.0" y1="699.0" x2="1122.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="699.0" x2="1107.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="714.0" x2="1098.0" y2="717.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="714.0" x2="1104.0" y2="717.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1113.0" y1="714.0" x2="1110.0" y2="717.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="714.0" x2="1113.0" y2="714.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1041.0" y1="639.0" x2="1041.0" y2="603.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1110.0" y1="639.0" x2="1110.0" y2="624.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1110.0" y1="624.0" x2="1137.0" y2="624.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1137.0" y1="624.0" x2="1137.0" y2="639.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="990.0" y1="684.0" x2="990.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="990.0" y1="699.0" x2="1047.0" y2="699.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1047.0" y1="699.0" x2="1047.0" y2="684.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(126.0,639.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">0,2A</text>
+</g>
+<g transform="translate(177.0,633.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C5</text>
+</g>
+<g transform="translate(177.0,645.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">47 nF</text>
+</g>
+<g transform="translate(222.0,633.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C15</text>
+</g>
+<g transform="translate(222.0,645.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">22 nF</text>
+</g>
+<g transform="translate(177.0,678.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C10</text>
+</g>
+<g transform="translate(177.0,690.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">47 nF</text>
+</g>
+<g transform="translate(222.0,678.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C20</text>
+</g>
+<g transform="translate(222.0,690.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">22 nF</text>
+</g>
+<g transform="translate(201.0,603.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">Z1</text>
+</g>
+<g transform="translate(201.0,615.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1mH</text>
+</g>
+<g transform="translate(201.0,714.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">Z2</text>
+</g>
+<g transform="translate(201.0,726.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1mH</text>
+</g>
+<g transform="translate(297.0,618.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">T1</text>
+</g>
+<g transform="translate(339.0,636.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">D2</text>
+</g>
+<g transform="translate(339.0,648.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">10D4</text>
+</g>
+<g transform="translate(381.0,633.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C25</text>
+</g>
+<g transform="translate(381.0,642.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">8μF</text>
+</g>
+<g transform="translate(381.0,648.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">250Vn</text>
+</g>
+<g transform="translate(402.0,729.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C30</text>
+</g>
+<g transform="translate(402.0,738.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">2200μF</text>
+</g>
+<g transform="translate(402.0,744.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">16Vn</text>
+</g>
+<g transform="translate(450.0,636.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC16</text>
+</g>
+<g transform="translate(450.0,645.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">L005T1</text>
+</g>
+<g transform="translate(492.0,753.0) rotate(-90.0)  scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C35</text>
+</g>
+<g transform="translate(495.0,714.0) rotate(-90.0)  scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">2200μF</text>
+</g>
+<g transform="translate(501.0,714.0) rotate(-90.0)  scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">16Vn</text>
+</g>
+<g transform="translate(519.0,753.0) rotate(-90.0)  scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C40</text>
+</g>
+<g transform="translate(522.0,720.0) rotate(-90.0)  scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">10nF</text>
+</g>
+<g transform="translate(552.0,741.0) rotate(-90.0)  scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C45</text>
+</g>
+<g transform="translate(555.0,708.0) rotate(-90.0)  scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">0,1μF</text>
+</g>
+<g transform="translate(594.0,705.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">D3</text>
+</g>
+<g transform="translate(594.0,717.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1N914</text>
+</g>
+<g transform="translate(585.0,696.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">+</text>
+</g>
+<g transform="translate(648.0,690.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">Tr3</text>
+</g>
+<g transform="translate(648.0,702.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">BC107B</text>
+</g>
+<g transform="translate(726.0,681.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">Tr4</text>
+</g>
+<g transform="translate(726.0,693.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">BC107B</text>
+</g>
+<g transform="translate(528.0,630.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R40</text>
+</g>
+<g transform="translate(537.0,639.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">82K</text>
+</g>
+<g transform="translate(612.0,612.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R45</text>
+</g>
+<g transform="translate(621.0,621.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1K</text>
+</g>
+<g transform="translate(663.0,618.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R55</text>
+</g>
+<g transform="translate(672.0,627.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">10K</text>
+</g>
+<g transform="translate(666.0,666.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R60</text>
+</g>
+<g transform="translate(675.0,675.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">10K</text>
+</g>
+<g transform="translate(726.0,612.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R50</text>
+</g>
+<g transform="translate(735.0,621.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1K</text>
+</g>
+<g transform="translate(792.0,609.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C50</text>
+</g>
+<g transform="translate(792.0,618.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">0,33μF</text>
+</g>
+<g transform="translate(792.0,624.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">35Vn</text>
+</g>
+<g transform="translate(927.0,642.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(867.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(894.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(909.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(924.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(939.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(954.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<g transform="translate(987.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(918.0,654.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC14</text>
+</g>
+<g transform="translate(924.0,663.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7490</text>
+</g>
+<g transform="translate(1047.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(1074.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(1089.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(1104.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(1119.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(1134.0,678.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<g transform="translate(1098.0,654.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC14</text>
+</g>
+<g transform="translate(1104.0,663.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7490</text>
+</g>
+<g transform="translate(1041.0,642.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(1107.0,642.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(1134.0,642.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<g transform="translate(1167.0,642.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<path d="M 1032.0,93.0 C 1032.0,117.0 1047.0,129.0 1068.0,129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1068.0" y1="57.0" x2="1146.0" y2="57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1068.0" y1="129.0" x2="1146.0" y2="129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 1182.0,93.0 C 1182.0,69.0 1167.0,57.0 1146.0,57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 1146.0,129.0 C 1167.0,129.0 1182.0,114.0 1182.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 1068.0,57.0 C 1047.0,57.0 1032.0,72.0 1032.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1062.0" y1="66.0" x2="1152.0" y2="66.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="66.0" x2="1107.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1039.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1174.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1159.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1144.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1129.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1114.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1099.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1084.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1069.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="1054.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 849.0,93.0 C 849.0,117.0 864.0,129.0 885.0,129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="885.0" y1="57.0" x2="963.0" y2="57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="885.0" y1="129.0" x2="963.0" y2="129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 999.0,93.0 C 999.0,69.0 984.0,57.0 963.0,57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 963.0,129.0 C 984.0,129.0 999.0,114.0 999.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 885.0,57.0 C 864.0,57.0 849.0,72.0 849.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="879.0" y1="66.0" x2="969.0" y2="66.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="924.0" y1="66.0" x2="924.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="856.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="991.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="976.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="961.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="946.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="931.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="916.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="901.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="886.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="871.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 672.0,93.0 C 672.0,117.0 687.0,129.0 708.0,129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="708.0" y1="57.0" x2="786.0" y2="57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="708.0" y1="129.0" x2="786.0" y2="129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 822.0,93.0 C 822.0,69.0 807.0,57.0 786.0,57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 786.0,129.0 C 807.0,129.0 822.0,114.0 822.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 708.0,57.0 C 687.0,57.0 672.0,72.0 672.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="702.0" y1="66.0" x2="792.0" y2="66.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="747.0" y1="66.0" x2="747.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="679.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="814.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="799.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="784.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="769.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="754.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="739.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="724.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="709.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="694.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 489.0,93.0 C 489.0,117.0 504.0,129.0 525.0,129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="525.0" y1="57.0" x2="603.0" y2="57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="525.0" y1="129.0" x2="603.0" y2="129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 639.0,93.0 C 639.0,69.0 624.0,57.0 603.0,57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 603.0,129.0 C 624.0,129.0 639.0,114.0 639.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 525.0,57.0 C 504.0,57.0 489.0,72.0 489.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="519.0" y1="66.0" x2="609.0" y2="66.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="564.0" y1="66.0" x2="564.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="496.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="631.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="616.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="601.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="586.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="571.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="556.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="541.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="526.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="511.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 312.0,93.0 C 312.0,117.0 327.0,129.0 348.0,129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="348.0" y1="57.0" x2="426.0" y2="57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="348.0" y1="129.0" x2="426.0" y2="129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 462.0,93.0 C 462.0,69.0 447.0,57.0 426.0,57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 426.0,129.0 C 447.0,129.0 462.0,114.0 462.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 348.0,57.0 C 327.0,57.0 312.0,72.0 312.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="66.0" x2="432.0" y2="66.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="66.0" x2="387.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="319.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="454.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="439.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="424.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="409.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="394.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="379.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="364.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="349.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="334.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 129.0,93.0 C 129.0,117.0 144.0,129.0 165.0,129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="165.0" y1="57.0" x2="243.0" y2="57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="165.0" y1="129.0" x2="243.0" y2="129.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 279.0,93.0 C 279.0,69.0 264.0,57.0 243.0,57.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 243.0,129.0 C 264.0,129.0 279.0,114.0 279.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<path d="M 165.0,57.0 C 144.0,57.0 129.0,72.0 129.0,93.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="159.0" y1="66.0" x2="249.0" y2="66.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="204.0" y1="66.0" x2="204.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="136.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="271.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="256.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="241.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="226.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="211.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="196.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="181.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="166.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="151.5" cy="109.5" rx="1.5" ry="1.5" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="1032.0" y="171.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="849.0" y="171.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="669.0" y="171.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="486.0" y="171.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="309.0" y="171.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="1035.0" y="318.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="852.0" y="318.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="672.0" y="318.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="489.0" y="318.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="309.0" y="318.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="126.0" y="318.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="489.0" y="459.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="126.0" y="459.0" rx="0" ry="0" width="150.0" height="45.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="321.0" y1="111.0" x2="321.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="453.0" y1="111.0" x2="453.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="333.0" y1="111.0" x2="333.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="111.0" x2="351.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="111.0" x2="363.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="378.0" y1="111.0" x2="378.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="396.0" y1="111.0" x2="396.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="111.0" x2="408.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="426.0" y1="108.0" x2="426.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="441.0" y1="111.0" x2="441.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="498.0" y1="111.0" x2="498.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="510.0" y1="111.0" x2="510.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="528.0" y1="111.0" x2="528.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="540.0" y1="111.0" x2="540.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="555.0" y1="111.0" x2="555.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="573.0" y1="111.0" x2="573.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="681.0" y1="111.0" x2="681.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="813.0" y1="111.0" x2="813.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="693.0" y1="111.0" x2="693.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="711.0" y1="111.0" x2="711.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="723.0" y1="111.0" x2="723.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="738.0" y1="111.0" x2="738.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="756.0" y1="111.0" x2="756.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="768.0" y1="111.0" x2="768.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="786.0" y1="108.0" x2="786.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="801.0" y1="111.0" x2="801.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="858.0" y1="111.0" x2="858.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="870.0" y1="111.0" x2="870.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="888.0" y1="111.0" x2="888.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="900.0" y1="111.0" x2="900.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="915.0" y1="111.0" x2="915.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="933.0" y1="111.0" x2="933.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1041.0" y1="111.0" x2="1041.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1173.0" y1="111.0" x2="1173.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1053.0" y1="111.0" x2="1053.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1071.0" y1="111.0" x2="1071.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1083.0" y1="111.0" x2="1083.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1098.0" y1="111.0" x2="1098.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1116.0" y1="111.0" x2="1116.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1128.0" y1="111.0" x2="1128.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1146.0" y1="108.0" x2="1146.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1161.0" y1="111.0" x2="1161.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(333.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(450.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(438.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(423.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(405.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(393.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(378.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(363.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(348.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(318.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">0</text>
+</g>
+<g transform="translate(510.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(570.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(555.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(540.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(525.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(495.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">0</text>
+</g>
+<g transform="translate(693.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(810.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(798.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(783.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(765.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(753.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(738.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(723.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(708.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(678.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">0</text>
+</g>
+<g transform="translate(870.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(930.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(915.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(900.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(885.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(855.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">0</text>
+</g>
+<g transform="translate(1053.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(1170.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(1158.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(1143.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(1125.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(1113.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(1098.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(1083.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(1068.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(1038.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">0</text>
+</g>
+<g transform="translate(150.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(165.0,96.0) scale(1.727272727272727,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(318.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">16</text>
+</g>
+<g transform="translate(330.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">15</text>
+</g>
+<g transform="translate(348.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(363.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(375.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">13</text>
+</g>
+<g transform="translate(393.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<g transform="translate(408.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(423.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<g transform="translate(438.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(450.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(492.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">16</text>
+</g>
+<g transform="translate(504.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">15</text>
+</g>
+<g transform="translate(522.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(537.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(549.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">13</text>
+</g>
+<g transform="translate(567.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<g transform="translate(582.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(597.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<g transform="translate(612.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(624.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(678.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">16</text>
+</g>
+<g transform="translate(690.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">15</text>
+</g>
+<g transform="translate(708.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(723.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(735.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">13</text>
+</g>
+<g transform="translate(753.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<g transform="translate(768.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(783.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<g transform="translate(798.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(810.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(855.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">16</text>
+</g>
+<g transform="translate(867.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">15</text>
+</g>
+<g transform="translate(885.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(900.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(912.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">13</text>
+</g>
+<g transform="translate(930.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<g transform="translate(945.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(960.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<g transform="translate(975.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(987.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(1038.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">16</text>
+</g>
+<g transform="translate(1050.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">15</text>
+</g>
+<g transform="translate(1068.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(1083.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(1095.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">13</text>
+</g>
+<g transform="translate(1113.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<g transform="translate(1128.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(1143.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<g transform="translate(1158.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(1170.0,174.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<line x1="1161.0" y1="216.0" x2="1161.0" y2="231.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1155.0" y1="231.0" x2="1152.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1161.0" y1="231.0" x2="1158.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1167.0" y1="231.0" x2="1164.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1155.0" y1="231.0" x2="1167.0" y2="231.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(1050.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(1068.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(1083.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(1098.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(1131.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(1158.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<line x1="978.0" y1="216.0" x2="978.0" y2="231.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="972.0" y1="231.0" x2="969.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="978.0" y1="231.0" x2="975.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="984.0" y1="231.0" x2="981.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="972.0" y1="231.0" x2="984.0" y2="231.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(867.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(885.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(900.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(915.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(948.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(975.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<line x1="798.0" y1="216.0" x2="798.0" y2="231.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="792.0" y1="231.0" x2="789.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="798.0" y1="231.0" x2="795.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="804.0" y1="231.0" x2="801.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="792.0" y1="231.0" x2="804.0" y2="231.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(687.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(705.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(720.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(735.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(768.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(795.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<line x1="615.0" y1="216.0" x2="615.0" y2="231.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="231.0" x2="606.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="615.0" y1="231.0" x2="612.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="621.0" y1="231.0" x2="618.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="231.0" x2="621.0" y2="231.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(504.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(522.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(537.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(552.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(585.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(612.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<line x1="441.0" y1="216.0" x2="441.0" y2="231.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="435.0" y1="231.0" x2="432.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="441.0" y1="231.0" x2="438.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="447.0" y1="231.0" x2="444.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="435.0" y1="231.0" x2="447.0" y2="231.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(330.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(348.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(363.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(378.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(411.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(438.0,207.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<line x1="1050.0" y1="216.0" x2="1050.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1068.0" y1="216.0" x2="1068.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1086.0" y1="216.0" x2="1086.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="216.0" x2="1101.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(1050.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(1068.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(1083.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(1095.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<g transform="translate(1128.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<line x1="867.0" y1="216.0" x2="867.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="885.0" y1="216.0" x2="885.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="903.0" y1="216.0" x2="903.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="918.0" y1="216.0" x2="918.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(867.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(885.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(900.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(912.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<g transform="translate(945.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<line x1="687.0" y1="216.0" x2="687.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="705.0" y1="216.0" x2="705.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="723.0" y1="216.0" x2="723.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="738.0" y1="216.0" x2="738.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(687.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(705.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(720.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(732.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<g transform="translate(765.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<line x1="504.0" y1="216.0" x2="504.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="522.0" y1="216.0" x2="522.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="540.0" y1="216.0" x2="540.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="555.0" y1="216.0" x2="555.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(504.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(522.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(537.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(549.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<g transform="translate(582.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<line x1="330.0" y1="216.0" x2="330.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="348.0" y1="216.0" x2="348.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="366.0" y1="216.0" x2="366.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="381.0" y1="216.0" x2="381.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(330.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(348.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(363.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(375.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<g transform="translate(408.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<line x1="1128.0" y1="318.0" x2="1128.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1128.0" y1="300.0" x2="1101.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(975.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<line x1="978.0" y1="318.0" x2="978.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="978.0" y1="300.0" x2="1086.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="1086.0" cy="300.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1101.0" cy="300.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="945.0" y1="318.0" x2="945.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="945.0" y1="300.0" x2="918.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="918.0" cy="300.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="765.0" y1="318.0" x2="765.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="765.0" y1="300.0" x2="738.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(612.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<line x1="615.0" y1="318.0" x2="615.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="615.0" y1="300.0" x2="723.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="723.0" cy="300.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="738.0" cy="300.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="582.0" y1="318.0" x2="582.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="582.0" y1="300.0" x2="555.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="555.0" cy="300.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(144.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(162.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<g transform="translate(204.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(189.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<g transform="translate(222.0,321.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<line x1="207.0" y1="318.0" x2="207.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="207.0" y1="300.0" x2="366.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="225.0" y1="318.0" x2="225.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="225.0" cy="300.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="366.0" cy="300.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="201.0" y1="177.0" x2="186.0" y2="186.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="231.0" y1="171.0" x2="201.0" y2="171.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="201.0" y1="156.0" x2="201.0" y2="186.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="186.0" y1="156.0" x2="186.0" y2="141.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="201.0" y1="165.0" x2="186.0" y2="156.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="186.0" y1="186.0" x2="186.0" y2="201.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="195.0" cy="171.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="192.0,186.0 189.0,180.0 186.0,186.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="132.0" y1="219.0" x2="117.0" y2="228.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="213.0" x2="132.0" y2="213.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="198.0" x2="132.0" y2="228.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="117.0" y1="198.0" x2="117.0" y2="183.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="207.0" x2="117.0" y2="198.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="117.0" y1="228.0" x2="117.0" y2="243.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="126.0" cy="213.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="123.0,228.0 120.0,222.0 117.0,228.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="186.0" y1="141.0" x2="165.0" y2="141.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="165.0" y1="141.0" x2="165.0" y2="111.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="150.0" y1="111.0" x2="150.0" y2="141.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="150.0" y1="141.0" x2="117.0" y2="141.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="117.0" y1="183.0" x2="117.0" y2="141.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="318.0" x2="147.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="300.0" x2="165.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="165.0" y1="300.0" x2="165.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="165.0" y1="300.0" x2="165.0" y2="213.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="165.0" y1="213.0" x2="153.0" y2="213.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="165.0" cy="300.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="117.0" y1="243.0" x2="186.0" y2="243.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="186.0" y1="201.0" x2="186.0" y2="243.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="186.0" y1="204.0" x2="264.0" y2="204.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="264.0" y1="249.0" x2="264.0" y2="204.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="270.0" y1="234.0" x2="258.0" y2="234.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="270.0,222.0 258.0,222.0 264.0,234.0 " style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<g transform="translate(273.0,246.0) rotate(-180.0)  scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">+</text>
+</g>
+<line x1="264.0" y1="249.0" x2="264.0" y2="264.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="258.0" y1="264.0" x2="255.0" y2="267.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="264.0" y1="264.0" x2="261.0" y2="267.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="270.0" y1="264.0" x2="267.0" y2="267.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="258.0" y1="264.0" x2="270.0" y2="264.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="231.0" y1="171.0" x2="231.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="231.0" y1="255.0" x2="192.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="255.0" x2="192.0" y2="318.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="186.0" cy="204.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="108.0" y1="258.0" x2="102.0" y2="258.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="84.0" y="255.0" rx="0" ry="0" width="18.0" height="6.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="84.0" y1="258.0" x2="78.0" y2="258.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="108.0" y1="282.0" x2="102.0" y2="282.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="84.0" y="279.0" rx="0" ry="0" width="18.0" height="6.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="84.0" y1="282.0" x2="78.0" y2="282.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="108.0" y1="258.0" x2="192.0" y2="258.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="108.0" y1="282.0" x2="165.0" y2="282.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="192.0" cy="258.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="165.0" cy="282.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="78.0" y1="258.0" x2="57.0" y2="258.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="258.0" x2="57.0" y2="474.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="78.0" y1="282.0" x2="57.0" y2="282.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="57.0" cy="282.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(129.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<g transform="translate(147.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(186.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(174.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(255.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(264.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<line x1="132.0" y1="363.0" x2="132.0" y2="378.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="126.0" y1="378.0" x2="123.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="378.0" x2="129.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="138.0" y1="378.0" x2="135.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="126.0" y1="378.0" x2="138.0" y2="378.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="363.0" x2="147.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="186.0" y1="363.0" x2="186.0" y2="375.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="186.0" y1="375.0" x2="177.0" y2="375.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="177.0" y1="363.0" x2="177.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="258.0" y1="363.0" x2="258.0" y2="378.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="258.0" y1="378.0" x2="270.0" y2="378.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="270.0" y1="378.0" x2="270.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="177.0" cy="375.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(135.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(147.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(159.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(174.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(192.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<g transform="translate(240.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(255.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<line x1="135.0" y1="504.0" x2="135.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="519.0" x2="126.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="519.0" x2="132.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="141.0" y1="519.0" x2="138.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="129.0" y1="519.0" x2="141.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="504.0" x2="57.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="51.0" y1="519.0" x2="48.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="519.0" x2="54.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="63.0" y1="519.0" x2="60.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="51.0" y1="519.0" x2="63.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="474.0" x2="57.0" y2="486.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="51.0" y1="492.0" x2="63.0" y2="492.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="57.0" y1="492.0" x2="57.0" y2="504.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="63.0" y1="477.0" x2="63.0" y2="483.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="60.0" y1="480.0" x2="66.0" y2="480.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="51.0" y="486.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="459.0" x2="135.0" y2="417.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="135.0" y1="417.0" x2="99.0" y2="417.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="417.0" x2="99.0" y2="294.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="294.0" x2="192.0" y2="294.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="192.0" cy="294.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="147.0" y1="459.0" x2="147.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="444.0" x2="177.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="177.0" y1="444.0" x2="177.0" y2="459.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="459.0" x2="162.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="162.0" cy="444.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="177.0" cy="444.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="57.0" y1="429.0" x2="1056.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="195.0" y1="459.0" x2="195.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="195.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="147.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="57.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(318.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(336.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(348.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(357.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<g transform="translate(375.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(393.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<line x1="321.0" y1="363.0" x2="321.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="336.0" y1="363.0" x2="336.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="336.0" y1="381.0" x2="363.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="381.0" x2="363.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="348.0" y1="363.0" x2="348.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="348.0" y1="381.0" x2="348.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="396.0" x2="339.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="348.0" y1="396.0" x2="345.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="354.0" y1="396.0" x2="351.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="396.0" x2="354.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="375.0" y1="363.0" x2="375.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="396.0" y1="363.0" x2="396.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="396.0" y1="381.0" x2="375.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="348.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="375.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="258.0" y1="459.0" x2="258.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="258.0" y1="444.0" x2="375.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="459.0" x2="240.0" y2="402.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="240.0" y1="402.0" x2="291.0" y2="402.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="291.0" y1="402.0" x2="291.0" y2="285.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="291.0" y1="285.0" x2="330.0" y2="285.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="330.0" cy="285.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="381.0" cy="300.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="408.0" y1="318.0" x2="408.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="300.0" x2="381.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(417.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<g transform="translate(498.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(516.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(528.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(537.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<g transform="translate(588.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(606.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<line x1="501.0" y1="363.0" x2="501.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="516.0" y1="363.0" x2="516.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="516.0" y1="381.0" x2="543.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="543.0" y1="381.0" x2="543.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="528.0" y1="363.0" x2="528.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="528.0" y1="381.0" x2="528.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="522.0" y1="396.0" x2="519.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="528.0" y1="396.0" x2="525.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="534.0" y1="396.0" x2="531.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="522.0" y1="396.0" x2="534.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="588.0" y1="363.0" x2="588.0" y2="459.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="363.0" x2="609.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="609.0" y1="381.0" x2="588.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="528.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="588.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="501.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="321.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(504.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(516.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(528.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">8</text>
+</g>
+<g transform="translate(543.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">12</text>
+</g>
+<g transform="translate(555.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">13</text>
+</g>
+<g transform="translate(570.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<g transform="translate(585.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(597.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<g transform="translate(609.0,462.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">9</text>
+</g>
+<line x1="519.0" y1="459.0" x2="519.0" y2="438.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="519.0" y1="438.0" x2="486.0" y2="438.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="486.0" y1="438.0" x2="486.0" y2="303.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="486.0" y1="303.0" x2="522.0" y2="303.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="507.0" y1="459.0" x2="507.0" y2="447.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="507.0" y1="447.0" x2="471.0" y2="447.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="471.0" y1="447.0" x2="471.0" y2="294.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="471.0" y1="294.0" x2="504.0" y2="294.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="504.0" cy="294.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="522.0" cy="303.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(369.0,189.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC1</text>
+</g>
+<g transform="translate(372.0,198.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7441</text>
+</g>
+<g transform="translate(549.0,189.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC2</text>
+</g>
+<g transform="translate(552.0,198.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7441</text>
+</g>
+<g transform="translate(180.0,336.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC6</text>
+</g>
+<g transform="translate(183.0,345.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7473</text>
+</g>
+<g transform="translate(366.0,336.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC7</text>
+</g>
+<g transform="translate(369.0,345.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7490</text>
+</g>
+<g transform="translate(549.0,336.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC8</text>
+</g>
+<g transform="translate(552.0,345.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7490</text>
+</g>
+<g transform="translate(735.0,189.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC3</text>
+</g>
+<g transform="translate(738.0,198.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7441</text>
+</g>
+<g transform="translate(735.0,336.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC9</text>
+</g>
+<g transform="translate(738.0,345.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7490</text>
+</g>
+<g transform="translate(912.0,189.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC4</text>
+</g>
+<g transform="translate(915.0,198.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7441</text>
+</g>
+<g transform="translate(912.0,336.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC10</text>
+</g>
+<g transform="translate(915.0,345.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7490</text>
+</g>
+<g transform="translate(1101.0,189.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC5</text>
+</g>
+<g transform="translate(1104.0,198.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7441</text>
+</g>
+<g transform="translate(1101.0,336.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC11</text>
+</g>
+<g transform="translate(1104.0,345.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7490</text>
+</g>
+<g transform="translate(186.0,474.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC12</text>
+</g>
+<g transform="translate(189.0,483.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7400</text>
+</g>
+<g transform="translate(552.0,474.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">IC13</text>
+</g>
+<g transform="translate(555.0,483.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">7400</text>
+</g>
+<g transform="translate(135.0,495.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<line x1="531.0" y1="459.0" x2="531.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="531.0" y1="444.0" x2="561.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="561.0" y1="444.0" x2="561.0" y2="459.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="612.0" y1="459.0" x2="612.0" y2="447.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="546.0" cy="444.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="561.0" y1="444.0" x2="561.0" y2="390.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="561.0" y1="390.0" x2="687.0" y2="390.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="573.0" y1="459.0" x2="573.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="573.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="600.0" y1="459.0" x2="600.0" y2="435.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="600.0" y1="435.0" x2="831.0" y2="435.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="612.0" y1="447.0" x2="846.0" y2="447.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(687.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<g transform="translate(750.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(720.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(732.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(765.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(780.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(795.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<line x1="723.0" y1="363.0" x2="723.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="723.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="735.0" y1="363.0" x2="735.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="735.0" y1="381.0" x2="798.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="798.0" y1="381.0" x2="798.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="780.0" y1="363.0" x2="780.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="768.0" y1="363.0" x2="768.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="753.0" y1="363.0" x2="753.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="768.0" y1="381.0" x2="768.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="762.0" y1="396.0" x2="759.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="768.0" y1="396.0" x2="765.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="774.0" y1="396.0" x2="771.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="762.0" y1="396.0" x2="774.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="768.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="753.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="780.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(924.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(888.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(900.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(939.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(954.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(969.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<line x1="927.0" y1="603.0" x2="927.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="927.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="927.0" cy="603.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="903.0" y1="363.0" x2="903.0" y2="375.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="903.0" y1="375.0" x2="891.0" y2="375.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="891.0" y1="363.0" x2="891.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="891.0" cy="375.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="939.0" y1="363.0" x2="939.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="939.0" y1="381.0" x2="975.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="975.0" y1="381.0" x2="975.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="957.0" y1="363.0" x2="957.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="957.0" y1="381.0" x2="957.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="951.0" y1="396.0" x2="948.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="957.0" y1="396.0" x2="954.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="963.0" y1="396.0" x2="960.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="951.0" y1="396.0" x2="963.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="957.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(1083.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+<g transform="translate(1053.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(1065.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(1098.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(1113.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(1128.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">10</text>
+</g>
+<line x1="1056.0" y1="363.0" x2="1056.0" y2="429.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="1056.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="1068.0" y1="363.0" x2="1068.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1068.0" y1="381.0" x2="1131.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1131.0" y1="381.0" x2="1131.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1113.0" y1="363.0" x2="1113.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="363.0" x2="1101.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1086.0" y1="363.0" x2="1086.0" y2="381.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="381.0" x2="1101.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1095.0" y1="396.0" x2="1092.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1101.0" y1="396.0" x2="1098.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="396.0" x2="1104.0" y2="399.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1095.0" y1="396.0" x2="1107.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="1101.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1086.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="1113.0" cy="381.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="426.0" y1="459.0" x2="426.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(510.0,495.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">1</text>
+</g>
+<g transform="translate(522.0,495.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(531.0,495.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">6</text>
+</g>
+<g transform="translate(582.0,495.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">7</text>
+</g>
+<g transform="translate(600.0,495.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">11</text>
+</g>
+<line x1="510.0" y1="504.0" x2="510.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="453.0" y1="522.0" x2="534.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="534.0" y1="522.0" x2="534.0" y2="504.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="522.0" y1="504.0" x2="522.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="522.0" cy="522.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="510.0" cy="522.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="453.0" y1="522.0" x2="453.0" y2="456.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="453.0" y1="456.0" x2="426.0" y2="456.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="426.0" cy="456.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="582.0" y1="504.0" x2="582.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="576.0" y1="519.0" x2="573.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="582.0" y1="519.0" x2="579.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="588.0" y1="519.0" x2="585.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="576.0" y1="519.0" x2="588.0" y2="519.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="411.0" y1="489.0" x2="396.0" y2="489.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="396.0" y1="489.0" x2="396.0" y2="558.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="396.0" y1="558.0" x2="669.0" y2="558.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="669.0" y1="558.0" x2="1194.0" y2="558.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="603.0" y1="504.0" x2="603.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="603.0" y1="522.0" x2="891.0" y2="522.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="363.0" x2="690.0" y2="456.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="705.0" y1="486.0" x2="717.0" y2="486.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="717.0" y1="486.0" x2="717.0" y2="558.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="717.0" cy="558.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="831.0" y1="435.0" x2="831.0" y2="294.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="831.0" y1="294.0" x2="885.0" y2="294.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="846.0" y1="447.0" x2="846.0" y2="309.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="846.0" y1="309.0" x2="867.0" y2="309.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="885.0" cy="294.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="867.0" cy="309.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(1164.0,354.0) scale(0.5757575757575757,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">14</text>
+</g>
+<line x1="1167.0" y1="459.0" x2="1167.0" y2="363.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1182.0" y1="486.0" x2="1194.0" y2="486.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1194.0" y1="486.0" x2="1194.0" y2="558.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1170.0" y1="639.0" x2="1170.0" y2="558.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="1170.0" cy="558.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="546.0" y1="447.0" x2="546.0" y2="459.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="561.0" cy="444.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="204.0" y1="18.0" x2="204.0" y2="24.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="201.0" y="24.0" rx="0" ry="0" width="6.0" height="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="204.0" y1="42.0" x2="204.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="18.0" x2="387.0" y2="24.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="384.0" y="24.0" rx="0" ry="0" width="6.0" height="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="42.0" x2="387.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="564.0" y1="18.0" x2="564.0" y2="24.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="561.0" y="24.0" rx="0" ry="0" width="6.0" height="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="564.0" y1="42.0" x2="564.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="747.0" y1="18.0" x2="747.0" y2="24.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="744.0" y="24.0" rx="0" ry="0" width="6.0" height="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="747.0" y1="42.0" x2="747.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="924.0" y1="18.0" x2="924.0" y2="24.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="921.0" y="24.0" rx="0" ry="0" width="6.0" height="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="924.0" y1="42.0" x2="924.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="18.0" x2="1107.0" y2="24.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="1104.0" y="24.0" rx="0" ry="0" width="6.0" height="18.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="42.0" x2="1107.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="18.0" x2="1107.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1107.0" y1="9.0" x2="972.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="972.0" y1="9.0" x2="480.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="480.0" y1="9.0" x2="9.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="204.0" y1="18.0" x2="204.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="18.0" x2="387.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="564.0" y1="18.0" x2="564.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="747.0" y1="18.0" x2="747.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="924.0" y1="18.0" x2="924.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="366.0" y1="630.0" x2="366.0" y2="579.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="366.0" y1="579.0" x2="153.0" y2="579.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="153.0" y1="579.0" x2="9.0" y2="579.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="9.0" y1="9.0" x2="9.0" y2="579.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="420.0,489.0 414.0,492.0 414.0,486.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="411.0" y1="489.0" x2="414.0" y2="489.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="420.0" y="474.0" rx="0" ry="0" width="12.0" height="30.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="426.0" y1="459.0" x2="426.0" y2="474.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="696.0,486.0 702.0,483.0 702.0,489.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="705.0" y1="486.0" x2="702.0" y2="486.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="684.0" y="471.0" rx="0" ry="0" width="12.0" height="30.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="690.0" y1="471.0" x2="690.0" y2="456.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<polygon points="1173.0,486.0 1179.0,483.0 1179.0,489.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="#000000"/>
+<line x1="1182.0" y1="486.0" x2="1179.0" y2="486.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<rect x="1161.0" y="471.0" rx="0" ry="0" width="12.0" height="30.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1167.0" y1="471.0" x2="1167.0" y2="456.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(210.0,27.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R1</text>
+</g>
+<g transform="translate(210.0,39.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">33K</text>
+</g>
+<g transform="translate(393.0,24.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R5</text>
+</g>
+<g transform="translate(393.0,36.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">33K</text>
+</g>
+<g transform="translate(573.0,24.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R10</text>
+</g>
+<g transform="translate(573.0,36.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">33K</text>
+</g>
+<g transform="translate(756.0,21.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R15</text>
+</g>
+<g transform="translate(756.0,33.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">33K</text>
+</g>
+<g transform="translate(939.0,24.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R20</text>
+</g>
+<g transform="translate(939.0,36.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">33K</text>
+</g>
+<g transform="translate(1116.0,24.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R25</text>
+</g>
+<g transform="translate(1116.0,36.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">33K</text>
+</g>
+<g transform="translate(1098.0,72.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">V6</text>
+</g>
+<g transform="translate(1098.0,84.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">ZM1336K</text>
+</g>
+<g transform="translate(915.0,75.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">V5</text>
+</g>
+<g transform="translate(915.0,87.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">ZM1336K</text>
+</g>
+<g transform="translate(741.0,75.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">V4</text>
+</g>
+<g transform="translate(741.0,87.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">ZM1336K</text>
+</g>
+<g transform="translate(552.0,75.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">V3</text>
+</g>
+<g transform="translate(552.0,87.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">ZM1336K</text>
+</g>
+<g transform="translate(381.0,75.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">V2</text>
+</g>
+<g transform="translate(381.0,87.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">ZM1336K</text>
+</g>
+<g transform="translate(198.0,78.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">V1</text>
+</g>
+<g transform="translate(198.0,90.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">ZM1336K</text>
+</g>
+<line x1="414.0" y1="216.0" x2="414.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="414.0" y1="255.0" x2="1134.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="1134.0" y1="255.0" x2="1134.0" y2="216.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="951.0" y1="216.0" x2="951.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="771.0" y1="216.0" x2="771.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<line x1="585.0" y1="216.0" x2="585.0" y2="255.0" style="stroke:#000000;stroke-width:1.5;fill-rule: evenodd;" fill="none"/>
+<circle cx="585.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="771.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="951.0" cy="255.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(84.0,195.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">Tr1</text>
+</g>
+<g transform="translate(84.0,207.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">BSF99</text>
+</g>
+<g transform="translate(219.0,144.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">Tr2</text>
+</g>
+<g transform="translate(219.0,156.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">BSF99</text>
+</g>
+<g transform="translate(63.0,246.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R30</text>
+</g>
+<g transform="translate(105.0,249.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">3,3K</text>
+</g>
+<g transform="translate(63.0,270.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">R35</text>
+</g>
+<g transform="translate(105.0,273.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">3,3K</text>
+</g>
+<g transform="translate(279.0,210.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">D1</text>
+</g>
+<g transform="translate(279.0,222.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1N914</text>
+</g>
+<g transform="translate(72.0,474.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">C1</text>
+</g>
+<g transform="translate(72.0,483.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">0,33μF</text>
+</g>
+<g transform="translate(72.0,489.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">35Vn</text>
+</g>
+<g transform="translate(384.0,468.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">P1</text>
+</g>
+<g transform="translate(384.0,480.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">470Ω</text>
+</g>
+<g transform="translate(711.0,468.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">P2</text>
+</g>
+<g transform="translate(711.0,480.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">470Ω</text>
+</g>
+<g transform="translate(1143.0,471.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="Courier New" font-size="9.0" font-style="" font-weigth="" fill="#000000">P3</text>
+</g>
+<g transform="translate(1143.0,483.0) scale(0.8636363636363635,1) "><text x="0.0" y="6.0" font-family="Courier New" font-size="6.0" font-style="" font-weigth="" fill="#000000">1K</text>
+</g>
+</svg>

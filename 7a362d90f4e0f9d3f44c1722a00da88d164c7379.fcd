@@ -1,0 +1,77 @@
+[FIDOCAD]
+FJC B 0.5
+RV 31 11 163 80 0
+MC 22 24 0 0 ey_libraries.refpnt1
+MC 22 68 0 0 ey_libraries.refpnt1
+LI 25 24 31 24 0
+LI 27 68 31 68 0
+MC 173 68 0 1 ey_libraries.refpnt1
+LI 168 24 163 24 0
+LI 168 68 163 68 0
+MC 173 24 0 1 ey_libraries.refpnt1
+TY 8 42 5 4 0 1 0 * Ainp
+TY 169 41 5 4 0 1 0 * Aout
+MC 123 112 0 0 ey_libraries.pasres7
+MC 60 112 1 1 ey_libraries.genidc0
+SA 117 89 0
+SA 80 89 0
+LI 80 89 80 80 0
+LI 117 88 117 80 0
+TY 5 201 5 4 0 1 0 * calcolare le impedenze
+TY 4 152 5 4 0 1 0 * togliere Zee,
+TY 120 118 5 4 0 1 0 * Zee
+LI 43 129 80 129 0
+FCJ 1 0 3 2 0 0
+TY 56 129 5 4 0 1 0 * En/d
+TY 56 117 5 4 0 1 0 * Jn/d
+TY 140 197 5 4 0 1 0 * oppure
+TY 5 169 5 4 0 1 0 * collegare un GIC Jn/d;
+TY 120 83 5 4 0 1 0 * E
+TY 5 161 5 4 0 1 0 * ai capi EE
+TY 125 135 5 4 0 1 0 * sostituire Zee:
+TY 73 83 5 4 0 1 0 * E
+TY 5 177 5 4 0 1 0 * ai suoi capi si rivela
+TY 5 185 5 4 0 1 0 * una tensione En/d
+TY 5 209 5 4 0 1 0 * che verificano le
+TY 5 217 5 4 0 1 0 * condizioni riportate:
+TY 93 38 10 8 0 1 0 * A
+LI 80 89 44 112 2
+LI 80 89 44 112 2
+TY 117 157 5 4 0 1 2 * A)
+LI 55 112 44 112 2
+LI 117 89 81 112 2
+LI 81 112 70 112 2
+TY 117 213 5 4 0 1 2 * B)
+TY 10 107 5 4 0 1 2 * 1º step
+LI 144 112 117 89 3
+TY 148 108 5 4 0 1 3 * 2º step
+LI 80 89 107 112 3
+LI 41 235 41 248 3
+LI 118 112 107 112 3
+LI 144 112 133 112 3
+TY 5 237 5 4 0 1 3 * Zn=
+TY 25 242 5 4 0 1 3 * Jn
+TY 25 233 5 4 0 1 3 * En
+TY 43 242 5 4 0 1 3 * Aout→0
+LI 39 241 19 241 3
+TY 43 272 5 4 0 1 9 * Ainp=0
+LI 39 271 19 271 9
+TY 25 272 5 4 0 1 9 * Jd
+TY 5 267 5 4 0 1 9 * Zd=
+LI 41 265 41 278 9
+TY 25 263 5 4 0 1 9 * Ed
+TY 126 221 5 4 0 1 11 * calcolare:
+TY 125 213 5 4 0 1 11 * con corto circuito e
+LI 145 175 145 188 11
+TY 125 157 5 4 0 1 11 * con circuito aperto e
+TY 126 183 5 4 0 1 11 * Ainp
+TY 126 174 5 4 0 1 11 * Aout
+TY 127 239 5 4 0 1 11 * Ainp
+LI 144 238 124 238 11
+TY 148 238 5 4 0 1 11 * Zee→0 Ω
+LI 143 182 124 182 11
+TY 147 182 5 4 0 1 11 * Zee→∞ Ω
+TY 125 165 5 4 0 1 11 * calcolare:
+LI 146 231 146 244 11
+TY 1 0 4 3 0 1 11 * Figura B.1 - Applicazione EET
+TY 127 230 5 4 0 1 11 * Aout

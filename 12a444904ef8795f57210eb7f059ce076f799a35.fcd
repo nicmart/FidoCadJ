@@ -1,0 +1,79 @@
+[FIDOCAD]
+FJC C 1.5
+FJC A 0.35
+MC 170 161 1 0 080
+FCJ
+TY 179 163 2 2 0 0 0 Times++New++Roman B
+TY 165 171 2 2 0 0 0 Times++New++Roman 
+LI 147 190 168 190 0
+FCJ 0 0 3 1 3 0
+MC 43 148 0 0 480
+FCJ
+TY 53 158 2 2 0 0 0 Times++New++Roman E
+TY 53 153 2 2 0 0 0 Times++New++Roman 
+LI 43 148 43 130 0
+LI 147 141 170 141 0
+FCJ 0 0 3 1 3 0
+LI 152 142 152 189 0
+FCJ 1 0 3 1 0 1
+TY 147 165 2 2 0 0 0 Times++New++Roman ST
+TY 157 184 2 2 0 0 0 Times++New++Roman 
+LI 43 130 99 130 0
+FCJ 2 0 3 1 0 1
+TY 90 125 2 2 0 0 0 Times++New++Roman F
+TY 48 140 2 2 0 0 0 Times++New++Roman 
+LI 43 188 43 178 0
+MC 43 168 1 0 080
+FCJ
+TY 53 176 2 2 0 0 0 Times++New++Roman N
+TY 53 173 2 2 0 0 0 Times++New++Roman 
+TY 48 173 4 3 0 0 0 Times++New++Roman R
+LI 170 178 170 170 0
+MC 43 188 0 0 040
+EV 102 158 113 169 0
+MC 108 177 1 0 080
+FCJ
+TY 116 184 2 2 0 0 0 Times++New++Roman E
+TY 103 187 2 2 0 0 0 Times++New++Roman 
+MC 170 178 1 0 080
+FCJ
+TY 179 182 2 2 0 0 0 Times++New++Roman EB
+TY 165 188 2 2 0 0 0 Times++New++Roman 
+MC 170 188 0 0 040
+LI 170 161 170 152 0
+LI 99 136 99 130 0
+MC 108 187 0 0 040
+LI 115 130 170 130 0
+LI 170 153 170 130 0
+FCJ 1 0 3 1 0 1
+TY 175 148 2 2 0 0 0 Times++New++Roman B
+TY 175 153 2 2 0 0 0 Times++New++Roman 
+LI 115 145 115 130 0
+LI 131 147 131 190 0
+FCJ 1 0 3 1 0 1
+TY 136 165 2 2 0 0 0 Times++New++Roman E
+TY 136 190 2 2 0 0 0 Times++New++Roman 
+LI 120 145 135 145 0
+FCJ 0 0 3 1 3 0
+LI 112 192 133 192 0
+FCJ 0 0 3 1 3 0
+MC 99 135 1 0 080
+FCJ
+TY 92 137 2 2 0 0 0 Times++New++Roman F
+TY 109 140 2 2 0 0 0 Times++New++Roman 
+TY 88 135 4 3 0 0 0 Times++New++Roman R
+TY 111 180 4 3 0 0 0 Times++New++Roman R
+TY 132 162 4 3 0 0 0 Times++New++Roman U
+TY 143 162 4 3 0 0 0 Times++New++Roman U
+LI 156 175 170 176 0
+FCJ 0 0 3 1 3 0
+LI 162 142 162 174 0
+FCJ 1 0 3 1 0 1
+TY 159 164 2 2 0 0 0 Times++New++Roman T
+TY 167 183 2 2 0 0 0 Times++New++Roman 
+TY 155 161 4 3 0 0 0 Times++New++Roman U
+TY 174 159 4 3 0 0 0 Times++New++Roman R
+TY 175 179 4 3 0 0 0 Times++New++Roman R
+TY 172 144 4 3 0 0 0 Times++New++Roman I
+TY 88 122 4 3 0 0 0 Times++New++Roman I
+RV 94 145 121 177 11

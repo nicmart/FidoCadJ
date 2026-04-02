@@ -1,0 +1,64 @@
+[FIDOCAD]
+FJC C 2.5
+FJC L 0 -26215 1.0
+FJC L 1 -16777216 1.0
+FJC L 6 -1 1.0
+FJC L 7 -16777216 1.0
+FJC L 8 -1 1.0
+FJC L 11 -1 1.0
+FJC L 12 -1 0.95
+FJC B 0.5
+EP 38 75 61 98 0
+EP 38 75 61 98 0
+EP 38 75 61 98 0
+TY 67 62 4 3 0 0 1 Times++New++Roman Già, prima lo avevo dimenticato...non sono nemmeno autorevole!
+EV 38 75 61 98 1
+EV 38 75 61 98 1
+TY 67 68 4 3 0 0 1 Times++New++Roman L'unico metodo efficace che avevo per insegnare qualcosa ai miei studenti
+TY 67 74 4 3 0 0 1 Times++New++Roman era di prenderli a calci nel sedere se non sapevano quello che non ero riuscito ad insegnare.
+TY 67 92 4 3 0 0 1 Times++New++Roman con la sua universalmente riconosciuta autorevolezza, 
+TY 67 80 4 3 0 0 1 Times++New++Roman Un metodo che ho, ahime', abbandonato quando sono andato in pensione.
+TY 67 86 4 3 0 0 1 Times++New++Roman Così ora nessuno mi...anzi c'è perfino chi, in casa mia,
+TY 68 98 4 3 0 0 1 Times++New++Roman mi...beh, lasciamo stare: è quello che mi merito in fondo.
+TY 68 110 4 3 0 0 1 Times++New++Roman che metta in risalto l'utorevolezza di chi la possiede.
+EV 38 75 61 98 1
+TY 68 104 4 3 0 0 1 Times++New++Roman L'unica speranza che mi rimane è di essere un bell'esempio negativo
+EP 51 80 55 86 6
+EP 51 80 55 86 6
+EP 51 80 55 86 6
+EP 44 80 48 86 6
+EP 44 80 48 86 6
+EP 44 80 48 86 6
+EP 45 83 48 86 7
+EV 44 80 48 86 7
+EP 45 83 48 86 7
+EP 51 83 54 86 7
+EV 51 80 55 86 7
+EV 44 80 48 86 7
+EP 51 83 54 86 7
+EV 44 80 48 86 7
+EP 45 83 48 86 7
+EV 51 80 55 86 7
+EV 51 80 55 86 7
+EP 51 83 54 86 7
+EP 53 83 52 84 8
+EP 46 83 47 84 8
+EP 46 83 47 84 8
+EP 46 83 47 84 8
+EP 53 83 52 84 8
+EP 53 83 52 84 8
+BE 45 91 49 88 51 87 56 91 15
+LI 44 91 46 92 15
+LI 57 91 55 92 15
+CP 1 43 83 45 80 47 79 47 80 47 80 46 81 45 81 44 82 15
+CP 1 56 83 55 81 52 79 51 82 52 81 53 80 54 81 55 82 15
+LI 57 91 55 92 15
+CP 1 43 83 45 80 47 79 47 80 47 80 46 81 45 81 44 82 15
+CP 1 56 83 55 81 52 79 51 82 52 81 53 80 54 81 55 82 15
+BE 45 91 49 88 51 87 56 91 15
+LI 44 91 46 92 15
+BE 45 91 49 88 51 87 56 91 15
+LI 44 91 46 92 15
+LI 57 91 55 92 15
+CP 1 43 83 45 80 47 79 47 80 47 80 46 81 45 81 44 82 15
+CP 1 56 83 55 81 52 79 51 82 52 81 53 80 54 81 55 82 15

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="531.0" height="549.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<line x1="234.0" y1="510.0" x2="234.0" y2="60.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<polygon points="210.0,411.0 216.37,419.74 204.38,420.24" style="stroke:#000000;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="#000000"/>
+<path d="M 258.0,534.0 C 132.0,507.0 213.0,483.0 210.0,420.0" style="stroke:#000000;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="232.5" cy="367.5" rx="82.5" ry="82.5" style="stroke:#ff0000;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(24.0,30.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="" fill="#ff0000">Circonferenza ausiliaria</text>
+</g>
+<g transform="translate(261.0,525.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="" fill="#008000">Carico</text>
+</g>
+<circle cx="210.0" cy="405.0" r="1.95" style="stroke:#008000;stroke-width:0.33" fill="#008000"/>
+<ellipse cx="151.5" cy="285.0" rx="82.5" ry="81.0" style="stroke:#0180ff;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(24.0,9.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Courier New" font-size="12.0" font-style="" font-weigth="" fill="#0180ff">Circonferenza a conduttanza normalizzata unitaria</text>
+</g>
+<ellipse cx="144.0" cy="285.0" rx="75.0" ry="75.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 393.0,330.0 C 291.0,303.0 195.0,288.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 81.0,228.0 C 111.0,240.0 99.0,288.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 72.0,315.0 C 93.0,306.0 84.0,285.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 108.0,390.0 C 162.0,336.0 102.0,279.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 369.0,378.0 C 294.0,330.0 210.0,291.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 288.0,441.0 C 279.0,405.0 219.0,300.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 336.0,414.0 C 294.0,366.0 213.0,294.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 144.0,147.0 C 186.0,216.0 132.0,285.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 288.0,129.0 C 279.0,165.0 219.0,270.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 183.0,129.0 C 210.0,225.0 129.0,288.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 72.0,255.0 C 93.0,264.0 84.0,285.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="219.0" cy="285.0" rx="150.0" ry="150.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="114.0" cy="285.0" rx="45.0" ry="45.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="159.0" cy="285.0" rx="90.0" ry="90.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="189.0" cy="285.0" rx="120.0" ry="120.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="99.0" cy="285.0" rx="30.0" ry="30.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="204.0" cy="285.0" rx="135.0" ry="135.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 108.0,180.0 C 162.0,234.0 102.0,291.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 369.0,192.0 C 294.0,240.0 210.0,279.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 183.0,441.0 C 210.0,345.0 129.0,282.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 81.0,342.0 C 111.0,330.0 99.0,282.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 144.0,423.0 C 186.0,354.0 132.0,285.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 393.0,240.0 C 291.0,267.0 195.0,282.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="129.0" cy="285.0" rx="60.0" ry="60.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="174.0" cy="285.0" rx="105.0" ry="105.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="84.0" cy="285.0" rx="15.0" ry="15.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 336.0,156.0 C 294.0,204.0 213.0,276.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 234.0,120.0 C 231.0,168.0 207.0,270.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 93.0,201.0 C 138.0,237.0 99.0,291.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 234.0,450.0 C 231.0,402.0 207.0,300.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<path d="M 93.0,369.0 C 138.0,333.0 99.0,279.0 69.0,285.0" style="stroke:#a2a2a2;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(57.0,279.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="FreeSans" font-size="9.0" font-style="" font-weigth="" fill="#000000">0</text>
+</g>
+<g transform="translate(396.0,333.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="FreeSans" font-size="9.0" font-style="" font-weigth="" fill="#000000">+j0.2</text>
+</g>
+<g transform="translate(129.0,432.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">+j2</text>
+</g>
+<line x1="9.0" y1="285.0" x2="459.0" y2="285.0" style="stroke:#000000;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<circle cx="234.0" cy="285.0" r="1.95" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<ellipse cx="234.0" cy="285.0" rx="165.0" ry="165.0" style="stroke:#000000;stroke-width:0.6000000000000001;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(57.0,345.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">+j5</text>
+</g>
+<g transform="translate(171.0,273.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">2</text>
+</g>
+<g transform="translate(303.0,273.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">0.4</text>
+</g>
+<g transform="translate(117.0,273.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">4</text>
+</g>
+<g transform="translate(93.0,273.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">5</text>
+</g>
+<g transform="translate(273.0,273.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">0.5</text>
+</g>
+<g transform="translate(360.0,273.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">0.2</text>
+</g>
+<g transform="translate(330.0,273.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">0.3</text>
+</g>
+<g transform="translate(123.0,135.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">-j2</text>
+</g>
+<g transform="translate(240.0,459.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">+j1</text>
+</g>
+<g transform="translate(333.0,135.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">-j0.5</text>
+</g>
+<g transform="translate(237.0,99.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">-j1</text>
+</g>
+<g transform="translate(396.0,225.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family="FreeSans" font-size="9.0" font-style="" font-weigth="" fill="#000000">-j0.2</text>
+</g>
+<g transform="translate(333.0,426.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">+j0.5</text>
+</g>
+<g transform="translate(60.0,219.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">-j5</text>
+</g>
+<g transform="translate(138.0,273.0) scale(1.1515151515151514,1) "><text x="0.0" y="9.0" font-family=".SF NS Text" font-size="9.0" font-style="" font-weigth="" fill="#000000">3</text>
+</g>
+</svg>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="576.0" height="690.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<line x1="24.0" y1="540.0" x2="84.0" y2="570.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(21.0,546.0) rotate(27.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">RTN. Loss (db)</text>
+</g>
+<g transform="translate(477.0,609.0) rotate(-28.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">TRANS. COEFF P</text>
+</g>
+<g transform="translate(318.0,546.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">← toward generator</text>
+</g>
+<polygon points="282.0,630.0 285.0,636.0 279.0,636.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<g transform="translate(264.0,639.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">center</text>
+</g>
+<g transform="translate(480.0,579.0) rotate(-28.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">RFL. LOSS [dB]</text>
+</g>
+<g transform="translate(18.0,576.0) rotate(27.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">RFL.COEFF P.</text>
+</g>
+<g transform="translate(471.0,552.0) rotate(-28.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">ATT [dB]</text>
+</g>
+<ellipse cx="273.0" cy="312.0" rx="213.0" ry="210.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="24.0" y1="600.0" x2="84.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="84.0" y1="570.0" x2="474.0" y2="570.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="84.0" y1="660.0" x2="474.0" y2="660.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="474.0" y1="600.0" x2="534.0" y2="570.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="282.0" cy="315.0" rx="150.0" ry="150.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="282.0" cy="480.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<ellipse cx="277.5" cy="313.5" rx="178.5" ry="178.5" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="84.0" y1="630.0" x2="474.0" y2="630.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="24.0" y1="570.0" x2="84.0" y2="600.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="132.0,660.0 135.0,666.0 129.0,666.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="474.0" y1="630.0" x2="534.0" y2="600.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(54.0,534.0) rotate(27.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">SWR</text>
+</g>
+<g transform="translate(120.0,669.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">origin</text>
+</g>
+<line x1="474.0" y1="570.0" x2="534.0" y2="540.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(318.0,531.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">toward load →</text>
+</g>
+<line x1="84.0" y1="600.0" x2="474.0" y2="600.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="315.0" x2="132.0" y2="555.0" style="stroke:#000000;stroke-dasharray: 3.0,7.5,7.5,7.5;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="276.0" cy="312.0" rx="195.0" ry="195.0" style="stroke:#a2a2a2;stroke-dasharray: 3.0,7.5;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 315.0,315.0 330.0,456.0 330.0,456.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 282.0,315.0 246.0,402.0 222.0,453.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 387.0,315.0 378.0,246.0 399.0,222.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 315.0,315.0 330.0,174.0 330.0,174.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 429.0,315.0 C 279.0,315.0 192.0,339.0 141.0,363.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 429.0,315.0 C 279.0,315.0 192.0,291.0 141.0,267.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<ellipse cx="357.0" cy="315.0" rx="75.0" ry="75.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<ellipse cx="372.0" cy="315.0" rx="60.0" ry="60.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<ellipse cx="312.0" cy="315.0" rx="120.0" ry="120.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 282.0,315.0 222.0,267.0 171.0,216.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 273.0,315.0 282.0,465.0 282.0,465.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 357.0,315.0 360.0,414.0 363.0,441.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 282.0,315.0 222.0,363.0 171.0,414.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 396.0,321.0 399.0,360.0 423.0,366.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 387.0,315.0 378.0,384.0 399.0,408.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 282.0,315.0 246.0,228.0 222.0,177.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<ellipse cx="402.0" cy="315.0" rx="30.0" ry="30.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 273.0,315.0 282.0,165.0 282.0,165.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 357.0,315.0 360.0,216.0 363.0,189.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<ellipse cx="417.0" cy="315.0" rx="15.0" ry="15.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<ellipse cx="327.0" cy="315.0" rx="105.0" ry="105.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<ellipse cx="297.0" cy="315.0" rx="135.0" ry="135.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<ellipse cx="342.0" cy="315.0" rx="90.0" ry="90.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<path d="M 432.0,315.0 C 396.0,309.0 399.0,270.0 423.0,264.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<ellipse cx="279.0" cy="315.0" rx="165.0" ry="165.0" style="stroke:#a2a2a2;stroke-dasharray: 3.0,7.5;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<ellipse cx="387.0" cy="315.0" rx="45.0" ry="45.0" style="stroke:#a2a2a2;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<line x1="432.0" y1="315.0" x2="132.0" y2="315.0" style="stroke:#5f5f5f;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.9" fill="none"/>
+<circle cx="444.0" cy="315.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="399.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="432.0" cy="249.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="159.0" cy="429.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="426.0" cy="387.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="213.0" cy="465.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="354.0" cy="462.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="342.0" cy="162.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="216.0" cy="162.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="126.0" cy="378.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="393.0" cy="195.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="159.0" cy="201.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="114.0" cy="315.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="402.0" y1="564.0" x2="402.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="564.0" x2="387.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="564.0" x2="372.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="357.0" y1="564.0" x2="357.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="564.0" x2="342.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="327.0" y1="564.0" x2="327.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="312.0" y1="564.0" x2="312.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="297.0" y1="564.0" x2="297.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="417.0" y1="594.0" x2="417.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="126.0" cy="252.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="387.0" y1="594.0" x2="387.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="594.0" x2="372.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="357.0" y1="594.0" x2="357.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="594.0" x2="342.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="327.0" y1="594.0" x2="327.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="312.0" y1="594.0" x2="312.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="297.0" y1="594.0" x2="297.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="417.0" y1="624.0" x2="417.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="402.0" y1="624.0" x2="402.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="624.0" x2="387.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="624.0" x2="372.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="357.0" y1="624.0" x2="357.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="624.0" x2="342.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="327.0" y1="624.0" x2="327.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="312.0" y1="624.0" x2="312.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="297.0" y1="624.0" x2="297.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="624.0" x2="237.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="222.0" y1="624.0" x2="222.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="282.0" cy="315.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="207.0" y1="624.0" x2="207.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="252.0" y1="624.0" x2="252.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="624.0" x2="192.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="177.0" y1="624.0" x2="177.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="624.0" x2="162.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="624.0" x2="147.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="402.0" y1="594.0" x2="402.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="267.0" y1="594.0" x2="267.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="252.0" y1="594.0" x2="252.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="306.0" cy="261.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="306.0" cy="369.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="237.0" y1="594.0" x2="237.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="222.0" y1="594.0" x2="222.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="630.0" x2="282.0" y2="570.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="207.0" y1="594.0" x2="207.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="267.0" y1="564.0" x2="267.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="177.0" y1="594.0" x2="177.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="594.0" x2="162.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="594.0" x2="147.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="267.0" y1="624.0" x2="267.0" y2="636.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="252.0" y1="564.0" x2="252.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="564.0" x2="237.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="222.0" y1="564.0" x2="222.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="207.0" y1="564.0" x2="207.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="282.0" cy="150.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="177.0" y1="564.0" x2="177.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="594.0" x2="192.0" y2="606.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="564.0" x2="162.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="282.0" cy="315.0" rx="150.0" ry="150.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="147.0" y1="564.0" x2="147.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="564.0" x2="132.0" y2="660.0" style="stroke:#000000;stroke-dasharray: 7.5,7.5;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="564.0" x2="192.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="417.0" y1="564.0" x2="417.0" y2="576.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(273.0,141.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">90</text>
+</g>
+<g transform="translate(105.0,312.0) rotate(-90.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">180</text>
+</g>
+<g transform="translate(447.0,312.0) rotate(-90.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0</text>
+</g>
+<g transform="translate(279.0,489.0) rotate(-180.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-90</text>
+</g>
+<line x1="96.0" y1="315.0" x2="102.0" y2="315.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(84.0,315.0) rotate(-90.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.0</text>
+</g>
+<g transform="translate(294.0,156.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">45</text>
+</g>
+<g transform="translate(207.0,153.0) rotate(-20.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">120</text>
+</g>
+<g transform="translate(144.0,198.0) rotate(-45.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">140</text>
+</g>
+<g transform="translate(114.0,252.0) rotate(-60.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">160</text>
+</g>
+<g transform="translate(228.0,165.0) rotate(-20.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">60</text>
+</g>
+<g transform="translate(174.0,198.0) rotate(-45.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">70</text>
+</g>
+<g transform="translate(138.0,246.0) rotate(-55.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">85</text>
+</g>
+<g transform="translate(117.0,381.0) rotate(-115.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-160</text>
+</g>
+<g transform="translate(153.0,438.0) rotate(-135.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-140</text>
+</g>
+<g transform="translate(207.0,474.0) rotate(-155.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-120</text>
+</g>
+<g transform="translate(357.0,471.0) rotate(-200.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-70</text>
+</g>
+<g transform="translate(402.0,438.0) rotate(-225.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-50</text>
+</g>
+<g transform="translate(435.0,393.0) rotate(-245.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-30</text>
+</g>
+<g transform="translate(435.0,237.0) rotate(-300.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">30</text>
+</g>
+<g transform="translate(399.0,186.0) rotate(-320.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">50</text>
+</g>
+<g transform="translate(342.0,150.0) rotate(-350.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">70</text>
+</g>
+<circle cx="432.0" cy="315.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(348.0,171.0) rotate(-350.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">35</text>
+</g>
+<g transform="translate(405.0,213.0) rotate(-320.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">25</text>
+</g>
+<g transform="translate(432.0,264.0) rotate(-300.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">15</text>
+</g>
+<g transform="translate(432.0,369.0) rotate(-245.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-15</text>
+</g>
+<g transform="translate(399.0,423.0) rotate(-225.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-25</text>
+</g>
+<g transform="translate(354.0,456.0) rotate(-200.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-35</text>
+</g>
+<g transform="translate(300.0,474.0) rotate(-180.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-45</text>
+</g>
+<g transform="translate(228.0,465.0) rotate(-155.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-60</text>
+</g>
+<g transform="translate(174.0,432.0) rotate(-135.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-70</text>
+</g>
+<g transform="translate(141.0,390.0) rotate(-115.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">-80</text>
+</g>
+<line x1="225.0" y1="465.0" x2="228.0" y2="471.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="309.0" y1="477.0" x2="306.0" y2="471.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="171.0" y1="438.0" x2="171.0" y2="432.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="138.0" y1="399.0" x2="138.0" y2="390.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="138.0" y1="231.0" x2="138.0" y2="237.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="180.0" y1="183.0" x2="177.0" y2="189.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="156.0" x2="234.0" y2="159.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="309.0" y1="153.0" x2="303.0" y2="156.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="366.0" y1="174.0" x2="360.0" y2="177.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="417.0" y1="225.0" x2="411.0" y2="225.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="441.0" y1="279.0" x2="435.0" y2="276.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="432.0" y1="378.0" x2="426.0" y2="378.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="405.0" y1="423.0" x2="399.0" y2="423.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="357.0" y1="456.0" x2="363.0" y2="456.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(258.0,123.0) rotate(-5.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.38</text>
+</g>
+<circle cx="258.0" cy="117.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(255.0,105.0) rotate(-5.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.12</text>
+</g>
+<circle cx="342.0" cy="129.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(333.0,132.0) rotate(-350.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.35</text>
+</g>
+<g transform="translate(333.0,114.0) rotate(-350.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.16</text>
+</g>
+<circle cx="408.0" cy="168.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(402.0,171.0) rotate(-320.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.32</text>
+</g>
+<g transform="translate(408.0,153.0) rotate(-320.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.18</text>
+</g>
+<circle cx="453.0" cy="231.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(447.0,231.0) rotate(-300.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.29</text>
+</g>
+<g transform="translate(459.0,216.0) rotate(-300.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.21</text>
+</g>
+<circle cx="471.0" cy="315.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(465.0,306.0) rotate(-270.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.25</text>
+</g>
+<g transform="translate(483.0,306.0) rotate(-270.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.25</text>
+</g>
+<circle cx="453.0" cy="393.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(465.0,396.0) rotate(-245.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.29</text>
+</g>
+<g transform="translate(450.0,387.0) rotate(-245.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.21</text>
+</g>
+<circle cx="414.0" cy="450.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(423.0,456.0) rotate(-225.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.32</text>
+</g>
+<g transform="translate(411.0,444.0) rotate(-225.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.18</text>
+</g>
+<circle cx="363.0" cy="486.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(372.0,495.0) rotate(-200.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.35</text>
+</g>
+<g transform="translate(363.0,480.0) rotate(-200.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.15</text>
+</g>
+<circle cx="270.0" cy="507.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(270.0,519.0) rotate(-180.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.38</text>
+</g>
+<g transform="translate(279.0,501.0) rotate(-180.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.12</text>
+</g>
+<circle cx="186.0" cy="483.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(183.0,495.0) rotate(-155.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.42</text>
+</g>
+<g transform="translate(189.0,477.0) rotate(-155.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.08</text>
+</g>
+<circle cx="117.0" cy="423.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(108.0,435.0) rotate(-135.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.45</text>
+</g>
+<g transform="translate(120.0,417.0) rotate(-135.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.05</text>
+</g>
+<circle cx="90.0" cy="372.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(75.0,375.0) rotate(-115.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.47</text>
+</g>
+<g transform="translate(96.0,366.0) rotate(-115.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.03</text>
+</g>
+<circle cx="81.0" cy="315.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(69.0,315.0) rotate(-90.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.0</text>
+</g>
+<circle cx="99.0" cy="231.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(87.0,219.0) rotate(-60.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.03</text>
+</g>
+<g transform="translate(108.0,231.0) rotate(-60.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.47</text>
+</g>
+<circle cx="141.0" cy="171.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(138.0,159.0) rotate(-45.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.06</text>
+</g>
+<g transform="translate(150.0,171.0) rotate(-45.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.44</text>
+</g>
+<circle cx="198.0" cy="135.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(195.0,123.0) rotate(-20.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.08</text>
+</g>
+<g transform="translate(204.0,135.0) rotate(-20.0) scale(1.0,1.1)"><text x="0.0" y="6.0" font-family="DejaVu Sans, sans-serif" font-size="5.64" font-style="" font-weight="" xml:space="preserve" fill="#000000">0.42</text>
+</g>
+<line x1="126.0" y1="90.0" x2="420.0" y2="90.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="420.0" y1="90.0" x2="420.0" y2="240.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(159.0,72.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">angle of transmission coefficients in degrees</text>
+</g>
+<line x1="126.0" y1="69.0" x2="429.0" y2="69.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="429.0" y1="231.0" x2="429.0" y2="69.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(165.0,54.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">angle of reflection coefficients in degrees</text>
+</g>
+<line x1="126.0" y1="48.0" x2="438.0" y2="48.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(201.0,30.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">← wavelength toward load ←</text>
+</g>
+<line x1="126.0" y1="27.0" x2="447.0" y2="27.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="438.0" y1="48.0" x2="438.0" y2="216.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(192.0,9.0) scale(1.0,1.0)"><text x="0.0" y="10.0" font-family="DejaVu Sans, sans-serif" font-size="10.79" font-style="" font-weight="" xml:space="preserve" fill="#000000">→ wavelength toward generator →</text>
+</g>
+<line x1="447.0" y1="27.0" x2="447.0" y2="201.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+</svg>

@@ -1,0 +1,96 @@
+[FIDOCAD]
+FJC B 0.5
+MC 180 150 0 0 ey_libraries.trnbjt1
+MC 135 150 0 1 ey_libraries.trnbjt1
+MC 125 105 0 0 ey_libraries.trnbjt0
+MC 190 105 0 1 ey_libraries.trnbjt0
+MC 130 45 1 0 ey_libraries.pasres0
+FCJ
+TY 140 50 4 3 0 0 0 * 
+TY 135 45 4 3 0 0 0 * 15k
+MC 130 70 1 0 ey_libraries.pasres0
+FCJ
+TY 140 75 4 3 0 0 0 * 
+TY 135 70 4 3 0 0 0 * 15k
+MC 150 90 2 0 ey_libraries.pasres0
+FCJ
+TY 160 95 4 3 0 0 0 * 
+TY 140 95 4 3 0 0 0 * 150
+MC 170 90 0 0 ey_libraries.pasres0
+FCJ
+TY 165 95 4 3 0 0 0 * 1.35k
+TY 180 100 4 3 0 0 0 * 
+MC 215 90 0 0 ey_libraries.pasres0
+FCJ
+TY 225 95 4 3 0 0 0 * 
+TY 215 80 4 3 0 0 0 * 15k
+MC 120 125 1 0 ey_libraries.pasres0
+FCJ
+TY 140 155 4 3 0 0 0 * 
+TY 105 125 4 3 0 0 0 * 50k
+MC 120 60 0 0 ey_libraries.refpnt1
+FCJ
+TY 100 60 4 3 0 0 0 * bypass
+TY 115 55 4 3 0 0 0 * 7
+LI 130 55 130 65 0
+LI 125 60 130 60 0
+LI 130 80 130 90 0
+LI 155 90 165 90 0
+LI 180 90 190 90 0
+MC 160 80 1 0 ey_libraries.refpnt1
+FCJ
+TY 155 65 4 3 0 0 0 * gain
+TY 160 70 4 3 0 0 0 * 8
+MC 185 80 1 0 ey_libraries.refpnt1
+FCJ
+TY 180 65 4 3 0 0 0 * gain
+TY 185 70 4 3 0 0 0 * 1
+LI 130 90 140 90 0
+LI 160 90 160 85 0
+LI 185 85 185 90 0
+LI 130 90 130 100 0
+LI 185 90 185 100 0
+LI 120 105 120 120 0
+LI 175 150 140 150 0
+LI 160 150 160 135 0
+LI 160 135 130 135 0
+LI 130 155 130 165 0
+LI 185 155 185 165 0
+MC 205 125 1 0 ey_libraries.pasres0
+FCJ
+TY 225 155 4 3 0 0 0 * 
+TY 210 125 4 3 0 0 0 * 50k
+LI 205 105 205 120 0
+MC 110 105 0 0 ey_libraries.refpnt1
+FCJ
+TY 90 105 4 3 0 0 0 * - input
+TY 105 100 4 3 0 0 0 * 2
+MC 215 105 2 0 ey_libraries.refpnt1
+FCJ
+TY 215 110 4 3 0 0 0 * + input
+TY 215 100 4 3 0 0 0 * 3
+LI 115 105 120 105 0
+LI 185 110 185 145 0
+LI 130 110 130 145 0
+LI 130 35 130 40 0
+MC 240 35 2 0 ey_libraries.refpnt1
+FCJ
+TY 245 35 4 3 0 0 0 * Vs
+TY 240 25 4 3 0 0 0 * 6
+MC 240 140 2 0 ey_libraries.refpnt1
+FCJ
+TY 245 140 4 3 0 0 0 * Vout
+TY 240 130 4 3 0 0 0 * 5
+MC 240 165 2 0 ey_libraries.refpnt1
+FCJ
+TY 245 165 4 3 0 0 0 * Gnd
+TY 240 155 4 3 0 0 0 * 4
+LI 190 90 210 90 0
+SA 185 90 0
+LI 235 35 130 35 0
+LI 120 135 120 165 0
+LI 120 165 235 165 0
+LI 195 105 210 105 0
+LI 205 135 205 165 0
+LI 235 140 210 140 0
+LI 200 140 185 140 0

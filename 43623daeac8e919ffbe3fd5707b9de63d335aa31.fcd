@@ -1,0 +1,303 @@
+[FIDOCAD]
+FJC C 1.4
+FJC A 0.3
+FJC B 0.3
+PL 90 70 130 70 1 0
+PL 130 70 130 115 1 0
+PL 130 115 90 115 1 0
+PL 90 115 90 70 1 0
+TY 107 102 4 3 90 1 0 Liberation++Mono MAX038
+MC 135 115 0 0 elettrotecnica.ms05
+LI 95 70 95 60 0
+FCJ 2 0 2 1 0 0
+TY 122 72 3 2 0 1 0 Liberation++Mono IIN
+TY 122 97 3 2 0 1 0 Liberation++Mono SYN
+TY 122 103 3 2 0 1 0 Liberation++Mono OUT
+TY 120 88 3 2 0 1 0 Liberation++Mono FADJ
+TY 93 72 3 2 0 1 0 Liberation++Mono V+
+TY 104 72 3 2 0 1 0 Liberation++Mono V-
+TY 107 110 3 2 0 1 0 Liberation++Mono COSC
+LI 130 110 135 110 0
+LI 135 110 135 115 0
+TY 94 77 3 2 0 1 0 Liberation++Mono A0
+LI 85 105 85 105 0
+TY 93 99 3 2 0 1 0 Liberation++Mono DADJ
+TY 94 92 3 2 0 1 0 Liberation++Mono VREF
+TY 122 108 3 2 0 1 0 Liberation++Mono GND
+MC 85 100 0 0 elettrotecnica.ms05
+LI 90 100 85 100 0
+LI 105 70 105 60 0
+FCJ 2 0 2 1 0 0
+TY 91 53 4 3 0 0 0 DejaVu++Sans 5 V
+TY 102 53 4 3 0 0 0 DejaVu++Sans -5V
+TY 94 82 3 2 0 1 0 Liberation++Mono A1
+MC 75 85 1 0 r_ench_2.134
+MC 70 85 1 0 r_ench_2.134
+MC 70 100 0 0 elettrotecnica.ms05
+LI 70 100 75 100 0
+LI 90 80 60 80 0
+LI 70 80 70 85 0
+LI 90 85 60 85 0
+SA 70 100 0
+SA 70 80 0
+SA 75 85 0
+MC 50 130 1 0 simboli_elettronica.217
+MC 65 130 1 0 simboli_elettronica.217
+MC 80 130 1 0 simboli_elettronica.217
+MC 95 130 1 0 simboli_elettronica.217
+MC 110 130 1 0 simboli_elettronica.217
+MC 125 130 1 0 simboli_elettronica.217
+MC 140 130 1 0 simboli_elettronica.217
+LI 50 130 140 130 0
+LI 110 115 110 130 0
+SA 95 130 0
+SA 80 130 0
+SA 65 130 0
+SA 110 130 0
+SA 125 130 0
+MC 40 145 0 0 npn_ey_new.65
+MC 55 145 0 0 npn_ey_new.65
+MC 70 145 0 0 npn_ey_new.65
+MC 100 145 0 0 npn_ey_new.65
+MC 130 145 0 0 npn_ey_new.65
+MC 40 150 1 0 r_ench_2.134
+MC 55 150 1 0 r_ench_2.134
+MC 70 150 1 0 r_ench_2.134
+MC 85 150 1 0 r_ench_2.134
+MC 100 150 1 0 r_ench_2.134
+MC 115 150 1 0 r_ench_2.134
+MC 130 150 1 0 r_ench_2.134
+MC 140 155 0 0 elettrotecnica.ms05
+MC 125 155 0 0 elettrotecnica.ms05
+MC 110 155 0 0 elettrotecnica.ms05
+MC 95 155 0 0 elettrotecnica.ms05
+MC 80 155 0 0 elettrotecnica.ms05
+MC 65 155 0 0 elettrotecnica.ms05
+MC 50 155 0 0 elettrotecnica.ms05
+PL 65 175 110 175 1 0
+PL 65 175 65 205 1 0
+PL 65 205 110 205 1 0
+PL 110 205 110 175 1 0
+LI 105 165 105 175 0
+LI 100 165 100 175 0
+LI 95 165 95 175 0
+LI 90 165 90 175 0
+LI 85 165 85 175 0
+LI 80 165 80 175 0
+LI 75 165 75 175 0
+PL 40 165 130 165 1 0
+TY 76 187 4 3 0 1 0 Liberation++Mono 74HC138
+MC 115 145 0 0 npn_ey_new.65
+MC 85 145 0 0 npn_ey_new.65
+LI 115 185 115 180 0
+FCJ 2 0 2 1 0 0
+TY 118 179 4 3 0 0 0 DejaVu++Sans 5 V
+LI 110 185 115 185 0
+MC 115 200 0 0 elettrotecnica.ms05
+TY 103 183 3 2 0 1 0 Liberation++Mono V+
+TY 101 199 3 2 0 1 0 Liberation++Mono GND
+LI 115 200 110 200 0
+TY 69 187 3 2 0 1 0 Liberation++Mono A0
+TY 69 197 3 2 0 1 0 Liberation++Mono A2
+TY 69 192 3 2 0 1 0 Liberation++Mono A1
+LI 65 190 55 190 0
+LI 65 195 55 195 0
+LI 55 200 65 200 0
+MC 60 80 0 0 simboli_elettronica.4
+MC 60 85 0 0 simboli_elettronica.4
+MC 55 190 0 0 simboli_elettronica.4
+MC 55 195 0 0 simboli_elettronica.4
+MC 55 200 0 0 simboli_elettronica.4
+MC 160 55 2 0 580
+LI 160 45 160 25 0
+LI 160 25 125 25 0
+LI 125 10 125 5 0
+FCJ 2 0 2 1 0 0
+SA 125 25 0
+SA 165 55 0
+LI 210 50 220 50 0
+LI 220 55 210 55 0
+LI 210 60 220 60 0
+PL 210 45 185 45 1 0
+PL 210 45 210 65 1 0
+PL 210 65 185 65 1 0
+PL 185 65 180 55 1 0
+PL 180 55 185 45 1 0
+LI 205 45 205 35 0
+FCJ 2 0 2 1 0 0
+MC 149 56 0 1 elettrotecnica.ms05
+LI 165 55 165 55 0
+LI 125 55 125 70 0
+MC 165 55 1 1 simboli_elettronica.217
+MC 165 69 0 1 elettrotecnica.ms05
+MC 165 55 2 1 r_ench_2.134
+MC 135 45 0 1 pnp_ey_new.78
+LI 149 44 149 36 0
+FCJ 2 0 2 1 0 0
+MC 125 25 3 1 r_ench_2.134
+LI 125 25 125 45 0
+TY 186 55 4 3 0 1 0 Liberation++Mono MCP4921
+MC 220 50 2 0 simboli_elettronica.4
+MC 220 55 2 0 simboli_elettronica.4
+MC 220 60 2 0 simboli_elettronica.4
+TY 232 47 4 3 0 1 0 Liberation++Mono CS1
+TY 232 52 4 3 0 1 0 Liberation++Mono SCK
+TY 232 57 4 3 0 1 0 Liberation++Mono MOSI
+TY 194 47 3 2 0 1 0 Liberation++Mono VREF
+LI 200 45 200 40 0
+LI 200 40 205 40 0
+TY 123 -1 4 3 0 0 0 DejaVu++Sans 5 V
+TY 201 28 4 3 0 0 0 DejaVu++Sans 5 V
+MC 200 65 0 0 elettrotecnica.ms05
+LI 300 80 310 80 0
+LI 310 85 300 85 0
+LI 300 90 310 90 0
+PL 300 75 275 75 1 0
+PL 300 75 300 95 1 0
+PL 300 95 275 95 1 0
+PL 275 95 270 85 1 0
+PL 270 85 275 75 1 0
+LI 295 75 295 65 0
+FCJ 2 0 2 1 0 0
+TY 276 83 4 3 0 1 0 Liberation++Mono MCP4921
+MC 310 80 2 0 simboli_elettronica.4
+MC 310 85 2 0 simboli_elettronica.4
+MC 310 90 2 0 simboli_elettronica.4
+TY 322 77 4 3 0 1 0 Liberation++Mono CS2
+TY 322 82 4 3 0 1 0 Liberation++Mono SCK
+TY 322 87 4 3 0 1 0 Liberation++Mono MOSI
+TY 279 77 3 2 0 1 0 Liberation++Mono VREF
+TY 292 58 4 3 0 0 0 DejaVu++Sans 5 V
+MC 290 95 0 0 elettrotecnica.ms05
+LI 285 75 285 65 0
+FCJ 2 0 2 1 0 0
+TY 277 58 4 3 0 0 0 DejaVu++Sans 2.5 V
+TY 135 66 4 3 0 0 0 DejaVu++Sans MCP6021
+MC 245 85 0 1 580
+MC 245 115 0 0 r_ench_2.134
+MC 220 115 0 0 r_ench_2.134
+LI 245 95 245 115 0
+LI 260 115 265 115 0
+FCJ 2 0 2 1 0 0
+TY 268 112 4 3 0 0 0 DejaVu++Sans 2.5 V
+TY 168 46 4 3 0 0 0 DejaVu++Sans 2k2
+TY 171 66 4 3 0 0 0 DejaVu++Sans 10n
+MC 255 85 1 1 simboli_elettronica.217
+MC 255 99 0 1 elettrotecnica.ms05
+MC 255 85 2 1 r_ench_2.134
+TY 258 76 4 3 0 0 0 DejaVu++Sans 2k2
+TY 260 97 4 3 0 0 0 DejaVu++Sans 10n
+LI 255 85 245 85 0
+SA 245 115 0
+TY 146 29 4 3 0 0 0 DejaVu++Sans 5 V
+SA 205 40 0
+LI 130 90 220 90 0
+LI 220 90 220 115 0
+SA 220 90 0
+LI 160 55 165 55 0
+LI 235 115 245 115 0
+TY 220 119 4 3 0 0 0 DejaVu++Sans R3 1k
+TY 249 120 4 3 0 0 0 DejaVu++Sans R4 1k
+TY 200 81 4 3 0 0 0 DejaVu++Sans MCP6021
+TY 103 40 4 3 0 0 0 DejaVu++Sans 2N3906
+SA 255 85 0
+TY 168 46 4 3 0 0 0 DejaVu++Sans 2k2
+TY 130 14 4 3 0 0 0 DejaVu++Sans R1 6k5
+TY 168 40 4 3 0 0 0 DejaVu++Sans R2
+TY 171 60 4 3 0 0 0 DejaVu++Sans C1
+TY 258 71 4 3 0 0 0 DejaVu++Sans R5
+TY 261 92 4 3 0 0 0 DejaVu++Sans C2
+TY 46 90 4 3 0 0 0 DejaVu++Sans 2 x 4k7
+TY 292 77 3 2 0 1 0 Liberation++Mono V+
+TY 287 89 3 2 0 1 0 Liberation++Mono GND
+TY 74 119 4 3 0 0 0 DejaVu++Sans C3 ··· C10
+LI 130 105 185 105 0
+LI 185 105 185 150 0
+MC 225 180 2 1 580
+MC 235 150 2 1 r_ench_2.134
+MC 205 150 2 1 r_ench_2.134
+LI 225 170 225 150 0
+LI 225 150 220 150 0
+LI 220 150 225 150 0
+LI 235 150 225 150 0
+SA 225 150 0
+MC 220 200 0 1 r_ench_2.134
+LI 225 180 212 180 0
+LI 212 180 212 197 0
+FCJ 2 0 3 1 0 0
+LI 190 200 185 200 0
+FCJ 2 0 3 1 0 0
+TY 171 197 4 3 0 0 0 DejaVu++Sans 2.5 V
+LI 235 200 240 200 0
+FCJ 2 0 3 1 0 0
+TY 242 197 4 3 0 0 0 DejaVu++Sans -2.5 V
+MC 235 200 0 1 r_ench_2.134
+MC 205 200 0 1 r_ench_2.134
+TY 208 204 4 3 0 0 0 DejaVu++Sans POT
+TY 194 204 4 3 0 0 0 DejaVu++Sans R8
+TY 225 204 4 3 0 0 0 DejaVu++Sans R9
+TY 204 140 4 3 0 0 0 DejaVu++Sans R6 1k
+LI 242 140 242 147 0
+FCJ 2 0 3 1 0 0
+LI 242 140 235 140 0
+LI 235 140 225 140 0
+LI 225 140 225 150 0
+TY 249 140 4 3 0 0 0 DejaVu++Sans POT1 2k2
+LI 250 150 255 150 0
+LI 255 150 255 175 0
+LI 260 175 250 175 0
+MC 260 175 2 1 r_ench_2.134
+SA 255 175 0
+MC 280 180 3 0 inductor_ench_3.153
+MC 305 180 3 0 inductor_ench_3.153
+MC 280 175 1 1 simboli_elettronica.217
+MC 300 175 1 1 simboli_elettronica.217
+MC 325 175 1 1 simboli_elettronica.217
+LI 275 175 280 175 0
+LI 295 175 305 175 0
+LI 325 175 320 175 0
+SA 300 175 0
+SA 280 175 0
+MC 280 189 0 1 elettrotecnica.ms05
+MC 300 189 0 1 elettrotecnica.ms05
+MC 325 189 0 1 elettrotecnica.ms05
+LI 235 83 235 78 0
+FCJ 2 0 2 1 0 0
+LI 235 97 235 102 0
+FCJ 2 0 2 1 0 0
+TY 231 72 4 3 0 0 0 DejaVu++Sans 2.5 V
+TY 230 102 4 3 0 0 0 DejaVu++Sans -2.5 V
+TY 262 165 4 3 0 0 0 DejaVu++Sans R7 50
+TY 285 181 4 3 0 0 0 DejaVu++Sans C11 
+TY 285 186 4 3 0 0 0 DejaVu++Sans 56pF
+TY 307 180 4 3 0 0 0 DejaVu++Sans C12
+TY 307 185 4 3 0 0 0 DejaVu++Sans 110p
+TY 331 179 4 3 0 0 0 DejaVu++Sans C13
+TY 330 185 4 3 0 0 0 DejaVu++Sans 110p
+TY 285 164 4 3 0 0 0 DejaVu++Sans L1 = L2 220nH
+MC 345 175 0 0 ihram.concoaxm
+LI 345 175 325 175 0
+SA 325 175 0
+MC 350 180 1 1 r_ench_2.134
+MC 350 194 0 1 elettrotecnica.ms05
+TY 357 185 4 3 0 0 0 DejaVu++Sans 50
+TY 357 179 4 3 0 0 0 DejaVu++Sans BNC
+RV 345 170 355 195 0
+LI 233 167 233 162 0
+FCJ 2 0 2 1 0 0
+LI 233 183 233 188 0
+FCJ 2 0 2 1 0 0
+TY 229 156 4 3 0 0 0 DejaVu++Sans 5 V
+TY 228 188 4 3 0 0 0 DejaVu++Sans -5V
+TY 231 88 4 3 0 0 0 DejaVu++Sans #2
+TY 145 47 4 3 0 0 0 DejaVu++Sans #1
+TY 207 172 4 3 0 0 0 DejaVu++Sans LM7171
+MC 200 150 2 0 r_ench_2.134
+LI 200 150 205 150 0
+TY 187 136 4 3 0 0 0 DejaVu++Sans R10
+TY 187 141 4 3 0 0 0 DejaVu++Sans 100
+MC 200 150 1 1 simboli_elettronica.217
+MC 200 164 0 1 elettrotecnica.ms05
+TY 205 156 4 3 0 0 0 DejaVu++Sans C14
+TY 205 161 4 3 0 0 0 DejaVu++Sans 100pF
+SA 200 150 0

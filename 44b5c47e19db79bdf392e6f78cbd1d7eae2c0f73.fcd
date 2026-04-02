@@ -1,0 +1,159 @@
+[FIDOCAD]
+FJC B 0.5
+LI 152 58 152 47 0
+MC 152 61 1 0 ey_libraries.pasres7
+SA 152 47 0
+SA 152 82 0
+LI 183 70 183 82 0
+LI 183 58 183 47 0
+MC 183 61 1 0 ey_libraries.pasres7
+MC 166 47 0 0 074
+LI 152 58 152 47 0
+MC 152 61 1 0 ey_libraries.pasres7
+MC 166 47 0 0 074
+SA 152 82 0
+LI 183 70 183 82 0
+SA 152 47 0
+LI 183 58 183 47 0
+MC 183 61 1 0 ey_libraries.pasres7
+SA 152 47 0
+SA 152 82 0
+LI 183 70 183 82 0
+LI 183 58 183 47 0
+LI 152 58 152 47 0
+MC 152 61 1 0 ey_libraries.pasres7
+MC 166 47 0 0 074
+MC 183 61 1 0 ey_libraries.pasres7
+SA 152 47 0
+SA 152 82 0
+LI 183 70 183 82 0
+LI 183 58 183 47 0
+MC 183 61 1 0 ey_libraries.pasres7
+MC 166 47 0 0 074
+LI 152 58 152 47 0
+MC 152 61 1 0 ey_libraries.pasres7
+SA 152 82 0
+LI 183 70 183 82 0
+LI 183 58 183 47 0
+MC 183 61 1 0 ey_libraries.pasres7
+MC 166 47 0 0 074
+SA 152 47 0
+LI 152 58 152 47 0
+MC 152 61 1 0 ey_libraries.pasres7
+LI 183 58 183 47 0
+MC 183 61 1 0 ey_libraries.pasres7
+MC 166 47 0 0 074
+MC 152 61 1 0 ey_libraries.pasres7
+SA 152 47 0
+SA 152 82 0
+LI 183 70 183 82 0
+LI 152 58 152 47 0
+MC 166 47 0 0 074
+LI 152 58 152 47 0
+MC 152 61 1 0 ey_libraries.pasres7
+SA 152 82 0
+TY 123 60 4 3 0 1 0 * Is
+SA 152 47 0
+LI 183 58 183 47 0
+LI 183 70 183 82 0
+MC 183 61 1 0 ey_libraries.pasres7
+LI 152 58 152 47 0
+MC 152 61 1 0 ey_libraries.pasres7
+SA 152 82 0
+LI 183 70 183 82 0
+SA 152 47 0
+MC 183 61 1 0 ey_libraries.pasres7
+LI 183 58 183 47 0
+LI 152 58 152 47 0
+MC 152 61 1 0 ey_libraries.pasres7
+LI 136 47 136 56 0
+LI 183 70 183 82 0
+LI 183 58 183 47 0
+MC 183 61 1 0 ey_libraries.pasres7
+SA 152 47 0
+SA 152 82 0
+LI 136 71 136 82 0
+SA 152 47 0
+LI 152 58 152 47 0
+MC 136 61 0 0 ey_libraries.genics0
+MC 152 61 1 0 ey_libraries.pasres7
+LI 183 47 136 47 0
+TY 143 69 4 3 0 1 0 * Rs
+LI 183 70 183 82 0
+LI 183 58 183 47 0
+MC 183 61 1 0 ey_libraries.pasres7
+MC 175 47 0 0 074
+SA 152 82 0
+SA 164 47 0
+SA 164 82 0
+MC 152 51 1 0 074
+LI 93 39 100 39 0
+LI 100 65 100 53 0
+LI 100 84 100 76 0
+LI 90 49 71 49 0
+LI 80 39 74 39 0
+SA 74 49 0
+SA 100 39 0
+LI 74 39 74 49 0
+LI 53 84 100 84 0
+SA 77 84 0
+TY 104 7 4 3 0 1 0 * +Vcc
+TY 83 30 4 3 0 1 0 * Rf
+TY 105 25 4 3 0 1 0 * Rc
+TY 90 68 4 3 0 1 0 * Re
+MC 84 39 0 0 ey_libraries.pasres7
+MC 100 69 1 0 ey_libraries.pasres7
+MC 100 25 1 0 ey_libraries.pasres7
+MC 95 49 0 0 ey_libraries.trnbjt1
+MC 67 49 1 0 ey_libraries.pascap1
+MC 77 86 0 0 ey_libraries.refpnt5
+MC 100 9 1 0 ey_libraries.refpnt1
+LI 100 21 100 14 0
+LI 100 34 100 44 0
+MC 53 49 0 0 074
+MC 110 60 0 0 074
+LI 77 84 77 86 0
+MC 110 70 0 0 074
+SA 34 84 0
+SA 34 49 0
+TY 5 62 4 3 0 1 0 * Is
+TY 24 71 4 3 0 1 0 * Rs
+LI 50 84 18 84 0
+LI 50 49 18 49 0
+LI 18 49 18 58 0
+LI 34 60 34 49 0
+LI 18 73 18 84 0
+LI 34 72 34 83 0
+LI 38 49 41 49 0
+MC 18 63 0 0 ey_libraries.genics0
+MC 34 63 1 0 ey_libraries.pasres7
+MC 136 84 0 0 ey_libraries.refpnt5
+LI 136 82 136 84 0
+SA 136 82 0
+SA 46 49 0
+SA 46 84 0
+LI 183 82 136 82 0
+LI 152 82 152 70 0
+TY 53 63 4 3 0 1 9 * Zinp
+TY 190 62 4 3 0 1 9 * Zinp
+TY 44 41 4 3 0 1 9 * X
+RV 4 46 38 87 9
+FCJ 4 0
+TY 190 62 4 3 0 1 9 * Zinp
+TY 163 84 4 3 0 1 9 * Y
+TY 44 86 4 3 0 1 9 * Y
+TY 190 62 4 3 0 1 9 * Zinp
+TY 190 62 4 3 0 1 9 * Zinp
+TY 190 62 4 3 0 1 9 * Zinp
+TY 190 62 4 3 0 1 9 * Zinp
+TY 190 62 4 3 0 1 9 * Zinp
+TY 190 62 4 3 0 1 9 * Zinp
+RV 122 44 156 85 9
+FCJ 4 0
+TY 190 62 4 3 0 1 9 * Zinp
+TY 163 39 4 3 0 1 9 * X
+TY 190 62 4 3 0 1 9 * Zinp
+TY 174 40 4 3 0 1 10 * Isi
+TY 52 40 4 3 0 1 10 * Isi
+TY 0 -1 4 3 0 1 11 * Figura 0 - ATTENUAZIONE DI CORRENTE
+

@@ -1,0 +1,103 @@
+[FIDOCAD]
+FJC C 1.5
+FJC B 0.5
+TY 59 362 4 3 0 0 0 Comic++Sans++MS A
+TY 59 398 4 3 0 0 0 Comic++Sans++MS B
+TY 37 345 4 3 0 0 0 Comic++Sans++MS convenzione di utilizzatore
+RV 183 364 216 404 0
+LI 183 370 171 370 0
+LI 183 396 171 396 0
+TY 172 361 4 3 0 0 0 Comic++Sans++MS A
+TY 172 397 4 3 0 0 0 Comic++Sans++MS B
+EV 58 370 56 372 0
+EV 58 396 56 398 0
+EV 171 369 169 371 0
+EV 171 395 169 397 0
+LI 70 371 58 371 0
+LI 70 397 58 397 0
+RV 70 364 103 404 0
+TY 26 422 4 3 0 0 0 Comic++Sans++MS i(t)
+TY 42 422 4 3 0 0 0 Comic++Sans++MS v(t)
+TY 60 422 4 3 0 0 0 Comic++Sans++MS p(t)
+TY 27 435 4 3 0 0 0 Comic++Sans++MS >0
+TY 43 445 4 3 0 0 0 Comic++Sans++MS <0
+TY 42 435 4 3 0 0 0 Comic++Sans++MS >0
+TY 60 435 4 3 0 0 0 Comic++Sans++MS >0
+TY 28 445 4 3 0 0 0 Comic++Sans++MS >0
+TY 60 445 4 3 0 0 0 Comic++Sans++MS <0
+TY 60 455 4 3 0 0 0 Comic++Sans++MS <0
+TY 43 455 4 3 0 0 0 Comic++Sans++MS >0
+TY 28 455 4 3 0 0 0 Comic++Sans++MS <0
+TY 28 465 4 3 0 0 0 Comic++Sans++MS <0
+TY 43 465 4 3 0 0 0 Comic++Sans++MS <0
+TY 60 465 4 3 0 0 0 Comic++Sans++MS >0
+TY 79 434 4 3 0 0 0 Comic++Sans++MS utilizzatore
+TY 79 444 4 3 0 0 0 Comic++Sans++MS generatore
+TY 79 455 4 3 0 0 0 Comic++Sans++MS generatore
+TY 79 465 4 3 0 0 0 Comic++Sans++MS utilizzatore
+TY 85 377 8 6 0 0 0 Comic++Sans++MS ?
+TY 90 417 8 6 0 0 0 Comic++Sans++MS ?
+RV 22 418 113 478 0
+LI 22 433 113 433 0
+LI 38 418 38 478 0
+LI 22 445 113 445 0
+LI 22 455 113 455 0
+LI 22 465 113 465 0
+LI 55 418 55 478 0
+LI 75 418 75 478 0
+TY 159 465 4 3 0 0 0 Comic++Sans++MS <0
+TY 176 465 4 3 0 0 0 Comic++Sans++MS >0
+TY 194 446 4 3 0 0 0 Comic++Sans++MS utilizzatore
+TY 195 435 4 3 0 0 0 Comic++Sans++MS generatore
+TY 196 466 4 3 0 0 0 Comic++Sans++MS generatore
+TY 195 456 4 3 0 0 0 Comic++Sans++MS utilizzatore
+TY 142 422 4 3 0 0 0 Comic++Sans++MS i(t)
+TY 158 422 4 3 0 0 0 Comic++Sans++MS v(t)
+TY 176 422 4 3 0 0 0 Comic++Sans++MS p(t)
+TY 143 435 4 3 0 0 0 Comic++Sans++MS >0
+TY 159 445 4 3 0 0 0 Comic++Sans++MS <0
+TY 158 435 4 3 0 0 0 Comic++Sans++MS >0
+TY 176 435 4 3 0 0 0 Comic++Sans++MS >0
+TY 144 445 4 3 0 0 0 Comic++Sans++MS >0
+TY 176 445 4 3 0 0 0 Comic++Sans++MS <0
+TY 176 455 4 3 0 0 0 Comic++Sans++MS <0
+TY 159 455 4 3 0 0 0 Comic++Sans++MS >0
+TY 144 455 4 3 0 0 0 Comic++Sans++MS <0
+TY 144 465 4 3 0 0 0 Comic++Sans++MS <0
+LI 154 418 154 478 0
+LI 138 445 229 445 0
+LI 138 455 229 455 0
+LI 138 465 229 465 0
+LI 171 418 171 478 0
+LI 191 418 191 478 0
+TY 206 417 8 6 0 0 0 Comic++Sans++MS ?
+RV 138 418 229 478 0
+LI 138 433 229 433 0
+TY 197 376 8 6 0 0 0 Comic++Sans++MS ?
+TY 150 344 4 3 0 0 0 Comic++Sans++MS convenzione di generatore
+LI 125 340 125 483 0
+RV 12 340 239 483 0
+LI 43 371 55 371 2
+FCJ 2 0 3 2 0 1
+TY 46 362 4 3 0 0 2 Comic++Sans++MS i(t)
+TY 43 381 4 3 0 0 2 Comic++Sans++MS 
+LI 156 370 168 370 2
+FCJ 1 0 3 2 0 1
+TY 159 361 4 3 0 0 2 Comic++Sans++MS i(t)
+TY 156 380 4 3 0 0 2 Comic++Sans++MS 
+PV 164 386 159 386 159 391 151 383 159 376 159 381 164 381 9
+FCJ 0 1
+TY 139 379 4 3 0 0 9 Comic++Sans++MS p(t)
+TY 159 371 4 3 0 0 9 Comic++Sans++MS 
+PV 41 381 46 381 46 376 54 384 46 391 46 386 41 386 9
+FCJ 0 1
+TY 27 380 4 3 0 0 9 Comic++Sans++MS p(t)
+TY 46 396 4 3 0 0 9 Comic++Sans++MS 
+LI 169 393 169 373 11
+FCJ 2 0 3 2 0 1
+TY 171 380 4 3 0 0 11 Comic++Sans++MS v(t)
+TY 175 413 4 3 0 0 11 Comic++Sans++MS 
+LI 57 394 57 374 11
+FCJ 2 0 3 2 0 1
+TY 59 381 4 3 0 0 11 Comic++Sans++MS v(t)
+TY 63 414 4 3 0 0 11 Comic++Sans++MS

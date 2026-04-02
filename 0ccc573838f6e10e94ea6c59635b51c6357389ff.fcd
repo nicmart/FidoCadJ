@@ -1,0 +1,88 @@
+[FIDOCAD]
+FJC C 1.5
+FJC L 0 -16764109 1.0
+FJC L 4 -16764109 1.0
+FJC L 6 -1 1.0
+FJC L 9 -13312 1.0
+FJC B 0.5
+MC 51 351 1 0 ey_libraries.genavs0
+FCJ
+TY 58 342 4 3 0 0 0 Times++New++Roman E1
+TY 61 361 4 3 0 0 0 Times++New++Roman 
+MC 51 365 1 0 ey_libraries.genavs0
+FCJ
+TY 60 358 4 3 0 0 0 Times++New++Roman E2
+TY 61 375 4 3 0 0 0 Times++New++Roman 
+MC 51 380 1 0 ey_libraries.genavs0
+FCJ
+TY 60 371 4 3 0 0 0 Times++New++Roman E3
+TY 61 390 4 3 0 0 0 Times++New++Roman 
+RV 218 343 239 387 0
+TY 204 394 4 3 0 0 0 Times++New++Roman I1'+I2'+I3'=0
+TY 45 409 6 4 0 0 0 Times++New++Roman =I1+I2+I3
+TY 89 415 4 3 0 0 2 Times++New++Roman V1=E1
+TY 164 415 4 3 0 0 2 Times++New++Roman V3=E3
+TY 129 415 4 3 0 0 2 Times++New++Roman V2=E2
+LI 87 351 218 351 15
+FCJ 2 0 3 2 0 1
+TY 195 344 4 3 0 0 15 Times++New++Roman I1'
+TY 61 361 4 3 0 0 15 Times++New++Roman 
+LI 86 365 218 365 15
+FCJ 2 0 3 2 0 1
+TY 196 358 4 3 0 0 15 Times++New++Roman I2'
+TY 60 375 4 3 0 0 15 Times++New++Roman 
+LI 87 380 218 380 15
+FCJ 2 0 3 2 0 1
+TY 197 373 4 3 0 0 15 Times++New++Roman I3'
+TY 61 390 4 3 0 0 15 Times++New++Roman 
+LI 58 395 88 395 15
+FCJ 1 0 3 2 0 1
+TY 42 401 4 3 0 0 15 Times++New++Roman IN=IL1+IL2+IL3=
+TY 63 405 4 3 0 0 15 Times++New++Roman 
+LI 86 395 86 425 15
+LI 182 380 182 424 15
+FCJ 2 0 3 2 0 1
+TY 187 416 4 3 0 0 15 Times++New++Roman I3
+TY 187 360 4 3 0 0 15 Times++New++Roman 
+LI 146 365 146 425 15
+FCJ 2 0 3 2 0 1
+TY 149 414 4 3 0 0 15 Times++New++Roman I2
+TY 151 375 4 3 0 0 15 Times++New++Roman 
+LI 106 351 106 424 15
+FCJ 2 0 3 2 0 1
+TY 111 416 4 3 0 0 15 Times++New++Roman I1
+TY 111 388 4 3 0 0 15 Times++New++Roman 
+LI 40 395 59 395 15
+FCJ 0 0 3 2 0 1
+TY 47 389 4 3 0 0 15 Times++New++Roman N
+TY 45 405 4 3 0 0 15 Times++New++Roman 
+RV 80 425 111 437 15
+RV 120 425 152 437 15
+RV 158 425 187 437 15
+TY 34 374 4 3 0 0 15 Times++New++Roman O
+TY 95 428 4 3 0 0 15 Times++New++Roman Z1
+TY 137 428 4 3 0 0 15 Times++New++Roman Z2
+TY 171 427 4 3 0 0 15 Times++New++Roman Z3
+LI 56 351 87 351 15
+FCJ 2 0 3 2 0 1
+TY 75 344 4 3 0 0 15 Times++New++Roman IL1=I1+I1'
+TY 62 361 4 3 0 0 15 Times++New++Roman 
+LI 56 365 87 365 15
+FCJ 2 0 3 2 0 1
+TY 75 358 4 3 0 0 15 Times++New++Roman IL2=I2+I2'
+TY 62 375 4 3 0 0 15 Times++New++Roman 
+LI 56 380 88 380 15
+FCJ 2 0 3 2 0 1
+TY 76 373 4 3 0 0 15 Times++New++Roman IL3=I3+I3'
+TY 63 390 4 3 0 0 15 Times++New++Roman 
+LI 126 395 126 425 15
+LI 139 395 161 395 15
+FCJ 1 0 3 2 0 1
+TY 149 388 4 3 0 0 15 Times++New++Roman IN'=I3
+TY 31 406 4 3 0 0 15 Times++New++Roman 
+LI 86 395 140 395 15
+FCJ 1 0 3 2 0 1
+TY 80 387 4 3 0 0 15 Times++New++Roman IN''=I2+IN'
+TY 115 405 4 3 0 0 15 Times++New++Roman 
+LI 161 395 161 425 15
+LI 40 351 40 395 15

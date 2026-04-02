@@ -1,0 +1,192 @@
+[FIDOCAD]
+FJC B 0.5
+MC 30 35 0 0 elettrotecnica.meas00
+FCJ
+TY 20 10 4 3 0 0 0 * ENEL
+TY 40 40 4 3 0 0 0 * 
+MC 95 50 0 0 elettrotecnica.sca01
+FCJ
+TY 100 35 4 3 0 0 0 * SPD
+TY 100 40 4 3 0 0 0 * Classe 1/2
+MC 140 45 0 0 elettrotecnica.intpr02
+FCJ
+TY 145 35 4 3 0 0 0 * MT
+TY 145 40 4 3 0 0 0 * C32 6kA
+MC 140 80 0 0 elettrotecnica.intpr01
+FCJ
+TY 145 70 4 3 0 0 0 * Diff Tipo A (immune ai disturbi)
+TY 145 75 4 3 0 0 0 * Idn 30mA portata min 32A
+MC 95 130 0 0 elettrotecnica.intpr02
+FCJ
+TY 100 120 4 3 0 0 0 * MT
+TY 100 125 4 3 0 0 0 * C16 6 kA
+LI 95 30 210 30 0
+LI 95 40 95 30 0
+LI 140 60 140 70 0
+MC 175 45 0 0 elettrotecnica.intpr02
+FCJ
+TY 180 35 4 3 0 0 0 * MT
+TY 180 40 4 3 0 0 0 * C32 6kA
+MC 210 45 0 0 elettrotecnica.intpr02
+FCJ
+TY 215 35 4 3 0 0 0 * MT
+TY 215 40 4 3 0 0 0 * C32 6kA
+MC 30 60 0 0 040
+LI 95 60 30 60 0
+FCJ 0 0 3 2 0 1
+TY 45 55 4 3 0 0 0 * 16 mm²
+TY 100 70 4 3 0 0 0 * 
+RV 85 85 50 80 0
+FCJ 0 1
+TY 50 75 4 3 0 0 0 * Barra Eq
+TY 55 85 4 3 0 0 0 * Garage
+LI 80 80 95 60 0
+LI 320 100 320 115 0
+RV 60 120 25 115 0
+FCJ 0 1
+TY 25 110 4 3 0 0 0 * Barra Eq
+TY 25 120 4 3 0 0 0 * Primo piano
+MC 135 130 0 0 elettrotecnica.intpr02
+FCJ
+TY 140 120 4 3 0 0 0 * MT
+TY 140 125 4 3 0 0 0 * C10 6kA
+MC 175 130 0 0 elettrotecnica.intpr02
+FCJ
+TY 180 120 4 3 0 0 0 * MT
+TY 180 125 4 3 0 0 0 * C6 6kA
+MC 215 130 0 0 elettrotecnica.intpr02
+FCJ
+TY 220 120 4 3 0 0 0 * MT
+TY 220 125 4 3 0 0 0 * C16 6kA
+MC 255 130 0 0 elettrotecnica.intpr02
+FCJ
+TY 260 120 4 3 0 0 0 * MT
+TY 260 125 4 3 0 0 0 * C6 6kA
+LI 95 115 255 115 0
+LI 140 95 140 115 0
+MC 295 130 0 0 elettrotecnica.intpr02
+FCJ
+TY 300 120 4 3 0 0 0 * MT
+TY 300 125 4 3 0 0 0 * C16 6kA
+MC 335 130 0 0 elettrotecnica.intpr02
+FCJ
+TY 340 120 4 3 0 0 0 * MT
+TY 340 125 4 3 0 0 0 * C16 6kA
+MC 375 130 0 0 elettrotecnica.intpr02
+FCJ
+TY 380 120 4 3 0 0 0 * MT
+TY 380 125 4 3 0 0 0 * C16 6kA
+LI 175 65 320 65 0
+LI 320 70 320 75 0
+LI 175 60 175 65 0
+LI 320 65 320 70 0
+LI 295 115 375 115 0
+LI 85 20 85 65 0
+FCJ 0 0 3 2 1 0
+LI 85 65 40 65 0
+FCJ 0 0 3 2 1 0
+LI 40 65 40 95 0
+FCJ 0 0 3 2 1 0
+LI 40 95 80 95 0
+LI 80 95 80 175 0
+FCJ 0 0 3 2 1 0
+LI 80 175 415 175 0
+FCJ 0 0 3 2 1 0
+LI 85 20 415 20 0
+FCJ 0 0 3 2 1 0
+LI 415 20 415 175 0
+FCJ 0 0 3 2 1 0
+MC 375 210 0 0 elettrotecnica.intpr02
+FCJ
+TY 380 200 4 3 0 0 0 * Salvamotore
+TY 385 220 4 3 0 0 0 * 
+LI 375 225 375 245 0
+FCJ 0 0 3 2 0 1
+TY 375 230 4 3 0 0 0 * 20m xx mm²
+TY 380 235 4 3 0 0 0 * 
+LI 175 145 175 195 0
+FCJ 0 0 3 2 0 1
+TY 180 150 4 3 0 0 0 * 
+TY 165 180 4 3 0 0 0 * 5m 1.5 mm²
+LI 175 195 175 235 0
+FCJ 0 0 3 2 0 1
+TY 130 235 4 3 0 0 0 * Centralina solare termico
+TY 180 225 4 3 0 0 0 * 1m
+LI 215 145 215 190 0
+FCJ 0 0 3 2 0 1
+TY 220 160 4 3 0 0 0 * 
+TY 205 180 4 3 0 0 0 * 15m 2.5mmÂ²
+LI 215 190 215 245 0
+FCJ 0 0 3 2 0 1
+TY 205 245 4 3 0 0 0 * Autoclave
+TY 220 230 4 3 0 0 0 * 1m
+MC 255 145 0 0 520
+FCJ
+TY 265 155 4 3 0 0 0 * 12ac
+TY 265 155 4 3 0 0 0 * 
+MC 255 200 0 0 elettrotecnica.app04
+FCJ
+TY 245 205 4 3 0 0 0 * Citofono
+TY 265 225 4 3 0 0 0 * 
+MC 375 245 0 0 elettrotecnica.cpona
+FCJ
+TY 380 250 4 3 0 0 0 * Contattore
+TY 385 255 4 3 0 0 0 * 
+LI 295 145 295 190 0
+FCJ 0 0 3 2 0 1
+TY 280 190 4 3 0 0 0 * Capanno esterno
+TY 295 180 4 3 0 0 0 * 20m 2,5 mm²
+LI 335 145 335 190 0
+FCJ 0 0 3 2 0 1
+TY 340 150 4 3 0 0 0 * 
+TY 335 180 4 3 0 0 0 * 20m 2,5 mm²
+LI 335 190 335 245 0
+FCJ 0 0 3 2 0 1
+TY 305 245 4 3 0 0 0 * Cancello elettrico
+TY 340 230 4 3 0 0 0 * 1m
+LI 375 145 375 195 0
+FCJ 0 0 3 2 0 1
+TY 375 180 4 3 0 0 0 * 15m xx mm²
+TY 380 155 4 3 0 0 0 * 
+MC 375 280 0 0 560
+FCJ
+TY 395 290 4 3 0 0 0 * Pompa pozzo
+TY 385 290 4 3 0 0 0 * 
+LI 375 260 375 280 0
+LI 375 260 390 280 0
+LI 375 260 360 280 0
+FCJ 0 0 3 2 0 1
+TY 380 265 4 3 0 0 0 * 
+TY 385 265 4 3 0 0 0 * 100m xx mm²
+LI 130 35 130 25 0
+LI 130 25 220 25 0
+LI 220 25 220 35 0
+TY 135 20 4 3 0 0 0 * Max n. 3 dispositivi (DGL)
+LI 40 30 95 30 0
+FCJ 2 0 3 2 0 1
+TY 75 35 4 3 0 0 0 * 
+TY 45 20 4 3 0 0 0 * max 3m - 6 mm²
+MC 320 85 0 0 elettrotecnica.intpr01
+FCJ
+TY 325 75 4 3 0 0 0 * Diff Tipo A (immune ai disturbi)
+TY 325 80 4 3 0 0 0 * Idn 30mA portata min 32A
+LI 55 85 55 115 4
+FCJ 2 0 3 1 0 1
+TY 10 100 4 3 0 0 4 * Montante 6mmÂ² al primo piano
+TY 60 95 4 3 0 0 4 * 
+LI 210 60 425 60 4
+FCJ 2 0 3 2 0 1
+TY 260 55 4 3 0 0 4 * Montante 6mmÂ² al centralino del primo piano
+TY 215 70 4 3 0 0 4 * 
+LI 95 145 95 195 11
+FCJ 0 0 3 2 0 1
+TY 75 195 4 3 0 0 11 * Prese Garage
+TY 95 180 4 3 0 0 11 * 2.5 mmÂ²
+LI 135 145 135 205 11
+FCJ 0 0 3 2 0 1
+TY 120 205 4 3 0 0 11 * Luci Garage
+TY 135 180 4 3 0 0 11 * 1.5mmÂ²
+LI 255 170 255 195 11
+FCJ 0 0 3 2 0 1
+TY 260 175 4 3 0 0 11 * 
+TY 255 180 4 3 0 0 11 * 20m

@@ -1,0 +1,135 @@
+[FIDOCAD]
+FJC B 0.5
+MC 105 150 0 0 ey_libraries.lognot1
+MC 105 150 0 0 ey_libraries.lognot1
+MC 90 165 1 0 ey_libraries.pasres0
+MC 130 150 0 1 ey_libraries.diddid0
+LI 90 150 90 160 0
+LI 95 150 80 150 0
+SA 90 150 0
+MC 90 130 0 0 ey_libraries.pascap1
+MC 90 130 0 0 ey_libraries.pascap1
+LI 90 140 90 150 0
+MC 80 170 3 0 ey_libraries.diddid0
+LI 80 155 80 150 0
+LI 80 150 80 160 0
+MC 135 130 1 0 ey_libraries.pasres0
+LI 135 140 135 150 0
+LI 135 150 140 150 0
+SA 135 150 0
+MC 150 150 0 0 ey_libraries.lognot1
+MC 150 150 0 0 ey_libraries.lognot1
+MC 215 150 0 0 ey_libraries.lognot1
+MC 280 150 0 0 ey_libraries.lognot1
+MC 345 150 0 0 ey_libraries.lognot1
+MC 130 190 0 0 ey_libraries.lognot1
+MC 170 150 0 0 ey_libraries.pasres0
+MC 235 150 0 0 ey_libraries.pasres0
+MC 300 150 0 0 ey_libraries.pasres0
+MC 365 150 0 0 ey_libraries.pasres0
+MC 265 130 1 0 ey_libraries.pasres0
+MC 115 175 1 0 ey_libraries.pasres0
+MC 200 130 1 0 ey_libraries.pasres0
+MC 190 150 1 0 ey_libraries.pascap1
+MC 255 150 1 0 ey_libraries.pascap1
+MC 320 150 1 0 ey_libraries.pascap1
+MC 385 150 1 0 ey_libraries.pascap1
+MC 115 200 0 0 ey_libraries.pascap1
+LI 115 185 115 195 0
+LI 115 195 115 190 0
+LI 115 190 120 190 0
+LI 200 150 200 140 0
+LI 205 150 195 150 0
+LI 260 150 270 150 0
+LI 325 150 335 150 0
+LI 335 150 330 150 0
+LI 330 150 330 140 0
+LI 265 140 265 150 0
+SA 265 150 0
+SA 330 150 0
+SA 200 150 0
+LI 90 120 270 120 0
+LI 270 120 330 120 0
+LI 330 120 330 125 0
+LI 330 125 330 120 0
+LI 330 120 265 120 0
+LI 265 120 265 125 0
+LI 265 125 265 120 0
+LI 265 120 200 120 0
+LI 200 120 200 125 0
+LI 200 125 200 120 0
+LI 200 120 135 120 0
+LI 135 120 135 125 0
+LI 135 125 135 120 0
+LI 135 120 90 120 0
+LI 90 120 90 125 0
+SA 135 120 0
+SA 200 120 0
+SA 265 120 0
+MC 330 130 1 0 ey_libraries.pasres0
+SA 115 190 0
+LI 200 190 200 150 0
+LI 200 150 200 190 0
+LI 200 190 265 190 0
+LI 265 190 265 150 0
+LI 265 150 265 190 0
+LI 265 190 330 190 0
+LI 330 190 330 150 0
+MC 165 160 3 0 ey_libraries.didznr0
+MC 165 170 1 0 ey_libraries.diddid0
+MC 230 170 1 0 ey_libraries.diddid0
+MC 295 170 1 0 ey_libraries.diddid0
+MC 295 160 3 1 ey_libraries.didznr0
+MC 230 160 3 0 ey_libraries.didznr0
+LI 135 150 135 165 0
+LI 135 165 215 165 0
+LI 215 165 390 165 0
+LI 390 165 390 150 0
+SA 165 150 0
+SA 230 150 0
+SA 295 150 0
+LI 165 180 165 210 0
+LI 230 210 230 180 0
+LI 295 180 295 210 0
+MC 75 175 0 0 ey_libraries.refpnt4
+MC 85 175 0 0 ey_libraries.refpnt4
+MC 110 210 0 0 ey_libraries.refpnt4
+MC 165 210 1 0 ey_libraries.refpnt2
+MC 230 210 1 0 ey_libraries.refpnt2
+MC 295 210 1 0 ey_libraries.refpnt2
+MC 345 120 0 1 ey_libraries.diddid0
+MC 365 120 0 1 ey_libraries.diddid0
+MC 115 165 1 0 ey_libraries.refpnt1
+MC 330 115 1 0 ey_libraries.refpnt1
+MC 380 120 0 1 ey_libraries.refpnt1
+SA 330 120 0
+TY 100 130 4 3 0 0 0 Bitstream++Charter 10μF
+TY 125 200 4 3 0 0 0 Bitstream++Charter 10μF
+TY 140 130 4 3 0 0 0 Bitstream++Charter 560kΩ
+TY 205 130 4 3 0 0 0 Bitstream++Charter 560kΩ
+TY 270 130 4 3 0 0 0 Bitstream++Charter 560kΩ
+TY 335 130 4 3 0 0 0 Bitstream++Charter 560kΩ
+TY 185 140 4 3 0 0 0 Bitstream++Charter 470μF
+TY 250 140 4 3 0 0 0 Bitstream++Charter 470μF
+TY 315 140 4 3 0 0 0 Bitstream++Charter 470μF
+TY 375 140 4 3 0 0 0 Bitstream++Charter 470μF
+TY 170 140 4 3 0 0 0 Bitstream++Charter 270Ω
+TY 235 140 4 3 0 0 0 Bitstream++Charter 270Ω
+TY 300 140 4 3 0 0 0 Bitstream++Charter 270Ω
+TY 360 140 4 3 0 0 0 Bitstream++Charter 270Ω
+TY 385 115 4 3 0 0 0 Bitstream++Charter V+
+LI 145 190 200 190 0
+SA 200 190 0
+TY 95 160 4 3 0 0 0 Bitstream++Charter 560kΩ
+TY 120 175 4 3 0 0 0 Bitstream++Charter 330k
+SA 266 190 0
+SA 266 190 0
+SA 265 190 0
+TY 120 160 4 3 0 0 0 Bitstream++Charter V
+TY 330 105 4 3 0 0 0 Bitstream++Charter V
+TY 195 105 4 3 0 0 0 Bitstream++Charter 40106
+TY 175 205 4 3 0 0 0 Bitstream++Charter ZENER 6,2
+TY 240 205 4 3 0 0 0 Bitstream++Charter DIODI 1N4148
+TY 160 220 4 3 0 0 0 Bitstream++Charter PIN 1
+TY 225 220 4 3 0 0 0 Bitstream++Charter PIN 2
+TY 290 220 4 3 0 0 0 Bitstream++Charter PIN 3

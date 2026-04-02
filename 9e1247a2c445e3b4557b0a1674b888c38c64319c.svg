@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="546.0" height="360.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<rect x="21.0" y="21.0" rx="0" ry="0" width="504.0" height="318.0" style="stroke:#19e6df;stroke-dashoffset: 0.0;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.17" fill="#19e6df"/>
+<rect x="9.0" y="9.0" rx="0" ry="0" width="528.0" height="342.0" style="stroke:#f7726f;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<rect x="15.0" y="15.0" rx="0" ry="0" width="516.0" height="330.0" style="stroke:#f7726f;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="135.0,129.0 147.0,93.0 159.0,129.0 183.0,123.0 165.0,153.0 177.0,201.0 147.0,165.0 153.0,165.0 117.0,201.0 129.0,153.0 93.0,141.0 " style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#ffffff"/>
+<polygon points="165.0,153.0 165.0,147.0 261.0,93.0 393.0,57.0 507.0,51.0 393.0,75.0 513.0,75.0 381.0,93.0 507.0,105.0 381.0,111.0 465.0,141.0 387.0,129.0 237.0,141.0 147.0,159.0 177.0,141.0 " style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#ffffff"/>
+<polygon points="291.0,309.0 291.18,308.53 291.36,308.06 291.55,307.6 291.73,307.14 291.92,306.7 292.11,306.26 292.31,305.84 292.51,305.43 292.72,305.05 292.93,304.68 293.15,304.34 293.38,304.02 293.62,303.73 293.86,303.47 294.12,303.24 294.39,303.04 294.67,302.88 294.96,302.76 295.26,302.69 295.58,302.65 295.91,302.67 296.26,302.73 296.62,302.84 297.0,303.0 297.4,303.22 297.8,303.49 298.21,303.8 298.62,304.16 299.03,304.57 299.42,305.0 299.78,305.47 300.13,305.98 300.44,306.5 300.71,307.05 300.94,307.62 301.11,308.2 301.23,308.79 301.29,309.39 301.28,310.0 301.19,310.6 301.01,311.2 300.75,311.79 300.4,312.38 299.95,312.95 299.39,313.5 298.71,314.02 297.92,314.53 297.0,315.0 295.95,315.44 294.79,315.85 293.51,316.22 292.13,316.56 290.67,316.86 289.13,317.13 287.53,317.36 285.87,317.55 284.17,317.71 282.43,317.83 280.68,317.9 278.92,317.94 277.15,317.93 275.4,317.89 273.67,317.8 271.98,317.67 270.33,317.49 268.74,317.28 267.22,317.01 265.77,316.7 264.42,316.35 263.16,315.95 262.02,315.5 261.0,315.0 260.11,314.45 259.35,313.86 258.71,313.23 258.18,312.56 257.76,311.86 257.43,311.13 257.21,310.37 257.06,309.58 257.0,308.78 257.01,307.97 257.09,307.14 257.22,306.3 257.41,305.46 257.64,304.62 257.92,303.78 258.22,302.95 258.55,302.13 258.9,301.32 259.26,300.54 259.62,299.77 259.99,299.03 260.34,298.32 260.68,297.64 261.0,297.0 261.29,296.4 261.55,295.84 261.78,295.31 261.99,294.82 262.17,294.37 262.32,293.96 262.45,293.57 262.55,293.22 262.62,292.9 262.67,292.61 262.69,292.35 262.7,292.11 262.67,291.9 262.63,291.72 262.56,291.56 262.47,291.42 262.36,291.31 262.22,291.21 262.07,291.14 261.89,291.08 261.7,291.04 261.49,291.01 261.25,291.0 261.0,291.0 260.73,291.01 260.44,291.04 260.15,291.07 259.84,291.11 259.52,291.16 259.19,291.21 258.86,291.26 258.53,291.31 258.2,291.37 257.88,291.42 257.56,291.46 257.25,291.51 256.94,291.54 256.66,291.57 256.38,291.58 256.13,291.58 255.89,291.57 255.68,291.55 255.49,291.51 255.33,291.45 255.19,291.37 255.09,291.27 255.03,291.15 255.0,291.0 255.01,290.83 255.06,290.63 255.14,290.41 255.25,290.17 255.4,289.92 255.57,289.65 255.77,289.37 255.99,289.08 256.23,288.78 256.49,288.48 256.78,288.17 257.07,287.87 257.38,287.56 257.7,287.26 258.03,286.97 258.36,286.68 258.7,286.41 259.04,286.15 259.38,285.91 259.72,285.68 260.05,285.47 260.38,285.29 260.69,285.13 261.0,285.0 261.29,284.9 261.57,284.82 261.84,284.77 262.11,284.74 262.36,284.74 262.6,284.75 262.84,284.77 263.07,284.81 263.3,284.85 263.52,284.9 263.75,284.96 263.97,285.02 264.19,285.08 264.42,285.14 264.64,285.19 264.88,285.23 265.11,285.27 265.35,285.29 265.6,285.29 265.86,285.28 266.13,285.25 266.41,285.19 266.7,285.11 267.0,285.0 267.32,284.86 267.65,284.7 267.98,284.5 268.33,284.29 268.68,284.06 269.03,283.8 269.38,283.53 269.73,283.25 270.07,282.96 270.41,282.66 270.74,282.36 271.05,282.05 271.35,281.74 271.63,281.43 271.9,281.13 272.14,280.83 272.36,280.54 272.55,280.27 272.71,280.01 272.84,279.76 272.94,279.54 273.0,279.33 273.02,279.15 273.0,279.0 272.94,278.87 272.84,278.78 272.7,278.7 272.53,278.65 272.33,278.62 272.1,278.61 271.84,278.61 271.57,278.63 271.28,278.66 270.97,278.69 270.65,278.74 270.33,278.79 270.0,278.84 269.67,278.9 269.34,278.95 269.02,279.0 268.7,279.04 268.4,279.08 268.11,279.1 267.84,279.11 267.59,279.11 267.36,279.09 267.17,279.06 267.0,279.0 266.87,278.92 266.77,278.82 266.69,278.69 266.65,278.55 266.62,278.39 266.62,278.21 266.64,278.01 266.67,277.79 266.71,277.57 266.76,277.32 266.82,277.07 266.88,276.8 266.95,276.52 267.01,276.23 267.08,275.93 267.13,275.62 267.17,275.31 267.21,274.99 267.23,274.67 267.23,274.34 267.21,274.0 267.16,273.67 267.1,273.34 267.0,273.0 266.87,272.67 266.72,272.33 266.54,272.0 266.33,271.68 266.11,271.35 265.86,271.04 265.6,270.72 265.33,270.42 265.04,270.12 264.74,269.83 264.44,269.54 264.13,269.27 263.82,269.01 263.52,268.76 263.21,268.51 262.91,268.29 262.62,268.07 262.34,267.87 262.07,267.68 261.81,267.51 261.58,267.36 261.36,267.22 261.17,267.1 261.0,267.0 260.86,266.92 260.74,266.85 260.65,266.81 260.58,266.77 260.53,266.75 260.49,266.74 260.48,266.75 260.48,266.76 260.49,266.78 260.51,266.81 260.54,266.84 260.58,266.87 260.63,266.91 260.68,266.94 260.73,266.98 260.78,267.01 260.83,267.04 260.88,267.06 260.92,267.08 260.96,267.08 260.99,267.08 261.0,267.07 261.01,267.04 261.0,267.0 260.98,266.94 260.94,266.87 260.89,266.78 260.83,266.68 260.76,266.56 260.69,266.42 260.62,266.27 260.54,266.1 260.47,265.91 260.4,265.71 260.34,265.49 260.28,265.25 260.23,265.0 260.2,264.72 260.18,264.43 260.18,264.12 260.19,263.8 260.23,263.45 260.29,263.09 260.37,262.71 260.48,262.31 260.62,261.89 260.79,261.46 261.0,261.0 261.24,260.53 261.52,260.04 261.82,259.54 262.16,259.04 262.53,258.53 262.93,258.03 263.35,257.54 263.79,257.06 264.26,256.6 264.76,256.17 265.27,255.76 265.8,255.38 266.34,255.04 266.9,254.74 267.48,254.48 268.07,254.28 268.66,254.13 269.27,254.03 269.88,254.01 270.5,254.05 271.12,254.17 271.75,254.36 272.37,254.64 273.0,255.0 273.62,255.45 274.24,255.99 274.86,256.6 275.47,257.29 276.07,258.03 276.67,258.82 277.25,259.66 277.83,260.53 278.4,261.44 278.96,262.36 279.5,263.3 280.03,264.24 280.55,265.17 281.05,266.1 281.54,267.01 282.0,267.89 282.45,268.73 282.88,269.53 283.29,270.28 283.68,270.98 284.05,271.6 284.39,272.15 284.71,272.62 285.0,273.0 285.27,273.28 285.51,273.47 285.72,273.58 285.91,273.6 286.08,273.55 286.22,273.44 286.34,273.26 286.43,273.03 286.5,272.75 286.54,272.42 286.57,272.07 286.57,271.68 286.55,271.27 286.51,270.84 286.45,270.4 286.36,269.96 286.26,269.52 286.14,269.08 285.99,268.66 285.83,268.27 285.65,267.89 285.45,267.55 285.24,267.25 285.0,267.0 284.75,266.8 284.48,266.64 284.2,266.54 283.91,266.48 283.61,266.47 283.3,266.5 282.99,266.58 282.68,266.69 282.36,266.85 282.05,267.05 281.74,267.28 281.43,267.55 281.14,267.85 280.85,268.19 280.58,268.55 280.32,268.95 280.07,269.37 279.85,269.82 279.64,270.3 279.46,270.8 279.3,271.32 279.17,271.86 279.07,272.42 279.0,273.0 278.96,273.6 278.96,274.2 278.98,274.82 279.03,275.45 279.12,276.08 279.23,276.71 279.37,277.35 279.54,277.97 279.73,278.59 279.94,279.2 280.18,279.8 280.45,280.38 280.73,280.94 281.03,281.48 281.36,281.99 281.7,282.48 282.06,282.93 282.44,283.35 282.83,283.74 283.24,284.08 283.66,284.38 284.1,284.64 284.54,284.84 285.0,285.0 285.47,285.1 285.94,285.16 286.42,285.16 286.9,285.14 287.37,285.07 287.84,284.99 288.29,284.88 288.73,284.75 289.15,284.61 289.56,284.47 289.93,284.33 290.28,284.19 290.6,284.07 290.88,283.96 291.13,283.87 291.33,283.81 291.48,283.79 291.59,283.8 291.64,283.86 291.64,283.97 291.58,284.13 291.45,284.35 291.26,284.64 291.0,285.0 290.67,285.44 290.27,285.94 289.81,286.51 289.3,287.15 288.74,287.83 288.14,288.56 287.52,289.33 286.87,290.14 286.2,290.98 285.53,291.84 284.85,292.72 284.17,293.61 283.51,294.5 282.87,295.4 282.25,296.28 281.66,297.16 281.11,298.02 280.61,298.85 280.17,299.65 279.78,300.42 279.47,301.14 279.23,301.82 279.07,302.44 279.0,303.0 279.03,303.5 279.14,303.93 279.35,304.3 279.64,304.62 280.01,304.88 280.46,305.08 280.98,305.24 281.57,305.35 282.22,305.42 282.93,305.44 283.7,305.43 284.53,305.38 285.4,305.3 286.31,305.19 287.26,305.05 288.25,304.88 289.28,304.69 290.33,304.49 291.4,304.27 292.5,304.03 293.61,303.78 294.73,303.53 295.86,303.26 297.0,303.0 " style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#ffffff"/>
+<polygon points="165.0,309.0 164.82,308.53 164.64,308.06 164.45,307.6 164.27,307.14 164.08,306.7 163.89,306.26 163.69,305.84 163.49,305.43 163.28,305.05 163.07,304.68 162.85,304.34 162.62,304.02 162.38,303.73 162.14,303.47 161.88,303.24 161.61,303.04 161.33,302.88 161.04,302.76 160.74,302.69 160.42,302.65 160.09,302.67 159.74,302.73 159.38,302.84 159.0,303.0 158.6,303.22 158.2,303.49 157.79,303.8 157.38,304.16 156.97,304.57 156.58,305.0 156.22,305.47 155.87,305.98 155.56,306.5 155.29,307.05 155.06,307.62 154.89,308.2 154.77,308.79 154.71,309.39 154.72,310.0 154.81,310.6 154.99,311.2 155.25,311.79 155.6,312.38 156.05,312.95 156.61,313.5 157.29,314.02 158.08,314.53 159.0,315.0 160.05,315.44 161.21,315.85 162.49,316.22 163.87,316.56 165.33,316.86 166.87,317.13 168.47,317.36 170.13,317.55 171.83,317.71 173.57,317.83 175.32,317.9 177.08,317.94 178.85,317.93 180.6,317.89 182.33,317.8 184.02,317.67 185.67,317.49 187.26,317.28 188.78,317.01 190.23,316.7 191.58,316.35 192.84,315.95 193.98,315.5 195.0,315.0 195.89,314.45 196.65,313.86 197.29,313.23 197.82,312.56 198.24,311.86 198.57,311.13 198.79,310.37 198.94,309.58 199.0,308.78 198.99,307.97 198.91,307.14 198.78,306.3 198.59,305.46 198.36,304.62 198.08,303.78 197.78,302.95 197.45,302.13 197.1,301.32 196.74,300.54 196.38,299.77 196.01,299.03 195.66,298.32 195.32,297.64 195.0,297.0 194.71,296.4 194.45,295.84 194.22,295.31 194.01,294.82 193.83,294.37 193.68,293.96 193.55,293.57 193.45,293.22 193.38,292.9 193.33,292.61 193.31,292.35 193.3,292.11 193.33,291.9 193.37,291.72 193.44,291.56 193.53,291.42 193.64,291.31 193.78,291.21 193.93,291.14 194.11,291.08 194.3,291.04 194.51,291.01 194.75,291.0 195.0,291.0 195.27,291.01 195.56,291.04 195.85,291.07 196.16,291.11 196.48,291.16 196.81,291.21 197.14,291.26 197.47,291.31 197.8,291.37 198.12,291.42 198.44,291.46 198.75,291.51 199.05,291.54 199.34,291.57 199.62,291.58 199.87,291.58 200.11,291.57 200.32,291.55 200.51,291.51 200.67,291.45 200.8,291.37 200.91,291.27 200.97,291.15 201.0,291.0 200.99,290.83 200.94,290.63 200.86,290.41 200.75,290.17 200.61,289.92 200.43,289.65 200.24,289.37 200.01,289.08 199.77,288.78 199.51,288.48 199.23,288.17 198.93,287.87 198.62,287.56 198.31,287.26 197.98,286.97 197.64,286.68 197.3,286.41 196.96,286.15 196.62,285.91 196.29,285.68 195.95,285.47 195.63,285.29 195.31,285.13 195.0,285.0 194.71,284.9 194.42,284.82 194.15,284.77 193.89,284.74 193.64,284.74 193.39,284.75 193.15,284.77 192.92,284.81 192.69,284.85 192.46,284.9 192.24,284.96 192.02,285.02 191.79,285.08 191.57,285.14 191.34,285.19 191.11,285.23 190.87,285.27 190.63,285.29 190.38,285.29 190.13,285.28 189.86,285.25 189.59,285.19 189.3,285.11 189.0,285.0 188.69,284.86 188.36,284.7 188.03,284.5 187.69,284.29 187.35,284.06 187.0,283.8 186.65,283.53 186.31,283.25 185.97,282.96 185.64,282.66 185.32,282.36 185.0,282.05 184.71,281.74 184.43,281.43 184.16,281.13 183.92,280.83 183.7,280.54 183.51,280.27 183.34,280.01 183.2,279.76 183.1,279.54 183.03,279.33 182.99,279.15 183.0,279.0 183.05,278.87 183.13,278.78 183.25,278.7 183.4,278.65 183.59,278.62 183.8,278.61 184.03,278.61 184.28,278.63 184.56,278.65 184.85,278.69 185.15,278.74 185.47,278.79 185.79,278.84 186.11,278.89 186.44,278.95 186.77,279.0 187.09,279.04 187.4,279.07 187.71,279.1 188.0,279.11 188.28,279.11 188.54,279.09 188.78,279.06 189.0,279.0 189.19,278.92 189.36,278.82 189.5,278.7 189.62,278.55 189.71,278.39 189.79,278.21 189.84,278.01 189.88,277.8 189.9,277.57 189.91,277.33 189.9,277.07 189.88,276.81 189.85,276.53 189.8,276.24 189.74,275.94 189.68,275.63 189.61,275.32 189.53,275.0 189.45,274.67 189.36,274.34 189.27,274.01 189.18,273.67 189.09,273.34 189.0,273.0 188.91,272.66 188.83,272.33 188.74,272.0 188.66,271.67 188.59,271.34 188.52,271.02 188.46,270.71 188.4,270.4 188.36,270.1 188.32,269.8 188.29,269.52 188.26,269.24 188.25,268.98 188.25,268.73 188.26,268.48 188.29,268.26 188.32,268.04 188.37,267.84 188.44,267.66 188.52,267.49 188.61,267.34 188.73,267.21 188.85,267.09 189.0,267.0 189.16,266.93 189.35,266.87 189.54,266.83 189.76,266.81 189.98,266.8 190.22,266.8 190.46,266.81 190.72,266.84 190.99,266.86 191.26,266.9 191.53,266.94 191.81,266.97 192.1,267.01 192.38,267.05 192.66,267.09 192.95,267.12 193.23,267.14 193.5,267.16 193.77,267.17 194.04,267.16 194.29,267.15 194.54,267.11 194.78,267.07 195.0,267.0 195.21,266.91 195.41,266.81 195.59,266.69 195.76,266.55 195.91,266.39 196.05,266.21 196.17,266.02 196.27,265.82 196.35,265.6 196.42,265.36 196.46,265.12 196.49,264.86 196.49,264.59 196.47,264.3 196.43,264.01 196.37,263.71 196.29,263.39 196.18,263.07 196.05,262.74 195.89,262.41 195.71,262.06 195.5,261.71 195.26,261.36 195.0,261.0 194.71,260.64 194.39,260.27 194.05,259.9 193.68,259.54 193.29,259.17 192.87,258.82 192.44,258.46 191.99,258.12 191.51,257.78 191.02,257.46 190.52,257.14 189.99,256.84 189.46,256.56 188.91,256.3 188.35,256.05 187.78,255.83 187.2,255.63 186.62,255.45 186.02,255.3 185.43,255.18 184.82,255.09 184.22,255.02 183.61,254.99 183.0,255.0 182.39,255.04 181.78,255.12 181.18,255.22 180.58,255.36 179.98,255.52 179.39,255.71 178.81,255.93 178.24,256.16 177.67,256.41 177.11,256.68 176.57,256.97 176.04,257.26 175.52,257.57 175.01,257.89 174.52,258.21 174.05,258.53 173.6,258.86 173.16,259.18 172.74,259.5 172.35,259.82 171.98,260.13 171.63,260.43 171.3,260.72 171.0,261.0 170.73,261.26 170.48,261.51 170.25,261.74 170.06,261.97 169.89,262.18 169.74,262.39 169.62,262.6 169.52,262.8 169.44,262.99 169.39,263.19 169.36,263.39 169.36,263.6 169.38,263.81 169.42,264.03 169.48,264.25 169.57,264.49 169.67,264.74 169.8,265.01 169.95,265.29 170.12,265.59 170.31,265.91 170.52,266.25 170.75,266.61 171.0,267.0 171.27,267.42 171.55,267.85 171.85,268.32 172.16,268.8 172.48,269.3 172.81,269.81 173.14,270.34 173.48,270.88 173.81,271.42 174.14,271.98 174.46,272.53 174.77,273.09 175.08,273.64 175.37,274.19 175.64,274.74 175.9,275.28 176.14,275.8 176.35,276.32 176.54,276.82 176.7,277.3 176.82,277.76 176.92,278.2 176.98,278.61 177.0,279.0 176.98,279.36 176.92,279.69 176.83,280.0 176.7,280.28 176.55,280.55 176.36,280.8 176.15,281.03 175.92,281.25 175.66,281.46 175.39,281.66 175.1,281.86 174.79,282.05 174.48,282.24 174.15,282.44 173.83,282.64 173.49,282.84 173.16,283.05 172.83,283.28 172.5,283.52 172.18,283.77 171.86,284.05 171.56,284.34 171.27,284.66 171.0,285.0 170.75,285.37 170.51,285.77 170.3,286.19 170.1,286.63 169.93,287.09 169.77,287.57 169.64,288.06 169.53,288.57 169.44,289.1 169.37,289.63 169.33,290.17 169.31,290.71 169.31,291.26 169.33,291.81 169.38,292.36 169.46,292.91 169.56,293.46 169.69,294.0 169.84,294.53 170.02,295.05 170.22,295.56 170.45,296.06 170.71,296.54 171.0,297.0 171.32,297.44 171.65,297.86 172.01,298.27 172.39,298.65 172.78,299.02 173.17,299.37 173.57,299.7 173.97,300.01 174.37,300.31 174.75,300.59 175.13,300.85 175.48,301.1 175.82,301.33 176.13,301.55 176.42,301.76 176.67,301.95 176.88,302.12 177.05,302.28 177.18,302.43 177.26,302.57 177.29,302.7 177.25,302.81 177.16,302.91 177.0,303.0 176.77,303.08 176.48,303.15 176.12,303.21 175.7,303.26 175.22,303.3 174.69,303.34 174.11,303.36 173.47,303.38 172.79,303.39 172.07,303.39 171.31,303.39 170.51,303.38 169.67,303.37 168.8,303.35 167.9,303.33 166.98,303.3 166.03,303.27 165.07,303.24 164.08,303.2 163.08,303.17 162.07,303.13 161.05,303.08 160.03,303.04 159.0,303.0 " style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#ffffff"/>
+<line x1="219.0" y1="267.0" x2="201.0" y2="255.0" style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="303.0,309.0 309.0,315.0 309.0,303.0 315.0,315.0 315.0,309.0 315.0,309.0 321.0,315.0 327.0,315.0 " style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#ffffff"/>
+<polygon points="207.0,315.0 231.0,315.0 225.0,309.0 237.0,315.0 231.0,315.0 237.0,309.0 237.0,315.0 249.0,315.0 " style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#ffffff"/>
+<polygon points="135.0,309.0 141.0,315.0 141.0,303.0 147.0,315.0 147.0,309.0 147.0,309.0 153.0,315.0 159.0,315.0 " style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#ffffff"/>
+<g transform="translate(117.0,93.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(195.0,69.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(195.0,123.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(177.0,93.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(219.0,87.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(219.0,51.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(219.0,69.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(171.0,177.0) rotate(180.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(219.0,105.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(117.0,75.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,105.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,123.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,51.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(219.0,147.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(255.0,153.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(237.0,153.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(297.0,147.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(219.0,123.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(183.0,165.0) rotate(180.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(129.0,33.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(345.0,75.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(345.0,147.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(195.0,141.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(183.0,45.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(147.0,177.0) rotate(180.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(345.0,57.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,69.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(297.0,111.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,141.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,87.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(333.0,153.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(153.0,177.0) rotate(180.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(327.0,33.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(117.0,57.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(375.0,141.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(375.0,87.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(375.0,51.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(375.0,69.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(429.0,69.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(429.0,141.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(429.0,87.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(429.0,105.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(429.0,123.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(429.0,51.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(393.0,69.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(375.0,105.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(375.0,123.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(411.0,93.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(429.0,159.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(375.0,159.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(81.0,309.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(135.0,219.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(135.0,291.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(135.0,237.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(135.0,255.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(297.0,93.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(219.0,141.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(99.0,219.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(81.0,291.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(81.0,237.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(345.0,93.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(345.0,129.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(135.0,309.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(81.0,273.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(297.0,153.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(117.0,237.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(213.0,243.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(219.0,291.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(297.0,129.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(315.0,153.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(225.0,273.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(291.0,33.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(189.0,243.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(171.0,291.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(171.0,237.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(141.0,93.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(171.0,213.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(225.0,309.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(171.0,309.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(225.0,213.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(171.0,255.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(171.0,273.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,309.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,291.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,237.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(453.0,201.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,219.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(243.0,207.0) rotate(180.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(261.0,207.0) rotate(180.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(279.0,207.0) rotate(180.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,255.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(267.0,273.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(309.0,273.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(309.0,255.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(327.0,243.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(309.0,291.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(351.0,243.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(363.0,291.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(363.0,237.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(363.0,255.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(363.0,273.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(357.0,195.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(309.0,213.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(363.0,309.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(309.0,237.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(315.0,195.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(309.0,309.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(363.0,213.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(459.0,189.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(453.0,273.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(453.0,291.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(387.0,297.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(387.0,243.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(387.0,207.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(387.0,225.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(453.0,237.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(453.0,309.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(453.0,255.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(495.0,189.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(387.0,279.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(453.0,219.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(387.0,303.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(387.0,261.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(423.0,303.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(405.0,303.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(477.0,189.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(459.0,243.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(495.0,243.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(477.0,243.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(477.0,303.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(135.0,273.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(297.0,57.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(147.0,33.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(459.0,303.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(495.0,303.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(81.0,201.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(345.0,111.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(297.0,75.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(135.0,201.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(165.0,33.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(81.0,219.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(81.0,255.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(117.0,117.0) rotate(270.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(117.0,153.0) rotate(270.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(117.0,135.0) rotate(270.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(219.0,255.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(159.0,93.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(219.0,195.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(225.0,237.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(309.0,33.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(177.0,195.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<g transform="translate(195.0,87.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#ffc800">Y</text>
+</g>
+<polygon points="99.0,315.0 99.0,255.0 171.0,207.0 339.0,237.0 339.0,315.0 327.0,315.0 327.0,243.0 171.0,219.0 111.0,261.0 111.0,315.0 99.0,315.0 105.0,315.0 " style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.95" fill="#ffffff"/>
+<line x1="237.0" y1="267.0" x2="249.0" y2="261.0" style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.95" fill="none"/>
+<line x1="231.0" y1="267.0" x2="231.0" y2="255.0" style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.95" fill="none"/>
+<line x1="201.0" y1="267.0" x2="207.0" y2="267.0" style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.95" fill="none"/>
+<rect x="213.0" y="297.0" rx="0" ry="0" width="0.5" height="18.0" style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.95" fill="none"/>
+<rect x="207.0" y="297.0" rx="0" ry="0" width="42.0" height="12.0" style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.95" fill="#ffffff"/>
+<line x1="225.0" y1="267.0" x2="219.0" y2="249.0" style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.95" fill="none"/>
+<polygon points="231.0,285.0 230.71,285.04 230.33,285.06 229.89,285.07 229.37,285.06 228.8,285.05 228.18,285.02 227.52,284.98 226.83,284.94 226.12,284.89 225.4,284.84 224.68,284.79 223.96,284.75 223.25,284.7 222.57,284.66 221.92,284.63 221.31,284.61 220.75,284.6 220.25,284.6 219.82,284.62 219.47,284.65 219.2,284.71 219.03,284.78 218.96,284.88 219.0,285.0 219.16,285.15 219.43,285.32 219.8,285.53 220.26,285.76 220.8,286.02 221.4,286.3 222.06,286.62 222.76,286.97 223.5,287.35 224.25,287.76 225.02,288.2 225.79,288.67 226.55,289.17 227.28,289.71 227.99,290.28 228.64,290.89 229.25,291.53 229.78,292.2 230.24,292.91 230.62,293.65 230.89,294.43 231.05,295.25 231.09,296.11 231.0,297.0 230.77,297.93 230.41,298.89 229.92,299.88 229.33,300.88 228.65,301.9 227.87,302.92 227.03,303.95 226.12,304.96 225.17,305.96 224.18,306.95 223.16,307.9 222.13,308.83 221.1,309.71 220.08,310.55 219.08,311.34 218.11,312.06 217.19,312.73 216.33,313.32 215.53,313.83 214.82,314.26 214.19,314.6 213.68,314.84 213.27,314.97 213.0,315.0 212.86,314.91 212.86,314.72 212.98,314.43 213.21,314.05 213.56,313.59 214.01,313.06 214.55,312.48 215.18,311.85 215.89,311.18 216.68,310.47 217.52,309.75 218.43,309.02 219.38,308.29 220.38,307.57 221.41,306.87 222.47,306.19 223.54,305.56 224.63,304.97 225.73,304.44 226.82,303.98 227.9,303.59 228.96,303.3 230.0,303.09 231.0,303.0 231.96,303.02 232.89,303.14 233.77,303.37 234.61,303.68 235.42,304.07 236.18,304.54 236.9,305.06 237.58,305.65 238.22,306.27 238.82,306.93 239.38,307.62 239.9,308.33 240.38,309.05 240.82,309.76 241.22,310.47 241.58,311.16 241.9,311.83 242.17,312.46 242.41,313.04 242.61,313.58 242.77,314.05 242.89,314.45 242.96,314.77 243.0,315.0 243.0,315.14 242.96,315.18 242.88,315.14 242.77,315.01 242.63,314.81 242.46,314.54 242.27,314.19 242.05,313.79 241.8,313.33 241.54,312.82 241.26,312.26 240.96,311.65 240.65,311.02 240.33,310.34 240.0,309.65 239.67,308.93 239.33,308.19 238.98,307.45 238.64,306.69 238.3,305.94 237.96,305.18 237.63,304.44 237.31,303.71 237.0,303.0 236.7,302.31 236.42,301.65 236.16,301.0 235.91,300.38 235.68,299.78 235.47,299.2 235.28,298.63 235.12,298.08 234.99,297.55 234.88,297.04 234.8,296.54 234.74,296.05 234.72,295.58 234.74,295.12 234.78,294.67 234.87,294.23 234.99,293.81 235.15,293.39 235.35,292.97 235.59,292.57 235.87,292.17 236.2,291.78 236.58,291.39 237.0,291.0 237.47,290.62 237.99,290.24 238.54,289.86 239.13,289.49 239.74,289.13 240.37,288.78 241.02,288.43 241.68,288.1 242.35,287.77 243.01,287.46 243.67,287.16 244.31,286.88 244.93,286.61 245.54,286.36 246.11,286.13 246.64,285.91 247.14,285.72 247.59,285.54 247.99,285.39 248.33,285.26 248.6,285.16 248.81,285.08 248.95,285.03 249.0,285.0 248.97,285.0 248.86,285.03 248.67,285.08 248.42,285.15 248.1,285.23 247.72,285.32 247.29,285.42 246.81,285.53 246.29,285.63 245.73,285.74 245.14,285.83 244.52,285.92 243.88,286.0 243.22,286.06 242.56,286.1 241.89,286.11 241.22,286.1 240.56,286.06 239.9,285.99 239.27,285.88 238.65,285.73 238.07,285.53 237.52,285.29 237.0,285.0 236.53,284.65 236.09,284.26 235.7,283.82 235.34,283.34 235.01,282.83 234.71,282.29 234.44,281.72 234.19,281.13 233.96,280.53 233.75,279.91 233.56,279.3 233.37,278.68 233.19,278.06 233.02,277.46 232.86,276.87 232.69,276.3 232.52,275.75 232.34,275.23 232.16,274.75 231.96,274.3 231.75,273.9 231.52,273.54 231.27,273.24 231.0,273.0 230.7,272.82 230.38,272.7 230.04,272.64 229.69,272.63 229.33,272.67 228.95,272.76 228.57,272.89 228.2,273.06 227.82,273.28 227.45,273.53 227.09,273.81 226.75,274.12 226.42,274.46 226.11,274.82 225.83,275.2 225.58,275.59 225.36,276.0 225.17,276.42 225.02,276.85 224.92,277.28 224.86,277.72 224.85,278.15 224.9,278.58 225.0,279.0 225.16,279.41 225.38,279.81 225.64,280.2 225.95,280.57 226.29,280.93 226.66,281.28 227.06,281.62 227.46,281.94 227.88,282.25 228.31,282.55 228.73,282.83 229.14,283.1 229.53,283.35 229.9,283.58 230.25,283.8 230.56,284.01 230.82,284.19 231.04,284.36 231.21,284.51 231.31,284.65 231.35,284.76 231.32,284.86 231.2,284.94 231.0,285.0 " style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.95" fill="#ffffff"/>
+<rect x="219.0" y="291.0" rx="0" ry="0" width="24.0" height="6.0" style="stroke:#ffffff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" opacity="0.95" fill="#ffffff"/>
+<g transform="translate(159.0,93.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(171.0,177.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(345.0,93.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(117.0,117.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(297.0,153.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(183.0,165.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(345.0,57.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(429.0,159.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,105.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(315.0,153.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(297.0,147.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(345.0,147.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(195.0,87.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(345.0,129.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(171.0,237.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(135.0,309.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(195.0,123.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(117.0,153.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(117.0,75.0) rotate(270.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(297.0,111.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(309.0,33.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(297.0,129.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,141.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(135.0,291.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(183.0,45.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(117.0,93.0) rotate(270.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(345.0,75.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(333.0,153.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(279.0,207.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(243.0,207.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(261.0,207.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(453.0,201.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(189.0,201.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(171.0,213.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(171.0,291.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(225.0,291.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(117.0,135.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(219.0,105.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(141.0,93.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(195.0,69.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(219.0,153.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(375.0,87.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(135.0,255.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(297.0,75.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(297.0,93.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(429.0,123.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(135.0,219.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(117.0,57.0) rotate(270.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(81.0,255.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(81.0,273.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(345.0,111.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(87.0,231.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(81.0,309.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(147.0,33.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,129.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(375.0,159.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(129.0,33.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(219.0,69.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(219.0,87.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(219.0,141.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,69.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(255.0,147.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(153.0,177.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(297.0,57.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(81.0,219.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(81.0,237.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(135.0,201.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(375.0,51.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(225.0,273.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(207.0,201.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(225.0,213.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(225.0,237.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(171.0,273.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(201.0,243.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(177.0,261.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(171.0,309.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(225.0,309.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(219.0,51.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(291.0,33.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(327.0,33.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(165.0,33.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(237.0,153.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(195.0,141.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(177.0,93.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(387.0,261.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(477.0,189.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(453.0,255.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(453.0,219.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(453.0,237.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(387.0,279.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(387.0,303.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(423.0,303.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(387.0,297.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(453.0,309.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(453.0,273.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(453.0,291.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(387.0,207.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(387.0,225.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(387.0,243.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(405.0,303.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(459.0,189.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(495.0,189.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,219.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,237.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,291.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(477.0,243.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(459.0,243.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(495.0,243.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(477.0,303.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(459.0,303.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(495.0,303.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,87.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,255.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,273.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(219.0,123.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,309.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(375.0,69.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(375.0,141.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(429.0,141.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(135.0,273.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(429.0,105.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(429.0,51.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(135.0,237.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(429.0,69.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(429.0,87.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(375.0,105.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(375.0,123.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(105.0,231.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(399.0,81.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(381.0,81.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(327.0,201.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(309.0,213.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(267.0,51.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(309.0,237.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(309.0,291.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(363.0,291.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(363.0,273.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(345.0,201.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(135.0,177.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(363.0,213.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(363.0,237.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(309.0,273.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(81.0,201.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(339.0,243.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(315.0,261.0) rotate(-180.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(309.0,309.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(81.0,291.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+<g transform="translate(363.0,309.0) rotate(90.0) scale(-1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#5f5f5f">E</text>
+</g>
+</svg>

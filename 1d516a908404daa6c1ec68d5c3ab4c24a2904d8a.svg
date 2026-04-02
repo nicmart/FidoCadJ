@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="669.0" height="789.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<g transform="translate(42.0,27.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">COND</text>
+</g>
+<g transform="translate(207.0,27.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Description</text>
+</g>
+<g transform="translate(471.0,27.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">CPSR Flag</text>
+</g>
+<g transform="translate(24.0,72.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">{|AL}</text>
+</g>
+<g transform="translate(117.0,72.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Always</text>
+</g>
+<g transform="translate(492.0,72.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">TRUE</text>
+</g>
+<g transform="translate(27.0,117.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">EQ</text>
+</g>
+<g transform="translate(117.0,117.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Equal (the result is 0)</text>
+</g>
+<g transform="translate(477.0,117.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Z == 1</text>
+</g>
+<g transform="translate(27.0,162.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">NEQ</text>
+</g>
+<g transform="translate(117.0,162.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Not Equal (the result is != 0)</text>
+</g>
+<g transform="translate(477.0,162.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Z == 0</text>
+</g>
+<g transform="translate(27.0,207.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">CS | HS</text>
+</g>
+<g transform="translate(117.0,207.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Carry Set</text>
+</g>
+<g transform="translate(477.0,207.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">C == 1</text>
+</g>
+<g transform="translate(27.0,252.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">CC | LO</text>
+</g>
+<g transform="translate(117.0,252.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Carry Clear</text>
+</g>
+<g transform="translate(477.0,252.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">C == 0</text>
+</g>
+<g transform="translate(27.0,297.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">MI</text>
+</g>
+<g transform="translate(117.0,297.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">MInus (the result is &lt; 0)</text>
+</g>
+<g transform="translate(477.0,297.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">N == 1</text>
+</g>
+<g transform="translate(27.0,342.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">PL</text>
+</g>
+<g transform="translate(117.0,342.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">PLus (the result is &gt; 0)</text>
+</g>
+<g transform="translate(477.0,342.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">N == 0</text>
+</g>
+<g transform="translate(27.0,387.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">VS</text>
+</g>
+<g transform="translate(117.0,387.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">V flag is Set (signed overflow)</text>
+</g>
+<g transform="translate(477.0,387.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">V == 1</text>
+</g>
+<g transform="translate(27.0,432.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">VC</text>
+</g>
+<g transform="translate(117.0,432.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">V flag is Clear (~VS)</text>
+</g>
+<g transform="translate(477.0,432.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">V == 0</text>
+</g>
+<g transform="translate(27.0,477.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">HI</text>
+</g>
+<g transform="translate(117.0,477.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">unsigned Higher (after comparision)</text>
+</g>
+<g transform="translate(477.0,477.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">C == 0 &amp;&amp; Z == 0</text>
+</g>
+<g transform="translate(27.0,522.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">LS</text>
+</g>
+<g transform="translate(117.0,522.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">unsigned Lower (after comparision)</text>
+</g>
+<g transform="translate(477.0,522.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">C == 0 &amp;&amp; Z == 1</text>
+</g>
+<g transform="translate(27.0,567.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">GE</text>
+</g>
+<g transform="translate(117.0,567.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">signed Greater than or Equal</text>
+</g>
+<g transform="translate(477.0,567.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">N == V</text>
+</g>
+<g transform="translate(27.0,612.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">LT</text>
+</g>
+<g transform="translate(117.0,612.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">signed Less Than</text>
+</g>
+<g transform="translate(477.0,612.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">N != V</text>
+</g>
+<g transform="translate(27.0,657.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">GT</text>
+</g>
+<g transform="translate(117.0,657.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">signed Greater Than</text>
+</g>
+<g transform="translate(477.0,657.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">N == V &amp;&amp; Z == 0</text>
+</g>
+<g transform="translate(27.0,747.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">NV</text>
+</g>
+<g transform="translate(117.0,702.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">signed Less than or Equal</text>
+</g>
+<g transform="translate(477.0,702.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">N != V || Z == 1</text>
+</g>
+<g transform="translate(27.0,702.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">LE</text>
+</g>
+<g transform="translate(117.0,747.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">NeVer (ARM v1&amp; ARMv2 only)</text>
+</g>
+<g transform="translate(477.0,747.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Liberation Mono, monospace" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">FALSE</text>
+</g>
+<line x1="12.0" y1="12.0" x2="657.0" y2="12.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="657.0" y1="12.0" x2="657.0" y2="777.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="657.0" y1="777.0" x2="12.0" y2="777.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="777.0" x2="12.0" y2="12.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="102.0" y1="12.0" x2="102.0" y2="777.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="447.0" y1="12.0" x2="447.0" y2="777.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="57.0" x2="657.0" y2="57.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="102.0" x2="657.0" y2="102.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="147.0" x2="657.0" y2="147.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="192.0" x2="657.0" y2="192.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="237.0" x2="657.0" y2="237.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="282.0" x2="657.0" y2="282.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="327.0" x2="657.0" y2="327.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="372.0" x2="657.0" y2="372.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="417.0" x2="657.0" y2="417.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="462.0" x2="657.0" y2="462.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="507.0" x2="657.0" y2="507.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="552.0" x2="657.0" y2="552.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="597.0" x2="657.0" y2="597.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="642.0" x2="657.0" y2="642.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="687.0" x2="657.0" y2="687.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+<line x1="12.0" y1="732.0" x2="657.0" y2="732.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6.0"/>
+</svg>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="987.0" height="789.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<rect x="87.0" y="42.0" rx="0" ry="0" width="150.0" height="135.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="132.0" y1="177.0" x2="132.0" y2="237.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="102.0" y1="177.0" x2="102.0" y2="387.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="162.0" y1="177.0" x2="162.0" y2="192.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="177.0" x2="192.0" y2="387.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="222.0" y1="177.0" x2="222.0" y2="342.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="87.0" y1="42.0" x2="87.0" y2="27.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="87.0" y1="27.0" x2="117.0" y2="12.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="117.0" y1="12.0" x2="207.0" y2="12.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="207.0" y1="12.0" x2="237.0" y2="27.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="237.0" y1="27.0" x2="237.0" y2="42.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(93.0,168.0) rotate(-90.0)  scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">SHDN</text>
+</g>
+<g transform="translate(75.0,171.0) rotate(-90.0)  scale(1.2954545454545456,1) "></g>
+<g transform="translate(123.0,168.0) rotate(-90.0)  scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">IN</text>
+</g>
+<g transform="translate(213.0,168.0) rotate(-90.0)  scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">ADJ</text>
+</g>
+<g transform="translate(183.0,168.0) rotate(-90.0)  scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">OUT</text>
+</g>
+<g transform="translate(153.0,168.0) rotate(-90.0)  scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">GND</text>
+</g>
+<line x1="492.0" y1="402.0" x2="492.0" y2="414.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="420.0" x2="492.0" y2="432.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="486.0" y1="414.0" x2="498.0" y2="414.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="486.0" y1="420.0" x2="498.0" y2="420.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="387.0" x2="192.0" y2="399.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="405.0" x2="192.0" y2="417.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="399.0" x2="186.0" y2="399.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="405.0" x2="186.0" y2="405.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="102.0" y1="387.0" x2="102.0" y2="399.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="102.0" y1="405.0" x2="102.0" y2="417.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="108.0" y1="399.0" x2="96.0" y2="399.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="108.0" y1="405.0" x2="96.0" y2="405.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="537.0" y1="378.0" x2="552.0" y2="387.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="507.0" y1="372.0" x2="537.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="537.0" y1="357.0" x2="537.0" y2="387.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="357.0" x2="552.0" y2="342.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="537.0" y1="366.0" x2="552.0" y2="357.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="387.0" x2="552.0" y2="402.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="546.0,387.0 549.0,381.0 552.0,387.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="#000000"/>
+<line x1="417.0" y1="408.0" x2="432.0" y2="417.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="387.0" y1="402.0" x2="417.0" y2="402.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="417.0" y1="387.0" x2="417.0" y2="417.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="432.0" y1="387.0" x2="432.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="417.0" y1="396.0" x2="432.0" y2="387.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="432.0" y1="417.0" x2="432.0" y2="432.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="426.0,417.0 429.0,411.0 432.0,417.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="#000000"/>
+<line x1="162.0" y1="447.0" x2="162.0" y2="462.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="153.0,462.0 171.0,462.0 168.0,465.0 162.0,471.0 156.0,465.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="447.0" x2="492.0" y2="462.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="501.0,462.0 483.0,462.0 486.0,465.0 492.0,471.0 498.0,465.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="102.0" y1="447.0" x2="102.0" y2="462.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="93.0,462.0 111.0,462.0 108.0,465.0 102.0,471.0 96.0,465.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="447.0" x2="192.0" y2="462.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="183.0,462.0 201.0,462.0 198.0,465.0 192.0,471.0 186.0,465.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="432.0" y1="447.0" x2="432.0" y2="462.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="441.0,462.0 423.0,462.0 426.0,465.0 432.0,471.0 438.0,465.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="447.0" x2="552.0" y2="462.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="561.0,462.0 543.0,462.0 546.0,465.0 552.0,471.0 558.0,465.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="297.0" x2="492.0" y2="303.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="321.0" x2="492.0" y2="327.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="486.0" y="303.0" rx="0" ry="0" width="12.0" height="18.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="357.0" x2="372.0" y2="363.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="381.0" x2="372.0" y2="387.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="366.0" y="363.0" rx="0" ry="0" width="12.0" height="18.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="417.0" x2="282.0" y2="423.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="441.0" x2="282.0" y2="447.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="276.0" y="423.0" rx="0" ry="0" width="12.0" height="18.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="267.0" x2="552.0" y2="282.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="327.0" x2="552.0" y2="342.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="552.0" cy="304.5" rx="24.0" ry="22.5" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="552.0" cy="304.5" rx="18.0" ry="16.5" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="267.0" x2="942.0" y2="267.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="297.0" x2="282.0" y2="303.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="321.0" x2="282.0" y2="327.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="276.0,312.0 270.0,309.0 270.0,315.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="#000000"/>
+<line x1="276.0" y1="312.0" x2="267.0" y2="312.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="276.0" y="303.0" rx="0" ry="0" width="12.0" height="18.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="267.0" y1="297.0" x2="267.0" y2="312.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="267.0" y1="297.0" x2="282.0" y2="297.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="297.0" x2="282.0" y2="267.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="327.0" x2="282.0" y2="357.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="267.0" x2="372.0" y2="357.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="447.0" x2="372.0" y2="462.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="381.0,462.0 363.0,462.0 366.0,465.0 372.0,471.0 378.0,465.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="417.0" x2="372.0" y2="423.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="441.0" x2="372.0" y2="447.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="366.0" y="423.0" rx="0" ry="0" width="12.0" height="18.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="387.0" x2="372.0" y2="417.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="702.0" y1="237.0" x2="72.0" y2="237.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="432.0" y1="447.0" x2="432.0" y2="447.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="432.0" y1="432.0" x2="432.0" y2="447.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="507.0" y1="372.0" x2="432.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="402.0" x2="552.0" y2="447.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="402.0" x2="492.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="327.0" x2="492.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="492.0" y1="432.0" x2="492.0" y2="447.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="942.0" y1="267.0" x2="948.0" y2="267.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="954.0" cy="267.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="951.0" y1="267.0" x2="957.0" y2="267.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="954.0" y1="264.0" x2="954.0" y2="270.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="942.0" y1="372.0" x2="948.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="954.0" cy="372.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="951.0" y1="372.0" x2="957.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="702.0" y1="447.0" x2="702.0" y2="462.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="693.0,462.0 711.0,462.0 708.0,465.0 702.0,471.0 696.0,465.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="942.0" y1="372.0" x2="753.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="27.0" y1="237.0" x2="21.0" y2="237.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="15.0" cy="237.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="18.0" y1="237.0" x2="12.0" y2="237.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="15.0" y1="234.0" x2="15.0" y2="240.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="27.0" y1="342.0" x2="21.0" y2="342.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="15.0" cy="342.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="18.0" y1="342.0" x2="12.0" y2="342.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="42.0" y1="447.0" x2="42.0" y2="462.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="51.0,462.0 33.0,462.0 36.0,465.0 42.0,471.0 48.0,465.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="27.0" y1="342.0" x2="42.0" y2="342.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="42.0" y1="342.0" x2="42.0" y2="447.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<circle cx="282.0" cy="297.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="282.0" cy="267.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="192.0" cy="267.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="132.0" cy="237.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="372.0" cy="402.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="492.0" cy="372.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="102.0" cy="237.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="27.0" y1="237.0" x2="42.0" y2="237.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="72.0" y1="237.0" x2="57.0" y2="237.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="42.0" y1="237.0" x2="57.0" y2="228.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(243.0,63.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">IC1</text>
+</g>
+<g transform="translate(438.0,390.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">TR2</text>
+</g>
+<g transform="translate(384.0,423.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R3</text>
+</g>
+<g transform="translate(384.0,363.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R2</text>
+</g>
+<g transform="translate(204.0,390.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">C3</text>
+</g>
+<g transform="translate(114.0,390.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">C2</text>
+</g>
+<g transform="translate(504.0,405.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">C1</text>
+</g>
+<g transform="translate(456.0,303.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R1</text>
+</g>
+<g transform="translate(357.0,672.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">TR2</text>
+</g>
+<g transform="translate(582.0,294.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">BUZ1</text>
+</g>
+<g transform="translate(9.0,279.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">Vin</text>
+</g>
+<g transform="translate(45.0,204.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">S1</text>
+</g>
+<g transform="translate(294.0,423.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R6</text>
+</g>
+<g transform="translate(294.0,303.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R4</text>
+</g>
+<g transform="translate(756.0,309.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">Vout</text>
+</g>
+<g transform="translate(12.0,522.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">Vin</text>
+</g>
+<g transform="translate(72.0,642.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">10 kΩ pot. lin.</text>
+</g>
+<g transform="translate(357.0,522.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">C1</text>
+</g>
+<g transform="translate(12.0,537.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">Vout</text>
+</g>
+<g transform="translate(12.0,657.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R6</text>
+</g>
+<g transform="translate(12.0,642.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R4</text>
+</g>
+<g transform="translate(12.0,627.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R3</text>
+</g>
+<g transform="translate(12.0,612.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R2</text>
+</g>
+<g transform="translate(357.0,537.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">C2</text>
+</g>
+<g transform="translate(417.0,522.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">10 μF ceram. (t ≈ 31 ms)</text>
+</g>
+<g transform="translate(417.0,537.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">10 μF ceram.</text>
+</g>
+<g transform="translate(417.0,552.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">10 μF ceram.</text>
+</g>
+<g transform="translate(357.0,552.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">C3</text>
+</g>
+<g transform="translate(72.0,627.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">10 kΩ</text>
+</g>
+<g transform="translate(72.0,612.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">8,2 kΩ</text>
+</g>
+<g transform="translate(417.0,657.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">BC238A o equiv.</text>
+</g>
+<g transform="translate(72.0,657.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">3,3 kΩ</text>
+</g>
+<g transform="translate(72.0,522.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">5 V stab.</text>
+</g>
+<g transform="translate(72.0,537.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">1,2 - 4,5 V stab.</text>
+</g>
+<g transform="translate(357.0,612.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">DL1</text>
+</g>
+<g transform="translate(357.0,627.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">DL2</text>
+</g>
+<g transform="translate(357.0,702.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">BUZ1</text>
+</g>
+<g transform="translate(417.0,612.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">LED verde</text>
+</g>
+<g transform="translate(417.0,627.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">LED rosso</text>
+</g>
+<g transform="translate(357.0,657.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">TR1</text>
+</g>
+<g transform="translate(12.0,762.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">IC1</text>
+</g>
+<g transform="translate(72.0,762.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">TL1963A LDO adjustable regulator - TO263 (KTT) SMT package</text>
+</g>
+<g transform="translate(417.0,672.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">BC238A o equiv.</text>
+</g>
+<g transform="translate(72.0,567.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">interruttore</text>
+</g>
+<g transform="translate(12.0,567.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">S1</text>
+</g>
+<g transform="translate(417.0,702.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">Buzzer piezo 5-15 V</text>
+</g>
+<line x1="702.0" y1="411.0" x2="702.0" y2="447.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(72.0,597.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">39 kΩ</text>
+</g>
+<g transform="translate(12.0,597.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R1</text>
+</g>
+<g transform="translate(558.0,360.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">TR1</text>
+</g>
+<line x1="282.0" y1="447.0" x2="282.0" y2="462.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="273.0,462.0 291.0,462.0 288.0,465.0 282.0,471.0 276.0,465.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<circle cx="282.0" cy="342.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="282.0" y1="417.0" x2="282.0" y2="387.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<circle cx="282.0" cy="357.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(294.0,363.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R5</text>
+</g>
+<line x1="267.0" y1="357.0" x2="282.0" y2="357.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="267.0" y1="357.0" x2="267.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="357.0" x2="282.0" y2="363.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="282.0" y1="381.0" x2="282.0" y2="387.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="276.0,372.0 270.0,369.0 270.0,375.0 " style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="#000000"/>
+<line x1="276.0" y1="372.0" x2="267.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="276.0" y="363.0" rx="0" ry="0" width="12.0" height="18.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(72.0,672.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">470 Ω trimmer (tensione max)</text>
+</g>
+<g transform="translate(12.0,672.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">R5</text>
+</g>
+<line x1="642.0" y1="267.0" x2="642.0" y2="327.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<circle cx="642.0" cy="267.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="162.0" y1="447.0" x2="162.0" y2="192.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="657.0" y="318.0" rx="0" ry="0" width="81.0" height="48.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="660.0" y="321.0" rx="0" ry="0" width="75.0" height="42.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="657.0,327.0 651.0,333.0 651.0,321.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="#000000"/>
+<line x1="642.0" y1="327.0" x2="651.0" y2="327.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="222.0" y1="342.0" x2="282.0" y2="342.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="660.0" y="366.0" rx="0" ry="0" width="75.0" height="42.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<polygon points="738.0,372.0 744.0,366.0 744.0,378.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="#000000"/>
+<line x1="753.0" y1="372.0" x2="744.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="657.0" y="363.0" rx="0" ry="0" width="81.0" height="48.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<circle cx="372.0" cy="267.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="387.0" y1="402.0" x2="372.0" y2="402.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="102.0" y1="417.0" x2="102.0" y2="447.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="192.0" y1="417.0" x2="192.0" y2="447.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<circle cx="552.0" cy="237.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="492.0" y1="297.0" x2="492.0" y2="237.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="552.0" y1="267.0" x2="552.0" y2="237.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<circle cx="492.0" cy="237.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(597.0,384.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">VA1</text>
+</g>
+<line x1="702.0" y1="237.0" x2="702.0" y2="318.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="702.0" y1="414.0" x2="702.0" y2="450.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6"/>
+<line x1="687.0" y1="282.0" x2="687.0" y2="318.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="687.0" y1="282.0" x2="687.0" y2="315.0" style="stroke:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="882.0" y1="312.0" x2="882.0" y2="324.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="882.0" y1="330.0" x2="882.0" y2="342.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="876.0" y1="324.0" x2="888.0" y2="324.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="876.0" y1="330.0" x2="888.0" y2="330.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="822.0" y1="312.0" x2="822.0" y2="324.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="816.0" y1="330.0" x2="828.0" y2="330.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="822.0" y1="330.0" x2="822.0" y2="342.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="828.0" y1="315.0" x2="828.0" y2="321.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="825.0" y1="318.0" x2="831.0" y2="318.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<rect x="816.0" y="324.0" rx="0" ry="0" width="12.0" height="3.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(894.0,315.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">C5</text>
+</g>
+<g transform="translate(834.0,315.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">C4</text>
+</g>
+<line x1="822.0" y1="312.0" x2="822.0" y2="267.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="882.0" y1="312.0" x2="882.0" y2="267.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="822.0" y1="342.0" x2="822.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<line x1="882.0" y1="342.0" x2="882.0" y2="372.0" style="stroke:#000000;stroke-width:2.25;fill-rule: evenodd;" fill="none"/>
+<circle cx="822.0" cy="267.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="882.0" cy="267.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="882.0" cy="372.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="822.0" cy="372.0" r="3.0" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(357.0,582.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">C5</text>
+</g>
+<g transform="translate(357.0,567.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">C4</text>
+</g>
+<g transform="translate(417.0,582.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">470 nF ceram.</text>
+</g>
+<g transform="translate(417.0,567.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">470 μF elettrolitico</text>
+</g>
+<g transform="translate(939.0,309.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">Vout</text>
+</g>
+<g transform="translate(72.0,732.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">Volt-Amperometro digitale 3 cifre a LED - 0-30 V, 0-10 A - Alim. 4-30 V</text>
+</g>
+<g transform="translate(12.0,732.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#000000">VA1</text>
+</g>
+<g transform="translate(294.0,9.0) scale(1.3818181818181818,1) "><text x="0.0" y="15.0" font-family="Verdana" font-size="15.0" font-style="" font-weigth="" fill="#000000">ALIMENTATORE 1,2...4,5 V 1,5 A con allarme cortocircuito</text>
+</g>
+<g transform="translate(747.0,375.0) scale(1.3818181818181818,1) "><text x="0.0" y="15.0" font-family="Verdana" font-size="15.0" font-style="" font-weigth="" fill="#ff0000">A</text>
+</g>
+<line x1="642.0" y1="294.0" x2="642.0" y2="327.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6"/>
+<line x1="642.0" y1="327.0" x2="648.0" y2="327.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:6"/>
+<line x1="681.0" y1="390.0" x2="681.0" y2="399.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="705.0" y1="390.0" x2="705.0" y2="399.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="669.0" y1="402.0" x2="678.0" y2="402.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="666.0" y1="390.0" x2="666.0" y2="399.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="690.0" y1="390.0" x2="690.0" y2="399.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="690.0" y1="375.0" x2="690.0" y2="384.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="669.0" y1="387.0" x2="678.0" y2="387.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="693.0" y1="402.0" x2="702.0" y2="402.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="669.0" y1="372.0" x2="678.0" y2="372.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="693.0" y1="372.0" x2="702.0" y2="372.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="717.0" y1="387.0" x2="726.0" y2="387.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="705.0" y1="375.0" x2="705.0" y2="384.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="681.0" y1="375.0" x2="681.0" y2="384.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="666.0" y1="375.0" x2="666.0" y2="384.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="702.0" y1="282.0" x2="702.0" y2="315.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="717.0" y1="402.0" x2="726.0" y2="402.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="717.0" y1="372.0" x2="726.0" y2="372.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="729.0" y1="375.0" x2="729.0" y2="384.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="714.0" y1="375.0" x2="714.0" y2="384.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="714.0" y1="390.0" x2="714.0" y2="399.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="693.0" y1="387.0" x2="702.0" y2="387.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="729.0" y1="390.0" x2="729.0" y2="399.0" style="stroke:#ff0000;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<g transform="translate(228.0,180.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#008080">5</text>
+</g>
+<g transform="translate(198.0,180.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#008080">4</text>
+</g>
+<g transform="translate(108.0,180.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#008080">1</text>
+</g>
+<g transform="translate(138.0,180.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#008080">2</text>
+</g>
+<g transform="translate(168.0,180.0) scale(1.2954545454545456,1) "><text x="0.0" y="12.0" font-family="Verdana" font-size="12.0" font-style="" font-weigth="" fill="#008080">3</text>
+</g>
+<line x1="747.0" y1="372.0" x2="777.0" y2="372.0" style="stroke:#ffc800;stroke-linejoin:round;stroke-linecap:round;stroke-width:6"/>
+<line x1="714.0" y1="330.0" x2="714.0" y2="339.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="669.0" y1="357.0" x2="678.0" y2="357.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="717.0" y1="327.0" x2="726.0" y2="327.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="717.0" y1="357.0" x2="726.0" y2="357.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="681.0" y1="345.0" x2="681.0" y2="354.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="717.0" y1="342.0" x2="726.0" y2="342.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="666.0" y1="330.0" x2="666.0" y2="339.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="729.0" y1="330.0" x2="729.0" y2="339.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="693.0" y1="327.0" x2="702.0" y2="327.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="666.0" y1="345.0" x2="666.0" y2="354.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="681.0" y1="330.0" x2="681.0" y2="339.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<g transform="translate(747.0,330.0) scale(1.3818181818181818,1) "><text x="0.0" y="15.0" font-family="Verdana" font-size="15.0" font-style="" font-weigth="" fill="#0180ff">V</text>
+</g>
+<line x1="705.0" y1="330.0" x2="705.0" y2="339.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="729.0" y1="345.0" x2="729.0" y2="354.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="690.0" y1="345.0" x2="690.0" y2="354.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="714.0" y1="345.0" x2="714.0" y2="354.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="693.0" y1="357.0" x2="702.0" y2="357.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="693.0" y1="342.0" x2="702.0" y2="342.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="705.0" y1="345.0" x2="705.0" y2="354.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="669.0" y1="342.0" x2="678.0" y2="342.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="669.0" y1="327.0" x2="678.0" y2="327.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+<line x1="690.0" y1="330.0" x2="690.0" y2="339.0" style="stroke:#0180ff;stroke-linejoin:round;stroke-linecap:round;stroke-width:3"/>
+</svg>

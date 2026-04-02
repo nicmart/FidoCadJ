@@ -1,0 +1,143 @@
+[FIDOCAD]
+MC 95 130 0 0 ey_libraries.opaopa0
+MC 85 180 0 1 ey_libraries.opaopa0
+MC 155 140 0 0 ihram.relspdt
+MC 145 155 3 0 ihram.ma27
+MC 125 100 0 0 ihram.ld01
+MC 180 85 2 0 ihram.ma27
+MC 40 110 1 1 ey_libraries.pasres5
+MC 60 170 3 0 ey_libraries.pasres5
+MC 150 110 0 0 ey_libraries.trnbjt0
+MC 20 90 0 0 ey_libraries.pascap1
+MC 170 90 0 0 ey_libraries.pascap1
+MC 15 140 0 0 ey_libraries.pascap1
+MC 50 115 0 0 ey_libraries.pascap1
+MC 90 85 0 0 ey_libraries.pasres0
+MC 25 140 1 0 ey_libraries.pasres0
+MC 40 145 1 0 ey_libraries.pasres0
+MC 40 90 1 0 ey_libraries.pasres0
+MC 60 150 1 0 ey_libraries.pasres0
+MC 115 175 1 0 ey_libraries.pasres0
+MC 115 195 3 0 ey_libraries.pasres0
+MC 125 115 1 0 ey_libraries.pasres0
+MC 145 120 3 0 ey_libraries.pasres0
+MC 50 125 0 0 elettrotecnica.ms05
+MC 15 150 0 0 elettrotecnica.ms05
+MC 25 150 0 0 elettrotecnica.ms05
+MC 40 155 0 0 elettrotecnica.ms05
+MC 170 100 0 0 elettrotecnica.ms05
+MC 115 200 0 0 elettrotecnica.ms05
+MC 155 160 0 0 elettrotecnica.ms05
+MC 25 110 0 1 000
+MC 25 120 0 1 000
+MC 180 85 0 0 010
+LI 20 85 85 85 0
+LI 100 85 170 85 0
+SA 40 85 0
+SA 170 85 0
+LI 25 85 25 110 0
+LI 25 120 25 130 0
+LI 15 135 70 135 0
+LI 40 135 40 120 0
+LI 40 120 40 140 0
+LI 25 125 25 135 0
+SA 25 135 0
+LI 45 110 50 110 0
+LI 85 110 85 125 0
+SA 50 110 0
+LI 40 100 60 100 0
+LI 60 100 60 145 0
+LI 60 180 70 180 0
+LI 65 170 65 180 0
+SA 65 180 0
+SA 40 100 0
+LI 95 185 110 185 0
+LI 110 130 110 175 0
+LI 115 170 115 85 0
+SA 115 85 0
+LI 155 85 155 105 0
+LI 155 115 155 140 0
+LI 155 140 145 140 0
+LI 145 140 145 145 0
+LI 155 160 145 160 0
+LI 145 160 145 155 0
+SA 155 160 0
+LI 125 100 125 85 0
+LI 125 130 145 130 0
+LI 125 130 125 125 0
+SA 125 130 0
+LI 145 125 145 130 0
+SA 125 85 0
+SA 155 85 0
+TY 5 95 4 3 0 0 0 * LDR
+TY 75 145 4 3 0 0 0 * IC1 LM393
+TY 65 160 4 3 0 0 0 * IC2 LM393
+MC 145 95 1 0 ey_libraries.pasres0
+MC 70 110 0 0 ey_libraries.pasres0
+LI 50 110 60 110 0
+LI 70 135 75 135 0
+LI 95 175 100 175 0
+LI 110 185 115 185 0
+SA 115 185 0
+LI 100 175 110 175 0
+SA 110 130 0
+LI 110 130 125 130 0
+LI 75 135 85 135 0
+LI 80 110 85 110 0
+LI 55 110 65 110 0
+MC 100 110 1 0 ey_libraries.pascap0
+LI 85 110 90 110 0
+LI 105 110 110 110 0
+LI 110 110 110 130 0
+SA 85 110 0
+MC 20 95 0 0 elettrotecnica.ms05
+TY 5 130 4 3 0 0 0 * C2
+TY 50 120 4 3 0 0 0 * C1
+TY 30 105 4 3 0 0 0 * P1
+TY 50 165 4 3 0 0 0 * P2
+SA 25 85 0
+TY 160 110 4 3 0 0 0 * T1
+TY 130 100 4 3 0 0 0 * LD1
+TY 130 120 4 3 0 0 0 * R9
+TY 150 120 4 3 0 0 0 * R8
+MC 65 35 1 0 ey_libraries.trnmos0
+MC 130 25 0 0 elettrotecnica.mcc
+MC 160 10 0 0 010
+MC 40 20 0 0 ey_libraries.didznr0
+MC 30 40 0 0 ey_libraries.pasres0
+MC 40 35 3 1 ey_libraries.trnbjt1
+MC 65 20 1 0 ey_libraries.pasres0
+LI 40 10 160 10 0
+LI 140 20 140 10 0
+LI 120 20 80 20 0
+LI 80 20 80 40 0
+LI 80 40 70 40 0
+LI 65 15 65 10 0
+LI 60 40 40 40 0
+MC 25 40 1 0 elettrotecnica.ms05
+LI 35 30 25 30 0
+LI 25 30 25 40 0
+LI 45 30 50 30 0
+LI 50 30 65 30 0
+LI 35 20 25 20 0
+LI 25 20 25 30 0
+LI 50 20 50 30 0
+SA 65 10 0
+SA 65 30 0
+SA 50 30 0
+SA 25 30 0
+SA 25 40 0
+SA 40 40 0
+TY 15 45 4 3 0 0 0 * R= 0.65 / Isc
+TY 15 10 4 3 0 0 0 * Vz = 10 v
+TY 70 15 4 3 0 0 0 * 10 kohm
+TY 65 100 4 3 0 0 2 * 3k3
+LI 145 90 145 85 2
+SA 145 110 2
+RV 80 120 65 95 2
+SA 145 85 2
+TY 90 90 4 3 0 0 2 * 100 n
+LI 145 110 145 105 2
+RV 105 115 90 100 2
+RV 150 105 140 85 2
+TY 135 75 4 3 0 0 2 * 10 kohm

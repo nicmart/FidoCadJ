@@ -1,0 +1,126 @@
+[FIDOCAD]
+FJC C 1.5
+FJC B 0.5
+MC 33 30 0 0 ey_libraries.genvis1
+FCJ
+TY 23 35 4 3 0 0 0 Times++New++Roman E
+TY 43 40 4 3 0 0 0 Times++New++Roman 
+MC 84 30 1 0 ey_libraries.pasres0
+FCJ
+TY 89 33 4 3 0 0 0 Times++New++Roman R1
+TY 94 40 4 3 0 0 0 Times++New++Roman 
+LI 33 27 33 16 0
+LI 56 16 84 16 0
+LI 84 26 84 16 0
+LI 33 40 33 52 0
+LI 33 52 50 52 0
+LI 84 52 84 40 0
+MC 55 52 0 0 ey_libraries.pasres0
+FCJ
+TY 53 56 4 3 0 0 0 Times++New++Roman R2
+TY 65 62 4 3 0 0 0 Times++New++Roman 
+LI 64 52 84 52 0
+LI 40 22 40 47 0
+FCJ 2 0 3 2 0 1
+TY 45 27 4 3 0 0 0 Times++New++Roman V
+TY 45 32 4 3 0 0 0 Times++New++Roman 
+LI 78 22 78 47 0
+FCJ 2 0 3 2 0 1
+TY 70 26 4 3 0 0 0 Times++New++Roman V1
+TY 83 32 4 3 0 0 0 Times++New++Roman 
+LI 71 63 46 63 0
+FCJ 1 0 3 2 0 1
+TY 58 67 4 3 0 0 0 Times++New++Roman V2
+TY 61 68 4 3 0 0 0 Times++New++Roman 
+LI 33 16 57 16 0
+FCJ 2 0 3 1 0 1
+TY 45 9 4 3 0 0 0 Times++New++Roman I
+TY 38 26 4 3 0 0 0 Times++New++Roman 
+MC 33 98 0 0 ey_libraries.genvis1
+FCJ
+TY 23 102 4 3 0 0 0 Times++New++Roman E
+TY 43 108 4 3 0 0 0 Times++New++Roman 
+MC 84 98 1 0 ey_libraries.pasres0
+FCJ
+TY 89 101 4 3 0 0 0 Times++New++Roman R1
+TY 94 108 4 3 0 0 0 Times++New++Roman 
+LI 33 95 33 84 0
+LI 56 84 84 84 0
+LI 84 94 84 84 0
+LI 33 108 33 120 0
+LI 33 120 50 120 0
+LI 84 120 84 108 0
+MC 55 120 0 0 ey_libraries.pasres0
+FCJ
+TY 53 124 4 3 0 0 0 Times++New++Roman R2
+TY 65 130 4 3 0 0 0 Times++New++Roman 
+LI 64 120 84 120 0
+LI 40 90 40 115 0
+FCJ 1 0 3 2 0 1
+TY 45 95 4 3 0 0 0 Times++New++Roman V
+TY 45 100 4 3 0 0 0 Times++New++Roman 
+LI 78 90 78 115 0
+FCJ 1 0 3 2 0 1
+TY 70 94 4 3 0 0 0 Times++New++Roman V1
+TY 83 100 4 3 0 0 0 Times++New++Roman 
+LI 71 131 46 131 0
+FCJ 1 0 3 2 0 1
+TY 58 135 4 3 0 0 0 Times++New++Roman V2
+TY 61 136 4 3 0 0 0 Times++New++Roman 
+LI 33 84 57 84 0
+FCJ 2 0 3 1 0 1
+TY 45 77 4 3 0 0 0 Times++New++Roman I
+TY 38 94 4 3 0 0 0 Times++New++Roman 
+MC 36 165 0 0 ey_libraries.genvis1
+FCJ
+TY 26 170 4 3 0 0 0 Times++New++Roman E
+TY 46 175 4 3 0 0 0 Times++New++Roman 
+MC 87 165 1 0 ey_libraries.pasres0
+FCJ
+TY 92 168 4 3 0 0 0 Times++New++Roman R1
+TY 97 175 4 3 0 0 0 Times++New++Roman 
+LI 36 162 36 151 0
+LI 59 151 87 151 0
+LI 87 161 87 151 0
+LI 36 175 36 187 0
+LI 36 187 53 187 0
+LI 87 187 87 175 0
+MC 58 187 0 0 ey_libraries.pasres0
+FCJ
+TY 56 191 4 3 0 0 0 Times++New++Roman R2
+TY 68 197 4 3 0 0 0 Times++New++Roman 
+LI 67 187 87 187 0
+LI 43 157 43 182 0
+FCJ 1 0 3 2 0 1
+TY 48 162 4 3 0 0 0 Times++New++Roman V
+TY 48 167 4 3 0 0 0 Times++New++Roman 
+LI 81 157 81 182 0
+FCJ 2 0 3 2 0 1
+TY 73 161 4 3 0 0 0 Times++New++Roman V1
+TY 86 167 4 3 0 0 0 Times++New++Roman 
+LI 74 198 49 198 0
+FCJ 2 0 3 2 0 1
+TY 61 202 4 3 0 0 0 Times++New++Roman V2
+TY 64 203 4 3 0 0 0 Times++New++Roman 
+LI 36 151 60 151 0
+FCJ 2 0 3 1 0 1
+TY 48 144 4 3 0 0 0 Times++New++Roman I
+TY 41 161 4 3 0 0 0 Times++New++Roman 
+TY 106 20 4 3 0 1 0 Times++New++Roman V+V2-V1=0
+TY 107 85 4 3 0 1 0 Times++New++Roman V-V2-V1=0
+TY 109 152 4 3 0 1 0 Times++New++Roman V+V2+V1=0
+TY 108 30 4 3 0 0 0 Times++New++Roman V= - E
+TY 110 95 4 3 0 0 0 Times++New++Roman V=E
+TY 111 164 4 3 0 0 0 Times++New++Roman V=E
+TY 108 38 4 3 0 0 0 Times++New++Roman V1= - R1xI
+TY 110 46 4 3 0 0 0 Times++New++Roman V2=R2xI
+TY 111 105 4 3 0 0 0 Times++New++Roman V1=R1xI
+TY 111 113 4 3 0 0 0 Times++New++Roman V2=R2xI
+TY 112 171 4 3 0 0 0 Times++New++Roman V1= - R1xI
+TY 112 179 4 3 0 0 0 Times++New++Roman V2= - R2xI
+TY 157 32 4 3 0 0 0 Times++New++Roman I=E/(R1+R2)
+PV 140 33 146 33 146 30 152 34 147 40 147 37 140 37 0
+TY 161 97 4 3 0 0 0 Times++New++Roman I=E/(R1+R2)
+PV 144 98 150 98 150 95 156 99 151 105 151 102 144 102 0
+TY 165 166 4 3 0 0 0 Times++New++Roman I=E/(R1+R2)
+PV 148 167 154 167 154 164 160 168 155 174 155 171 148 171 0

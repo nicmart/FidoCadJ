@@ -1,0 +1,96 @@
+[FIDOCAD]
+FJC C 1.0
+FJC A 0.2
+FJC B 0.2
+MC 43 83 0 0 ey_libraries.trftrf1
+MC 65 75 1 0 210
+MC 55 85 1 0 210
+MC 65 95 0 0 210
+MC 55 85 0 0 210
+LI 65 75 48 75 0
+LI 48 75 48 80 0
+LI 65 95 48 95 0
+LI 48 93 48 95 0
+LI 55 85 55 127 0
+LI 110 78 97 78 0
+LI 97 78 97 84 0
+LI 135 75 204 74 0
+LI 204 43 204 74 0
+LI 143 95 143 127 0
+LI 84 109 84 127 0
+LI 97 116 97 127 0
+LI 110 93 101 93 0
+LI 122 135 122 105 0
+LI 179 57 154 57 0
+LI 157 38 157 57 0
+LI 167 43 167 48 0
+LI 154 33 154 47 0
+LI 84 70 110 70 0
+LI 144 66 144 52 0
+LI 84 85 84 56 0
+LI 128 105 128 115 0
+LI 135 95 141 95 0
+LI 155 95 213 95 0
+LI 150 85 135 85 0
+LI 117 33 117 62 0
+LI 129 127 55 127 0
+LI 75 85 84 85 0
+LI 84 99 84 111 0
+LI 167 48 190 48 0
+LI 135 66 144 66 0
+LI 117 56 84 56 0
+LI 189 33 117 33 0
+LI 179 38 179 57 0
+MC 84 90 0 0 ey_libraries.pascap1
+PL 110 105 135 105 1.0 0
+PL 135 62 135 105 1.0 0
+PL 110 105 110 62 1.0 0
+PL 110 62 135 62 1.0 0
+MC 133 115 3 0 ey_libraries.pascap0
+MC 204 111 0 0 ey_libraries.pascap1
+MC 103 83 0 0 ey_libraries.pascap1
+MC 149 52 0 0 ey_libraries.trnbjt1
+MC 162 38 0 0 ey_libraries.trnbjt1
+MC 184 38 0 0 ey_libraries.trnbjt1
+MC 145 95 0 0 ey_libraries.pasres0
+MC 133 127 0 0 ey_libraries.pasres0
+MC 194 48 0 0 ey_libraries.pasres0
+MC 194 43 0 0 ey_libraries.pasres0
+MC 155 85 1 0 ey_libraries.pasres5
+MC 97 93 3 0 ey_libraries.pasres5
+MC 97 106 1 0 ey_libraries.pasres0
+LI 122 135 204 135 0
+LI 204 135 204 117 0
+SA 204 95 0
+SA 122 127 0
+MC 213 95 0 0 ey_libraries.refpnt2
+TY 55 65 2 2 0 3 0 Javanese++Text P100V 10A
+TY 65 95 2 2 0 3 0 Javanese++Text 8600uF
+TY 67 99 2 2 0 3 0 Javanese++Text 63V
+TY 99 95 2 2 0 3 0 Javanese++Text 5k
+TY 99 110 2 2 0 3 0 Javanese++Text 390
+TY 99 72 2 2 0 3 0 Javanese++Text 10uF
+TY 123 115 2 2 0 3 0 Javanese++Text 0.1uF
+TY 116 62 2 2 0 2 0 Javanese++Text 12
+TY 112 66 2 2 0 3 0 Javanese++Text 11
+TY 113 75 2 2 0 2 0 Javanese++Text 6
+TY 113 89 2 2 0 2 0 Javanese++Text 5
+TY 121 98 2 2 0 2 0 Javanese++Text 7
+TY 127 98 2 2 0 2 0 Javanese++Text 13
+TY 130 91 2 2 0 2 0 Javanese++Text 4
+TY 130 82 2 2 0 2 0 Javanese++Text 3
+TY 130 72 2 2 0 2 0 Javanese++Text 2
+TY 129 63 2 2 0 2 0 Javanese++Text 10
+TY 111 80 3 3 0 3 0 Javanese++Text uA723
+TY 135 44 2 2 0 3 0 Javanese++Text SD882
+TY 170 25 2 2 0 3 0 Javanese++Text 2x SD1047
+TY 182 52 2 2 0 3 0 Javanese++Text 2x 0.1 10W
+TY 159 82 2 2 0 3 0 Javanese++Text 500
+TY 127 128 2 2 0 3 0 Javanese++Text 120
+TY 146 97 2 2 0 3 0 Javanese++Text 330
+TY 188 116 2 2 0 3 0 Javanese++Text 220uF
+TY 190 120 2 2 0 3 0 Javanese++Text 50V
+TY 211 87 2 2 0 3 0 Javanese++Text OUT
+MC 204 78 1 0 ey_libraries.pasres0
+TY 179 78 2 2 0 3 0 Javanese++Text 0.22 10W
+LI 204 86 204 107 0

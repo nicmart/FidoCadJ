@@ -1,0 +1,118 @@
+[FIDOCAD]
+FJC B 0.5
+TY 139 157 4 3 0 0 0 Abyssinica++SIL 1/gm
+LI 136 193 166 193 0
+SA 136 185 0
+TY 115 165 4 3 0 0 0 Abyssinica++SIL r
+TY 117 167 3 2 0 0 0 Abyssinica++SIL o
+TY 76 176 4 3 0 0 0 Abyssinica++SIL .
+SA 103 151 0
+SA 123 151 0
+SA 90 185 0
+TY 74 157 4 3 0 0 0 Abyssinica++SIL 1/gm
+LI 136 206 136 201 0
+SA 136 220 0
+MC 136 216 2 1 ey_libraries.gendcs0
+MC 136 231 3 0 ey_libraries.pasres0
+LI 90 220 136 220 0
+MC 149 223 3 0 ey_libraries.pasres0
+LI 136 204 149 204 0
+LI 149 204 149 213 0
+LI 90 238 149 238 0
+LI 149 238 149 228 0
+LI 136 238 136 236 0
+SA 136 204 0
+SA 136 238 0
+LI 90 183 90 223 0
+MC 90 228 1 0 ey_libraries.pasres0
+MC 136 239 0 0 ey_libraries.refpnt5
+SA 90 169 0
+MC 90 173 0 0 ey_libraries.gendcs0
+MC 90 158 1 0 ey_libraries.pasres0
+LI 73 169 90 169 0
+MC 103 166 1 0 ey_libraries.pasres0
+LI 90 185 103 185 0
+LI 103 185 103 176 0
+LI 90 151 125 151 0
+LI 103 151 103 161 0
+LI 90 151 90 153 0
+LI 136 185 136 203 0
+SA 136 169 0
+MC 136 175 0 1 ey_libraries.gendcs0
+MC 136 158 1 0 ey_libraries.pasres0
+LI 152 169 136 169 0
+MC 123 166 1 0 ey_libraries.pasres0
+LI 136 185 123 185 0
+LI 123 185 123 176 0
+LI 136 151 123 151 0
+LI 123 151 123 161 0
+LI 136 151 136 153 0
+TY 68 177 4 3 0 0 0 Abyssinica++SIL gm vgs
+TY 116 206 4 3 0 0 0 Abyssinica++SIL g'  v
+TY 107 165 4 3 0 0 0 Abyssinica++SIL r
+TY 109 167 3 2 0 0 0 Abyssinica++SIL o
+TY 142 174 4 3 0 0 0 Abyssinica++SIL gm vgs
+TY 150 173 4 3 0 0 0 Abyssinica++SIL .
+SA 90 220 0
+TY 123 205 4 3 0 0 0 Abyssinica++SIL .
+SA 136 193 0
+TY 126 208 3 2 0 0 0 Abyssinica++SIL gs5
+TY 119 208 3 2 0 0 0 Abyssinica++SIL m
+TY 129 228 3 2 0 0 0 Abyssinica++SIL m
+TY 155 219 3 2 0 0 0 Abyssinica++SIL o
+TY 121 226 4 3 0 0 0 Abyssinica++SIL 1/g'
+TY 153 217 4 3 0 0 0 Arial r'
+MC 152 169 0 0 ey_libraries.refpnt5
+MC 73 169 0 0 ey_libraries.refpnt5
+MC 166 198 0 0 ey_libraries.genivs0
+MC 166 208 0 0 ey_libraries.refpnt5
+TY 173 199 4 3 0 0 0 Abyssinica++SIL v
+TY 175 201 3 2 0 0 0 Abyssinica++SIL x
+TY 154 184 4 3 0 0 0 Abyssinica++SIL i
+TY 155 186 3 2 0 0 0 Abyssinica++SIL x
+LI 158 191 152 191 0
+FCJ 2 0 2 1 0 0
+TY 71 135 4 3 0 0 1 Arimo CG con carico 1/gm'
+CV 1 80 150 65 161 62 185 94 192 110 178 109 160 92 148 1
+FCJ 0 0 3 2 2 0
+TY 99 212 4 3 0 0 2 Arimo 0 A
+TY 140 186 4 3 0 0 2 Arimo i
+TY 155 228 3 2 0 0 2 Abyssinica++SIL x
+LI 138 191 138 186 2
+FCJ 2 0 2 1 0 0
+TY 160 228 3 2 0 0 2 Abyssinica++SIL o
+TY 113 143 4 3 0 0 2 Arimo i
+LI 87 198 87 206 2
+FCJ 2 0 2 1 0 0
+TY 84 198 4 3 0 0 2 Abyssinica++SIL i
+LI 142 209 142 216 2
+FCJ 2 0 2 1 0 0
+LI 104 242 112 242 2
+FCJ 2 0 2 1 0 0
+TY 104 243 4 3 0 0 2 Abyssinica++SIL ≈i
+TY 143 208 4 3 0 0 2 Arimo i
+TY 153 226 4 3 0 0 2 Arimo v /r'
+LI 152 227 152 234 2
+FCJ 2 0 2 1 0 0
+TY 71 228 4 3 0 0 2 Arimo ≈1/gm'
+LI 98 218 110 218 2
+FCJ 2 0 2 1 0 0
+LI 118 149 110 149 2
+FCJ 2 0 2 1 0 0
+TY 156 238 4 3 0 0 4 Arimo Specchio
+CV 1 93 208 77 219 71 238 101 248 148 243 164 216 122 204 4
+FCJ 0 0 3 2 2 0
+LI 113 153 113 159 7
+LI 107 153 113 153 7
+FCJ 1 0 2 1 0 1
+TY 114 154 4 3 0 0 7 Arimo Rin
+TY 112 163 4 3 0 0 7 Arimo 
+LI 133 195 127 195 7
+LI 133 189 133 195 7
+FCJ 1 0 2 1 0 1
+TY 123 195 4 3 0 0 7 Arimo Ro4
+TY 123 194 4 3 0 0 7 Arimo 
+CV 1 126 152 122 163 117 185 149 184 163 171 151 153 142 146 8
+FCJ 0 0 3 2 2 0
+TY 136 138 4 3 0 0 8 Arimo CG degenerazione
+TY 149 143 4 3 0 0 8 Arimo di source

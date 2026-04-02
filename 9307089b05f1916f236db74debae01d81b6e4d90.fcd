@@ -1,0 +1,956 @@
+[FIDOCAD]
+FJC C 1.5
+FJC A 0.35
+FJC B 0.5
+MC 71 156 0 0 ey_libraries.pasres0
+FCJ
+TY 67 160 2 2 0 0 0 Verdana R1
+TY 75 160 2 2 0 0 0 Verdana 100 Ω
+LI 116 76 36 76 0
+LI 81 156 116 156 0
+LI 36 156 66 156 0
+MC 71 146 0 0 ey_libraries.pasres0
+FCJ
+TY 67 137 2 2 0 0 0 Verdana R2
+TY 75 137 2 2 0 0 0 Verdana 47 Ω
+MC 56 126 1 0 ey_libraries.pasres0
+FCJ
+TY 41 121 2 2 0 0 0 Verdana R3
+TY 41 126 2 2 0 0 0 Verdana 680 Ω
+MC 76 96 2 0 ey_libraries.didled0
+FCJ
+TY 71 81 2 2 0 0 0 Verdana DL1
+TY 66 86 2 2 0 0 0 Verdana LED SX
+LI 91 171 91 146 0
+LI 81 146 91 146 0
+LI 56 171 56 151 0
+MC 76 171 0 1 ey_libraries.diddid0
+FCJ
+TY 66 176 2 2 0 0 0 Verdana DS1
+TY 76 176 2 2 0 0 0 Verdana 1N4001
+LI 66 171 56 171 0
+LI 81 171 91 171 0
+SA 56 156 0
+SA 91 156 0
+SA 56 116 0
+MC 36 76 2 0 010
+FCJ
+TY 31 61 2 2 0 0 0 Verdana Vcc
+TY 31 66 2 2 0 0 0 Verdana 12 V
+MC 36 156 2 0 020
+LI 116 86 116 156 0
+LI 116 166 106 166 0
+LI 106 166 106 76 0
+SA 106 76 0
+SA 116 156 0
+LI 125 83 125 159 0
+FCJ 0 0 3 2 3 0
+LI 131 81 166 81 0
+MC 176 91 2 0 ey_libraries.diddid0
+LI 166 91 166 81 0
+SA 166 81 0
+SA 181 91 0
+SA 166 161 0
+LI 131 161 166 161 0
+MC 176 151 2 0 ey_libraries.diddid0
+LI 166 151 166 161 0
+SA 181 151 0
+LI 56 96 56 121 0
+MC 91 96 0 1 ey_libraries.diddid0
+FCJ
+TY 86 81 2 2 0 0 0 Verdana DS2
+TY 86 86 2 2 0 0 0 Verdana 1N4148
+MC 91 116 0 1 ey_libraries.diddid0
+FCJ
+TY 86 121 2 2 0 0 0 Verdana DS3
+TY 86 126 2 2 0 0 0 Verdana 1N4148
+MC 76 116 2 0 ey_libraries.didled0
+FCJ
+TY 76 121 2 2 0 0 0 Verdana DL2
+TY 66 126 2 2 0 0 0 Verdana LED DX
+LI 56 116 66 116 0
+LI 56 96 66 96 0
+LI 96 116 141 116 0
+LI 141 116 141 161 0
+LI 96 96 141 96 0
+LI 141 96 141 81 0
+SA 141 81 0
+SA 141 161 0
+LI 164 113 164 110 0
+LI 164 110 181 110 0
+LI 181 110 181 81 0
+LI 181 161 181 130 0
+LI 164 128 164 132 0
+LI 164 132 181 132 0
+SA 181 110 0
+MC 181 120 0 0 ey_libraries.mtrmtr1
+MC 164 118 0 0 ey_libraries.pascap0
+FCJ
+TY 156 114 2 2 0 0 0 Verdana C2
+TY 157 123 2 2 0 0 0 Verdana 100 nF
+SA 181 132 0
+MC 166 81 3 1 elettrotecnica.finc
+MC 166 161 3 1 elettrotecnica.finc
+MC 121 86 2 0 ey_libraries.refpnt1
+MC 121 76 2 0 ey_libraries.refpnt1
+MC 131 81 2 0 ey_libraries.refpnt1
+LI 119 81 126 81 0
+MC 131 161 2 0 ey_libraries.refpnt1
+LI 119 161 126 161 0
+MC 121 166 2 0 ey_libraries.refpnt1
+MC 121 156 2 0 ey_libraries.refpnt1
+LI 379 165 379 175 0
+SA 394 165 0
+MC 284 90 0 0 ey_libraries.pasres0
+FCJ
+TY 280 82 2 2 0 0 0 Verdana R1
+TY 288 82 2 2 0 0 0 Verdana 100 Ω
+LI 279 90 249 90 0
+LI 294 90 329 90 0
+LI 249 170 329 170 0
+MC 274 100 0 1 ey_libraries.trnbjt0
+FCJ
+TY 254 95 2 2 0 0 0 Verdana TR1
+TY 254 100 2 2 0 0 0 Verdana BC327
+MC 284 100 0 0 ey_libraries.pasres0
+FCJ
+TY 280 103 2 2 0 0 0 Verdana R2
+TY 288 103 2 2 0 0 0 Verdana 47 Ω
+MC 269 115 1 0 ey_libraries.pasres0
+FCJ
+TY 254 115 2 2 0 0 0 Verdana R3
+TY 254 120 2 2 0 0 0 Verdana 680 Ω
+MC 284 130 0 0 ey_libraries.didled0
+FCJ
+TY 279 115 2 2 0 0 0 Verdana DL1
+TY 274 120 2 2 0 0 0 Verdana LED DX
+LI 269 95 269 75 0
+LI 294 100 304 100 0
+LI 304 100 304 75 0
+MC 284 75 0 0 ey_libraries.diddid0
+FCJ
+TY 279 67 2 2 0 0 0 Verdana DS1
+TY 289 67 2 2 0 0 0 Verdana 1N4001
+LI 279 75 269 75 0
+LI 294 75 304 75 0
+SA 269 90 0
+SA 304 90 0
+SA 269 130 0
+MC 249 90 2 0 010
+FCJ
+TY 244 75 2 2 0 0 0 Verdana Vcc
+TY 244 80 2 2 0 0 0 Verdana 12 V
+MC 249 170 2 0 020
+LI 329 100 329 170 0
+LI 329 180 319 180 0
+LI 319 180 319 90 0
+SA 319 90 0
+SA 329 170 0
+LI 338 97 338 173 0
+FCJ 0 0 3 2 3 0
+LI 344 95 379 95 0
+MC 389 105 2 0 ey_libraries.diddid0
+LI 379 105 379 95 0
+SA 379 95 0
+SA 394 105 0
+SA 379 175 0
+LI 344 175 379 175 0
+MC 389 165 2 0 ey_libraries.diddid0
+LI 394 124 394 95 0
+LI 394 175 394 144 0
+LI 269 125 269 150 0
+MC 299 130 0 0 ey_libraries.diddid0
+FCJ
+TY 299 115 2 2 0 0 0 Verdana DS2
+TY 299 120 2 2 0 0 0 Verdana 1N4148
+MC 299 150 0 0 ey_libraries.diddid0
+FCJ
+TY 299 155 2 2 0 0 0 Verdana DS3
+TY 299 160 2 2 0 0 0 Verdana 1N4148
+MC 284 150 0 0 ey_libraries.didled0
+FCJ
+TY 279 155 2 2 0 0 0 Verdana DL2
+TY 274 160 2 2 0 0 0 Verdana LED SX
+LI 269 150 279 150 0
+LI 269 130 279 130 0
+LI 309 150 354 150 0
+LI 354 150 354 175 0
+LI 309 130 354 130 0
+LI 354 130 354 95 0
+SA 354 95 0
+SA 354 175 0
+LI 269 105 269 110 0
+LI 377 127 377 124 0
+LI 377 124 394 124 0
+MC 334 170 2 0 ey_libraries.refpnt1
+MC 379 175 3 1 elettrotecnica.finc
+LI 377 142 377 146 0
+LI 377 146 394 146 0
+SA 394 124 0
+MC 394 134 0 0 ey_libraries.mtrmtr1
+MC 377 132 0 0 ey_libraries.pascap0
+FCJ
+TY 379 127 2 2 0 0 0 Verdana C2
+TY 370 137 2 2 0 0 0 Verdana 100 nF
+SA 394 146 0
+MC 379 95 3 1 elettrotecnica.finc
+LI 332 95 339 95 0
+MC 334 100 2 0 ey_libraries.refpnt1
+MC 334 90 2 0 ey_libraries.refpnt1
+MC 344 95 2 0 ey_libraries.refpnt1
+LI 332 175 339 175 0
+MC 344 175 2 0 ey_libraries.refpnt1
+MC 334 180 2 0 ey_libraries.refpnt1
+MC 61 146 0 1 ey_libraries.trnbjt1
+FCJ
+TY 41 141 2 2 0 0 0 Verdana TR1
+TY 41 146 2 2 0 0 0 Verdana BC337
+LI 56 136 56 141 0
+TY 66 56 4 3 0 0 0 Verdana Versione con transistor NPN:
+TY 279 55 4 3 0 0 0 Verdana Versione con transistor PNP:
+MC 293 249 1 0 ey_libraries.didled0
+MC 313 249 1 1 ey_libraries.didled0
+LI 293 244 313 244 0
+MC 278 249 3 0 ey_libraries.diddid0
+FCJ
+TY 288 259 2 2 0 0 0 Verdana 
+TY 258 239 2 2 0 0 0 Verdana 1N4148
+MC 147 285 0 0 ey_libraries.pasres0
+FCJ
+TY 143 277 2 2 0 0 0 Verdana R1
+TY 151 277 2 2 0 0 0 Verdana 100 Ω
+LI 142 285 82 285 0
+LI 157 285 187 285 0
+LI 82 345 187 345 0
+MC 202 315 0 0 ey_libraries.mtrmtr1
+LI 202 345 202 325 0
+LI 202 305 202 285 0
+MC 132 295 0 1 ey_libraries.trnbjt0
+FCJ
+TY 117 290 2 2 0 0 0 Verdana TR1
+TY 112 295 2 2 0 0 0 Verdana BC327
+MC 147 295 0 0 ey_libraries.pasres0
+FCJ
+TY 143 298 2 2 0 0 0 Verdana R2
+TY 151 298 2 2 0 0 0 Verdana 10 Ω
+MC 117 335 1 0 ey_libraries.pasres0
+FCJ
+TY 122 335 2 2 0 0 0 Verdana R3
+TY 122 340 2 2 0 0 0 Verdana 680 Ω
+MC 127 320 1 1 ey_libraries.didled0
+FCJ
+TY 132 320 2 2 0 0 0 Verdana DL1
+TY 132 325 2 2 0 0 0 Verdana LED
+LI 92 285 92 240 0
+LI 157 295 167 295 0
+LI 167 295 167 240 0
+MC 142 255 0 0 ey_libraries.diddid0
+FCJ
+TY 137 260 2 2 0 0 0 Verdana DS1
+TY 147 260 2 2 0 0 0 Verdana 1N4001
+LI 137 255 92 255 0
+LI 152 255 167 255 0
+SA 127 285 0
+SA 167 285 0
+SA 117 330 0
+MC 132 275 0 1 ey_libraries.trnbjt1
+FCJ
+TY 117 270 2 2 0 0 0 Verdana TR2
+TY 112 275 2 2 0 0 0 Verdana BC337
+LI 137 275 137 295 0
+SA 137 295 0
+LI 137 295 142 295 0
+LI 127 290 127 280 0
+MC 107 325 3 1 ey_libraries.didled0
+FCJ
+TY 92 320 2 2 0 0 0 Verdana DL2
+TY 92 325 2 2 0 0 0 Verdana LED
+LI 107 300 107 270 0
+LI 107 270 127 270 0
+SA 117 345 0
+SA 92 285 0
+SA 92 255 0
+SA 167 255 0
+MC 147 240 2 0 ey_libraries.diddid0
+FCJ
+TY 137 230 2 2 0 0 0 Verdana DS2
+TY 147 230 2 2 0 0 0 Verdana 1N4001
+LI 137 240 92 240 0
+LI 152 240 167 240 0
+MC 127 305 1 0 ey_libraries.diddid0
+FCJ
+TY 132 305 2 2 0 0 0 Verdana DS3
+TY 132 310 2 2 0 0 0 Verdana 1N4148
+MC 107 310 3 0 ey_libraries.diddid0
+FCJ
+TY 87 300 2 2 0 0 0 Verdana DS4
+TY 87 305 2 2 0 0 0 Verdana 1N4148
+LI 127 330 107 330 0
+LI 37 340 67 340 0
+SA 107 315 0
+SA 127 315 0
+MC 202 285 3 1 780
+MC 202 345 3 1 780
+MC 197 295 2 0 ey_libraries.diddid0
+LI 187 295 187 285 0
+MC 197 335 2 0 ey_libraries.diddid0
+LI 187 335 187 345 0
+SA 187 285 0
+SA 202 295 0
+SA 187 345 0
+SA 202 335 0
+LI 67 350 52 350 0
+LI 52 350 52 280 0
+LI 37 280 67 280 0
+MC 37 280 2 0 010
+FCJ
+TY 32 265 2 2 0 0 0 Verdana Vcc
+TY 32 270 2 2 0 0 0 Verdana 12 V
+MC 67 280 1 1 880
+MC 67 340 1 1 880
+LI 67 290 62 290 0
+LI 62 290 62 340 0
+LI 75 286 75 341 0
+FCJ 0 0 3 2 3 0
+SA 62 340 0
+SA 52 280 0
+MC 37 340 2 0 020
+SA 304 368 0
+SA 324 348 0
+SA 284 348 0
+SA 302 290 0
+SA 302 280 0
+LI 247 305 257 305 0
+MC 267 305 2 0 ey_libraries.pasres0
+FCJ
+TY 262 315 2 2 0 0 0 Verdana 
+TY 262 310 2 2 0 0 0 Verdana 680 Ω
+MC 328 249 3 0 ey_libraries.diddid0
+FCJ
+TY 338 259 2 2 0 0 0 Verdana 
+TY 333 239 2 2 0 0 0 Verdana 1N4148
+LI 303 244 303 234 0
+LI 293 259 273 259 0
+LI 278 259 278 254 0
+LI 278 239 278 234 0
+LI 278 234 328 234 0
+LI 328 234 328 239 0
+LI 328 254 328 259 0
+LI 338 259 313 259 0
+SA 303 244 0
+SA 303 234 0
+MC 338 259 0 0 ey_libraries.refpnt0
+MC 268 259 2 0 ey_libraries.pasres0
+FCJ
+TY 263 269 2 2 0 0 0 Verdana 
+TY 263 264 2 2 0 0 0 Verdana 680 Ω
+SA 278 259 0
+SA 328 259 0
+MC 243 259 0 0 ey_libraries.refpnt3
+FCJ
+TY 263 264 2 2 0 0 0 Verdana 
+TY 243 249 2 2 0 0 0 Verdana ± 12 V
+LI 248 259 258 259 0
+LI 327 280 327 285 0
+MC 312 300 3 0 ey_libraries.didled0
+MC 292 300 3 1 ey_libraries.didled0
+LI 292 290 312 290 0
+MC 277 290 1 0 ey_libraries.diddid0
+FCJ
+TY 267 280 2 2 0 0 0 Verdana 
+TY 257 285 2 2 0 0 0 Verdana 1N4148
+MC 327 290 1 0 ey_libraries.diddid0
+FCJ
+TY 317 285 2 2 0 0 0 Verdana 
+TY 332 285 2 2 0 0 0 Verdana 1N4148
+LI 302 290 302 280 0
+LI 292 305 272 305 0
+LI 277 305 277 300 0
+LI 277 285 277 280 0
+LI 277 280 327 280 0
+MC 337 305 0 0 ey_libraries.refpnt0
+LI 327 300 327 305 0
+LI 337 305 312 305 0
+MC 304 343 1 0 ey_libraries.didled0
+FCJ
+TY 314 348 2 2 0 0 0 Verdana 
+TY 294 348 2 2 0 0 0 Verdana LED
+LI 299 333 304 327 0
+LI 304 327 309 333 0
+LI 319 343 324 348 0
+SA 277 305 0
+SA 327 305 0
+MC 242 305 0 0 ey_libraries.refpnt3
+FCJ
+TY 262 310 2 2 0 0 0 Verdana 
+TY 242 295 2 2 0 0 0 Verdana ± 12 V
+LI 284 348 274 348 0
+MC 339 348 0 0 ey_libraries.refpnt0
+LI 339 348 324 348 0
+LI 249 348 259 348 0
+MC 269 348 2 0 ey_libraries.pasres0
+FCJ
+TY 264 358 2 2 0 0 0 Verdana 
+TY 264 353 2 2 0 0 0 Verdana 680 Ω
+MC 244 348 0 0 ey_libraries.refpnt3
+FCJ
+TY 264 353 2 2 0 0 0 Verdana 
+TY 244 338 2 2 0 0 0 Verdana ± 12 V
+MC 294 358 2 0 ey_libraries.didid1
+FCJ
+TY 284 353 2 2 0 0 0 Verdana 
+TY 279 363 2 2 0 0 0 Verdana 1N4148
+MC 314 338 2 0 ey_libraries.didid1
+FCJ
+TY 304 333 2 2 0 0 0 Verdana 
+TY 319 328 2 2 0 0 0 Verdana 1N4148
+MC 314 358 3 0 ey_libraries.didid1
+FCJ
+TY 324 363 2 2 0 0 0 Verdana 
+TY 319 363 2 2 0 0 0 Verdana 1N4148
+MC 294 338 3 0 ey_libraries.didid1
+FCJ
+TY 304 343 2 2 0 0 0 Verdana 
+TY 279 328 2 2 0 0 0 Verdana 1N4148
+LI 284 348 289 343 0
+LI 304 338 304 328 0
+LI 304 353 304 368 0
+SA 304 327 0
+LI 324 348 319 353 0
+LI 309 363 304 368 0
+LI 304 368 299 363 0
+LI 289 353 284 348 0
+TY 54 1 5 5 0 1 0 Arial++Narrow Visualizzatori di direzione UP/DOWN per la  Loop Magnetica di I6VMS
+TY 55 12 5 5 0 1 0 Arial++Narrow tratti dai suggerimenti dei frequentatori del Forum di ELECTROYOU
+TY 85 212 5 5 0 1 0 Arial++Narrow <!-- l --><a class="postlink-local" href="https://www.electroyou.it/forum/viewtopic.php?f=1&amp;t=75827&amp;p=794116#p793816">viewtopic.php?f=1&amp;t=75827&amp;p=794116#p793816</a><!-- l -->
+TY 23 40 5 5 0 1 0 Arial++Narrow post all'indirizzo:
+TY 84 40 5 5 0 1 0 Arial++Narrow <!-- l --><a class="postlink-local" href="https://www.electroyou.it/forum/viewtopic.php?f=1&amp;t=75827&amp;start=20#p794270">viewtopic.php?f=1&amp;t=75827&amp;start=20#p794270</a><!-- l -->
+TY 23 212 5 5 0 1 0 Arial++Narrow post all'indirizzo:
+MC 150 109 2 0 ey_libraries.pascap0
+FCJ
+TY 138 101 2 2 0 0 0 Verdana C1
+TY 134 105 2 2 0 0 0 Verdana 50  nF
+LI 150 99 150 81 0
+LI 150 114 150 161 0
+SA 150 161 0
+SA 150 81 0
+MC 366 123 2 0 ey_libraries.pascap0
+FCJ
+TY 359 113 2 2 0 0 0 Verdana C1
+TY 360 123 2 2 0 0 0 Verdana 50  nF
+LI 366 113 366 95 0
+LI 366 128 366 175 0
+SA 366 175 0
+SA 366 95 0
+MC 174 313 2 0 ey_libraries.pascap0
+FCJ
+TY 162 305 2 2 0 0 0 Verdana C1
+TY 158 309 2 2 0 0 0 Verdana 50  nF
+LI 174 303 174 285 0
+LI 174 318 174 345 0
+SA 174 345 0
+SA 174 285 0
+SA 186 723 0
+LI 209 670 209 667 0
+LI 209 667 226 667 0
+LI 96 698 101 698 0
+SA 101 698 0
+LI 209 685 209 689 0
+LI 209 689 226 689 0
+SA 226 667 0
+MC 226 677 0 0 ey_libraries.mtrmtr1
+MC 116 873 0 0 ey_libraries.pasres0
+FCJ
+TY 112 877 2 2 0 0 0 Verdana R1
+TY 120 877 2 2 0 0 0 Verdana 100 Ω
+LI 51 783 41 783 0
+LI 126 873 161 873 0
+LI 41 873 111 873 0
+MC 116 863 0 0 ey_libraries.pasres0
+FCJ
+TY 112 854 2 2 0 0 0 Verdana R2
+TY 120 854 2 2 0 0 0 Verdana 47 Ω
+MC 101 843 1 0 ey_libraries.pasres0
+FCJ
+TY 86 838 2 2 0 0 0 Verdana R3
+TY 86 843 2 2 0 0 0 Verdana 680 Ω
+MC 116 803 2 0 ey_libraries.didled0
+FCJ
+TY 111 788 2 2 0 0 0 Verdana DL1
+TY 106 793 2 2 0 0 0 Verdana LED SX
+LI 136 888 136 863 0
+LI 126 863 136 863 0
+LI 101 888 101 868 0
+MC 121 888 0 1 ey_libraries.diddid0
+FCJ
+TY 111 893 2 2 0 0 0 Verdana DS1
+TY 121 893 2 2 0 0 0 Verdana 1N4001
+LI 111 888 101 888 0
+LI 126 888 136 888 0
+SA 101 873 0
+SA 136 873 0
+SA 101 833 0
+MC 41 783 2 0 010
+FCJ
+TY 36 768 2 2 0 0 0 Verdana Vcc
+TY 36 773 2 2 0 0 0 Verdana 12 V
+MC 41 873 2 0 020
+LI 161 793 161 873 0
+LI 161 883 151 883 0
+LI 151 883 151 783 0
+SA 151 783 0
+SA 161 873 0
+LI 170 790 170 876 0
+FCJ 0 0 3 2 3 0
+LI 176 788 211 788 0
+MC 221 798 2 0 ey_libraries.diddid0
+LI 211 798 211 788 0
+SA 211 788 0
+SA 226 798 0
+SA 211 878 0
+LI 176 878 211 878 0
+MC 221 868 2 0 ey_libraries.diddid0
+LI 211 868 211 878 0
+SA 226 868 0
+LI 101 803 101 838 0
+MC 131 803 0 1 ey_libraries.diddid0
+FCJ
+TY 126 788 2 2 0 0 0 Verdana DS2
+TY 126 793 2 2 0 0 0 Verdana 1N4148
+MC 131 833 0 1 ey_libraries.diddid0
+FCJ
+TY 126 838 2 2 0 0 0 Verdana DS3
+TY 126 843 2 2 0 0 0 Verdana 1N4148
+LI 101 833 106 833 0
+LI 101 803 106 803 0
+LI 136 833 186 833 0
+LI 186 833 186 878 0
+LI 136 803 186 803 0
+LI 186 803 186 788 0
+SA 186 788 0
+SA 186 878 0
+LI 209 825 209 822 0
+LI 209 822 226 822 0
+LI 226 822 226 788 0
+LI 226 878 226 842 0
+LI 209 840 209 844 0
+LI 209 844 226 844 0
+SA 226 822 0
+MC 226 832 0 0 ey_libraries.mtrmtr1
+MC 209 830 0 0 ey_libraries.pascap0
+FCJ
+TY 219 835 2 2 0 0 0 Verdana 
+TY 201 816 2 2 0 0 0 Verdana 100 nF
+SA 226 844 0
+MC 211 788 3 1 elettrotecnica.finc
+MC 211 878 3 1 elettrotecnica.finc
+MC 166 793 2 0 ey_libraries.refpnt1
+MC 166 783 2 0 ey_libraries.refpnt1
+MC 176 788 2 0 ey_libraries.refpnt1
+LI 164 788 171 788 0
+MC 176 878 2 0 ey_libraries.refpnt1
+LI 164 878 171 878 0
+MC 166 883 2 0 ey_libraries.refpnt1
+MC 166 873 2 0 ey_libraries.refpnt1
+MC 106 863 0 1 ey_libraries.trnbjt1
+FCJ
+TY 86 858 2 2 0 0 0 Verdana TR1
+TY 86 863 2 2 0 0 0 Verdana BC337
+LI 101 853 101 858 0
+LI 51 873 51 858 0
+MC 56 853 0 1 ey_libraries.trnbjt1
+FCJ
+TY 36 848 2 2 0 0 0 Verdana TR2
+TY 36 853 2 2 0 0 0 Verdana BC337
+LI 51 843 51 848 0
+MC 66 853 0 0 ey_libraries.pasres0
+FCJ
+TY 66 838 2 2 0 0 0 Verdana R4
+TY 66 843 2 2 0 0 0 Verdana 10 kΩ
+LI 96 853 101 853 0
+SA 101 853 0
+MC 51 798 1 0 571
+FCJ
+TY 56 793 2 2 0 0 0 Verdana BZ1
+TY 56 798 2 2 0 0 0 Verdana Buzzer piezo
+LI 51 783 51 798 0
+LI 51 823 51 843 0
+FCJ 0 0 3 1 0 1
+TY 56 828 2 2 0 0 0 Verdana 
+TY 61 803 2 2 0 0 0 Verdana 12 V
+SA 51 873 0
+LI 161 783 81 783 0
+MC 66 783 2 0 010
+FCJ
+TY 56 768 2 2 0 0 0 Verdana Vdd
+TY 56 773 2 2 0 0 0 Verdana 5/12 V
+MC 61 863 1 0 ey_libraries.pasres0
+FCJ
+TY 66 858 2 2 0 0 0 Verdana R5
+TY 66 863 2 2 0 0 0 Verdana 10 kΩ
+LI 76 853 96 853 0
+LI 81 853 81 838 0
+SA 81 853 0
+SA 61 873 0
+MC 116 833 2 0 ey_libraries.didled0
+FCJ
+TY 116 838 2 2 0 0 0 Verdana DL2
+TY 106 843 2 2 0 0 0 Verdana LED DX
+LI 61 858 61 853 0
+SA 61 853 0
+MC 81 828 1 0 ey_libraries.pasres0
+FCJ
+TY 86 823 2 2 0 0 0 Verdana R6
+TY 86 828 2 2 0 0 0 Verdana 1,8 kΩ
+LI 81 823 81 783 0
+SA 81 783 0
+LI 226 667 226 633 0
+LI 226 723 226 687 0
+MC 116 718 0 0 ey_libraries.pasres0
+FCJ
+TY 112 722 2 2 0 0 0 Verdana R1
+TY 120 722 2 2 0 0 0 Verdana 100 Ω
+LI 51 628 41 628 0
+LI 126 718 161 718 0
+LI 41 718 111 718 0
+MC 116 708 0 0 ey_libraries.pasres0
+FCJ
+TY 112 699 2 2 0 0 0 Verdana R2
+TY 120 699 2 2 0 0 0 Verdana 47 Ω
+MC 101 688 1 0 ey_libraries.pasres0
+FCJ
+TY 86 683 2 2 0 0 0 Verdana R3
+TY 86 688 2 2 0 0 0 Verdana 680 Ω
+MC 116 648 2 0 ey_libraries.didled0
+FCJ
+TY 111 633 2 2 0 0 0 Verdana DL1
+TY 106 638 2 2 0 0 0 Verdana LED SX
+LI 136 733 136 708 0
+LI 126 708 136 708 0
+LI 101 733 101 713 0
+MC 121 733 0 1 ey_libraries.diddid0
+FCJ
+TY 111 738 2 2 0 0 0 Verdana DS1
+TY 121 738 2 2 0 0 0 Verdana 1N4001
+LI 111 733 101 733 0
+LI 126 733 136 733 0
+SA 101 718 0
+SA 136 718 0
+SA 101 678 0
+MC 41 628 2 0 010
+FCJ
+TY 36 613 2 2 0 0 0 Verdana Vcc
+TY 36 618 2 2 0 0 0 Verdana 12 V
+MC 41 718 2 0 020
+LI 161 638 161 718 0
+LI 161 728 151 728 0
+LI 151 728 151 628 0
+SA 151 628 0
+SA 161 718 0
+LI 170 635 170 721 0
+FCJ 0 0 3 2 3 0
+LI 176 633 211 633 0
+MC 221 643 2 0 ey_libraries.diddid0
+LI 211 643 211 633 0
+SA 211 633 0
+SA 226 643 0
+SA 211 723 0
+LI 176 723 211 723 0
+MC 221 713 2 0 ey_libraries.diddid0
+LI 211 713 211 723 0
+SA 226 713 0
+LI 101 648 101 683 0
+MC 131 648 0 1 ey_libraries.diddid0
+FCJ
+TY 126 633 2 2 0 0 0 Verdana DS2
+TY 126 638 2 2 0 0 0 Verdana 1N4148
+MC 131 678 0 1 ey_libraries.diddid0
+FCJ
+TY 126 683 2 2 0 0 0 Verdana DS3
+TY 126 688 2 2 0 0 0 Verdana 1N4148
+LI 101 678 106 678 0
+LI 101 648 106 648 0
+LI 136 678 186 678 0
+LI 186 678 186 723 0
+LI 136 648 186 648 0
+LI 186 648 186 633 0
+SA 186 633 0
+MC 41 563 2 0 020
+LI 161 483 161 563 0
+LI 161 573 151 573 0
+LI 151 573 151 473 0
+SA 151 473 0
+SA 161 563 0
+LI 170 480 170 566 0
+FCJ 0 0 3 2 3 0
+LI 176 478 211 478 0
+MC 221 488 2 0 ey_libraries.diddid0
+MC 209 675 0 0 ey_libraries.pascap0
+FCJ
+TY 219 680 2 2 0 0 0 Verdana 
+TY 201 661 2 2 0 0 0 Verdana 100 nF
+SA 226 689 0
+MC 211 633 3 1 elettrotecnica.finc
+MC 211 723 3 1 elettrotecnica.finc
+MC 166 638 2 0 ey_libraries.refpnt1
+MC 166 628 2 0 ey_libraries.refpnt1
+MC 176 633 2 0 ey_libraries.refpnt1
+LI 164 633 171 633 0
+MC 176 723 2 0 ey_libraries.refpnt1
+LI 164 723 171 723 0
+MC 166 728 2 0 ey_libraries.refpnt1
+MC 166 718 2 0 ey_libraries.refpnt1
+MC 106 708 0 1 ey_libraries.trnbjt1
+FCJ
+TY 86 703 2 2 0 0 0 Verdana TR1
+TY 86 708 2 2 0 0 0 Verdana BC337
+LI 101 698 101 703 0
+LI 51 718 51 703 0
+MC 56 698 0 1 ey_libraries.trnbjt1
+FCJ
+TY 36 693 2 2 0 0 0 Verdana TR2
+TY 36 698 2 2 0 0 0 Verdana BC337
+LI 51 688 51 693 0
+MC 66 698 0 0 ey_libraries.pasres0
+FCJ
+TY 66 683 2 2 0 0 0 Verdana R4
+TY 66 688 2 2 0 0 0 Verdana 10 kΩ
+SA 141 678 0
+SA 61 718 0
+LI 51 628 51 643 0
+SA 51 718 0
+LI 161 628 131 628 0
+MC 101 628 2 0 010
+FCJ
+TY 96 613 2 2 0 0 0 Verdana Vdd
+TY 96 618 2 2 0 0 0 Verdana 5/12 V
+LI 101 628 131 628 0
+MC 61 708 1 0 ey_libraries.pasres0
+FCJ
+TY 66 703 2 2 0 0 0 Verdana R5
+TY 66 708 2 2 0 0 0 Verdana 10 kΩ
+LI 76 698 96 698 0
+LI 81 698 81 683 0
+SA 81 698 0
+LI 81 663 141 663 0
+MC 116 678 2 0 ey_libraries.didled0
+FCJ
+TY 116 683 2 2 0 0 0 Verdana DL2
+TY 106 688 2 2 0 0 0 Verdana LED DX
+LI 61 703 61 698 0
+SA 61 698 0
+MC 81 673 1 0 ey_libraries.pasres0
+FCJ
+TY 86 668 2 2 0 0 0 Verdana R6
+TY 86 673 2 2 0 0 0 Verdana 1,8 kΩ
+LI 81 668 81 663 0
+SA 141 663 0
+MC 141 653 1 1 ey_libraries.diddid0
+FCJ
+TY 131 653 2 2 0 0 0 Verdana DS4
+TY 126 658 2 2 0 0 0 Verdana 1N4148
+MC 141 673 3 1 ey_libraries.diddid0
+FCJ
+TY 131 663 2 2 0 0 0 Verdana DS5
+TY 121 668 2 2 0 0 0 Verdana 1N4148
+SA 141 648 0
+MC 81 783 1 0 860
+LI 51 563 51 548 0
+MC 56 543 0 1 ey_libraries.trnbjt1
+FCJ
+TY 36 538 2 2 0 0 0 Verdana TR2
+TY 36 543 2 2 0 0 0 Verdana BC337
+LI 51 533 51 538 0
+MC 66 543 0 0 ey_libraries.pasres0
+FCJ
+TY 66 528 2 2 0 0 0 Verdana R4
+TY 66 533 2 2 0 0 0 Verdana 10 kΩ
+LI 226 512 226 478 0
+LI 226 568 226 532 0
+MC 116 563 0 0 ey_libraries.pasres0
+FCJ
+TY 112 567 2 2 0 0 0 Verdana R1
+TY 120 567 2 2 0 0 0 Verdana 100 Ω
+LI 51 473 41 473 0
+LI 126 563 161 563 0
+LI 41 563 111 563 0
+MC 116 553 0 0 ey_libraries.pasres0
+FCJ
+TY 112 544 2 2 0 0 0 Verdana R2
+TY 120 544 2 2 0 0 0 Verdana 47 Ω
+MC 101 533 1 0 ey_libraries.pasres0
+FCJ
+TY 86 528 2 2 0 0 0 Verdana R3
+TY 86 533 2 2 0 0 0 Verdana 680 Ω
+MC 116 493 2 0 ey_libraries.didled0
+FCJ
+TY 111 478 2 2 0 0 0 Verdana DL1
+TY 106 483 2 2 0 0 0 Verdana LED SX
+LI 136 578 136 553 0
+LI 126 553 136 553 0
+LI 101 578 101 558 0
+MC 121 578 0 1 ey_libraries.diddid0
+FCJ
+TY 111 583 2 2 0 0 0 Verdana DS1
+TY 121 583 2 2 0 0 0 Verdana 1N4001
+LI 111 578 101 578 0
+LI 126 578 136 578 0
+SA 101 563 0
+SA 136 563 0
+SA 101 523 0
+MC 41 473 2 0 010
+FCJ
+TY 36 458 2 2 0 0 0 Verdana Vcc
+TY 36 463 2 2 0 0 0 Verdana 12 V
+MC 209 520 0 0 ey_libraries.pascap0
+FCJ
+TY 219 525 2 2 0 0 0 Verdana 
+TY 201 506 2 2 0 0 0 Verdana 100 nF
+SA 226 534 0
+MC 211 478 3 1 elettrotecnica.finc
+MC 211 568 3 1 elettrotecnica.finc
+MC 166 483 2 0 ey_libraries.refpnt1
+MC 166 473 2 0 ey_libraries.refpnt1
+MC 176 478 2 0 ey_libraries.refpnt1
+LI 164 478 171 478 0
+MC 176 568 2 0 ey_libraries.refpnt1
+LI 211 488 211 478 0
+SA 211 478 0
+SA 226 488 0
+SA 211 568 0
+LI 176 568 211 568 0
+MC 221 558 2 0 ey_libraries.diddid0
+LI 211 558 211 568 0
+SA 226 558 0
+LI 101 493 101 528 0
+MC 131 493 0 1 ey_libraries.diddid0
+FCJ
+TY 126 478 2 2 0 0 0 Verdana DS2
+TY 126 483 2 2 0 0 0 Verdana 1N4148
+MC 131 523 0 1 ey_libraries.diddid0
+FCJ
+TY 126 528 2 2 0 0 0 Verdana DS3
+TY 126 533 2 2 0 0 0 Verdana 1N4148
+LI 101 523 106 523 0
+LI 101 493 106 493 0
+LI 136 523 186 523 0
+LI 186 523 186 568 0
+LI 136 493 186 493 0
+LI 186 493 186 478 0
+SA 186 478 0
+SA 186 568 0
+LI 209 515 209 512 0
+LI 209 512 226 512 0
+LI 96 543 101 543 0
+SA 101 543 0
+LI 209 530 209 534 0
+LI 209 534 226 534 0
+SA 226 512 0
+MC 226 522 0 0 ey_libraries.mtrmtr1
+LI 51 473 51 488 0
+SA 51 563 0
+LI 161 473 131 473 0
+MC 101 473 2 0 010
+FCJ
+TY 96 458 2 2 0 0 0 Verdana Vdd
+TY 96 463 2 2 0 0 0 Verdana 5/12 V
+LI 101 473 131 473 0
+MC 61 553 1 0 ey_libraries.pasres0
+FCJ
+TY 66 548 2 2 0 0 0 Verdana R5
+TY 66 553 2 2 0 0 0 Verdana 10 kΩ
+LI 76 543 96 543 0
+TY 31 448 4 3 0 0 0 Verdana Buzzer aggiuntivo, con led acceso fiocamente quando il buzzer suona:
+MC 51 643 1 0 571
+FCJ
+TY 56 638 2 2 0 0 0 Verdana BZ1
+TY 56 643 2 2 0 0 0 Verdana Buzzer piezo
+LI 164 568 171 568 0
+MC 166 573 2 0 ey_libraries.refpnt1
+MC 166 563 2 0 ey_libraries.refpnt1
+MC 106 553 0 1 ey_libraries.trnbjt1
+FCJ
+TY 86 548 2 2 0 0 0 Verdana TR1
+TY 86 553 2 2 0 0 0 Verdana BC337
+LI 101 543 101 548 0
+MC 116 523 2 0 ey_libraries.didled0
+FCJ
+TY 116 528 2 2 0 0 0 Verdana DL2
+TY 106 533 2 2 0 0 0 Verdana LED DX
+LI 61 548 61 543 0
+SA 61 543 0
+SA 61 563 0
+MC 51 488 1 0 571
+FCJ
+TY 56 483 2 2 0 0 0 Verdana BZ1
+TY 56 488 2 2 0 0 0 Verdana Buzzer piezo
+TY 31 603 4 3 0 0 0 Verdana Buzzer aggiuntivo, con led spento quando il buzzer suona:
+TY 31 758 4 3 0 0 0 Verdana Buzzer aggiuntivo, con led spento quando il buzzer suona, semplificazione con pulsante:
+LI 51 668 51 688 0
+FCJ 0 0 3 1 0 1
+TY 56 673 2 2 0 0 0 Verdana 
+TY 61 648 2 2 0 0 0 Verdana 12 V
+LI 51 513 51 533 0
+FCJ 0 0 3 1 0 1
+TY 56 518 2 2 0 0 0 Verdana 
+TY 61 493 2 2 0 0 0 Verdana 12 V
+TY 85 408 5 5 0 1 0 Arial++Narrow <!-- l --><a class="postlink-local" href="https://www.electroyou.it/forum/viewtopic.php?f=1&amp;t=75827&amp;p=796823#p796823">viewtopic.php?f=1&amp;t=75827&amp;p=796823#p796823</a><!-- l -->
+TY 23 408 5 5 0 1 0 Arial++Narrow post all'indirizzo:
+LI 107 315 127 315 2
+FCJ 0 0 3 2 1 0
+RV 182 280 207 300 3
+FCJ 3 1
+TY 182 275 2 2 0 0 3 Verdana Finecorsa sx
+TY 187 290 2 2 0 0 3 Verdana 
+RV 288 239 318 264 3
+FCJ 3 1
+TY 288 265 2 2 0 0 3 Verdana led bicolore
+TY 288 269 2 2 0 0 3 Verdana ad anodo comune
+RV 374 90 399 110 3
+FCJ 3 1
+TY 374 85 2 2 0 0 3 Verdana Finecorsa SX
+TY 379 100 2 2 0 0 3 Verdana 
+RV 182 330 207 350 3
+FCJ 3 1
+TY 182 350 2 2 0 0 3 Verdana Finecorsa dx
+TY 187 340 2 2 0 0 3 Verdana 
+RV 287 285 317 310 3
+FCJ 3 1
+TY 287 311 2 2 0 0 3 Verdana led bicolore
+TY 287 315 2 2 0 0 3 Verdana a catodo comune
+RV 374 160 399 180 3
+FCJ 3 1
+TY 374 180 2 2 0 0 3 Verdana Finecorsa DX
+TY 379 170 2 2 0 0 3 Verdana 
+RV 206 708 231 728 3
+FCJ 3 1
+TY 206 728 2 2 0 0 3 Verdana Finecorsa DX
+TY 211 718 2 2 0 0 3 Verdana 
+RV 206 628 231 648 3
+FCJ 3 1
+TY 206 623 2 2 0 0 3 Verdana Finecorsa SX
+TY 211 638 2 2 0 0 3 Verdana 
+RV 206 553 231 573 3
+FCJ 3 1
+TY 206 573 2 2 0 0 3 Verdana Finecorsa DX
+TY 211 563 2 2 0 0 3 Verdana 
+RV 206 783 231 803 3
+FCJ 3 1
+TY 206 778 2 2 0 0 3 Verdana Finecorsa SX
+TY 211 793 2 2 0 0 3 Verdana 
+RV 206 863 231 883 3
+FCJ 3 1
+TY 206 883 2 2 0 0 3 Verdana Finecorsa DX
+TY 211 873 2 2 0 0 3 Verdana 
+RV 206 473 231 493 3
+FCJ 3 1
+TY 206 468 2 2 0 0 3 Verdana Finecorsa SX
+TY 211 483 2 2 0 0 3 Verdana 
+RV 161 76 186 96 3
+FCJ 3 1
+TY 161 71 2 2 0 0 3 Verdana Finecorsa SX
+TY 166 86 2 2 0 0 3 Verdana 
+RV 161 146 186 166 3
+FCJ 3 1
+TY 161 166 2 2 0 0 3 Verdana Finecorsa DX
+TY 166 156 2 2 0 0 3 Verdana

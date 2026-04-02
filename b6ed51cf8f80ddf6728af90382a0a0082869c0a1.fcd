@@ -1,0 +1,105 @@
+[FIDOCAD]
+MC 10 85 0 0 480
+FCJ
+TY 20 90 4 3 0 0 0 * vS
+TY 20 95 4 3 0 0 0 * 
+MC 125 35 1 0 ihram.res
+FCJ
+TY 130 40 4 3 0 0 0 * R_D
+TY 115 45 4 3 0 0 0 * 
+MC 125 95 1 0 ihram.res
+FCJ
+TY 130 105 4 3 0 0 0 * R_S
+TY 115 105 4 3 0 0 0 * 
+MC 245 85 1 0 ihram.res
+FCJ
+TY 250 95 4 3 0 0 0 * R_E
+TY 255 90 4 3 0 0 0 * 
+MC 295 50 1 0 ihram.res
+FCJ
+TY 300 55 4 3 0 0 0 * R_L
+TY 285 60 4 3 0 0 0 * 
+MC 20 75 0 0 ihram.res
+FCJ
+TY 15 65 4 3 0 0 0 * R_GEN
+TY 30 85 4 3 0 0 0 * 
+MC 85 45 1 0 ihram.res
+FCJ
+TY 70 50 4 3 0 0 0 * R_G1
+TY 75 55 4 3 0 0 0 * 
+MC 275 45 1 0 ey_libraries.pascap0
+FCJ
+TY 280 35 4 3 0 0 0 * C_out
+TY 265 55 4 3 0 0 0 * 
+MC 165 55 1 0 ey_libraries.pascap0
+FCJ
+TY 165 45 4 3 0 0 0 * C_D
+TY 155 65 4 3 0 0 0 * 
+MC 165 95 0 0 ey_libraries.pascap0
+FCJ
+TY 175 100 4 3 0 0 0 * Cs
+TY 175 105 4 3 0 0 0 * 
+MC 50 75 1 0 ey_libraries.pascap0
+FCJ
+TY 50 85 4 3 0 0 0 * C_in
+TY 75 115 4 3 0 0 0 * 
+MC 245 115 0 0 ey_libraries.refpnt0
+MC 10 120 0 0 ey_libraries.refpnt0
+MC 85 120 0 0 ey_libraries.refpnt0
+MC 215 65 0 0 ey_libraries.refpnt0
+MC 125 120 0 0 ey_libraries.refpnt0
+LI 10 85 10 75 0
+LI 10 75 20 75 0
+LI 35 75 40 75 0
+LI 10 105 10 120 0
+LI 55 75 115 75 0
+MC 120 75 0 0 ey_libraries.trnmos0
+MC 240 60 0 0 ey_libraries.trnbjt1
+LI 85 90 85 60 0
+MC 85 90 1 0 ihram.res
+FCJ
+TY 70 100 4 3 0 0 0 * R_G2
+TY 95 95 4 3 0 0 0 * 
+LI 85 105 85 120 0
+LI 85 45 85 25 0
+LI 80 25 90 25 0
+LI 125 70 125 50 0
+LI 125 80 125 95 0
+LI 125 110 125 120 0
+LI 125 85 165 85 0
+LI 165 85 165 90 0
+LI 165 105 165 115 0
+LI 125 35 125 25 0
+LI 130 25 120 25 0
+TY 75 15 4 3 0 0 0 * V_DD
+TY 120 15 4 3 0 0 0 * V_DD
+LI 125 115 165 115 0
+LI 125 55 155 55 0
+LI 200 55 200 80 0
+LI 200 80 245 80 0
+LI 245 115 245 100 0
+LI 245 85 245 65 0
+LI 235 60 215 60 0
+LI 215 60 215 65 0
+MC 245 25 1 0 ihram.res
+FCJ
+TY 250 30 4 3 0 0 0 * R_D
+TY 235 35 4 3 0 0 0 * 
+LI 245 55 245 40 0
+LI 245 25 245 15 0
+LI 250 15 240 15 0
+TY 240 5 4 3 0 0 0 * V_CC
+MC 225 30 1 0 ihram.res
+FCJ
+TY 210 35 4 3 0 0 0 * R_B
+TY 215 40 4 3 0 0 0 * 
+LI 225 60 225 45 0
+LI 225 30 225 20 0
+LI 230 20 220 20 0
+TY 220 10 4 3 0 0 0 * V_CC
+LI 245 45 265 45 0
+LI 280 45 295 45 0
+LI 295 50 295 45 0
+LI 295 65 295 75 0
+MC 295 75 0 0 ey_libraries.refpnt0
+LI 170 55 200 55 0

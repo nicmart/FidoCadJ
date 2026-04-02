@@ -1,0 +1,87 @@
+[FIDOCAD]
+FJC B 0.5
+TY 95 37 4 3 0 0 0 Arial Attuatore manuale generico
+TY 95 67 4 3 0 0 0 Arial Attuatore a pulsante
+TY 95 82 4 3 0 0 0 Arial Attuatore a tirante
+TY 95 97 4 3 0 0 0 Arial Attuatore rotativo (posizione mantenuta)
+MC 50 40 0 0 schemifunzionali.atmang
+MC 50 70 0 0 schemifunzionali.atpuls
+MC 50 85 0 0 schemifunzionali.attir
+MC 50 100 0 0 schemifunzionali.atrot
+MC 50 115 0 0 schemifunzionali.atch
+TY 95 112 4 3 0 0 0 Arial Attuatore a chiave
+MC 50 130 0 0 schemifunzionali.atped
+MC 50 145 0 0 schemifunzionali.atleva
+MC 50 160 0 0 schemifunzionali.atmanv
+MC 50 175 0 0 schemifunzionali.atfungo
+MC 50 190 0 0 schemifunzionali.atsfior
+MC 50 205 0 0 schemifunzionali.atcam
+MC 50 235 0 0 schemifunzionali.atmotel
+EV 46 218 42 222 0
+LI 45 220 50 220 0
+FCJ 0 0 3 2 2 0
+MC 50 265 0 0 schemifunzionali.atterm
+MC 50 280 0 0 schemifunzionali.atmagn
+MC 50 295 0 0 schemifunzionali.atcentr
+MC 50 55 0 0 schemifunzionali.atmanprot
+TY 95 52 4 3 0 0 0 Arial Attuatore manuale ad accesso protetto
+MC 50 310 0 0 schemifunzionali.atprox
+MC 50 325 0 0 schemifunzionali.atproxycap
+MC 50 340 0 0 schemifunzionali.atproxyind
+MC 50 355 0 0 schemifunzionali.atreed
+MC 50 370 0 0 schemifunzionali.atliv
+MC 50 385 0 0 schemifunzionali.atflux
+MC 50 400 0 0 schemifunzionali.atfluxgas
+MC 50 415 0 0 schemifunzionali.atpress
+MC 50 430 0 0 schemifunzionali.attemp
+MC 50 445 0 0 schemifunzionali.atux
+MC 50 250 0 0 schemifunzionali.atoe
+MC 50 460 0 0 schemifunzionali.atpir
+MC 50 475 0 0 schemifunzionali.athum
+MC 45 490 0 0 schemifunzionali.atad
+MC 45 505 0 0 schemifunzionali.atai
+MC 45 520 0 0 schemifunzionali.atint
+MC 45 550 0 0 schemifunzionali.atnp
+MC 45 565 0 0 schemifunzionali.atnl
+MC 45 535 0 0 schemifunzionali.atmant
+MC 45 580 0 0 schemifunzionali.atappos
+MC 45 595 0 0 schemifunzionali.atpossel2
+MC 45 610 0 0 schemifunzionali.atpos3
+MC 45 625 0 0 schemifunzionali.atpossel4
+TY 95 127 4 3 0 0 0 Arial Attuatore a pedale
+TY 95 142 4 3 0 0 0 Arial Attuatore a leva
+TY 95 157 4 3 0 0 0 Arial Attuatore a manovella
+TY 95 172 4 3 0 0 0 Arial Attuatore di emergenza a pulsante (fungo)
+TY 95 187 4 3 0 0 0 Arial Attuatore a sfioramento
+TY 95 202 4 3 0 0 0 Arial Attuatore a camma
+TY 95 217 4 3 0 0 0 Arial Attuatore meccanico leva/rotella
+TY 95 232 4 3 0 0 0 Arial Attuatore azionato da motore elettrico
+TY 95 247 4 3 0 0 0 Arial Attuatore azionato da orologio elettrico
+TY 95 262 4 3 0 0 0 Arial Attuatore azionato da dispositivo termico
+TY 95 277 4 3 0 0 0 Arial Attuatore azionato da dispositivo elettromagnetico
+TY 95 292 4 3 0 0 0 Arial Attuatore ad azione centrifuga
+TY 95 307 4 3 0 0 0 Arial Attuatore per effetto di prossimità
+TY 95 322 4 3 0 0 0 Arial Attuatore per effetto di prossimità di tipo capacitivo
+TY 95 337 4 3 0 0 0 Arial Attuatore per effetto di prossimità di tipo induttivo
+TY 95 352 4 3 0 0 0 Arial Attuatore per effetto di prossimità di un magnete
+TY 95 367 4 3 0 0 0 Arial Attuatore sensibile al livello di un fluido
+TY 95 382 4 3 0 0 0 Arial Attuatore sensibile alla portata di un fluido
+TY 95 397 4 3 0 0 0 Arial Attuatore sensibile alla portata di un gas
+TY 95 412 4 3 0 0 0 Arial Attuatore sensibile alla pressione
+TY 95 427 4 3 0 0 0 Arial Attuatore sensibile alla temperatura
+TY 95 442 4 3 0 0 0 Arial Attuatore sensibile alla luce
+TY 95 457 4 3 0 0 0 Arial Attuatore sensibile al movimento
+TY 95 472 4 3 0 0 0 Arial Attuatore sensibile all'umidità
+TY 95 502 4 3 0 0 0 Arial Dispositivo di aggancio innestato
+TY 95 487 4 3 0 0 0 Arial Dispositivo di aggancio disinnestato
+TY 95 517 4 3 0 0 0 Arial Interblocco meccanico
+TY 95 532 4 3 0 0 0 Arial Nottolino, dispositivo di mantenimento posizione
+TY 95 547 4 3 0 0 0 Arial Nottolino in posizione di presa
+TY 95 562 4 3 0 0 0 Arial Nottolino in posizione libera
+TY 95 577 4 3 0 0 0 Arial Meccanismo di apertura positiva
+TY 95 592 4 3 0 0 0 Arial Posizioni selettore 0/1 (riposo su 0)
+TY 95 607 4 3 0 0 0 Arial Posizioni selettore 0/1/2 (riposo su 0)
+TY 95 622 4 3 0 0 0 Arial Posizioni selettore 1/2/3/4 (riposo su 1)
+LI 30 645 270 645 12
+LI 30 20 270 20 12
+TY 108 660 4 3 0 0 13 Arial Figura 3 - Sezione "attuatori"

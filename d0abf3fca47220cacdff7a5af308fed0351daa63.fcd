@@ -1,0 +1,97 @@
+[FIDOCAD]
+LI 60 20 40 20 0
+MC 60 35 0 0 elettrotecnica.intpr02
+TY 45 35 4 3 0 1 0 * 32A
+TY 15 40 2 2 0 1 0 * Protezione montante
+LI 60 45 105 55 0
+LI 105 55 105 20 0
+LI 105 20 135 20 0
+TY 125 60 2 2 0 1 0 * 10A cantina
+LI 60 50 60 65 0
+LI 60 65 30 65 0
+LI 30 65 30 80 0
+TY 45 60 2 2 0 0 0 * 16mmq
+MC 75 135 0 0 elettrotecnica.intpr03
+MC 190 135 0 0 elettrotecnica.intpr03
+LI 75 120 190 120 0
+LI 190 120 290 120 0
+LI 190 155 190 165 0
+TY 180 165 2 2 0 1 0 * INDUZIONE
+TY 295 130 2 2 0 1 0 * CUCINA
+MC 265 185 0 0 elettrotecnica.intpr02
+MC 290 185 0 0 elettrotecnica.intpr02
+MC 315 185 0 0 elettrotecnica.intpr02
+MC 340 185 0 0 elettrotecnica.intpr02
+LI 290 155 290 160 0
+LI 290 160 340 160 0
+LI 340 160 265 160 0
+LI 265 160 265 175 0
+LI 290 160 290 170 0
+LI 315 160 315 175 0
+LI 340 160 340 170 0
+SA 290 160 0
+SA 190 120 0
+SA 75 120 0
+SA 290 120 0
+TY 245 205 2 2 0 1 0 * 16A prese cucina
+TY 280 200 2 2 0 1 0 * 16A forno
+TY 305 200 2 2 0 1 0 * 16A frigo
+TY 325 205 2 2 0 1 0 * 16A lavastoviglie
+TY 195 130 2 2 0 1 0 * 25A 30ma
+TY 295 125 2 2 0 1 0 * 40A
+LI 75 155 75 165 0
+MC 10 200 0 0 elettrotecnica.intpr02
+MC 45 200 0 0 elettrotecnica.intpr02
+MC 80 200 0 0 elettrotecnica.intpr02
+MC 110 200 0 0 elettrotecnica.intpr02
+MC 140 200 0 0 elettrotecnica.intpr02
+MC 170 200 0 0 elettrotecnica.intpr02
+LI 10 185 170 185 0
+SA 45 185 0
+SA 10 185 0
+SA 80 185 0
+SA 110 185 0
+SA 140 185 0
+SA 170 185 0
+LI 80 175 80 200 0
+TY 0 220 2 2 0 1 0 * 16A prese
+TY 35 220 2 2 0 1 0 * 16A lavastrice
+TY 75 220 2 2 0 1 0 * VMC
+TY 100 220 2 2 0 1 0 * 10A Luci
+TY 125 220 2 2 0 1 0 * 10A tapparelle
+TY 160 220 2 2 0 1 0 * 6A allarme
+TY 195 155 2 2 0 0 0 * 6mmq
+TY 80 115 2 2 0 0 0 * 6mmq
+MC 135 35 0 0 elettrotecnica.intpr03
+TY 80 130 2 2 0 1 0 * 25A 30ma
+MC 290 130 0 0 elettrotecnica.intpr01
+LI 290 155 290 145 0
+TY 200 115 2 2 0 0 0 * 6mmq
+MC 30 20 0 0 elettrotecnica.meas00
+FCJ
+TY 40 25 4 3 0 0 0 * 
+TY 40 30 4 3 0 0 0 * 4,5kw
+LI 30 105 75 120 0
+LI 30 105 190 120 0
+LI 35 105 290 120 0
+TY 50 45 4 3 0 0 0 * 6kA
+TY 140 40 4 3 0 0 0 * 6kA
+TY 0 95 4 3 0 0 0 * Sezionatore 40A generale quadro
+LI 30 80 30 90 0
+TY 60 165 4 3 0 0 0 * Morsettiera
+LI 70 170 10 185 0
+LI 75 170 45 185 0
+LI 80 170 80 180 0
+LI 90 170 110 185 0
+LI 110 185 140 185 0
+LI 140 185 90 170 0
+LI 170 185 95 170 0
+TY 130 225 4 3 0 0 0 * 1,5mmq
+TY 100 225 4 3 0 0 0 * 1,5mmq
+TY 70 225 4 3 0 0 0 * 1,5mmq
+TY 35 225 4 3 0 0 0 * 2,5mmq
+TY 0 225 4 3 0 0 0 * 4mmq
+TY 160 225 4 3 0 0 0 * 1,5mmq
+TY 30 170 4 3 0 0 0 * 4mmq
+TY 70 175 4 3 0 0 0 * 2,5mmq
+TY 105 175 4 3 0 0 0 * 2,5mmq

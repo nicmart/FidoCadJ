@@ -1,0 +1,79 @@
+
+[FIDOCAD]
+FJC C 1.4
+FJC L 12 -6750055 0.95
+FJC A 0.3
+FJC B 0.3
+TY 35 20 4 3 0 1 0 Liberation++Mono COND
+TY 90 20 4 3 0 1 0 Liberation++Mono Description
+TY 178 20 4 3 0 1 0 Liberation++Mono CPSR Flag
+TY 29 35 4 3 0 1 0 Liberation++Mono {|AL}
+TY 60 35 4 3 0 1 0 Liberation++Mono Always
+TY 185 35 4 3 0 1 0 Liberation++Mono TRUE
+TY 30 50 4 3 0 1 0 Liberation++Mono EQ
+TY 60 50 4 3 0 1 0 Liberation++Mono Equal (the result is 0)
+TY 180 50 4 3 0 1 0 Liberation++Mono Z == 1
+TY 30 65 4 3 0 1 0 Liberation++Mono NEQ
+TY 60 65 4 3 0 1 0 Liberation++Mono Not Equal (the result is != 0)
+TY 180 65 4 3 0 1 0 Liberation++Mono Z == 0
+TY 30 80 4 3 0 1 0 Liberation++Mono CS | HS
+TY 60 80 4 3 0 1 0 Liberation++Mono Carry Set
+TY 180 80 4 3 0 1 0 Liberation++Mono C == 1
+TY 30 95 4 3 0 1 0 Liberation++Mono CC | LO
+TY 60 95 4 3 0 1 0 Liberation++Mono Carry Clear
+TY 180 95 4 3 0 1 0 Liberation++Mono C == 0
+TY 30 110 4 3 0 1 0 Liberation++Mono MI
+TY 60 110 4 3 0 1 0 Liberation++Mono MInus (the result is < 0)
+TY 180 110 4 3 0 1 0 Liberation++Mono N == 1
+TY 30 125 4 3 0 1 0 Liberation++Mono PL
+TY 60 125 4 3 0 1 0 Liberation++Mono PLus (the result is > 0)
+TY 180 125 4 3 0 1 0 Liberation++Mono N == 0
+TY 30 140 4 3 0 1 0 Liberation++Mono VS
+TY 60 140 4 3 0 1 0 Liberation++Mono V flag is Set (signed overflow)
+TY 180 140 4 3 0 1 0 Liberation++Mono V == 1
+TY 30 155 4 3 0 1 0 Liberation++Mono VC
+TY 60 155 4 3 0 1 0 Liberation++Mono V flag is Clear (~VS)
+TY 180 155 4 3 0 1 0 Liberation++Mono V == 0
+TY 30 170 4 3 0 1 0 Liberation++Mono HI
+TY 60 170 4 3 0 1 0 Liberation++Mono unsigned Higher (after comparision)
+TY 180 170 4 3 0 1 0 Liberation++Mono C == 0 && Z == 0
+TY 30 185 4 3 0 1 0 Liberation++Mono LS
+TY 60 185 4 3 0 1 0 Liberation++Mono unsigned Lower (after comparision)
+TY 180 185 4 3 0 1 0 Liberation++Mono C == 0 && Z == 1
+TY 30 200 4 3 0 1 0 Liberation++Mono GE
+TY 60 200 4 3 0 1 0 Liberation++Mono signed Greater than or Equal
+TY 180 200 4 3 0 1 0 Liberation++Mono N == V
+TY 30 215 4 3 0 1 0 Liberation++Mono LT
+TY 60 215 4 3 0 1 0 Liberation++Mono signed Less Than
+TY 180 215 4 3 0 1 0 Liberation++Mono N != V
+TY 30 230 4 3 0 1 0 Liberation++Mono GT
+TY 60 230 4 3 0 1 0 Liberation++Mono signed Greater Than
+TY 180 230 4 3 0 1 0 Liberation++Mono N == V && Z == 0
+TY 30 260 4 3 0 1 0 Liberation++Mono NV
+TY 60 245 4 3 0 1 0 Liberation++Mono signed Less than or Equal
+TY 180 245 4 3 0 1 0 Liberation++Mono N != V || Z == 1
+TY 30 245 4 3 0 1 0 Liberation++Mono LE
+TY 60 260 4 3 0 1 0 Liberation++Mono NeVer (ARM v1& ARMv2 only)
+TY 180 260 4 3 0 1 0 Liberation++Mono FALSE
+PL 25 15 240 15 2 0
+PL 240 15 240 270 2 0
+PL 240 270 25 270 2 0
+PL 25 270 25 15 2 0
+PL 55 15 55 270 2 0
+PL 170 15 170 270 2 0
+PL 25 30 240 30 2 0
+PL 25 45 240 45 2 0
+PL 25 60 240 60 2 0
+PL 25 75 240 75 2 0
+PL 25 90 240 90 2 0
+PL 25 105 240 105 2 0
+PL 25 120 240 120 2 0
+PL 25 135 240 135 2 0
+PL 25 150 240 150 2 0
+PL 25 165 240 165 2 0
+PL 25 180 240 180 2 0
+PL 25 195 240 195 2 0
+PL 25 210 240 210 2 0
+PL 25 225 240 225 2 0
+PL 25 240 240 240 2 0
+PL 25 255 240 255 2 0

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="465.0" height="510.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<rect x="111.0" y="39.0" rx="0" ry="0" width="225.0" height="435.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(183.0,186.0) scale(1.0,1.0)"><text x="0.0" y="20.0" font-family="Arial, sans-serif" font-size="21.07" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Arduino</text>
+</g>
+<line x1="111.0" y1="84.0" x2="96.0" y2="84.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="111.0" y1="108.0" x2="96.0" y2="108.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="111.0" y1="132.0" x2="96.0" y2="132.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="111.0" y1="156.0" x2="96.0" y2="156.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(120.0,78.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">RST</text>
+</g>
+<g transform="translate(120.0,99.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">AREF</text>
+</g>
+<g transform="translate(120.0,123.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">IO REF</text>
+</g>
+<g transform="translate(120.0,147.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">N/C</text>
+</g>
+<line x1="156.0" y1="39.0" x2="156.0" y2="24.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="231.0" y1="24.0" x2="231.0" y2="39.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="276.0" y1="24.0" x2="276.0" y2="39.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(144.0,45.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">3V3</text>
+</g>
+<g transform="translate(225.0,45.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">5V</text>
+</g>
+<g transform="translate(270.0,45.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">Vin</text>
+</g>
+<line x1="111.0" y1="249.0" x2="96.0" y2="249.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="111.0" y1="273.0" x2="96.0" y2="273.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(117.0,243.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">A0</text>
+</g>
+<g transform="translate(117.0,264.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">A1</text>
+</g>
+<line x1="111.0" y1="297.0" x2="96.0" y2="297.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(117.0,288.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">A2</text>
+</g>
+<line x1="111.0" y1="321.0" x2="96.0" y2="321.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(117.0,312.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">A3</text>
+</g>
+<line x1="111.0" y1="345.0" x2="96.0" y2="345.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(117.0,336.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">A5</text>
+</g>
+<g transform="translate(162.0,252.0) rotate(-270.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">Analog Input</text>
+</g>
+<line x1="351.0" y1="108.0" x2="336.0" y2="108.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="84.0" x2="336.0" y2="84.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="132.0" x2="336.0" y2="132.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="156.0" x2="336.0" y2="156.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="204.0" x2="336.0" y2="204.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="180.0" x2="336.0" y2="180.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="228.0" x2="336.0" y2="228.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="252.0" x2="336.0" y2="252.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="300.0" x2="336.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="276.0" x2="336.0" y2="276.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="324.0" x2="336.0" y2="324.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="348.0" x2="336.0" y2="348.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="396.0" x2="336.0" y2="396.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="372.0" x2="336.0" y2="372.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="420.0" x2="336.0" y2="420.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="444.0" x2="336.0" y2="444.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(207.0,69.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">Power</text>
+</g>
+<g transform="translate(312.0,387.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D0</text>
+</g>
+<g transform="translate(312.0,363.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D1</text>
+</g>
+<g transform="translate(312.0,339.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D2</text>
+</g>
+<g transform="translate(312.0,315.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D3</text>
+</g>
+<g transform="translate(312.0,291.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D4</text>
+</g>
+<g transform="translate(312.0,267.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D5</text>
+</g>
+<g transform="translate(312.0,243.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D6</text>
+</g>
+<g transform="translate(312.0,219.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D7</text>
+</g>
+<g transform="translate(312.0,195.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D8</text>
+</g>
+<g transform="translate(312.0,171.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D9</text>
+</g>
+<g transform="translate(303.0,147.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D10</text>
+</g>
+<g transform="translate(303.0,123.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D11</text>
+</g>
+<g transform="translate(303.0,99.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D12</text>
+</g>
+<g transform="translate(303.0,75.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">D13</text>
+</g>
+<g transform="translate(300.0,435.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">SDA</text>
+</g>
+<g transform="translate(300.0,411.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">SCL</text>
+</g>
+<g transform="translate(282.0,348.0) rotate(-90.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">Digital Input/Output</text>
+</g>
+<g transform="translate(210.0,453.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">GND</text>
+</g>
+<line x1="228.0" y1="474.0" x2="228.0" y2="501.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="411.0,279.0 393.0,279.0 402.0,291.0 " style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="411.0" y1="291.0" x2="393.0" y2="291.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="420.0,303.0 413.64,300.88 417.88,296.64" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="411.0" y1="294.0" x2="415.76" y2="298.76" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="414.0,303.0 407.64,300.88 411.88,296.64" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="405.0" y1="294.0" x2="409.76" y2="298.76" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="351.0" y1="252.0" x2="402.0" y2="252.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="402.0" y1="252.0" x2="402.0" y2="279.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="402.0" y1="291.0" x2="402.0" y2="336.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="402.0" y1="336.0" x2="408.0" y2="339.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="339.0" x2="396.0" y2="342.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="396.0" y1="342.0" x2="408.0" y2="345.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="345.0" x2="396.0" y2="348.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="396.0" y1="348.0" x2="408.0" y2="351.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="351.0" x2="396.0" y2="354.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="396.0" y1="354.0" x2="402.0" y2="357.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(414.0,339.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R3</text>
+</g>
+<line x1="402.0" y1="357.0" x2="402.0" y2="501.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="402.0" y1="501.0" x2="228.0" y2="501.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="24.0" y1="294.0" x2="30.0" y2="297.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="30.0" y1="297.0" x2="18.0" y2="300.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="18.0" y1="300.0" x2="30.0" y2="303.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="30.0" y1="303.0" x2="18.0" y2="306.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="18.0" y1="306.0" x2="30.0" y2="309.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="30.0" y1="309.0" x2="18.0" y2="312.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="18.0" y1="312.0" x2="24.0" y2="315.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(33.0,276.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R1</text>
+</g>
+<g transform="translate(423.0,276.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">LED</text>
+</g>
+<line x1="24.0" y1="204.0" x2="30.0" y2="207.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="30.0" y1="207.0" x2="18.0" y2="210.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="18.0" y1="210.0" x2="30.0" y2="213.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="30.0" y1="213.0" x2="18.0" y2="216.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="18.0" y1="216.0" x2="30.0" y2="219.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="30.0" y1="219.0" x2="18.0" y2="222.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="18.0" y1="222.0" x2="24.0" y2="225.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(33.0,186.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="bold" xml:space="preserve" fill="#000000">R2</text>
+</g>
+<line x1="96.0" y1="249.0" x2="24.0" y2="249.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="24.0" y1="249.0" x2="24.0" y2="225.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="24.0" y1="249.0" x2="24.0" y2="294.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="231.0" y1="24.0" x2="231.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="231.0" y1="9.0" x2="24.0" y2="9.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="24.0" y1="9.0" x2="24.0" y2="204.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="9.0,294.0 18.09,296.7 14.65,301.62" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="39.0" y1="315.0" x2="16.37" y2="299.16" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="39.0" y1="315.0" x2="39.0" y2="501.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="39.0" y1="501.0" x2="228.0" y2="501.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="24.0" y1="315.0" x2="24.0" y2="324.0" style="stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+</svg>

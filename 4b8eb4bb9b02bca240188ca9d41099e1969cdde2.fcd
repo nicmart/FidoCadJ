@@ -1,0 +1,97 @@
+[[FIDOCAD]
+MC 50 40 0 0 ihram.trafo
+MC 75 40 1 0 210
+MC 75 60 0 0 210
+MC 65 50 0 0 210
+MC 65 50 1 0 210
+LI 60 45 60 40 0
+LI 60 40 75 40 0
+LI 60 55 60 60 0
+LI 60 60 75 60 0
+LI 65 50 65 85 0
+LI 110 50 115 50 0
+LI 125 55 125 70 0
+LI 135 50 185 50 0
+LI 155 50 155 60 0
+LI 145 70 145 65 0
+LI 145 60 145 65 0
+LI 130 75 130 85 0
+LI 125 65 145 65 0
+LI 65 85 110 85 0
+LI 85 71 85 85 0
+LI 110 85 155 85 0
+LI 155 85 155 75 0
+SA 140 50 0
+SA 140 65 0
+MC 180 85 0 0 elettrotecnica.ms05
+TY 185 90 2 2 0 1 0 GulimChe GND
+LI 85 50 95 50 0
+LI 85 57 85 50 0
+MC 125 50 0 0 ey_libraries.vic3ic0
+MC 85 61 0 0 ey_libraries.pascap1
+MC 155 65 0 0 ey_libraries.pascap1
+MC 145 75 0 0 ey_libraries.pascap1
+MC 140 60 3 0 ey_libraries.pasres0
+MC 125 75 3 0 ey_libraries.pasres5
+MC 145 60 3 0 ihram.ma27
+MC 185 50 0 0 ey_libraries.refpnt2
+TY 185 45 2 2 0 1 0 GulimChe OUT
+TY 35 45 2 2 0 1 0 GulimChe 230VAC
+TY 50 31 2 2 0 3 0 GulimChe 24VAC
+TY 50 35 2 2 0 3 0 GulimChe 120VA
+TY 68 33 2 2 0 3 0 GulimChe 100V 10A
+TY 71 66 2 2 0 3 0 GulimChe 2200uF
+TY 73 70 2 2 0 3 0 GulimChe 50V
+TY 128 56 2 2 0 3 0 GulimChe 240Î©
+TY 114 70 2 2 0 3 0 GulimChe 4.7k
+TY 134 68 2 2 0 3 0 GulimChe 10uF
+TY 158 71 2 2 0 3 0 GulimChe 100uF
+TY 160 75 2 2 0 3 0 GulimChe 50V
+TY 143 44 2 2 0 3 0 GulimChe 1N4007
+TY 120 48 2 2 0 3 0 GulimChe LM317
+TY 134 71 2 2 0 3 0 GulimChe 25V
+LI 50 40 40 40 0
+LI 50 60 40 60 0
+MC 40 40 1 0 750
+MC 30 60 1 0 elettrotecnica.fus01
+LI 20 40 25 40 0
+LI 180 85 155 85 0
+MC 20 40 2 0 ey_libraries.refpnt2
+TY 15 35 2 2 0 1 0 GulimChe P
+MC 20 60 2 0 ey_libraries.refpnt2
+TY 15 55 2 2 0 1 0 GulimChe N
+TY 28 63 2 2 0 3 0 GulimChe 1A
+SA 95 85 0
+SA 95 50 0
+SA 75 60 0
+SA 75 40 0
+SA 145 85 0
+SA 125 85 0
+SA 155 85 0
+SA 155 50 0
+SA 145 50 0
+SA 140 35 0
+LI 140 20 140 50 0
+MC 110 35 3 0 290
+LI 120 20 140 20 0
+LI 100 20 95 20 0
+LI 95 20 95 50 0
+TY 103 14 2 2 0 3 0 GulimChe MJ2955
+MC 100 50 0 0 ey_libraries.pasres0
+SA 110 50 0
+MC 95 75 1 0 ey_libraries.pasres0
+TY 98 74 2 2 0 3 0 GulimChe 1.2K
+MC 95 60 0 0 ihram.ld01
+LI 95 60 95 50 0
+TY 98 77 2 2 0 3 0 GulimChe 1/2W
+SA 145 65 0
+LI 110 35 110 50 0
+MC 130 35 2 0 ihram.ma27
+LI 120 35 110 35 0
+LI 130 35 140 35 0
+MC 95 35 0 0 ihram.ma27
+LI 110 35 105 35 0
+TY 119 28 2 2 0 3 0 GulimChe 1N4007
+TY 96 28 2 2 0 3 0 GulimChe 1N4007
+SA 110 35 0
+SA 95 35 0

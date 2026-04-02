@@ -1,0 +1,183 @@
+[FIDOCAD]
+
+FJC C 1.5
+
+FJC B 0.5
+
+LI 65 17 98 17 0
+
+FCJ 2 0 3 2 0 1
+
+TY 97 11 2 2 0 0 0 Times++New++Roman I1
+
+TY 53 27 2 2 0 0 0 Times++New++Roman 
+
+LI 67 36 98 36 0
+
+FCJ 2 0 3 2 0 1
+
+TY 96 30 2 2 0 0 0 Times++New++Roman I2
+
+TY 54 46 2 2 0 0 0 Times++New++Roman 
+
+LI 68 56 99 56 0
+
+FCJ 2 0 3 2 0 1
+
+TY 94 51 2 2 0 0 0 Times++New++Roman l3
+
+TY 53 66 2 2 0 0 0 Times++New++Roman 
+
+TY 30 15 4 3 0 0 0 Times++New++Roman L1
+
+TY 30 33 4 3 0 0 0 Times++New++Roman L2
+
+TY 32 52 4 3 0 0 0 Times++New++Roman L3
+
+MC 103 17 0 0 ey_libraries.pasres0
+
+FCJ
+
+TY 102 21 2 2 0 0 0 Times++New++Roman R1
+
+TY 102 26 2 2 0 0 0 Times++New++Roman 
+
+MC 102 36 0 0 ey_libraries.pasres0
+
+FCJ
+
+TY 104 40 2 2 0 0 0 Times++New++Roman R2
+
+TY 112 41 2 2 0 0 0 Times++New++Roman 
+
+MC 104 56 0 0 ey_libraries.pasres0
+
+FCJ
+
+TY 105 61 2 2 0 0 0 Times++New++Roman R3
+
+TY 114 61 2 2 0 0 0 Times++New++Roman 
+
+MC 122 36 1 0 ey_libraries.pascap0
+
+FCJ
+
+TY 119 44 2 2 0 0 0 Times++New++Roman C1
+
+TY 132 41 2 2 0 0 0 Times++New++Roman 
+
+MC 121 56 1 0 ey_libraries.pascap0
+
+FCJ
+
+TY 118 62 2 2 0 0 0 Times++New++Roman C2
+
+TY 131 61 2 2 0 0 0 Times++New++Roman 
+
+LI 72 51 72 17 0
+
+FCJ 1 0 3 1 0 1
+
+TY 65 44 2 2 0 0 0 Times++New++Roman I12
+
+TY 40 37 2 2 0 0 0 Times++New++Roman 
+
+LI 135 74 134 17 0
+
+LI 80 74 80 70 0
+
+FCJ 1 0 3 1 0 1
+
+TY 74 69 2 2 0 0 0 Times++New++Roman IR
+
+TY 85 83 2 2 0 0 0 Times++New++Roman 
+
+LI 39 17 66 17 0
+
+FCJ 2 0 3 1 0 1
+
+TY 57 12 2 2 0 0 0 Times++New++Roman IL1
+
+TY 43 37 2 2 0 0 0 Times++New++Roman 
+
+LI 39 74 135 74 0
+
+FCJ 0 0 3 1 0 1
+
+TY 31 73 2 2 0 0 0 Times++New++Roman N
+
+TY 140 133 2 2 0 0 0 Times++New++Roman 
+
+LI 134 17 127 17 0
+
+LI 134 36 126 36 0
+
+LI 135 56 125 56 0
+
+LI 80 51 72 51 0
+
+MC 118 17 0 0 ey_libraries.pasind0
+
+FCJ
+
+TY 119 22 2 2 0 0 0 Times++New++Roman L1
+
+TY 128 27 2 2 0 0 0 Times++New++Roman 
+
+MC 80 61 1 0 ey_libraries.pasres0
+
+FCJ
+
+TY 85 62 2 2 0 0 0 Times++New++Roman R5
+
+TY 90 71 2 2 0 0 0 Times++New++Roman 
+
+MC 80 41 1 0 ey_libraries.pasres7
+
+FCJ
+
+TY 84 44 2 2 0 0 0 Times++New++Roman Z4
+
+TY 90 51 2 2 0 0 0 Times++New++Roman 
+
+LI 40 36 67 36 0
+
+FCJ 2 0 3 1 0 1
+
+TY 58 31 2 2 0 0 0 Times++New++Roman IL2
+
+TY 44 56 2 2 0 0 0 Times++New++Roman 
+
+LI 40 56 68 56 0
+
+FCJ 2 0 3 1 0 1
+
+TY 58 51 2 2 0 0 0 Times++New++Roman IL3
+
+TY 44 76 2 2 0 0 0 Times++New++Roman 
+
+TY 43 24 4 3 0 0 0 Times++New++Roman U
+
+LI 50 20 50 32 0
+
+FCJ 1 0 3 2 0 0
+
+TY 24 90 4 3 0 0 0 Times++New++Roman U=400 V
+
+TY 52 90 4 3 0 0 0 Times++New++Roman R1=20Ω
+
+TY 74 90 4 3 0 0 0 Times++New++Roman R2=15Ω
+
+TY 98 90 4 3 0 0 0 Times++New++Roman R3=25Ω
+
+TY 122 90 4 3 0 0 0 Times++New++Roman R5=30Ω
+
+TY 53 99 4 3 0 0 0 Times++New++Roman Z4=10+j10 Ω
+
+TY 87 99 4 3 0 0 0 Times++New++Roman L1=31,8mH
+
+TY 118 99 4 3 0 0 0 Times++New++Roman C1=318μF
+
+TY 119 107 4 3 0 0 0 Times++New++Roman C2=159μF
+
+TY 26 99 4 3 0 0 0 Times++New++Roman f=50Hz

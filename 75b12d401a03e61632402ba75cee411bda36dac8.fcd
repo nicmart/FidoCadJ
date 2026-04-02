@@ -1,0 +1,105 @@
+[FIDOCAD]
+FJC C 1.0
+FJC A 0.2
+FJC B 0.2
+MC 150 45 0 0 ey_libraries.vic3ic0
+MC 70 50 0 0 ey_libraries.vic3ic0
+MC 135 33 1 0 ey_libraries.pasres0
+MC 120 23 0 0 ey_libraries.pasres0
+MC 105 23 0 0 ey_libraries.pasres0
+MC 85 55 1 0 ey_libraries.pasres0
+MC 85 40 1 0 ey_libraries.pasres0
+MC 90 55 1 0 ey_libraries.pasres0
+MC 90 23 0 0 ey_libraries.pasres0
+MC 165 50 1 0 ey_libraries.pasres0
+MC 135 54 0 0 ey_libraries.pascap0
+MC 55 60 0 0 ey_libraries.pascap0
+MC 175 64 0 0 ey_libraries.pascap0
+MC 165 65 0 0 ey_libraries.pascap1
+MC 100 70 0 0 ey_libraries.pasres5
+MC 150 70 1 0 ey_libraries.pasres5
+MC 170 61 3 0 ihram.ma27
+MC 110 40 2 0 074
+LI 130 23 135 23 0
+LI 90 65 90 70 0
+LI 85 50 110 50 0
+LI 85 35 95 35 0
+LI 100 31 100 23 0
+LI 114 31 114 23 0
+LI 130 37 119 37 0
+LI 130 37 130 23 0
+LI 100 31 106 31 0
+LI 135 23 135 29 0
+LI 95 35 100 38 0
+LI 90 45 101 45 0
+LI 85 70 85 65 0
+LI 100 75 70 75 0
+LI 90 50 90 45 0
+LI 85 35 85 23 0
+LI 110 40 110 50 0
+LI 85 70 90 70 0
+LI 70 75 70 60 0
+LI 50 50 55 50 0
+SA 85 50 0
+PA 110 40 2 2 1 0 0
+PA 101 45 2 2 1 0 0
+PA 100 38 2 2 1 0 0
+PA 106 31 2 2 1 0 0
+PA 114 31 2 2 1 0 0
+PA 119 37 2 2 1 0 0
+PA 119 45 2 2 1 0 0
+LI 175 59 175 45 0
+LI 175 73 175 80 0
+LI 165 75 165 80 0
+LI 135 80 135 64 0
+LI 55 68 55 80 0
+LI 175 80 55 80 0
+LI 119 70 110 70 0
+LI 119 45 119 70 0
+LI 135 49 135 44 0
+LI 170 45 170 51 0
+LI 165 45 176 45 0
+LI 145 76 150 76 0
+LI 145 76 145 70 0
+LI 150 55 150 61 0
+LI 170 61 150 61 0
+LI 135 43 135 45 0
+LI 119 45 135 45 0
+SA 135 45 0
+SA 165 61 0
+MC 46 50 0 0 ey_libraries.refpnt3
+MC 176 45 0 0 ey_libraries.refpnt2
+MC 175 79 0 0 ey_libraries.refpnt0
+TY 41 45 2 2 0 3 0 GulimChe IN
+LI 55 50 55 56 0
+TY 65 48 2 2 0 3 0 GulimChe LM317
+TY 145 43 2 2 0 3 0 GulimChe LM317
+TY 96 52 2 2 0 3 0 GulimChe commutatore
+TY 57 67 2 2 0 3 0 GulimChe 0.33uF
+TY 103 65 2 2 0 3 0 GulimChe 1k
+TY 92 59 2 2 0 3 0 GulimChe 270R
+TY 77 59 2 2 0 3 0 GulimChe 1k
+TY 73 38 2 2 0 3 0 GulimChe 100R
+TY 89 16 2 2 0 3 0 GulimChe 10R
+TY 105 16 2 2 0 3 0 GulimChe 5R
+TY 119 16 2 2 0 3 0 GulimChe 2.5R
+TY 140 33 2 2 0 3 0 GulimChe 2.5R
+TY 122 61 2 2 0 3 0 GulimChe 0.33uF
+TY 139 69 2 2 0 3 0 GulimChe 5k
+TY 154 53 2 2 0 3 0 GulimChe 220R
+TY 155 70 2 2 0 3 0 GulimChe 10uF
+TY 163 38 2 2 0 3 0 GulimChe 1N4007
+TY 178 70 2 2 0 3 0 GulimChe 0.1uF
+TY 183 41 2 2 0 3 0 GulimChe OUT
+TY 181 81 2 2 0 3 0 GulimChe GND
+SA 106 31 13
+EV 85 60 105 60 13
+SA 119 37 13
+SA 119 45 13
+SA 101 45 13
+EV 100 30 120 50 13
+SA 114 31 13
+
+
+
+

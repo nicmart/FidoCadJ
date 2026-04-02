@@ -1,0 +1,167 @@
+[FIDOCAD]
+
+FJC C 1.5
+
+FJC B 0.5
+
+MC 36 619 0 0 ey_libraries.pasres7
+
+EV 24 618 22 620 0
+
+EV 52 618 54 620 0
+
+LI 31 619 24 619 0
+
+FCJ 1 0 3 1 0 1
+
+TY 24 609 4 3 0 0 0 Comic++Sans++MS I1
+
+TY 36 629 4 3 0 0 0 Comic++Sans++MS 
+
+LI 45 619 52 619 0
+
+LI 53 641 53 648 0
+
+FCJ 2 0 3 1 0 1
+
+TY 41 643 4 3 0 0 0 Comic++Sans++MS I2
+
+TY 58 651 4 3 0 0 0 Comic++Sans++MS 
+
+MC 53 632 1 0 ey_libraries.pasres7
+
+EV 54 620 52 618 0
+
+EV 54 648 52 650 0
+
+LI 53 627 53 620 0
+
+LI 106 619 92 619 0
+
+FCJ 1 0 3 1 0 1
+
+TY 105 622 4 3 0 0 0 Comic++Sans++MS I5
+
+TY 111 629 4 3 0 0 0 Comic++Sans++MS 
+
+LI 120 619 127 619 0
+
+LI 76 619 89 619 0
+
+FCJ 1 0 3 1 0 1
+
+TY 82 621 4 3 0 0 0 Comic++Sans++MS I3
+
+TY 88 629 4 3 0 0 0 Comic++Sans++MS 
+
+MC 66 619 0 0 ey_libraries.pasres7
+
+EV 54 618 52 620 0
+
+EV 90 618 92 620 0
+
+LI 61 619 54 619 0
+
+EV 127 618 129 620 0
+
+MC 111 619 0 0 ey_libraries.pasres7
+
+EV 92 618 90 620 0
+
+EV 119 585 121 587 0
+
+MC 103 586 0 0 ey_libraries.pasres7
+
+EV 92 585 90 587 0
+
+LI 98 586 92 586 0
+
+FCJ 1 0 3 1 0 1
+
+TY 96 574 4 3 0 0 0 Comic++Sans++MS I9
+
+TY 103 596 4 3 0 0 0 Comic++Sans++MS 
+
+LI 112 586 119 586 0
+
+LI 23 620 23 631 0
+
+FCJ 1 0 3 1 0 1
+
+TY 12 621 4 3 0 0 0 Comic++Sans++MS I10
+
+TY 27 624 4 3 0 0 0 Comic++Sans++MS 
+
+LI 91 608 91 618 0
+
+FCJ 2 0 3 1 0 1
+
+TY 84 610 4 3 0 0 0 Comic++Sans++MS I4
+
+TY 81 616 4 3 0 0 0 Comic++Sans++MS 
+
+MC 91 598 1 0 ey_libraries.pasres7
+
+EV 92 587 90 585 0
+
+LI 91 593 91 587 0
+
+EV 92 618 90 620 0
+
+RV 37 576 70 591 0
+
+LI 53 591 53 618 0
+
+FCJ 1 0 3 1 0 1
+
+TY 57 596 4 3 0 0 0 Comic++Sans++MS I6
+
+TY 43 616 4 3 0 0 0 Comic++Sans++MS 
+
+EV 54 618 52 620 0
+
+LI 23 583 23 618 0
+
+LI 70 586 90 586 0
+
+FCJ 2 0 3 1 0 1
+
+TY 79 577 4 3 0 0 0 Comic++Sans++MS I7
+
+TY 93 581 4 3 0 0 0 Comic++Sans++MS 
+
+EV 90 585 92 587 0
+
+LI 23 583 37 583 0
+
+FCJ 2 0 3 1 0 1
+
+TY 26 574 4 3 0 0 0 Comic++Sans++MS I8
+
+TY 28 593 4 3 0 0 0 Comic++Sans++MS 
+
+EV 24 651 22 653 0
+
+MC 23 635 1 0 ey_libraries.pasres7
+
+LI 23 644 23 651 0
+
+TY 87 642 4 3 0 0 2 Comic++Sans++MS I4-I3-I5=0
+
+CV 1 95 611 84 612 80 622 84 637 99 634 100 619 98 613 2
+
+FCJ 0 0 3 2 2 0
+
+TY 43 549 4 3 0 0 7 Comic++Sans++MS I8-I9-I4+I6=0
+
+CV 1 52 561 35 566 18 585 33 598 59 595 98 608 86 570 7
+
+FCJ 0 0 3 2 2 0
+
+TY 26 657 4 3 0 0 11 Comic++Sans++MS I1-I2+I3-I6=0
+
+CV 1 65 606 48 606 30 618 48 642 65 640 73 630 75 615 11
+
+FCJ 0 0 3 2 2 0
+
+TY 139 604 6 4 0 0 15 Comic++Sans++MS LKI
