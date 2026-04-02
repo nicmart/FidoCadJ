@@ -1,0 +1,196 @@
+[FIDOCAD]
+FJC B 0.5
+MC 90 105 0 0 elettrotecnica.intpr02
+MC 50 105 0 0 elettrotecnica.intpr03
+MC 135 140 0 0 elettrotecnica.intpr03
+MC 160 140 0 0 elettrotecnica.intpr03
+MC 185 140 0 0 elettrotecnica.intpr03
+MC 210 140 0 0 elettrotecnica.intpr03
+MC 235 140 0 0 elettrotecnica.intpr03
+MC 260 140 0 0 elettrotecnica.intpr03
+MC 285 140 0 0 elettrotecnica.intpr03
+LI 115 125 310 125 0
+SA 135 125 0
+SA 160 125 0
+SA 185 125 0
+SA 210 125 0
+SA 235 125 0
+SA 260 125 0
+SA 110 125 0
+MC 310 140 0 0 elettrotecnica.intpr03
+SA 285 125 0
+MC 285 190 0 0 elettrotecnica.intpr03
+MC 110 190 0 0 elettrotecnica.intpr03
+MC 185 190 0 0 elettrotecnica.intpr03
+MC 110 230 0 0 elettrotecnica.intpr02
+MC 135 230 0 0 elettrotecnica.intpr02
+MC 160 230 0 0 elettrotecnica.intpr02
+MC 185 230 0 0 elettrotecnica.intpr02
+MC 210 230 0 0 elettrotecnica.intpr02
+MC 235 230 0 0 elettrotecnica.intpr02
+MC 260 230 0 0 elettrotecnica.intpr02
+MC 285 230 0 0 elettrotecnica.intpr02
+MC 310 230 0 0 elettrotecnica.intpr02
+MC 335 230 0 0 elettrotecnica.intpr02
+MC 385 230 0 0 elettrotecnica.intpr02
+MC 360 230 0 0 elettrotecnica.intpr02
+LI 160 215 110 215 0
+LI 260 215 185 215 0
+LI 385 215 285 215 0
+SA 110 215 0
+SA 135 215 0
+SA 210 215 0
+SA 185 215 0
+SA 235 215 0
+SA 285 215 0
+SA 310 215 0
+SA 335 215 0
+SA 360 215 0
+LI 285 175 90 175 0
+LI 90 175 90 120 0
+SA 110 175 0
+SA 185 175 0
+LI 115 125 90 125 0
+SA 90 125 0
+MC 125 100 0 0 elettrotecnica.sca01
+MC 50 175 0 0 elettrotecnica.meas00
+MC 125 110 0 0 elettrotecnica.ms01
+MC 75 45 0 0 elettrotecnica.intpr02
+LI 125 90 75 90 0
+LI 75 90 50 90 0
+LI 75 60 75 90 0
+SA 75 90 0
+SA 90 90 0
+MC 110 140 0 0 elettrotecnica.intpr03
+TY 85 55 4 3 90 0 0 Arial FN81NC50
+MC 50 220 0 0 elettrotecnica.conv03
+MC 75 15 0 0 elettrotecnica.meas01
+TY 50 60 4 3 0 0 0 * 2x10mmq - 15m
+TY 130 105 4 3 0 0 0 * 1x16mmq
+TY 35 120 4 3 90 0 0 Arial 5SU16567KK32
+LI 75 30 75 25 0
+TY 75 120 4 3 90 0 0 Arial FA81NC32
+LI 50 125 50 160 0
+LI 50 185 50 210 0
+TY 25 130 4 3 0 0 0 * 2x10mmq - 5m
+TY 25 195 4 3 0 0 0 * 2x10mmq - 2m
+MC 225 300 3 0 elettrotecnica.fus06
+MC 190 305 3 0 elettrotecnica.sz
+MC 190 285 3 0 elettrotecnica.sca01
+LI 45 230 45 365 0
+LI 190 300 55 300 0
+LI 55 300 55 230 0
+LI 205 300 215 300 0
+LI 180 285 180 300 0
+MC 200 285 3 0 elettrotecnica.ms01
+TY 210 280 4 3 0 0 0 * 1x16mmq
+MC 275 300 0 0 ihram.bd-b00
+MC 295 300 0 0 ihram.bd-b00
+MC 315 300 0 0 ihram.bd-b00
+MC 335 300 0 0 ihram.bd-b00
+MC 355 300 0 0 ihram.bd-b00
+MC 375 300 0 0 ihram.bd-b00
+SA 180 300 0
+RV 170 275 400 330 0
+FCJ 1 0
+TY 365 280 4 3 0 1 0 Arial STRINGA A
+TY 230 305 4 3 0 0 0 Arial FB01D2P
+TY 185 305 4 3 0 0 0 Arial GD025AT2
+TY 285 295 4 3 0 0 0 Arial M1
+TY 305 295 4 3 0 0 0 Arial M2
+TY 325 295 4 3 0 0 0 Arial M3
+TY 345 295 4 3 0 0 0 Arial M4
+TY 365 295 4 3 0 0 0 Arial M5
+TY 385 295 4 3 0 0 0 Arial M6
+TY 305 310 4 3 0 2 0 Arial FUTURA SUN - FU380M SILK PRO
+TY 185 290 4 3 0 0 0 Arial SG2DG600M2
+MC 225 365 3 0 elettrotecnica.fus06
+MC 190 370 3 0 elettrotecnica.sz
+MC 190 350 3 0 elettrotecnica.sca01
+LI 190 365 45 365 0
+LI 205 365 215 365 0
+LI 180 350 180 365 0
+MC 200 350 3 0 elettrotecnica.ms01
+TY 210 345 4 3 0 0 0 * 1x16mmq
+MC 275 365 0 0 ihram.bd-b00
+MC 295 365 0 0 ihram.bd-b00
+MC 315 365 0 0 ihram.bd-b00
+MC 335 365 0 0 ihram.bd-b00
+MC 355 365 0 0 ihram.bd-b00
+MC 375 365 0 0 ihram.bd-b00
+SA 180 365 0
+RV 170 340 400 395 0
+FCJ 1 0
+TY 365 345 4 3 0 1 0 Arial STRINGA B
+TY 230 370 4 3 0 0 0 Arial FB01D2P
+TY 185 370 4 3 0 0 0 Arial GD025AT2
+TY 285 360 4 3 0 0 0 Arial M1
+TY 305 360 4 3 0 0 0 Arial M2
+TY 325 360 4 3 0 0 0 Arial M3
+TY 345 360 4 3 0 0 0 Arial M4
+TY 365 360 4 3 0 0 0 Arial M5
+TY 385 360 4 3 0 0 0 Arial M6
+TY 305 375 4 3 0 2 0 Arial FUTURA SUN - FU380M SILK PRO
+TY 185 355 4 3 0 0 0 Arial SG2DG600M2
+TY 90 10 4 3 0 0 0 Arial Energia prelevata e immessa in rete
+TY 30 185 4 3 90 0 0 Arial Energia prodotta
+TY 30 255 4 3 90 0 0 Arial 1PH 5000-TLM-V3
+TY 20 280 4 3 90 0 0 Arial ZUCCHETTI AZZURRO ZCS
+TY 130 290 4 3 0 0 0 * 2x6mmq - 5m
+TY 130 355 4 3 0 0 0 * 2x6mmq - 5m
+TY 235 290 4 3 0 0 0 * 2x6mmq - 25m
+LI 235 300 275 300 0
+LI 235 365 275 365 0
+TY 235 355 4 3 0 0 0 * 2x6mmq - 25m
+TY 95 160 4 3 90 0 0 Arial GA8813AC16
+TY 120 160 4 3 90 0 0 Arial GA8813AC16
+TY 145 160 4 3 90 0 0 Arial GA8813AC16
+TY 170 160 4 3 90 0 0 Arial GA8813AC16
+TY 195 160 4 3 90 0 0 Arial GA8813AC16
+TY 220 160 4 3 90 0 0 Arial GC8813AC16
+TY 245 160 4 3 90 0 0 Arial GA8813AC16
+TY 270 160 4 3 90 0 0 Arial GA8813AC16
+TY 295 160 4 3 90 0 0 Arial GC8813AC16
+TY 95 210 4 3 90 0 0 Arial GA8813AC10
+TY 170 210 4 3 90 0 0 Arial GA8813AC16
+TY 270 210 4 3 90 0 0 Arial GA8813AC16
+TY 95 245 4 3 90 0 0 Arial FC881C6
+TY 120 245 4 3 90 0 0 Arial FC881C6
+TY 145 245 4 3 90 0 0 Arial FC881C6
+TY 170 245 4 3 90 0 0 Arial FC881C6
+TY 195 245 4 3 90 0 0 Arial FC881C6
+TY 220 245 4 3 90 0 0 Arial FC881C6
+TY 245 245 4 3 90 0 0 Arial FC881C6
+TY 270 245 4 3 90 0 0 Arial FC881C10
+TY 295 245 4 3 90 0 0 Arial FC881C6
+TY 320 245 4 3 90 0 0 Arial FC881C10
+TY 345 245 4 3 90 0 0 Arial FC881C10
+LI 110 210 110 215 0
+LI 185 210 185 215 0
+LI 285 210 285 215 0
+TY 370 245 4 3 90 0 0 Arial FC881C6
+TY 115 165 4 3 0 0 0 *  ------------------------- utenze -------------------------
+TY 120 250 4 3 0 0 0 *  ---------------------------------- utenze ----------------------------------
+TY 115 115 4 3 90 0 0 Arial 5094457
+RV 400 260 70 75 0
+FCJ 1 0
+TY 335 85 4 3 0 1 0 Arial QUADRO UTENZE CA
+RV 255 325 175 280 0
+FCJ 1 0
+TY 185 315 4 3 0 1 0 Arial QUADRO DI CAMPO
+RV 255 390 175 345 0
+FCJ 1 0
+TY 185 380 4 3 0 1 0 Arial QUADRO DI CAMPO
+TY 25 410 4 3 0 0 0 Arial FN81NC50 - BTICINO interruttore magnetotermico 1P+N curva C - In = 50A - Icn = 6kA - Vn = 230 Vac
+TY 25 420 4 3 0 0 0 Arial FA81NC32 - BTICINO interruttore magnetotermico 1P+N curva C - In = 32A - Icn = 4,5kA - Vn = 230 Vac
+TY 25 430 4 3 0 0 0 Arial 5094457 - OBO Betterman limitatore di sovratensione e contro i fulmini di tipo 1+2 - V25-B+C 1+NPE
+TY 25 440 4 3 0 0 0 Arial GA8813AC16 - BTICINO interruttore magnetotermico differenziale 1P+N - Tipo AC - In = 16A - Icn = 4,5kA - Vn = 230  - Idn = 30mA
+TY 25 450 4 3 0 0 0 Arial GC8813AC16 - BTICINO interruttore magnetotermico differenziale 1P+N - Tipo AC - In = 16A - Icn = 4,5kA - Vn = 230V - Idn = 0,03A
+TY 25 460 4 3 0 0 0 Arial GA8813AC10 - BTICINO interruttore magnetotermico differenziale 1P+N - Tipo AC - In = 10A - Icn = 4,5kA - Vn = 230  - Idn = 30mA
+TY 25 470 4 3 0 0 0 Arial FC881C6 - BTICINO interruttore magnetotermico 1P+N curva C - In = 6A - Icn= 4,5kA - Vn = 230 Vac
+TY 25 480 4 3 0 0 0 Arial FC881C10 - BTICINO interruttore magnetotermico 1P+N curva C - In = 10A - Icn= 4,5kA - Vn = 230 Vac
+TY 25 490 4 3 0 0 0 Arial FB01D2P - LOVATO porta fusibile Lovato 32A per fusibili 10x38mm
+TY 25 500 4 3 0 0 0 Arial GD025AT2 - LOVATO interruttore Sezionatore Lovato DC, corrente convenzionale termica in aria libera Ith IEC DC 25A 800V - 16A 1000V
+TY 25 510 4 3 0 0 0 Arial SG2DG600M2 - LOVATO scaricatore di Sovratensione fotovoltaico tipo 2, tensione nominale/continua 600VDC, livello di protezione Up &lt;1,9 kW 
+TY 25 520 4 3 0 0 0 Arial 5SU16567KK32 - SIEMENS interruttore magnetotermico differenziale Tipo A - In = 32A - Icn = 6kA - Idn = 300ma
+TY 25 395 4 3 0 1 0 Arial MATERIALE UTILIZZATO:

@@ -1,0 +1,104 @@
+[FIDOCAD]
+FJC B 0.5
+TY 95 45 4 3 0 0 0 * C
+MC 135 50 0 0 ey_libraries.pasres0
+MC 155 45 0 0 ey_libraries.opaopa0
+MC 130 60 3 0 ey_libraries.didznr0
+MC 95 40 0 0 ey_libraries.pasres0
+MC 105 45 0 0 ey_libraries.pascap0
+MC 130 25 1 0 ey_libraries.pasres0
+MC 130 35 1 0 030
+MC 130 65 0 0 elettrotecnica.ms01
+MC 105 55 0 0 elettrotecnica.ms01
+LI 120 40 145 40 0
+LI 130 45 130 50 0
+LI 160 20 160 40 0
+SA 130 50 0
+SA 105 40 0
+TY 140 55 4 3 0 0 0 * R1
+MC 115 45 1 0 ey_libraries.pasres0
+LI 105 40 120 40 0
+LI 115 55 105 55 0
+SA 105 55 0
+SA 115 40 0
+MC 95 35 0 0 ey_libraries.diddid0
+MC 80 35 0 0 ey_libraries.pasres0
+LI 105 35 105 40 0
+LI 90 40 75 40 0
+LI 75 40 75 35 0
+LI 130 50 125 50 0
+LI 125 50 125 57 0
+LI 125 57 130 57 0
+LI 130 50 140 60 0
+LI 140 60 140 80 0
+MC 75 15 1 0 030
+LI 75 25 75 35 0
+SA 75 35 0
+TY 150 55 4 3 0 0 0 * LM393
+TY 155 40 4 3 0 0 0 * A
+TY 115 60 4 3 0 0 0 * TL431
+TY 135 25 4 3 0 0 0 * 2k7
+TY 120 40 4 3 0 0 0 * R2
+TY 165 30 4 3 0 0 0 * 3k3
+TY 135 45 4 3 0 0 0 * 100 k
+TY 110 35 4 3 0 0 0 * 100 k
+TY 80 25 4 3 0 0 0 * 100
+TY 90 40 4 3 0 0 0 * R
+TY 25 65 4 3 0 0 0 * R in ohm 1/4 w 1%
+TY 25 70 4 3 0 0 0 * C in F
+TY 25 75 4 3 0 0 0 * Diodi 1N4148
+TY 130 100 4 3 0 0 0 * Fig. 1c
+TY 105 140 4 3 0 0 0 * C
+MC 140 140 0 0 ey_libraries.pasres0
+MC 160 135 0 0 ey_libraries.opaopa0
+MC 135 150 3 0 ey_libraries.didznr0
+MC 100 130 0 0 ey_libraries.pasres0
+MC 110 135 0 0 ey_libraries.pascap0
+MC 135 115 1 0 ey_libraries.pasres0
+MC 135 125 1 0 030
+MC 135 155 0 0 elettrotecnica.ms01
+MC 110 145 0 0 elettrotecnica.ms01
+LI 125 130 150 130 0
+LI 135 135 135 140 0
+LI 165 110 165 130 0
+SA 135 140 0
+SA 110 130 0
+TY 145 145 4 3 0 0 0 * R1
+LI 110 130 125 130 0
+SA 110 145 0
+MC 100 125 0 0 ey_libraries.diddid0
+LI 110 125 110 130 0
+LI 95 130 80 130 0
+LI 80 130 80 125 0
+LI 135 140 130 140 0
+LI 130 140 130 147 0
+LI 130 147 135 147 0
+LI 135 140 145 150 0
+LI 145 150 145 170 0
+SA 80 125 0
+TY 155 145 4 3 0 0 0 * LM393
+TY 160 130 4 3 0 0 0 * A
+TY 120 150 4 3 0 0 0 * TL431
+TY 140 115 4 3 0 0 0 * 2k7
+TY 170 120 4 3 0 0 0 * 3k3
+TY 140 135 4 3 0 0 0 * 100 k
+TY 85 115 4 3 0 0 0 * 100
+TY 95 130 4 3 0 0 0 * R3
+TY 30 155 4 3 0 0 0 * R in ohm 1/4 w 1%
+TY 30 160 4 3 0 0 0 * C in F
+TY 30 165 4 3 0 0 0 * Diodi 1N4148
+TY 125 175 4 3 0 0 0 * Fig. 1c
+MC 80 115 1 0 ey_libraries.pasres0
+MC 80 135 1 0 ey_libraries.pasres0
+LI 95 125 80 125 0
+SA 80 130 0
+TY 70 130 4 3 0 0 0 * R2
+TY 70 115 4 3 0 0 0 * R
+TY 65 135 4 3 0 0 0 * 1 k
+TY 88 134 4 3 0 0 0 * 100 k
+LI 80 145 110 145 0
+LI 80 110 65 110 0
+FCJ 2 0 3 2 0 0
+TY 50 100 4 3 0 0 0 * alla BAT 1
+TY 90 70 4 3 0 0 2 * Errato
+EV 65 25 120 65 2

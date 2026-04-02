@@ -1,0 +1,292 @@
+[FIDOCAD]
+FJC C 1.5
+FJC A 0.75
+FJC B 0.5
+TY 26 1 4 5 0 0 0 Verdana LED with 220 Vac
+MC 75 65 3 1 220
+MC 30 45 0 0 080
+MC 45 50 0 0 080
+MC 45 40 0 0 170
+MC 25 45 0 0 480
+MC 65 65 3 0 200
+LI 25 45 30 45 0
+LI 40 45 45 45 0
+LI 45 45 45 40 0
+LI 45 45 45 50 0
+LI 55 40 55 50 0
+LI 55 45 65 45 0
+LI 65 45 65 50 0
+LI 65 45 75 45 0
+LI 75 45 75 50 0
+LI 25 65 65 65 0
+LI 65 65 75 65 0
+TY 30 60 4 1 0 0 0 Verdana 230 Vac
+TY 30 35 4 1 0 0 0 Verdana R1= 1 KΩ
+TY 45 55 4 1 0 0 0 Verdana R2= 1 MΩ
+TY 50 30 4 1 0 0 0 Verdana C1= 0.22 μF - 600 VL
+TY 65 40 4 1 0 0 0 Verdana D1= 1N4148
+TY 85 55 4 1 0 0 0 Verdana LED
+MC 125 40 0 0 480
+MC 135 40 0 0 170
+MC 165 65 3 1 220
+MC 165 50 3 0 080
+MC 150 55 3 0 230
+LI 150 40 145 40 0
+LI 150 40 165 40 0
+LI 125 60 125 65 0
+LI 125 65 150 65 0
+LI 150 65 150 55 0
+LI 150 65 165 65 0
+TY 170 40 4 1 0 0 0 Verdana R1= 10 Ω
+TY 175 55 4 1 0 0 0 Verdana LED
+TY 139 32 4 1 0 0 0 Verdana C1= 0.1 ÷ 0.47 μF - 600 VL
+TY 140 67 4 1 0 0 0 Verdana DZ1= Zener 6 V - 1 W
+TY 190 40 4 1 0 0 0 Verdana Il condensatore C1 determina la corrente del LED
+TY 190 45 4 1 0 0 0 Verdana con 0.1 μF la corrente per il LED è 4 mA
+TY 190 50 4 1 0 0 0 Verdana con 0.47 μF la corrente per il LED è 20 mA
+TY 131 54 4 1 0 0 0 Verdana 230 Vac
+MC 126 235 0 0 480
+MC 161 245 1 0 220
+MC 161 245 3 0 080
+LI 126 235 131 235 0
+LI 146 235 161 235 0
+LI 126 255 126 260 0
+LI 126 260 146 260 0
+LI 146 260 161 260 0
+TY 166 236 4 1 0 0 0 Verdana R1= 39 KΩ - 2 W
+TY 172 251 4 1 0 0 0 Verdana LED
+TY 136 225 4 1 0 0 0 Verdana D1= 1N4007
+TY 131 250 4 1 0 0 0 Verdana 230 Vac
+MC 75 115 3 1 220
+MC 45 115 0 0 080
+MC 45 95 0 0 170
+MC 25 95 0 0 480
+MC 65 100 1 0 200
+LI 25 95 45 95 0
+LI 55 95 65 95 0
+LI 65 95 65 100 0
+LI 65 95 75 95 0
+LI 75 95 75 100 0
+LI 65 115 75 115 0
+TY 32 103 4 1 0 0 0 Verdana 230 Vac
+TY 46 118 4 1 0 0 0 Verdana R1= 1 KΩ
+TY 40 85 4 1 0 0 0 Verdana C1= 0.22 μF - 600 VL
+TY 65 90 4 1 0 0 0 Verdana D1= 1N4007
+TY 85 105 4 1 0 0 0 Verdana LED
+LI 25 115 45 115 0
+LI 55 115 65 115 0
+MC 180 113 3 1 220
+MC 150 113 0 0 080
+MC 130 93 0 0 480
+MC 170 98 1 0 200
+LI 130 93 170 93 0
+LI 170 93 170 98 0
+LI 170 93 180 93 0
+LI 180 93 180 98 0
+LI 170 113 180 113 0
+TY 138 100 4 1 0 0 0 Verdana 230 Vac
+TY 154 105 4 1 0 0 0 Verdana Rx
+TY 165 87 4 1 0 0 0 Verdana D1= 1N4007
+TY 190 103 4 1 0 0 0 Verdana LED
+LI 130 113 150 113 0
+LI 160 113 170 113 0
+TY 143 117 4 1 0 0 0 Verdana Rx= 0.5 x ((Vac-Vled)/Iled)
+MC 76 258 3 1 220
+MC 46 258 0 0 080
+MC 46 233 0 0 170
+MC 26 238 0 0 480
+MC 66 243 1 0 200
+LI 26 238 46 238 0
+LI 56 238 66 238 0
+LI 66 238 66 243 0
+LI 66 238 76 238 0
+LI 76 238 76 243 0
+LI 66 258 76 258 0
+TY 33 251 4 1 0 0 0 Verdana 230 Vac
+TY 44 261 4 1 0 0 0 Verdana R1= 330 Ω - 2W
+TY 41 225 4 1 0 0 0 Verdana C1= 0.47 μF - 600 VL
+TY 63 232 4 1 0 0 0 Verdana D1= 1N4007
+TY 86 248 4 1 0 0 0 Verdana LED
+LI 26 258 46 258 0
+LI 56 258 66 258 0
+MC 46 243 0 0 080
+LI 46 243 46 238 0
+LI 56 243 56 238 0
+LI 46 233 46 238 0
+LI 56 233 56 238 0
+TY 46 245 4 1 0 0 0 Verdana R2= 1 MΩ
+TY 29 268 4 1 0 1 0 Verdana Fig. 1 - Questo circuito è stato realizzato ed è quello i cui componenti
+MC 131 235 2 1 200
+TY 123 266 4 1 0 1 0 Verdana Fig. 2 - Anche questo circuito è stato realizzato,
+TY 123 271 4 1 0 1 0 Verdana ma è stato abbandonato perchè la R1 scaldava troppo
+TY 25 288 3 2 0 1 0 Verdana Note riguardanti il circuito di Fig. 1:
+TY 25 293 3 2 0 0 0 Verdana Nel circuito con il condensatore, la corrente media vale 32xC1, dove C1 è la capacità in microfarad ed il risultato ottenuto è in milliampere.
+TY 25 297 3 2 0 0 0 Verdana Con il condensatore utilizzato nello schema, la corrente media vale 15 mA e quindi è più luminoso di quello di Fig. 2.
+TY 25 310 3 2 0 1 0 Verdana Note riguardanti il circuito di Fig. 2:
+TY 25 315 3 2 0 0 0 Verdana Nel circuito con la singola resistenza,  la corrente media (quella da cui dipende l'intensità di luce) vale circa 100/R1, con la resistenza in KΩ
+TY 25 323 3 2 0 0 0 Verdana La potenza dissipata dalla resistenza R1 vale circa 26.4/R1, con resistenza in KΩ e risultato in W.
+TY 25 327 3 2 0 0 0 Verdana Con la R1 utilizzata nello schema si ha una corrente media di 2.5 mA ed una dissipazione di potenza di circa 0.67 W.
+TY 25 336 3 2 0 1 0 Verdana Per avere la stessa intensità luminosa tra i due circuiti:
+TY 25 341 3 2 0 0 0 Verdana - in Fig. 1 si dovrebbe utilizzare un condensatore C1 da 780 nF (che non esiste, ovvero 680 nF o 820 nF sono i valori più vicini).
+TY 25 346 3 2 0 0 0 Verdana - in Fig. 2 si dovrebbe utilizzare una R1 da 6.8 kohm, che dissiperebbe 3.9 W, tenendo presente che una resistenza che dissipa la sua potenza
+TY 28 351 3 2 0 0 0 Verdana massima ha una temperatura superficiale che può raggiungere i150 °C.
+TY 26 8 4 1 0 1 0 Verdana Questi circuiti sono stati dibattuti nel Forum di ElectroYou, al seguente indirizzo:
+TY 26 13 8 2 0 1 0 Verdana <!-- l --><a class="postlink-local" href="http://www.electroyou.it/forum/viewtopic.php?f=1&amp;t=69674&amp;p=717394#p717394">viewtopic.php?f=1&amp;t=69674&amp;p=717394#p717394</a><!-- l -->
+TY 123 276 4 1 0 1 0 Verdana all'interno del contenitore plastico
+TY 29 272 4 1 0 1 0 Verdana non si riscaldano all'interno del contenitore plastico
+MC 125 40 0 0 080
+TY 125 32 4 1 0 0 0 Verdana R1= 470 Ω
+MC 114 161 1 0 220
+MC 74 151 0 0 170
+MC 49 151 0 0 080
+MC 39 151 2 0 000
+MC 39 186 2 0 000
+LI 39 151 49 151 0
+LI 59 151 74 151 0
+LI 84 151 114 151 0
+LI 114 151 114 161 0
+LI 114 176 114 186 0
+TY 37 140 3 2 0 0 0 Verdana 1 kΩ  0.25 W carbon
+TY 74 143 3 2 0 0 0 Verdana 100 nF (275 V~ type X2, or 630 V=)
+TY 83 171 3 2 0 0 0 Verdana 1N4148
+TY 19 166 3 2 0 0 0 Verdana 230 V~ 50 Hz
+TY 29 181 3 2 0 0 0 Verdana N
+TY 29 146 3 2 0 0 0 Verdana L
+TY 122 164 3 2 0 0 0 Verdana LED
+MC 74 161 0 0 080
+LI 74 161 69 161 0
+LI 69 161 69 151 0
+LI 84 161 89 161 0
+LI 99 161 99 151 0
+TY 65 164 3 2 0 0 0 Verdana 1 MΩ  0.25 W
+LI 89 161 89 151 0
+SA 69 151 0
+SA 89 151 0
+LI 44 146 64 146 0
+LI 44 156 64 156 0
+TY 42 157 3 2 0 0 0 Verdana Sterling tube
+BE 44 146 40 146 40 156 44 156 0
+BE 64 146 60 146 60 156 64 156 0
+FCJ 0 0 0 0 3 0
+BE 64 146 68 146 68 156 64 156 0
+BE 44 146 48 146 48 156 44 156 0
+MC 99 176 3 0 200
+LI 99 176 99 186 0
+LI 114 186 39 186 0
+SA 99 151 0
+SA 99 186 0
+MC 241 176 1 0 220
+MC 206 171 0 0 210
+MC 216 181 0 0 210
+MC 216 161 1 0 210
+MC 206 171 1 0 210
+MC 191 146 0 0 170
+MC 166 146 0 0 080
+MC 156 146 2 0 000
+MC 156 186 2 0 000
+LI 156 146 166 146 0
+LI 176 146 191 146 0
+LI 201 146 216 146 0
+LI 216 156 216 161 0
+LI 216 181 216 186 0
+LI 216 186 156 186 0
+LI 206 171 201 171 0
+LI 201 171 201 196 0
+LI 201 196 241 196 0
+LI 226 171 236 171 0
+FCJ 2 0 3 2 0 0
+LI 241 171 241 176 0
+LI 241 191 241 196 0
+LI 231 171 241 171 0
+TY 154 135 3 2 0 0 0 Verdana 1 KΩ  0.25 W carbon
+TY 191 138 3 2 0 0 0 Verdana 100 nF (275 V~ type X2, or 630 V=)
+TY 220 157 3 2 0 0 0 Verdana 4 x 1N4148
+TY 147 165 3 2 0 0 0 Verdana 230 V~ 50 Hz
+TY 146 181 3 2 0 0 0 Verdana N
+TY 146 141 3 2 0 0 0 Verdana L
+TY 236 166 3 2 0 0 0 Verdana â‰ˆ 7 mA
+TY 249 179 3 2 0 0 0 Verdana LED
+MC 191 156 0 0 080
+LI 191 156 186 156 0
+LI 186 156 186 146 0
+LI 201 156 206 156 0
+LI 216 156 216 146 0
+TY 172 159 3 2 0 0 0 Verdana 1 MΩ  0.25 W
+LI 206 156 206 146 0
+SA 186 146 0
+SA 206 146 0
+SA 216 161 0
+SA 226 171 0
+SA 206 171 0
+SA 216 181 0
+LI 161 141 181 141 0
+LI 161 151 181 151 0
+TY 159 152 3 2 0 0 0 Verdana Sterling tube
+BE 161 141 157 141 157 151 161 151 0
+BE 181 141 177 141 177 151 181 151 0
+FCJ 0 0 0 0 3 0
+BE 181 141 185 141 185 151 181 151 0
+BE 161 141 165 141 165 151 161 151 0
+TY 23 202 4 1 0 1 0 Verdana Lo &quot;Sterling tube&quot; è un tubetto sterlingato (ignifugo) dentro cui inserire la resistenza da 1 KΩ, per evitare pericolo d'incendio nel caso il condensatore vada in corto e di conseguenza la resistenza bruci.
+MC 153 387 1 0 220
+MC 73 377 0 0 170
+MC 66 412 0 0 080
+MC 38 377 2 0 000
+MC 38 412 2 0 000
+LI 38 412 66 412 0
+LI 38 377 73 377 0
+LI 83 377 105 377 0
+LI 153 377 153 387 0
+LI 153 402 153 412 0
+TY 70 404 3 2 0 0 0 Verdana R
+TY 76 369 3 2 0 0 0 Verdana C1
+TY 82 397 3 2 0 0 0 Verdana 1N4007
+TY 18 392 3 2 0 0 0 Verdana 230 Vac ~ 50 Hz
+TY 28 407 3 2 0 0 0 Verdana N
+TY 28 372 3 2 0 0 0 Verdana L
+TY 160 389 3 2 0 0 0 Verdana LED
+MC 73 384 0 0 080
+LI 73 384 68 384 0
+LI 68 384 68 377 0
+LI 83 384 88 384 0
+LI 98 387 98 377 0
+TY 76 387 3 2 0 0 0 Verdana R1
+LI 88 384 88 377 0
+SA 68 377 0
+SA 88 377 0
+MC 98 402 3 0 200
+LI 98 402 98 412 0
+LI 153 412 76 412 0
+SA 98 377 0
+SA 98 412 0
+TY 38 421 3 2 0 1 0 Verdana Fig. 3 - Questo circuito è stato progettato da I2VIU ed è stato realizzato personalmente, risultando il più luminoso in assoluto.
+TY 38 429 3 2 0 1 0 Verdana Anche in questo circuito i componenti non si riscaldano all'interno del contenitore plastico
+MC 105 377 0 0 200
+MC 136 402 3 0 230
+LI 120 377 153 377 0
+LI 136 387 136 377 0
+LI 136 412 136 402 0
+TY 139 385 3 2 0 0 0 Verdana Vz
+TY 107 368 3 2 0 0 0 Verdana 1N4007
+MC 123 399 3 0 discreti.m02
+LI 123 389 123 377 0
+LI 123 412 123 399 0
+TY 115 397 3 2 0 0 0 Verdana C2
+TY 32 444 3 2 0 0 0 Verdana C1 (nF)= 30 x Io (mA) = 600 nF 450 VL (considerato che il LED ha bisogno di 20 mA)
+TY 32 452 3 2 0 0 0 Verdana C2 (uF)= 30 x Io (mA) = 600 uF 12 VL (considerato che il LED ha bisogno di 20 mA)
+TY 32 477 3 2 0 0 0 Verdana R (Ohm)= 2500/Io (mA) = 125 Ω  1/2 W (considerato che il LED ha bisogno di 20 mA)
+TY 32 483 3 2 0 0 0 Verdana R1 (Ohm)= Non deve essere meno di 47 KΩ 1 W
+TY 32 487 3 2 0 0 0 Verdana per diminuire il potenza, quindi le dimensioni, occorre aumentarne il valore, ovvero:
+TY 32 491 3 2 0 0 0 Verdana tra 68 ÷ 82 KΩ 1/2 W - oltre i 100 KΩ 1/4 W
+TY 32 502 3 2 0 0 0 Verdana Vz = Vled ovvero 3.2 V   1/2 W (considerato che al LED bianco ultrabright occorrono 3.2 V)
+TY 38 425 3 2 0 1 0 Verdana La sua maggiore luminosità è dovuta alla presenza di Vz e C2, che stabilizzano meglio la tensione del LED.
+TY 32 495 3 2 0 0 0 Verdana Nel circuito da me realizzato è stata utilizzata R1 = 100 KΩ 1/4 W
+TY 32 456 3 2 0 0 0 Verdana Attenzione alle dimensioni fisiche di C2, il quale deve essere posto all'interno dei puntiluce
+TY 32 460 3 2 0 0 0 Verdana Nel circuito da me realizzato ho dovuto utilizzare un C2 = 470 nF 400 VL
+TY 32 464 3 2 0 0 0 Verdana perchè quello da 680 nF (valore commerciale più prossimo ai 600 nF calcolati) era troppo grande
+TY 32 468 3 2 0 0 0 Verdana per il mio contenitore.
+TY 32 510 3 2 0 0 0 Verdana I diodi 1N4007 possono essere sostituiti da qualsiasi diodo raddrizzatore al silicio
+TY 32 519 3 2 0 0 0 Verdana Tutti i calcoli possono essere visionati sul sito dell'autore I2VIU Vittorio Crapella,
+TY 32 524 3 2 0 0 0 Verdana all'interno del quale si possono trovare oltre 500 schemi di circuiti elettronici TUTTI progettati
+TY 32 529 3 2 0 0 0 Verdana da I2VIU e da esso direttamente realizzati.
+TY 25 319 3 2 0 0 0 Verdana e la corrente in mA.

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="800.0" height="455.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<rect x="95.0" y="10.0" rx="0" ry="0" width="195.0" height="273.0" style="stroke:#008080;stroke-dashoffset: 0.0;stroke-width:0.8130081300813008;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="193.0" cy="108.0" rx="42.0" ry="42.0" style="stroke:#008080;stroke-width:0.8130081300813008;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<rect x="118.0" y="283.0" rx="0" ry="0" width="20.0" height="131.0" style="stroke:#008080;stroke-width:0.8130081300813008;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#008080"/>
+<rect x="248.0" y="283.0" rx="0" ry="0" width="20.0" height="131.0" style="stroke:#008080;stroke-width:0.8130081300813008;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#008080"/>
+<rect x="183.0" y="283.0" rx="0" ry="0" width="20.0" height="131.0" style="stroke:#008080;stroke-width:0.8130081300813008;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#008080"/>
+<path d="M 290.0,59.0 C 255.0,82.0 255.0,134.0 290.0,157.0" style="stroke:#008080;stroke-width:0.8130081300813008;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 95.0,59.0 C 131.0,82.0 131.0,134.0 95.0,157.0" style="stroke:#008080;stroke-width:0.8130081300813008;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="193.0" cy="414.0" r="9.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="258.0" cy="414.0" r="9.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="128.0" cy="414.0" r="9.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<rect x="304.0" y="241.0" rx="0" ry="0" width="65.0" height="195.0" style="stroke:#008080;stroke-width:0.8130081300813008;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="336.0" cy="274.0" r="6.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="336.0" cy="404.0" r="6.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<rect x="11.0" y="241.0" rx="0" ry="0" width="65.0" height="195.0" style="stroke:#008080;stroke-width:0.8130081300813008;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="43.0" cy="274.0" r="6.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="43.0" cy="404.0" r="6.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<ellipse cx="539.0" cy="379.5" rx="8.0" ry="8.5" style="stroke:#008080;stroke-width:0.8130081300813008;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#008080"/>
+<g transform="translate(596.0,371.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Helvetica, sans-serif" font-size="17.64" font-style="" font-weight="" xml:space="preserve" fill="#008080">Centre in layer 3</text>
+</g>
+<circle cx="193.0" cy="414.0" r="9.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="258.0" cy="414.0" r="9.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="128.0" cy="414.0" r="9.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="336.0" cy="274.0" r="6.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="336.0" cy="404.0" r="6.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="43.0" cy="274.0" r="6.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="43.0" cy="404.0" r="6.5" style="stroke:white;stroke-width:0.33" fill="white"/>
+<circle cx="336.0" cy="274.0" r="8.0" style="stroke:white;stroke-width:0.33" fill="white"/>
+</svg>

@@ -1,0 +1,200 @@
+[FIDOCAD]
+FJC B 0.5
+MC 85 170 0 0 ey_libraries.vic5550
+MC 155 175 0 0 ey_libraries.vic4017
+MC 180 150 0 0 ey_libraries.diddid0
+MC 180 155 0 0 ey_libraries.diddid0
+MC 180 160 0 0 ey_libraries.diddid0
+MC 180 165 0 0 ey_libraries.diddid0
+MC 180 170 0 0 ey_libraries.diddid0
+MC 180 175 0 0 ey_libraries.diddid0
+MC 180 180 0 0 ey_libraries.diddid0
+MC 180 185 0 0 ey_libraries.diddid0
+MC 180 190 0 0 ey_libraries.diddid0
+MC 180 195 0 0 ey_libraries.diddid0
+MC 70 150 2 0 ey_libraries.pasres0
+FCJ
+TY -5 200 5 4 0 0 0 Calibri 
+TY 65 140 5 4 0 0 0 Calibri 3K3
+MC 60 165 1 0 ey_libraries.pasres0
+MC 105 185 0 0 ey_libraries.pascap0
+MC 60 185 0 0 ey_libraries.pascap1
+MC 85 195 0 0 ey_libraries.refpnt0
+MC 90 145 1 0 ey_libraries.refpnt1
+LI 70 160 60 160 0
+LI 70 180 60 180 0
+SA 80 150 0
+SA 60 160 0
+SA 60 180 0
+LI 65 175 65 180 0
+SA 65 180 0
+LI 60 160 60 150 0
+LI 60 180 60 175 0
+LI 75 150 90 150 0
+SA 90 150 0
+LI 60 195 85 195 0
+LI 85 195 85 190 0
+SA 85 195 0
+LI 85 195 105 195 0
+TY 50 175 4 3 90 0 0 * 100K
+TY 45 185 4 3 0 0 0 * 1uF
+TY 110 185 4 3 0 0 0 * 0.47uF
+TY 85 135 4 3 0 0 0 * +12 V
+LI 105 170 135 170 0
+LI 135 150 90 150 0
+MC 135 155 0 0 ey_libraries.refpnt0
+LI 135 180 135 190 0
+SA 135 185 0
+MC 135 190 0 0 ey_libraries.refpnt0
+MC 200 150 2 0 ey_libraries.pasres0
+MC 200 155 2 0 ey_libraries.pasres0
+MC 200 180 2 0 ey_libraries.pasres0
+MC 200 165 2 0 ey_libraries.pasres0
+MC 200 170 2 0 ey_libraries.pasres0
+MC 200 175 2 0 ey_libraries.pasres0
+MC 200 185 2 0 ey_libraries.pasres0
+MC 200 160 2 0 ey_libraries.pasres0
+MC 200 190 2 0 ey_libraries.pasres0
+MC 200 195 2 0 ey_libraries.pasres0
+MC 205 140 3 0 ey_libraries.trnbjt1
+MC 225 140 3 0 ey_libraries.trnbjt1
+MC 245 140 3 0 ey_libraries.trnbjt1
+MC 265 140 3 0 ey_libraries.trnbjt1
+MC 285 140 3 0 ey_libraries.trnbjt1
+MC 215 205 1 0 ey_libraries.trnbjt1
+MC 235 205 1 0 ey_libraries.trnbjt1
+MC 255 205 1 0 ey_libraries.trnbjt1
+MC 275 205 1 0 ey_libraries.trnbjt1
+MC 295 205 1 0 ey_libraries.trnbjt1
+LI 205 190 225 190 0
+LI 205 185 245 185 0
+LI 245 185 245 195 0
+LI 205 180 265 180 0
+LI 265 180 265 195 0
+LI 205 175 285 175 0
+LI 285 175 285 195 0
+LI 205 170 285 170 0
+LI 285 170 285 145 0
+LI 205 165 265 165 0
+LI 265 165 265 145 0
+LI 205 160 245 160 0
+LI 245 160 245 145 0
+LI 205 155 225 155 0
+LI 225 155 225 145 0
+LI 205 145 205 150 0
+MC 215 145 3 0 ey_libraries.pasres0
+LI 215 135 210 135 0
+LI 215 150 205 150 0
+SA 205 150 0
+MC 235 145 3 0 ey_libraries.pasres0
+LI 230 135 235 135 0
+LI 235 155 225 155 0
+MC 255 145 3 0 ey_libraries.pasres0
+LI 255 150 255 160 0
+LI 255 160 245 160 0
+LI 250 135 255 135 0
+MC 275 145 3 0 ey_libraries.pasres0
+LI 265 165 275 165 0
+LI 275 165 275 150 0
+LI 275 135 270 135 0
+MC 295 145 3 0 ey_libraries.pasres0
+LI 285 170 295 170 0
+LI 295 170 295 150 0
+LI 295 135 290 135 0
+SA 265 165 0
+SA 285 170 0
+SA 295 135 0
+SA 275 135 0
+SA 255 135 0
+SA 245 160 0
+SA 225 155 0
+SA 235 135 0
+SA 215 135 0
+MC 205 205 3 0 ey_libraries.pasres0
+LI 235 150 235 155 0
+LI 205 210 210 210 0
+LI 205 195 215 195 0
+MC 225 205 3 0 ey_libraries.pasres0
+MC 245 205 3 0 ey_libraries.pasres0
+MC 265 205 3 0 ey_libraries.pasres0
+MC 285 205 3 0 ey_libraries.pasres0
+LI 225 210 230 210 0
+LI 225 190 235 190 0
+LI 235 190 235 200 0
+LI 245 185 255 185 0
+LI 255 185 255 200 0
+LI 265 180 275 180 0
+LI 275 180 275 200 0
+LI 285 175 295 175 0
+LI 295 175 295 200 0
+LI 290 210 285 210 0
+LI 270 210 265 210 0
+LI 250 210 245 210 0
+SA 245 185 0
+SA 225 190 0
+SA 205 195 0
+SA 225 210 0
+SA 265 180 0
+SA 265 210 0
+SA 285 210 0
+SA 285 175 0
+LI 215 135 215 130 0
+LI 215 130 300 130 0
+LI 300 130 300 135 0
+LI 295 135 295 130 0
+LI 275 135 275 130 0
+LI 255 135 255 130 0
+LI 235 135 235 130 0
+LI 215 195 215 200 0
+LI 225 190 225 195 0
+SA 245 210 0
+SA 205 210 0
+LI 285 210 285 215 0
+LI 285 215 195 215 0
+LI 195 215 195 220 0
+MC 195 220 0 0 ey_libraries.refpnt0
+MC 300 135 0 0 ey_libraries.refpnt0
+LI 205 210 205 215 0
+LI 225 210 225 215 0
+LI 245 210 245 215 0
+LI 265 210 265 215 0
+SA 235 130 0
+SA 255 130 0
+SA 275 130 0
+SA 295 130 0
+LI 200 135 200 120 0
+MC 220 125 1 0 raccolta librerie.030
+MC 240 125 1 0 raccolta librerie.030
+MC 260 125 1 0 raccolta librerie.030
+MC 280 125 1 0 raccolta librerie.030
+MC 220 210 1 0 raccolta librerie.030
+MC 240 210 1 0 raccolta librerie.030
+MC 260 210 1 0 raccolta librerie.030
+MC 280 210 1 0 raccolta librerie.030
+LI 220 125 220 120 0
+MC 220 120 3 0 raccolta librerie.000
+MC 240 120 3 0 raccolta librerie.000
+MC 260 120 3 0 raccolta librerie.000
+MC 280 120 3 0 raccolta librerie.000
+MC 200 120 3 0 raccolta librerie.000
+LI 240 120 240 125 0
+LI 260 120 260 125 0
+LI 280 120 280 125 0
+MC 220 225 1 0 raccolta librerie.000
+MC 240 225 1 0 raccolta librerie.000
+MC 260 225 1 0 raccolta librerie.000
+MC 280 225 1 0 raccolta librerie.000
+MC 300 225 1 0 raccolta librerie.000
+LI 220 220 220 225 0
+LI 240 220 240 225 0
+LI 260 220 260 225 0
+LI 280 220 280 225 0
+LI 300 210 300 225 0
+TY 90 60 4 3 0 1 0 Calibri Diodi 1n4148
+TY 90 65 4 3 0 1 0 Calibri Resistenza base transistor 4K7
+TY 90 70 4 3 0 1 0 Calibri Resistenza tra base emittore 10K
+TY 90 75 4 3 0 1 0 Calibri Transistor NpN bc817
+TY 90 80 4 3 0 1 0 Calibri Ogni singola uscita dei transistor
+TY 95 85 4 3 0 1 0 Calibri arriva ad una serie/parallelo
+TY 95 90 4 3 0 1 0 Calibri 12 paralleli di 3 serie di led blu
+TY 95 95 4 3 0 1 0 Calibri per un totale di circa 200mA per uscita

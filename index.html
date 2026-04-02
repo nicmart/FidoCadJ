@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FidoCadJ SVG Export Review</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, sans-serif; background: #1a1a1a; color: #ccc; padding: 20px; }
+  h1 { text-align: center; margin-bottom: 10px; color: #fff; }
+  .controls { text-align: center; margin-bottom: 20px; }
+  .controls input { padding: 8px 14px; width: 400px; border-radius: 6px; border: 1px solid #555; background: #2a2a2a; color: #fff; font-size: 14px; }
+  .count { text-align: center; margin-bottom: 20px; font-size: 13px; color: #888; }
+  .grid { display: grid; grid-template-columns: 1fr; gap: 16px; }
+  .card { background: #252525; border-radius: 8px; padding: 12px; border: 1px solid #333; }
+  .card-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+  .card-title { font-size: 11px; font-family: monospace; color: #888; word-break: break-all; flex: 1; }
+  .btn-overlay { padding: 6px 14px; border-radius: 6px; border: 1px solid #5a5; background: #2a4a2a; color: #8f8; font-size: 13px; font-weight: bold; cursor: pointer; }
+  .btn-overlay:hover { background: #3a6a3a; color: #fff; }
+  .svg-toggle { display: flex; align-items: center; gap: 4px; font-size: 11px; color: #888; }
+  .svg-toggle label { cursor: pointer; padding: 2px 6px; border-radius: 3px; border: 1px solid #444; }
+  .svg-toggle label.active { background: #444; color: #fff; }
+  .svg-toggle label:hover { background: #333; }
+  .pair { display: flex; gap: 12px; }
+  .pair > div { flex: 1; min-width: 0; }
+  .pair .label-row { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; }
+  .pair .lbl { font-size: 11px; color: #666; text-transform: uppercase; letter-spacing: 1px; }
+  .pair img { width: 100%; height: auto; background: #fff; border-radius: 4px; display: block; cursor: pointer; }
+  .font-warn { margin-top: 6px; padding: 4px 8px; background: #3a2a00; border: 1px solid #665500; border-radius: 4px; font-size: 11px; color: #e8b830; }
+  .font-warn span { color: #ffda6a; font-weight: bold; }
+  .lightbox { position: fixed; inset: 0; background: rgba(0,0,0,.85); z-index: 1000; overflow: auto; display: flex; cursor: grab; }
+  .lightbox.dragging { cursor: grabbing; user-select: none; }
+  .lightbox .lb-wrapper { margin: auto; padding: 20px; display: flex; align-items: center; justify-content: center; min-width: 100%; min-height: 100%; pointer-events: none; }
+  .lightbox .lb-stack { position: relative; pointer-events: none; }
+  .lightbox img { background: #fff; border-radius: 6px; max-width: none; max-height: none; pointer-events: none; display: block; }
+  .lightbox .lb-overlay { position: absolute; top: 0; left: 0; }
+  .lb-controls { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); z-index: 10000; display: flex; gap: 8px; align-items: center; background: rgba(0,0,0,.7); padding: 8px 16px; border-radius: 30px; backdrop-filter: blur(8px); flex-wrap: wrap; justify-content: center; }
+  .lb-controls button { height: 36px; border-radius: 18px; border: none; background: rgba(255,255,255,.2); color: #fff; font-size: 18px; cursor: pointer; line-height: 1; padding: 0 12px; }
+  .lb-controls button:hover { background: rgba(255,255,255,.4); }
+  .lb-controls span { color: #ddd; font-size: 13px; min-width: 40px; text-align: center; }
+  .lb-controls .lb-opacity-wrap { display: flex; align-items: center; gap: 4px; }
+  .lb-controls .lb-opacity-wrap label { color: #aaa; font-size: 11px; }
+  .lb-controls input[type=range] { width: 80px; accent-color: #5a5; }
+  .lb-svg-toggle { display: flex; gap: 2px; margin-left: 4px; }
+  .lb-svg-toggle button { font-size: 12px; padding: 0 10px; }
+  .lb-svg-toggle button.active { background: rgba(90,170,90,.5); }
+  .lb-font-warn { position: fixed; top: 16px; left: 50%; transform: translateX(-50%); z-index: 10000; padding: 6px 16px; background: rgba(60,40,0,.85); border: 1px solid #665500; border-radius: 8px; font-size: 12px; color: #e8b830; backdrop-filter: blur(8px); max-width: 80vw; text-align: center; }
+  .lb-font-warn span { color: #ffda6a; font-weight: bold; }
+  .code-modal { position: fixed; inset: 0; background: rgba(0,0,0,.8); z-index: 20000; display: flex; align-items: center; justify-content: center; }
+  .code-modal pre { background: #1e1e1e; color: #d4d4d4; padding: 20px; border-radius: 8px; max-width: 90vw; max-height: 85vh; overflow: auto; font-size: 13px; font-family: 'Consolas', 'DejaVu Sans Mono', monospace; white-space: pre-wrap; word-break: break-all; border: 1px solid #444; }
+  .code-modal .close-code { position: fixed; top: 16px; right: 24px; background: rgba(255,255,255,.2); border: none; color: #fff; font-size: 24px; width: 40px; height: 40px; border-radius: 50%; cursor: pointer; }
+  .code-modal .close-code:hover { background: rgba(255,255,255,.4); }
+  .btn-code { padding: 3px 8px; border-radius: 4px; border: 1px solid #555; background: #333; color: #aaa; font-size: 11px; cursor: pointer; }
+  .btn-code:hover { background: #444; color: #fff; }
+</style>
+</head>
+<body>
+<h1>FidoCadJ SVG Export Review</h1>
+<div class="controls">
+  <input type="text" id="filter" placeholder="Filter by hash..." autocomplete="off">
+</div>
+<div class="count" id="count"></div>
+<div class="grid" id="grid"></div>
+<script src="_data.js"></script>
+<script src="_warnings.js"></script>
+<script>
+const grid = document.getElementById('grid');
+const filter = document.getElementById('filter');
+const countEl = document.getElementById('count');
+
+const PAGE = 50;
+let filtered = names;
+let rendered = 0;
+// Track SVG version per card: 'new' or 'old'
+const svgVersion = {};
+
+function svgSrc(name) {
+  const v = svgVersion[name] || 'new';
+  return v === 'old' ? name + '_old.svg' : name + '.svg';
+}
+
+function createCard(name) {
+  svgVersion[name] = svgVersion[name] || 'new';
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.id = 'card-' + name;
+  card.dataset.name = name;
+  card.innerHTML = `<div class="card-header">
+      <span class="card-title">${name}</span>
+      <div class="svg-toggle" data-name="${name}">
+        <label class="active" data-v="new">New</label>
+        <label data-v="old">Old</label>
+      </div>
+      <button class="btn-code" data-name="${name}">Source</button>
+      <button class="btn-overlay" data-name="${name}">Compare</button>
+    </div>
+    <div class="pair">
+      <div><div class="label-row"><span class="lbl">PNG</span></div><img loading="lazy" src="${name}.png" alt="PNG"></div>
+      <div><div class="label-row"><span class="lbl">SVG</span></div><img class="svg-img" loading="lazy" src="${svgSrc(name)}" alt="SVG" data-name="${name}"></div>
+    </div>`;
+  const w = fontWarnings[name];
+  if (w && w.length) {
+    card.innerHTML += `<div class="font-warn">Missing fonts: ${w.map(f=>`<span>${f}</span>`).join(', ')}</div>`;
+  }
+  return card;
+}
+
+function switchSvgVersion(name, version) {
+  svgVersion[name] = version;
+  // Update card image
+  const img = document.querySelector(`.svg-img[data-name="${name}"]`);
+  if (img) img.src = svgSrc(name);
+  // Update toggle labels
+  document.querySelectorAll(`.svg-toggle[data-name="${name}"] label`).forEach(l => {
+    l.classList.toggle('active', l.dataset.v === version);
+  });
+}
+
+function renderBatch() {
+  const end = Math.min(rendered + PAGE, filtered.length);
+  const frag = document.createDocumentFragment();
+  for (let i = rendered; i < end; i++) frag.appendChild(createCard(filtered[i]));
+  grid.appendChild(frag);
+  rendered = end;
+  countEl.textContent = filtered.length + ' drawings' + (rendered < filtered.length ? ' (scroll for more)' : '');
+}
+
+function rebuild() { grid.innerHTML = ''; rendered = 0; renderBatch(); }
+
+const observer = new IntersectionObserver(entries => {
+  if (entries[0].isIntersecting && rendered < filtered.length) renderBatch();
+}, { rootMargin: '800px' });
+const sentinel = document.createElement('div');
+sentinel.style.height = '1px';
+document.body.appendChild(sentinel);
+observer.observe(sentinel);
+
+filter.addEventListener('input', () => {
+  const q = filter.value.toLowerCase();
+  filtered = q ? names.filter(n => n.includes(q)) : names;
+  rebuild();
+});
+
+rebuild();
+
+// SVG toggle click handler
+document.addEventListener('click', e => {
+  const label = e.target.closest('.svg-toggle label');
+  if (label) {
+    const name = label.closest('.svg-toggle').dataset.name;
+    switchSvgVersion(name, label.dataset.v);
+    return;
+  }
+});
+
+// Source code modal
+function showSource(name) {
+  fetch(name + '.fcd').then(r => r.text()).then(txt => {
+    const modal = document.createElement('div');
+    modal.className = 'code-modal';
+    modal.innerHTML = `<button class="close-code">&times;</button><pre></pre>`;
+    modal.querySelector('pre').textContent = txt;
+    modal.querySelector('.close-code').addEventListener('click', () => modal.remove());
+    modal.addEventListener('click', e => { if (e.target === modal) modal.remove(); });
+    document.body.appendChild(modal);
+  });
+}
+
+// Lightbox
+let lbZoom = 1;
+let lbIsOverlay = false;
+let lbOverlayOpacity = 0.5;
+let lbCurrentIdx = -1;
+let lbCurrentName = null;
+let lbStopAnim = null;
+
+function navigateOverlay(delta) {
+  if (!lbIsOverlay || lbCurrentIdx < 0) return;
+  const newIdx = lbCurrentIdx + delta;
+  if (newIdx < 0 || newIdx >= filtered.length) return;
+  closeLightbox(true);
+  openLightbox(null, true, filtered[newIdx]);
+}
+
+function openLightbox(src, overlayMode, name) {
+  lbZoom = 1;
+  lbIsOverlay = overlayMode;
+  lbCurrentName = name;
+  if (overlayMode) lbCurrentIdx = filtered.indexOf(name);
+  if (name) history.replaceState(null, '', '#' + name);
+  const lb = document.createElement('div');
+  lb.className = 'lightbox';
+  const curSvg = svgSrc(name);
+  if (overlayMode) {
+    lb.innerHTML = `<div class="lb-wrapper"><div class="lb-stack">
+      <img class="lb-base" src="${curSvg}">
+      <img class="lb-overlay" src="${name}.png" style="opacity:${lbOverlayOpacity}">
+    </div></div>`;
+  } else {
+    lb.innerHTML = `<div class="lb-wrapper"><img src="${src}"></div>`;
+  }
+  const ctrl = document.createElement('div');
+  ctrl.className = 'lb-controls';
+  let extraControls = '';
+  let svgToggle = '';
+  if (overlayMode) {
+    extraControls = `<div class="lb-opacity-wrap"><label>SVG</label><input type="range" id="lb-opacity" min="0" max="100" value="${lbOverlayOpacity*100}"><label>PNG</label><button id="lb-animate" style="font-size:12px;">Stop</button></div>`;
+    const curV = svgVersion[name] || 'new';
+    svgToggle = `<div class="lb-svg-toggle"><button data-v="new" class="${curV==='new'?'active':''}">New</button><button data-v="old" class="${curV==='old'?'active':''}">Old</button></div>`;
+  }
+  const navButtons = overlayMode ? `<button id="lb-prev">&larr;</button><button id="lb-next">&rarr;</button>` : '';
+  const srcButton = name ? `<button id="lb-src" style="font-size:12px;">Source</button>` : '';
+  ctrl.innerHTML = `${navButtons}<button id="lb-minus">&minus;</button><span id="lb-pct">fit</span><button id="lb-plus">+</button>${svgToggle}${extraControls}${srcButton}<button id="lb-close">&times;</button>`;
+  document.body.appendChild(lb);
+  const fw = name ? fontWarnings[name] : null;
+  if (fw && fw.length) {
+    const warn = document.createElement('div');
+    warn.className = 'lb-font-warn';
+    warn.innerHTML = 'Missing fonts: ' + fw.map(f=>`<span>${f}</span>`).join(', ');
+    document.body.appendChild(warn);
+  }
+  document.body.appendChild(ctrl);
+
+  const imgs = lb.querySelectorAll('img');
+  const baseImg = overlayMode ? lb.querySelector('.lb-base') : lb.querySelector('img');
+  const pct = ctrl.querySelector('#lb-pct');
+  let natW, natH;
+
+  baseImg.onload = () => { natW = baseImg.naturalWidth; natH = baseImg.naturalHeight; updateZoom(); };
+  if (overlayMode) {
+    const stack = lb.querySelector('.lb-stack');
+    stack.style.maxWidth = '95vw';
+    stack.style.maxHeight = '95vh';
+    imgs.forEach(img => { img.style.width = '100%'; img.style.height = 'auto'; });
+  } else {
+    baseImg.style.maxWidth = '95vw';
+    baseImg.style.maxHeight = '95vh';
+  }
+
+  function updateZoom() {
+    if (overlayMode) {
+      const stack = lb.querySelector('.lb-stack');
+      if (lbZoom === 1) {
+        stack.style.maxWidth = '95vw'; stack.style.maxHeight = '95vh';
+        stack.style.width = ''; stack.style.height = '';
+        imgs.forEach(img => { img.style.width = '100%'; img.style.height = 'auto'; });
+        pct.textContent = 'fit';
+      } else {
+        const w = natW * lbZoom, h = natH * lbZoom;
+        stack.style.maxWidth = 'none'; stack.style.maxHeight = 'none';
+        stack.style.width = w + 'px'; stack.style.height = h + 'px';
+        imgs.forEach(img => { img.style.width = w + 'px'; img.style.height = h + 'px'; });
+        pct.textContent = Math.round(lbZoom * 100) + '%';
+      }
+    } else {
+      if (lbZoom === 1) {
+        baseImg.style.width = ''; baseImg.style.height = '';
+        baseImg.style.maxWidth = '95vw'; baseImg.style.maxHeight = '95vh';
+        pct.textContent = 'fit';
+      } else {
+        const w = natW * lbZoom, h = natH * lbZoom;
+        baseImg.style.maxWidth = 'none'; baseImg.style.maxHeight = 'none';
+        baseImg.style.width = w + 'px'; baseImg.style.height = h + 'px';
+        pct.textContent = Math.round(lbZoom * 100) + '%';
+      }
+    }
+  }
+
+  ctrl.querySelector('#lb-plus').addEventListener('click', e => {
+    e.stopPropagation();
+    if (lbZoom === 1 && natW) lbZoom = Math.max((natW ? window.innerWidth*0.95/natW : 1), (natH ? window.innerHeight*0.95/natH : 1));
+    lbZoom = Math.min(lbZoom * 1.4, 20);
+    updateZoom();
+  });
+  ctrl.querySelector('#lb-minus').addEventListener('click', e => { e.stopPropagation(); lbZoom = Math.max(lbZoom / 1.4, 0.05); updateZoom(); });
+  ctrl.querySelector('#lb-close').addEventListener('click', () => closeLightbox());
+  const srcBtn = ctrl.querySelector('#lb-src');
+  if (srcBtn) srcBtn.addEventListener('click', e => { e.stopPropagation(); showSource(name); });
+
+  if (overlayMode) {
+    ctrl.querySelector('#lb-prev').addEventListener('click', e => { e.stopPropagation(); navigateOverlay(-1); });
+    ctrl.querySelector('#lb-next').addEventListener('click', e => { e.stopPropagation(); navigateOverlay(1); });
+
+    // SVG version toggle in lightbox
+    ctrl.querySelectorAll('.lb-svg-toggle button').forEach(btn => {
+      btn.addEventListener('click', e => {
+        e.stopPropagation();
+        const v = btn.dataset.v;
+        svgVersion[name] = v;
+        lb.querySelector('.lb-base').src = svgSrc(name);
+        ctrl.querySelectorAll('.lb-svg-toggle button').forEach(b => b.classList.toggle('active', b.dataset.v === v));
+        // Also update the card toggle
+        switchSvgVersion(name, v);
+      });
+    });
+
+    const slider = ctrl.querySelector('#lb-opacity');
+    const animBtn = ctrl.querySelector('#lb-animate');
+    const overlayImg = lb.querySelector('.lb-overlay');
+    let animId = null, animStart = null;
+
+    const steps = [0, 0.5, 1, 0.5];
+    let stepIdx = 0;
+    function animStep() {
+      const v = steps[stepIdx];
+      overlayImg.style.opacity = v;
+      slider.value = v * 100;
+      lbOverlayOpacity = v;
+      stepIdx = (stepIdx + 1) % steps.length;
+      animId = setTimeout(animStep, 250);
+    }
+    function startAnim() { animBtn.classList.add('active'); animBtn.textContent = 'Stop'; stepIdx = 0; animStep(); }
+    function stopAnim() { if (animId) { clearTimeout(animId); animId = null; } animBtn.classList.remove('active'); animBtn.textContent = 'Animate'; }
+
+    animBtn.addEventListener('click', e => { e.stopPropagation(); animId ? stopAnim() : startAnim(); });
+    slider.addEventListener('input', e => {
+      e.stopPropagation(); stopAnim();
+      lbOverlayOpacity = e.target.value / 100;
+      overlayImg.style.opacity = lbOverlayOpacity;
+    });
+
+    lbStopAnim = stopAnim;
+    startAnim();
+  }
+
+  // Drag to pan
+  let dragging = false, startX, startY, scrollL, scrollT;
+  lb.addEventListener('mousedown', e => {
+    if (e.button !== 0) return;
+    dragging = true; lb.classList.add('dragging');
+    startX = e.clientX; startY = e.clientY;
+    scrollL = lb.scrollLeft; scrollT = lb.scrollTop;
+    e.preventDefault();
+  });
+  lb.addEventListener('mousemove', e => {
+    if (!dragging) return;
+    lb.scrollLeft = scrollL - (e.clientX - startX);
+    lb.scrollTop = scrollT - (e.clientY - startY);
+  });
+  lb.addEventListener('mouseup', e => {
+    if (!dragging) return;
+    dragging = false; lb.classList.remove('dragging');
+    const dx = Math.abs(e.clientX - startX), dy = Math.abs(e.clientY - startY);
+    if (dx < 3 && dy < 3) closeLightbox();
+  });
+  lb.addEventListener('mouseleave', () => { dragging = false; lb.classList.remove('dragging'); });
+}
+
+function closeLightbox(skipScroll) {
+  if (lbStopAnim) { lbStopAnim(); lbStopAnim = null; }
+  document.querySelector('.lightbox')?.remove();
+  document.querySelector('.lb-controls')?.remove();
+  document.querySelector('.lb-font-warn')?.remove();
+  if (!skipScroll) {
+    history.replaceState(null, '', location.pathname);
+    if (lbCurrentName) {
+      const el = document.getElementById('card-' + lbCurrentName);
+      if (el) el.scrollIntoView({ block: 'center' });
+    }
+  }
+}
+
+document.addEventListener('click', e => {
+  if (e.target.matches('.btn-code')) {
+    showSource(e.target.dataset.name);
+    return;
+  }
+  if (e.target.matches('.btn-overlay')) {
+    openLightbox(null, true, e.target.dataset.name);
+    return;
+  }
+  if (e.target.matches('.pair img')) {
+    const card = e.target.closest('.card');
+    openLightbox(e.target.src, false, card ? card.dataset.name : null);
+  }
+});
+
+document.addEventListener('keydown', e => {
+  if (!document.querySelector('.lightbox')) return;
+  if (e.key === 'Escape') { document.querySelector('.code-modal')?.remove(); closeLightbox(); }
+  if (e.key === '+' || e.key === '=') document.querySelector('#lb-plus')?.click();
+  if (e.key === '-') document.querySelector('#lb-minus')?.click();
+  if (e.key === 'ArrowLeft') navigateOverlay(-1);
+  if (e.key === 'ArrowRight') navigateOverlay(1);
+});
+
+// Open overlay from URL hash on load
+if (location.hash.length > 1) {
+  const hashName = location.hash.slice(1);
+  if (names.includes(hashName)) openLightbox(null, true, hashName);
+}
+</script>
+</body>
+</html>

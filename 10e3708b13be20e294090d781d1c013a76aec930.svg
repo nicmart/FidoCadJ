@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//Dtd SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/Dtd/svg11.dtd">
+<svg width="513.0" height="516.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Created by FidoCadJ ver. 0.24.9 gamma, export filter by Davide Bucci -->
+<path d="M 408.0,159.0 C 414.0,159.0 414.0,165.0 408.0,165.0" style="stroke:#000000;stroke-dashoffset: 0.0;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 408.0,165.0 C 414.0,165.0 414.0,171.0 408.0,171.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 408.0,171.0 C 414.0,171.0 414.0,177.0 408.0,177.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="177.0" x2="408.0" y2="183.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="159.0" x2="408.0" y2="153.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="48.0" x2="408.0" y2="42.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="408.0" cy="36.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="39.0" x2="408.0" y2="33.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="405.0" y1="36.0" x2="411.0" y2="36.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="138.0" x2="408.0" y2="123.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="123.0" x2="408.0" y2="153.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="183.0" x2="408.0" y2="213.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="378.0" y1="183.0" x2="378.0" y2="198.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="378.0" y1="198.0" x2="408.0" y2="198.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="408.0" cy="198.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(408.0,9.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">5 V</text>
+</g>
+<g transform="translate(195.0,216.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">PIC</text>
+</g>
+<line x1="393.0" y1="249.0" x2="408.0" y2="258.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="393.0" y1="228.0" x2="393.0" y2="258.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="228.0" x2="408.0" y2="213.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="393.0" y1="237.0" x2="408.0" y2="228.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="399.0" cy="243.0" rx="18.0" ry="18.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="402.0,258.0 405.0,252.0 408.0,258.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<rect x="324.0" y="237.0" rx="0" ry="0" width="18.0" height="12.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="273.0" y1="318.0" x2="273.0" y2="318.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="243.0" x2="393.0" y2="243.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="303.0" y1="243.0" x2="324.0" y2="243.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="258.0" x2="408.0" y2="288.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(423.0,168.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">relè 5 V</text>
+</g>
+<rect x="357.0" y="252.0" rx="0" ry="0" width="12.0" height="18.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="243.0" x2="363.0" y2="258.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="258.0" x2="363.0" y2="258.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="273.0" x2="363.0" y2="288.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="288.0" x2="363.0" y2="288.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<rect x="183.0" y="168.0" rx="0" ry="0" width="75.0" height="135.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="303.0" y1="243.0" x2="258.0" y2="243.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="258.0" y1="243.0" x2="258.0" y2="243.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="183.0" y1="183.0" x2="153.0" y2="183.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="123.0" y1="183.0" x2="123.0" y2="183.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<rect x="213.0" y="63.0" rx="0" ry="0" width="45.0" height="60.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(213.0,78.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">LM35</text>
+</g>
+<line x1="408.0" y1="123.0" x2="408.0" y2="48.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="48.0" x2="408.0" y2="48.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="378.0" y1="78.0" x2="408.0" y2="78.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="408.0" y1="78.0" x2="408.0" y2="78.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="303.0" y1="363.0" x2="303.0" y2="363.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="258.0" y1="108.0" x2="288.0" y2="108.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="288.0" y1="108.0" x2="288.0" y2="108.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="213.0" y1="93.0" x2="78.0" y2="93.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="78.0" y1="93.0" x2="78.0" y2="168.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(129.0,147.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">analog</text>
+</g>
+<line x1="378.0" y1="183.0" x2="378.0" y2="138.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="384.0,156.0 372.0,156.0 378.0,168.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="384.0" y1="168.0" x2="372.0" y2="168.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="168.0" x2="387.0" y2="165.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="168.0" x2="369.0" y2="171.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(333.0,156.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">D1</text>
+</g>
+<g transform="translate(333.0,174.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">15V</text>
+</g>
+<line x1="378.0" y1="93.0" x2="378.0" y2="138.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="372.0" y1="108.0" x2="384.0" y2="108.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="372.0,120.0 384.0,120.0 378.0,108.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="#000000"/>
+<line x1="378.0" y1="93.0" x2="378.0" y2="78.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="378.0" cy="78.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(333.0,99.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">D2</text>
+</g>
+<g transform="translate(312.0,117.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">1N4007</text>
+</g>
+<g transform="translate(450.0,237.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">TR1</text>
+</g>
+<g transform="translate(429.0,255.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">BC547</text>
+</g>
+<line x1="408.0" y1="288.0" x2="408.0" y2="303.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="399.0,303.0 417.0,303.0 414.0,306.0 408.0,312.0 402.0,306.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="363.0" y1="288.0" x2="363.0" y2="303.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="354.0,303.0 372.0,303.0 369.0,306.0 363.0,312.0 357.0,306.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(330.0,267.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">R1</text>
+</g>
+<g transform="translate(309.0,285.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">10kΩ</text>
+</g>
+<g transform="translate(327.0,201.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">R2</text>
+</g>
+<g transform="translate(306.0,219.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">3.3kΩ</text>
+</g>
+<g transform="translate(93.0,60.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">Collegamento</text>
+</g>
+<g transform="translate(93.0,75.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">corto</text>
+</g>
+<line x1="93.0" y1="273.0" x2="93.0" y2="267.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="93.0" cy="261.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="93.0" y1="264.0" x2="93.0" y2="258.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="90.0" y1="261.0" x2="96.0" y2="261.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(93.0,234.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">5 V</text>
+</g>
+<line x1="93.0" y1="348.0" x2="93.0" y2="273.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="93.0" y1="273.0" x2="93.0" y2="273.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="348.0" x2="93.0" y2="348.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="303.0" x2="198.0" y2="363.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="393.0" x2="198.0" y2="408.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="189.0,408.0 207.0,408.0 204.0,411.0 198.0,417.0 192.0,411.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="363.0" x2="198.0" y2="375.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="381.0" x2="198.0" y2="393.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="204.0" y1="375.0" x2="192.0" y2="375.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="204.0" y1="381.0" x2="192.0" y2="381.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="198.0" cy="348.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="198.0" cy="348.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(153.0,366.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">C1</text>
+</g>
+<g transform="translate(153.0,384.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">10nF</text>
+</g>
+<line x1="198.0" y1="393.0" x2="213.0" y2="393.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="213.0" y1="393.0" x2="213.0" y2="303.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="198.0" cy="393.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="168.0" y1="453.0" x2="168.0" y2="465.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="168.0" y1="471.0" x2="168.0" y2="483.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="174.0" y1="465.0" x2="162.0" y2="465.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="174.0" y1="471.0" x2="162.0" y2="471.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="228.0" y1="453.0" x2="228.0" y2="465.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="228.0" y1="471.0" x2="228.0" y2="483.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="234.0" y1="465.0" x2="222.0" y2="465.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="234.0" y1="471.0" x2="222.0" y2="471.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 189.0,453.0 C 189.0,447.0 195.0,447.0 195.0,453.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 195.0,453.0 C 195.0,447.0 201.0,447.0 201.0,453.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<path d="M 201.0,453.0 C 201.0,447.0 207.0,447.0 207.0,453.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="207.0" y1="453.0" x2="213.0" y2="453.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="189.0" y1="453.0" x2="183.0" y2="453.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="168.0" y1="483.0" x2="228.0" y2="483.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="198.0" y1="483.0" x2="198.0" y2="498.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="189.0,498.0 207.0,498.0 204.0,501.0 198.0,507.0 192.0,501.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="198.0" cy="483.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<line x1="183.0" y1="453.0" x2="93.0" y2="453.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="93.0" y1="453.0" x2="93.0" y2="348.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="213.0" y1="453.0" x2="243.0" y2="453.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="243.0" y1="453.0" x2="243.0" y2="303.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="168.0" cy="453.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="228.0" cy="453.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(144.0,411.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">L1</text>
+</g>
+<g transform="translate(144.0,429.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">100μH</text>
+</g>
+<g transform="translate(123.0,471.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">C2</text>
+</g>
+<g transform="translate(123.0,489.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">10nF</text>
+</g>
+<g transform="translate(243.0,471.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">C3</text>
+</g>
+<g transform="translate(243.0,489.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">100nF</text>
+</g>
+<g transform="translate(249.0,306.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">AVcc</text>
+</g>
+<g transform="translate(159.0,306.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">DVcc</text>
+</g>
+<g transform="translate(198.0,285.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">GND</text>
+</g>
+<line x1="78.0" y1="168.0" x2="93.0" y2="168.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="78.0" y1="198.0" x2="93.0" y2="198.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="138.0" y1="183.0" x2="153.0" y2="183.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="96.0" y1="198.0" x2="102.0" y2="198.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="96.0" y1="168.0" x2="102.0" y2="168.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="99.0" y1="165.0" x2="99.0" y2="171.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="93.0,153.0 93.0,213.0 138.0,183.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="78.0" y1="198.0" x2="78.0" y2="228.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="78.0" y1="228.0" x2="153.0" y2="228.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="153.0" y1="228.0" x2="153.0" y2="183.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<circle cx="153.0" cy="183.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<circle cx="93.0" cy="348.0" r="2.25" style="stroke:#000000;stroke-width:0.33" fill="#000000"/>
+<g transform="translate(24.0,147.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">IC1</text>
+</g>
+<g transform="translate(9.0,165.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">LM358</text>
+</g>
+<line x1="369.0" y1="396.0" x2="369.0" y2="396.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="285.0" y1="381.0" x2="324.0" y2="381.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(375.0,360.0) scale(1.0,1.0)"><text x="0.0" y="14.0" font-family="Courier New, monospace" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">unused</text>
+</g>
+<line x1="324.0" y1="381.0" x2="339.0" y2="381.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="411.0" x2="339.0" y2="411.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="384.0" y1="396.0" x2="399.0" y2="396.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="411.0" x2="348.0" y2="411.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="342.0" y1="381.0" x2="348.0" y2="381.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="345.0" y1="378.0" x2="345.0" y2="384.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="339.0,366.0 339.0,426.0 384.0,396.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="411.0" x2="324.0" y2="441.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="324.0" y1="441.0" x2="399.0" y2="441.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="399.0" y1="441.0" x2="399.0" y2="396.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="285.0" y1="381.0" x2="285.0" y2="396.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="276.0,396.0 294.0,396.0 291.0,399.0 285.0,405.0 279.0,399.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(141.0,186.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">1</text>
+</g>
+<g transform="translate(81.0,201.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">2</text>
+</g>
+<g transform="translate(81.0,150.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">3</text>
+</g>
+<g transform="translate(99.0,120.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">AVcc</text>
+</g>
+<line x1="114.0" y1="156.0" x2="114.0" y2="150.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="114.0" cy="144.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="114.0" y1="147.0" x2="114.0" y2="141.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="111.0" y1="144.0" x2="117.0" y2="144.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="114.0" y1="156.0" x2="114.0" y2="168.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="117.0" y1="195.0" x2="117.0" y2="210.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="108.0,210.0 126.0,210.0 123.0,213.0 117.0,219.0 111.0,213.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(120.0,192.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">4</text>
+</g>
+<g transform="translate(117.0,153.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">8</text>
+</g>
+<g transform="translate(324.0,363.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">5</text>
+</g>
+<g transform="translate(387.0,378.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">7</text>
+</g>
+<g transform="translate(324.0,393.0) scale(1.0,1.0)"><text x="0.0" y="16.0" font-family="Arimo, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">6</text>
+</g>
+<line x1="288.0" y1="48.0" x2="288.0" y2="42.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<ellipse cx="288.0" cy="36.0" rx="6.0" ry="6.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="288.0" y1="39.0" x2="288.0" y2="33.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="285.0" y1="36.0" x2="291.0" y2="36.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<g transform="translate(288.0,9.0) scale(1.0,1.0)"><text x="0.0" y="15.0" font-family="Arial, sans-serif" font-size="15.93" font-style="" font-weight="" xml:space="preserve" fill="#000000">AVcc</text>
+</g>
+<line x1="288.0" y1="81.0" x2="288.0" y2="48.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="288.0" y1="48.0" x2="288.0" y2="48.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="288.0" y1="108.0" x2="288.0" y2="123.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<polygon points="279.0,123.0 297.0,123.0 294.0,126.0 288.0,132.0 282.0,126.0 " style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+<line x1="258.0" y1="81.0" x2="288.0" y2="81.0" style="stroke:#000000;stroke-width:0.6000000000000001;stroke-linejoin:round;stroke-linecap:round;fill-rule: evenodd;" fill="none"/>
+</svg>

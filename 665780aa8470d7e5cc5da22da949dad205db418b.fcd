@@ -1,0 +1,176 @@
+
+[FIDOCAD]
+FJC L 5 -14336 1.0
+MC 40 100 1 0 220
+FCJ
+TY 45 95 4 3 0 0 0 Verdana DL1
+TY 50 110 4 3 0 0 0 Verdana 
+MC 20 35 2 0 010
+FCJ
+TY 20 25 4 3 0 0 0 Verdana Vcc
+TY 30 45 4 3 0 0 0 Verdana 
+LI 40 90 40 100 0
+MC 40 75 1 0 ihram.res
+FCJ
+TY 30 75 4 3 0 0 0 Verdana R1
+TY 50 85 4 3 0 0 0 Verdana 
+MC 40 130 1 0 ihram.res
+FCJ
+TY 30 130 4 3 0 0 0 Verdana R2
+TY 50 140 4 3 0 0 0 Verdana 
+MC 40 125 0 0 300
+FCJ
+TY 60 120 4 3 0 0 0 Verdana TR1
+TY 50 135 4 3 0 0 0 Verdana 
+LI 40 115 40 130 0
+LI 40 145 40 150 0
+LI 55 135 55 150 0
+LI 55 115 55 110 0
+LI 55 110 80 110 0
+MC 75 140 3 1 ihram.trimmer
+FCJ
+TY 80 135 4 3 0 0 0 Verdana R4
+TY 85 130 4 3 0 0 0 Verdana 
+MC 80 110 0 0 ihram.trimmer
+FCJ
+TY 80 100 4 3 0 0 0 Verdana R3
+TY 90 120 4 3 0 0 0 Verdana 
+LI 75 110 75 125 0
+LI 75 140 75 150 0
+MC 20 150 2 0 020
+LI 20 150 75 150 0
+MC 100 90 1 0 ihram.res
+FCJ
+TY 90 90 4 3 0 0 0 Verdana R5
+TY 110 100 4 3 0 0 0 Verdana 
+MC 125 90 1 0 ihram.res
+FCJ
+TY 115 90 4 3 0 0 0 Verdana R6
+TY 135 100 4 3 0 0 0 Verdana 
+MC 150 90 1 0 ihram.res
+FCJ
+TY 140 90 4 3 0 0 0 Verdana R7
+TY 160 100 4 3 0 0 0 Verdana 
+MC 175 90 1 0 ihram.res
+FCJ
+TY 165 90 4 3 0 0 0 Verdana R8
+TY 185 100 4 3 0 0 0 Verdana 
+MC 100 70 1 0 220
+FCJ
+TY 85 70 4 3 0 0 0 Verdana DL2
+TY 110 80 4 3 0 0 0 Verdana 
+MC 125 70 1 0 220
+FCJ
+TY 110 70 4 3 0 0 0 Verdana DL5
+TY 135 80 4 3 0 0 0 Verdana 
+MC 150 70 1 0 220
+FCJ
+TY 135 70 4 3 0 0 0 Verdana DL8
+TY 160 60 4 3 0 0 0 Verdana 
+MC 175 70 1 0 220
+FCJ
+TY 185 75 4 3 0 0 0 Verdana DL11
+TY 185 80 4 3 0 0 0 Verdana 
+LI 20 35 175 35 0
+LI 100 35 100 40 0
+LI 175 85 175 90 0
+LI 150 85 150 90 0
+LI 125 85 125 90 0
+LI 100 85 100 90 0
+LI 95 110 175 110 0
+LI 175 110 175 105 0
+LI 150 105 150 110 0
+LI 125 105 125 110 0
+LI 100 105 100 110 0
+SA 100 35 0
+SA 150 110 0
+SA 125 110 0
+SA 100 110 0
+SA 75 110 0
+SA 55 150 0
+SA 40 150 0
+SA 40 125 0
+TY 100 115 6 4 0 0 0 Verdana Synchronized flickering LEDs II -
+TY 100 170 4 3 0 0 0 Verdana R4
+TY 100 195 4 3 0 0 0 Verdana TR1
+TY 100 190 4 3 0 0 0 Verdana DL2-DL15
+TY 100 185 4 3 0 0 0 Verdana DL1
+TY 100 175 4 3 0 0 0 Verdana R5-R8
+TY 100 165 4 3 0 0 0 Verdana R3
+TY 100 160 4 3 0 0 0 Verdana R2
+TY 100 155 4 3 0 0 0 Verdana R1
+TY 100 150 4 3 0 0 0 Verdana Vcc
+TY 130 150 4 3 0 0 0 Verdana 9 V - 12 V
+TY 130 195 4 3 0 0 0 Verdana BC337 NPN Transistor
+TY 130 190 4 3 0 0 0 Verdana 5 mm warm white LEDs
+TY 130 185 4 3 0 0 0 Verdana Randomly flickering LED FY5
+TY 130 175 4 3 0 0 0 Verdana 120 Ω 0.25 W
+TY 130 170 4 3 0 0 0 Verdana 100 Ω trimmer (flicker depth)
+TY 130 165 4 3 0 0 0 Verdana 100 Ω trimmer (brightness)
+TY 130 160 4 3 0 0 0 Verdana 330 Ω 0.25 W
+TY 130 155 4 3 0 0 0 Verdana 120 Ω 0.25 W
+EV 35 112 45 102 0
+TY 100 135 4 3 0 0 0 Verdana (LED tremolanti sincronizzati II -
+TY 15 175 2 2 0 1 0 Verdana License CC BY-SA 3.0
+TY 15 180 2 2 0 1 0 Verdana https://www.electroyou.it/guidob/blog
+TY 100 125 6 4 0 0 0 Verdana Candles, lanterns, fires, stars
+TY 120 140 4 3 0 0 0 Verdana Candele, lanterne, fuochi, stelle)
+MC 100 55 1 0 220
+FCJ
+TY 85 55 4 3 0 0 0 Verdana DL3
+TY 110 65 4 3 0 0 0 Verdana 
+MC 100 40 1 0 220
+FCJ
+TY 85 40 4 3 0 0 0 Verdana DL4
+TY 110 50 4 3 0 0 0 Verdana 
+LI 125 35 125 40 0
+SA 125 35 0
+MC 125 55 1 0 220
+FCJ
+TY 110 55 4 3 0 0 0 Verdana DL6
+TY 135 65 4 3 0 0 0 Verdana 
+MC 125 40 1 0 220
+FCJ
+TY 110 40 4 3 0 0 0 Verdana DL7
+TY 135 50 4 3 0 0 0 Verdana 
+LI 150 35 150 40 0
+SA 150 35 0
+MC 150 55 1 0 220
+FCJ
+TY 135 55 4 3 0 0 0 Verdana DL9
+TY 160 65 4 3 0 0 0 Verdana 
+MC 150 40 1 0 220
+FCJ
+TY 135 35 4 3 0 0 0 Verdana DL10
+TY 160 50 4 3 0 0 0 Verdana 
+LI 175 35 175 40 0
+MC 175 55 1 0 220
+FCJ
+TY 185 60 4 3 0 0 0 Verdana DL12
+TY 185 65 4 3 0 0 0 Verdana 
+MC 175 40 1 0 220
+FCJ
+TY 185 45 4 3 0 0 0 Verdana DL13
+TY 185 50 4 3 0 0 0 Verdana 
+LI 40 35 40 40 0
+SA 40 35 0
+MC 40 55 1 0 220
+FCJ
+TY 20 55 4 3 0 0 0 Verdana DL14
+TY 50 65 4 3 0 0 0 Verdana 
+MC 40 40 1 0 220
+FCJ
+TY 20 40 4 3 0 0 0 Verdana DL15
+TY 50 50 4 3 0 0 0 Verdana 
+LI 40 70 40 75 0
+MC 25 115 3 0 230
+FCJ
+TY 10 105 4 3 0 0 0 Verdana DZ1
+TY 35 125 4 3 0 0 0 Verdana 
+LI 25 100 25 95 0
+LI 25 95 40 95 0
+LI 25 115 25 150 0
+SA 40 95 0
+SA 25 150 0
+TY 100 180 4 3 0 0 0 Verdana DZ1
+TY 130 180 4 3 0 0 0 Verdana Zener 9.1 V 0.5 W

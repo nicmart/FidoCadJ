@@ -1,0 +1,92 @@
+[FIDOCAD]
+FJC A 1.0
+FJC B 1.0
+MC 60 50 2 0 ey_libraries.logbuf0
+RV 35 30 85 65 0
+TY 45 30 4 3 0 0 0 * isolatore
+TY 45 35 4 3 0 0 0 * digitale
+TY 15 30 4 3 0 0 0 * 3.3V
+LI 20 35 35 35 0
+FCJ 2 0 3 1.2 0 0
+TY 100 30 4 3 0 0 0 * 5V
+LI 85 35 100 35 0
+FCJ 1 0 3 1.2 0 0
+LI 70 50 95 50 0
+LI 35 60 25 60 0
+MC 25 65 0 0 ey_libraries.refpnt0
+LI 25 60 25 65 0
+LI 95 75 95 60 0
+MC 95 75 0 0 ey_libraries.refpnt5
+LI 95 60 85 60 0
+MC 115 40 1 0 ey_libraries.pasres7
+LI 110 35 115 35 0
+LI 95 50 115 50 0
+MC 120 55 0 1 ey_libraries.trnbjt1
+MC 125 65 1 0 ey_libraries.pasres7
+FCJ
+TY 135 70 4 3 0 0 0 Verdana 
+TY 130 70 4 3 0 0 0 Verdana 20 kΩ
+MC 125 75 0 0 ey_libraries.refpnt5
+LI 125 60 125 55 0
+MC 140 55 2 0 ey_libraries.pasres7
+FCJ
+TY 85 50 4 3 0 0 0 Verdana 
+TY 130 45 4 3 0 0 0 Verdana 100 kΩ
+MC 160 55 2 0 ey_libraries.refpnt3
+LI 155 55 145 55 0
+LI 125 55 130 55 0
+LI 115 75 115 60 0
+MC 115 75 0 0 ey_libraries.refpnt5
+MC 115 120 1 0 ey_libraries.pasres7
+MC 60 130 2 0 ey_libraries.logbuf0
+RV 35 110 85 145 0
+TY 45 110 4 3 0 0 0 * isolatore
+TY 45 115 4 3 0 0 0 * digitale
+TY 15 110 4 3 0 0 0 * 3.3V
+LI 20 115 35 115 0
+FCJ 2 0 3 1.2 0 0
+TY 100 110 4 3 0 0 0 * 5V
+LI 85 115 100 115 0
+FCJ 1 0 3 1.2 0 0
+LI 70 130 95 130 0
+LI 35 140 25 140 0
+MC 25 145 0 0 ey_libraries.refpnt0
+LI 25 140 25 145 0
+LI 95 155 95 140 0
+MC 95 155 0 0 ey_libraries.refpnt5
+LI 95 140 85 140 0
+MC 195 135 2 0 ey_libraries.refpnt3
+LI 110 115 115 115 0
+LI 95 130 115 130 0
+MC 120 135 0 1 ey_libraries.trnbjt1
+MC 125 145 1 0 ey_libraries.pasres7
+FCJ
+TY 135 150 4 3 0 0 0 Verdana 
+TY 130 150 4 3 0 0 0 Verdana 20 kΩ
+MC 125 155 0 0 ey_libraries.refpnt5
+LI 125 140 125 135 0
+MC 175 135 2 0 ey_libraries.pasres7
+FCJ
+TY 120 130 4 3 0 0 0 Verdana 
+TY 165 125 4 3 0 0 0 Verdana 100 kΩ
+MC 115 155 0 0 ey_libraries.refpnt5
+LI 190 135 180 135 0
+LI 125 135 165 135 0
+LI 115 155 115 140 0
+MC 150 150 3 0 ey_libraries.diddid0
+MC 160 140 1 0 ey_libraries.diddid0
+FCJ
+TY 170 145 4 3 0 0 0 Verdana 
+TY 165 140 4 3 0 0 0 Verdana *
+MC 160 150 1 0 ey_libraries.diddid0
+FCJ
+TY 170 155 4 3 0 0 0 Verdana 
+TY 165 150 4 3 0 0 0 Verdana * Potrebbe bastare un solo diodo in questa serie (provare)
+LI 150 155 150 160 0
+LI 150 140 150 135 0
+MC 160 160 0 0 ey_libraries.refpnt5
+MC 150 160 0 0 ey_libraries.refpnt5
+LI 60 120 60 145 3
+FCJ 0 0 3 2 1 0
+LI 60 40 60 65 3
+FCJ 0 0 3 2 1 0

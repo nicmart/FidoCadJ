@@ -1,0 +1,110 @@
+[FIDOCAD]
+FJC C 1.4
+FJC A 0.3
+FJC B 0.3
+MC 86 127 0 0 ey_libraries.genavs0
+MC 96 122 1 0 elettrotecnica.fus01
+LI 180 85 210 85 0
+LI 180 55 210 55 0
+MC 190 60 0 0 ey_libraries.pascap1
+MC 190 75 0 0 ey_libraries.pascap1
+SA 190 70 0
+MC 180 70 1 0 elettrotecnica.ms05
+LI 180 70 190 70 0
+MC 180 75 0 0 ey_libraries.refpnt5
+LI 180 70 180 75 0
+SA 180 70 0
+MC 106 137 0 0 ey_libraries.refpnt5
+MC 225 55 0 0 ey_libraries.vic3ic0
+MC 111 132 2 0 ey_libraries.trftrf1
+LI 141 142 116 142 0
+MC 225 85 2 0 ey_libraries.vic3ic0
+MC 205 60 0 0 ey_libraries.pascap0
+MC 205 75 0 0 ey_libraries.pascap0
+MC 245 60 0 0 ey_libraries.pascap0
+MC 245 75 0 0 ey_libraries.pascap0
+LI 190 70 260 70 0
+LI 240 55 260 55 0
+LI 240 85 260 85 0
+SA 245 55 0
+SA 245 70 0
+SA 245 85 0
+SA 225 70 0
+LI 225 65 225 75 0
+MC 131 117 3 0 ey_libraries.diddid0
+MC 131 152 3 0 ey_libraries.diddid0
+MC 141 117 3 0 ey_libraries.diddid0
+MC 141 152 3 0 ey_libraries.diddid0
+LI 116 122 131 122 0
+SA 131 122 0
+SA 141 142 0
+LI 116 137 116 142 0
+LI 86 137 106 137 0
+SA 106 137 0
+LI 131 107 146 107 0
+LI 141 122 141 142 0
+LI 131 122 131 142 0
+LI 131 157 146 157 0
+SA 141 107 0
+SA 141 157 0
+MC 146 107 0 0 ey_libraries.refpnt2
+MC 146 157 0 0 ey_libraries.refpnt2
+MC 175 55 0 0 ey_libraries.refpnt3
+MC 175 85 0 0 ey_libraries.refpnt3
+MC 260 55 0 0 ey_libraries.refpnt2
+MC 260 85 0 0 ey_libraries.refpnt2
+MC 225 110 0 0 ey_libraries.vic3ic0
+MC 225 170 2 0 ey_libraries.vic3ic0
+MC 225 130 1 0 ey_libraries.pasres0
+MC 245 115 1 0 ey_libraries.pasres0
+MC 245 160 1 0 ey_libraries.pasres0
+MC 225 145 1 0 ey_libraries.pasres0
+LI 240 110 260 110 0
+LI 195 140 260 140 0
+LI 225 125 245 125 0
+LI 225 120 225 125 0
+LI 225 155 225 160 0
+LI 245 155 225 155 0
+LI 240 170 260 170 0
+MC 255 115 0 0 ey_libraries.pascap0
+MC 255 160 0 0 ey_libraries.pascap0
+MC 205 115 0 0 ey_libraries.pascap0
+MC 205 160 0 0 ey_libraries.pascap0
+LI 200 110 210 110 0
+LI 200 170 210 170 0
+MC 195 140 1 0 elettrotecnica.ms05
+MC 195 145 0 0 ey_libraries.refpnt5
+LI 195 140 195 145 0
+SA 205 140 0
+SA 225 140 0
+MC 265 70 2 0 ey_libraries.refpnt1
+MC 260 110 0 0 ey_libraries.refpnt2
+MC 260 170 0 0 ey_libraries.refpnt2
+MC 265 140 2 0 ey_libraries.refpnt1
+LI 205 125 205 155 0
+LI 255 125 255 155 0
+SA 255 140 0
+SA 205 70 0
+SA 225 155 0
+SA 225 125 0
+MC 195 110 0 0 ey_libraries.refpnt3
+MC 195 170 0 0 ey_libraries.refpnt3
+SA 205 110 0
+SA 205 170 0
+TY 153 104 4 3 0 0 0 DejaVu++Sans +9V
+TY 153 155 4 3 0 0 0 DejaVu++Sans -9V
+TY 161 52 4 3 0 0 0 DejaVu++Sans +9V
+TY 162 82 4 3 0 0 0 DejaVu++Sans -9V
+TY 220 53 3 2 0 1 0 DejaVu++Sans 7805
+TY 220 83 3 2 0 1 0 DejaVu++Sans 7905
+TY 219 108 3 2 0 1 0 DejaVu++Sans LM317
+TY 219 168 3 2 0 1 0 DejaVu++Sans LM337
+SA 195 140 0
+SA 255 110 0
+SA 255 170 0
+SA 190 85 0
+SA 190 55 0
+SA 205 55 0
+SA 205 85 0
+
+

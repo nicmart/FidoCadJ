@@ -1,0 +1,128 @@
+[FIDOCAD]
+FJC C 1.0
+FJC A 0.35
+FJC B 0.5
+MC 35 55 0 0 ey_libraries.genivs0
+FCJ
+TY 25 55 4 3 0 0 0 * E
+TY 45 65 4 3 0 0 0 * 
+MC 70 55 0 0 ey_libraries.genics0
+FCJ
+TY 60 55 4 3 0 0 0 * J
+TY 80 65 4 3 0 0 0 * 
+MC 50 40 0 0 ey_libraries.pasres0
+FCJ
+TY 50 30 4 3 0 0 0 * R1
+TY 60 50 4 3 0 0 0 * 
+MC 100 40 0 0 ey_libraries.pasres0
+FCJ
+TY 99 32 4 3 0 0 0 * R3
+TY 110 50 4 3 0 0 0 * 
+MC 90 55 1 0 ey_libraries.pasres0
+FCJ
+TY 81 51 4 3 0 0 0 * R2
+TY 100 65 4 3 0 0 0 * 
+LI 35 50 35 40 0
+LI 35 40 45 40 0
+LI 60 40 95 40 0
+LI 70 50 70 40 0
+LI 90 50 90 40 0
+LI 35 65 35 75 0
+LI 90 65 90 75 0
+LI 70 65 70 75 0
+MC 95 265 1 0 ey_libraries.pasres0
+FCJ
+TY 86 265 4 3 0 0 0 * R4
+TY 105 275 4 3 0 0 0 * 
+MC 115 265 1 0 ey_libraries.pasres0
+FCJ
+TY 118 271 4 3 0 0 0 * R5
+TY 125 275 4 3 0 0 0 * 
+LI 80 250 115 250 0
+LI 115 250 115 260 0
+LI 95 260 95 250 0
+LI 85 285 115 285 0
+LI 115 275 115 285 0
+LI 95 275 95 285 0
+LI 124 250 124 265 0
+FCJ 2 0 3 2 0 0
+TY 125 254 4 3 0 0 0 * I5
+LI 35 75 110 75 0
+MC 40 265 0 0 ey_libraries.genivs0
+FCJ
+TY 20 265 4 3 0 0 0 * ETh
+TY 50 275 4 3 0 0 0 * 
+MC 55 250 0 0 ey_libraries.pasres0
+FCJ
+TY 55 240 4 3 0 0 0 * RTh
+TY 65 260 4 3 0 0 0 * 
+LI 40 260 40 250 0
+LI 40 250 50 250 0
+LI 65 250 80 250 0
+FCJ 2 0 3 1 0 1
+TY 75 255 4 3 0 0 0 Comic++Sans++MS I
+TY 70 260 4 3 0 0 0 Comic++Sans++MS 
+LI 40 275 40 285 0
+LI 40 285 85 285 0
+TY 110 30 4 3 0 0 0 Comic++Sans++MS A
+TY 75 130 4 3 0 0 0 Comic++Sans++MS B
+TY 70 30 4 3 0 0 0 Comic++Sans++MS C
+TY 120 55 4 3 0 0 0 Comic++Sans++MS VAB=ETh=VCB
+MC 40 110 0 0 ey_libraries.genivs0
+FCJ
+TY 30 110 4 3 0 0 0 * E
+TY 50 120 4 3 0 0 0 * 
+MC 75 110 0 0 ey_libraries.genics0
+FCJ
+TY 65 110 4 3 0 0 0 * J
+TY 85 120 4 3 0 0 0 * 
+MC 55 95 0 0 ey_libraries.pasres0
+FCJ
+TY 55 85 4 3 0 0 0 * R1
+TY 65 105 4 3 0 0 0 * 
+MC 95 110 1 0 ey_libraries.pasres0
+FCJ
+TY 86 106 4 3 0 0 0 * R2
+TY 105 120 4 3 0 0 0 * 
+LI 40 105 40 95 0
+LI 40 95 50 95 0
+LI 65 95 95 95 0
+LI 75 105 75 95 0
+LI 95 105 95 95 0
+LI 40 120 40 130 0
+LI 95 120 95 130 0
+LI 75 120 75 130 0
+LI 40 130 95 130 0
+TY 70 85 4 3 0 0 0 Comic++Sans++MS C
+TY 115 110 4 3 0 0 0 Comic++Sans++MS VCB calcolato con Millman
+TY 50 15 4 3 0 0 0 Comic++Sans++MS Calcolo di ETh
+TY 50 145 4 3 0 0 0 Comic++Sans++MS Calcolo di RTh
+TY 115 70 4 3 0 0 0 Comic++Sans++MS B
+MC 50 165 0 0 ey_libraries.pasres0
+FCJ
+TY 50 155 4 3 0 0 0 * R1
+TY 60 175 4 3 0 0 0 * 
+MC 100 165 0 0 ey_libraries.pasres0
+FCJ
+TY 99 157 4 3 0 0 0 * R3
+TY 110 175 4 3 0 0 0 * 
+MC 90 180 1 0 ey_libraries.pasres0
+FCJ
+TY 81 176 4 3 0 0 0 * R2
+TY 100 190 4 3 0 0 0 * 
+LI 35 200 35 165 0
+LI 35 165 45 165 0
+LI 60 165 95 165 0
+LI 90 175 90 165 0
+LI 90 190 90 200 0
+LI 35 200 110 200 0
+TY 110 155 4 3 0 0 0 Comic++Sans++MS A
+TY 115 195 4 3 0 0 0 Comic++Sans++MS B
+TY 125 175 4 3 0 0 0 Comic++Sans++MS RAB=RTh
+TY 40 220 4 3 0 0 0 Comic++Sans++MS Calcolo I5
+TY 90 240 4 3 0 0 0 Comic++Sans++MS A
+TY 95 290 4 3 0 0 0 Comic++Sans++MS B
+TY 155 255 4 3 0 0 0 Comic++Sans++MS I5=I/2
+TY 115 115 4 3 0 0 0 Comic++Sans++MS (quarta riga della risposta 4)
+TY 115 180 4 3 0 0 0 Comic++Sans++MS (quinta riga della risposta 4)
+TY 135 265 4 3 0 0 0 Comic++Sans++MS (sesta riga della risposta 4)

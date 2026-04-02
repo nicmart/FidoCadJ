@@ -1,0 +1,105 @@
+[FIDOCAD]
+FJC B 0.5
+MC 45 20 3 0 ey_libraries.trnmos7
+MC 90 50 2 0 ey_libraries.opaopa1
+LI 50 15 95 15 0
+LI 75 50 45 50 0
+LI 45 50 45 25 0
+MC 100 15 0 0 ey_libraries.pasres0
+LI 110 15 130 15 0
+LI 100 55 115 55 0
+LI 115 55 115 15 0
+SA 115 15 0
+MC 90 25 3 0 ey_libraries.pasres5
+LI 95 25 100 25 0
+LI 100 25 100 45 0
+SA 90 15 0
+TY 15 10 4 3 0 0 0 * Vin
+TY 130 10 4 3 0 0 0 * Vout
+LI 40 15 25 15 0
+TY 100 5 4 3 0 0 0 * Rs
+MC 75 20 0 0 ey_libraries.genvis1
+SA 75 15 0
+LI 90 35 75 35 0
+LI 75 35 75 30 0
+MC 70 115 3 0 ey_libraries.trnmos7
+MC 70 135 3 0 ey_libraries.trnmos7
+MC 55 110 1 0 elettrotecnica.fus01
+MC 55 130 1 0 elettrotecnica.fus01
+MC 95 110 0 0 ey_libraries.pasres0
+MC 95 130 0 0 ey_libraries.pasres0
+MC 60 125 1 0 030
+MC 60 105 1 0 030
+LI 60 120 60 125 0
+LI 60 135 60 155 0
+LI 60 145 70 145 0
+LI 70 145 70 140 0
+LI 70 125 60 125 0
+LI 60 105 60 100 0
+FCJ 0 0 3 2 1 0
+SA 60 125 0
+LI 105 110 105 130 0
+LI 105 110 115 110 0
+LI 45 110 45 130 0
+LI 45 110 35 110 0
+SA 105 110 0
+SA 45 110 0
+SA 60 145 0
+TY 75 165 4 3 0 0 0 * Fig. 1b
+TY 20 100 4 3 0 0 0 * In 14 V
+TY 120 110 4 3 0 0 0 * Out 14 V 30 A
+MC 70 90 3 0 ey_libraries.trnmos7
+MC 55 85 1 0 elettrotecnica.fus01
+MC 95 85 0 0 ey_libraries.pasres0
+LI 60 100 70 100 0
+LI 70 100 70 95 0
+LI 105 85 105 110 0
+LI 45 85 45 110 0
+LI 60 105 60 100 0
+LI 60 115 60 120 0
+MC 80 90 1 0 ey_libraries.pasres0
+MC 85 115 1 0 ey_libraries.pasres0
+MC 90 135 1 0 ey_libraries.pasres0
+LI 75 85 90 85 0
+LI 75 110 90 110 0
+LI 75 130 90 130 0
+SA 80 85 0
+SA 85 110 0
+SA 90 130 0
+MC 80 105 1 0 030
+MC 85 125 1 0 030
+MC 80 125 1 0 030
+LI 80 105 80 100 0
+LI 80 115 80 125 0
+LI 85 135 85 145 0
+LI 80 135 80 145 0
+LI 80 145 90 145 0
+SA 85 145 0
+MC 85 150 1 1 ey_libraries.trnbjt1
+TY 90 75 4 3 0 0 0 * 0,065 ohm 10 W
+TY 90 100 4 3 0 0 0 * 0,065 ohm 10 W
+TY 90 120 4 3 0 0 0 * 0,065 ohm 10 W
+TY 85 90 4 3 0 0 0 * 33 ohm
+TY 90 115 4 3 0 0 0 * 33 ohm
+TY 95 135 4 3 0 0 0 * 33 ohm
+LI 105 130 105 155 0
+LI 105 155 90 155 0
+LI 80 155 60 155 0
+SA 105 130 0
+MC 65 135 1 0 ey_libraries.pasres0
+MC 65 115 1 0 ey_libraries.pasres0
+MC 65 90 1 0 ey_libraries.pasres0
+LI 70 120 70 125 0
+SA 65 100 0
+SA 65 125 0
+SA 65 110 0
+SA 65 85 0
+SA 65 130 0
+SA 65 145 0
+TY 50 90 4 3 0 0 0 * 10 k
+TY 50 115 4 3 0 0 0 * 10 k
+TY 50 135 4 3 0 0 0 * 10 k
+TY 25 75 4 3 0 0 0 * 3 x fuse 10 A
+TY 50 70 4 3 0 0 0 * 3 x IRFZ48N
+TY 45 155 4 3 0 0 0 * Tr piccolo segnale es BC337
+TY 65 60 4 3 0 0 0 * Fig. 1a
